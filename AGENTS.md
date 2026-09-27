@@ -1,5 +1,13 @@
 # Taste (V1.2) project context
 
+## Taste update published with verified commit email — 2026-09-27
+
+- The Daily swipe fix and editorial publication integration are now published at `https://taste-capstone.vercel.app/`. Deployment `dpl_5ZawGsCjA99kqefPh2guZnBwRP6m` is READY and aliases the public URL. Code commit `18a6e46` was pushed to the existing `juliocaggiano/taste-capstone` repository.
+- The new commit uses Julio's real, verified Taste address `julio@uni.minerva.edu`. Vercel accepted its documented verified-email matching route without a GitHub login connection. No old commit was rewritten, account connection moved, repository transferred or access check bypassed. The earlier claim that a second GitHub account was required to publish was too strong; it is optional for a future separate GitHub workflow.
+- Keep Taste's repository-local Git email as Minerva and use its separate CLI configuration `/tmp/taste-vercel-cli-20260926`, existing project and team. Portfolio remains Gmail with GitHub `juliocaggiano`; never reconnect that GitHub login to Taste. Vercel still has no automatic Git repository connection for Taste, so a GitHub push alone does not deploy it.
+- Public HTML, JavaScript and CSS match the build. All 20 public catalog records and selected image hashes passed verification. The published snapshot and local review API now identify this deployment; 76 drafts and the 20 imported works are unchanged. The portfolio still returns HTTP 200 with its unchanged ETag and September 24 Last-Modified date.
+- Evidence: `qa/review-integration-scroll-2026-09-27/verification.md`, `publish-recheck-build.log`, `publish-recheck-deploy.log`, and `taste-published-verified.png`. This supersedes earlier publication-blocked notes below.
+
 ## Vercel email alignment completed — 2026-09-27
 
 - Portfolio Vercel `julio-1508` now uses `juliocaggiano2022@gmail.com`; Taste Vercel `juliocaggiano2022-8011` now uses `julio@uni.minerva.edu`. Both original user IDs were verified through their separate CLI sessions. Temporary `alexrejulio@gmail.com` was removed from Taste's Email list after Minerva became verified primary.

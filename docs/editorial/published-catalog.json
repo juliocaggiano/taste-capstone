@@ -303,8 +303,7 @@
       "sourceAssetSha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6"
     }
   ],
-  "deploymentId": "dpl_CFyrE4NyfPzvBeoobrc7kdpb2VF5",
   "url": "https://taste-capstone.vercel.app/",
-  "verifiedAt": "2026-09-27",
-  "evidence": "qa/painting-approval-import-2026-09-27/verification.md"
+  "verifiedAt": "2026-09-27T15:00:44.135Z",
+  "deploymentId": "dpl_5ZawGsCjA99kqefPh2guZnBwRP6m"
 }

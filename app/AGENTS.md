@@ -1,5 +1,11 @@
 # Taste (V1.2) Mobile Prototype Agent Guide
 
+## Daily and review update published — 2026-09-27
+
+- Deployment `dpl_5ZawGsCjA99kqefPh2guZnBwRP6m` is READY at `https://taste-capstone.vercel.app/`, from pushed commit `18a6e46`. It includes the Daily swipe settling fix and public catalog export for the connected local editorial review.
+- Use Taste's real verified Minerva email for new commits, its separate CLI configuration, and its existing Vercel project/team. This release succeeded through verified-email matching without connecting the portfolio's GitHub login. A separate GitHub account is not required for this direct deployment workflow. Automatic deployment after GitHub pushes remains unconfigured.
+- Public HTML/JS/CSS match the verified build; all 20 artwork/image hashes and local review publication metadata passed. No artwork bodies or selections changed. Root instructions and `../qa/review-integration-scroll-2026-09-27/verification.md` contain evidence. This supersedes earlier blocked-publication notes below.
+
 ## Vercel email alignment completed — 2026-09-27
 
 - Portfolio `julio-1508` uses `juliocaggiano2022@gmail.com`; Taste `juliocaggiano2022-8011` uses `julio@uni.minerva.edu`. Original account identities and separate CLI sessions are preserved. Temporary Taste email has been removed.
