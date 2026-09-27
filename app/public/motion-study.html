@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Artist page motion study · Taste (V1.2)</title>
+    <style>
+      @font-face {
+        font-family: "PP Neue Montreal";
+        src: local("PPNeueMontrealTT-Regular"), local("PP Neue Montreal TT Regular");
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+      }
+      :root {
+        font-family: "PP Neue Montreal", "PP Neue Montreal TT", system-ui, sans-serif;
+        color: #252525;
+        background: #fff;
+        font-synthesis: none;
+        -webkit-font-smoothing: antialiased;
+        --muted: #6e6e6e;
+        --line: rgb(37 37 37 / 13%);
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; }
+      button, a { -webkit-tap-highlight-color: transparent; }
+      button { font: inherit; cursor: pointer; }
+      button:disabled { cursor: default; opacity: .4; }
+      a { color: inherit; text-underline-offset: 3px; }
+      a:hover { color: var(--muted); }
+      :focus-visible { outline: 2px solid #252525; outline-offset: 4px; }
+      main { width: min(100%, 1500px); margin: 0 auto; padding: 24px 32px 24px; }
+      .topline { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+      .eyebrow { font-size: 12px; line-height: 16px; margin: 0; color: var(--muted); }
+      .back { display: inline-flex; align-items: center; gap: 7px; text-decoration: none; font-size: 12px; line-height: 16px; }
+      .back svg { width: 14px; height: 14px; }
+      .intro { display: flex; justify-content: space-between; align-items: flex-end; gap: 24px; margin: 24px 0 20px; }
+      h1 { font-size: clamp(26px, 2.6vw, 36px); font-weight: 400; line-height: 1.12; letter-spacing: -.6px; margin: 0 0 12px; }
+      .intro p { margin: 0; font-size: 14px; line-height: 20px; color: var(--muted); }
+      .controls { display: flex; gap: 6px; align-items: center; }
+      .button { border: 1px solid var(--line); border-radius: 4px; padding: 0 13px; min-height: 32px; background: #fff; color: #252525; font-size: 12px; white-space: nowrap; }
+      .button:not(:disabled):hover { background: #f2f2f2; }
+      .button.primary { background: #252525; color: #fff; border-color: #252525; }
+      .button.primary:not(:disabled):hover { background: #6e6e6e; border-color: #6e6e6e; }
+      .variants { display: grid; grid-template-columns: repeat(3, minmax(300px, 1fr)); gap: 16px; }
+      .variant { min-width: 0; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+      .variant-header { min-height: 130px; padding: 16px; display: flex; flex-direction: column; }
+      .title-row { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+      h2 { font-size: 20px; line-height: 24px; letter-spacing: -.15px; font-weight: 400; margin: 0; }
+      h2 span { color: var(--muted); margin-right: 8px; font-size: 12px; vertical-align: 2px; letter-spacing: 0; }
+      .suggested { color: var(--muted); font-size: 10px; line-height: 16px; padding: 0 6px; background: #f2f2f2; border-radius: 3px; }
+      .description { color: var(--muted); font-size: 13px; line-height: 18px; margin: 8px 0 12px; max-width: 32ch; }
+      .card-controls { margin-top: auto; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+      .larger { font-size: 11px; line-height: 16px; color: var(--muted); text-decoration: none; white-space: nowrap; }
+      .larger:hover { color: #252525; text-decoration: underline; }
+      .frame-wrap { position: relative; background: #fff; border-top: 1px solid var(--line); }
+      iframe { display: block; width: 100%; height: clamp(430px, calc(100dvh - 290px), 810px); border: 0; background: #fff; }
+      .state { display: flex; align-items: center; gap: 6px; border-top: 1px solid var(--line); padding: 10px 20px; margin: 0; color: var(--muted); font-size: 11px; line-height: 16px; }
+      .state::before { content: ""; width: 4px; height: 4px; border-radius: 50%; background: currentColor; }
+      .footer { margin: 16px 0 0; color: var(--muted); font-size: 12px; line-height: 18px; }
+      .reduced-motion { display: none; padding: 10px 12px; background: #f2f2f2; border-radius: 4px; color: #252525; font-size: 12px; line-height: 18px; }
+      .mobile-selector { display: none; }
+      @media (max-width: 1050px) {
+        main { max-width: 600px; padding: 20px 20px 24px; }
+        .intro { display: block; margin: 28px 0 20px; }
+        .intro > .controls { margin-top: 18px; }
+        .variants { display: block; }
+        .variant[data-mobile-hidden="true"] { display: none; }
+        .mobile-selector { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; margin-bottom: 12px; padding: 4px; background: #f2f2f2; border-radius: 6px; }
+        .mobile-selector button { min-height: 36px; padding: 6px 3px; border: 0; border-radius: 3px; background: transparent; color: var(--muted); font-size: 12px; line-height: 16px; }
+        .mobile-selector button[aria-pressed="true"] { background: #fff; color: #252525; box-shadow: 0 1px 2px rgb(37 37 37 / 7%); }
+        .variant-header { min-height: 130px; }
+        iframe { height: clamp(500px, calc(100dvh - 300px), 810px); }
+      }
+      @media (max-width: 400px) {
+        main { padding: 16px 12px 24px; }
+        .variant-header { padding: 18px 16px 14px; }
+        .state { padding-inline: 16px; }
+      }
+      @media (pointer: coarse) {
+        .button, .mobile-selector button { min-height: 44px; }
+        .back, .larger { min-height: 44px; display: inline-flex; align-items: center; }
+      }
+      @media (prefers-reduced-motion: reduce) { .reduced-motion { display: block; } }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="topline">
+        <p class="eyebrow">Taste (V1.2) / Motion study</p>
+        <a class="back" href="/">
+          <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M9.5 3.5 5 8l4.5 4.5" stroke="currentColor" stroke-width="1.25" /></svg>
+          Back to prototype
+        </a>
+      </div>
+      <header class="intro">
+        <div>
+          <h1>A return that fits the page</h1>
+          <p>Slide back is now used in the prototype. Compare the alternatives below.</p>
+        </div>
+        <div class="controls" aria-label="Compare all variations">
+          <button class="button" data-all="open" disabled>Open all</button>
+          <button class="button primary" data-all="close" disabled>Close all</button>
+        </div>
+      </header>
+      <p class="reduced-motion">Reduced motion is enabled on this device, so each page returns immediately.</p>
+      <nav class="mobile-selector" aria-label="Choose a variation to preview">
+        <button aria-pressed="true" data-show="slide">01 Slide back</button>
+        <button aria-pressed="false" data-show="glide">02 Short glide</button>
+        <button aria-pressed="false" data-show="dissolve">03 Soft dissolve</button>
+      </nav>
+      <section class="variants" aria-label="Three artist page return variations">
+        <article class="variant" data-variant="slide" data-mobile-hidden="false" aria-labelledby="slide-title">
+          <div class="variant-header">
+            <div class="title-row"><h2 id="slide-title"><span>01</span>Slide back</h2><span class="suggested">Selected</span></div>
+            <p class="description">The full page slides right, revealing where you left off.</p>
+            <div class="card-controls">
+              <div class="controls" aria-label="Slide back controls">
+                <button class="button" data-action="open" disabled>Open</button>
+                <button class="button primary" data-action="close" disabled>Close</button>
+              </div>
+              <a class="larger" href="/?creator-motion-study=slide" target="_blank" rel="noopener">Open larger ↗</a>
+            </div>
+          </div>
+          <div class="frame-wrap"><iframe title="Slide back interactive artist profile" data-src="/?creator-motion-study=slide"></iframe></div>
+          <p class="state" role="status">Loading preview</p>
+        </article>
+        <article class="variant" data-variant="glide" data-mobile-hidden="true" aria-labelledby="glide-title">
+          <div class="variant-header">
+            <div class="title-row"><h2 id="glide-title"><span>02</span>Short glide</h2></div>
+            <p class="description">A short move right and a quick fade soften the return.</p>
+            <div class="card-controls">
+              <div class="controls" aria-label="Short glide controls">
+                <button class="button" data-action="open" disabled>Open</button>
+                <button class="button primary" data-action="close" disabled>Close</button>
+              </div>
+              <a class="larger" href="/?creator-motion-study=glide" target="_blank" rel="noopener">Open larger ↗</a>
+            </div>
+          </div>
+          <div class="frame-wrap"><iframe title="Short glide interactive artist profile" data-src="/?creator-motion-study=glide"></iframe></div>
+          <p class="state" role="status">Loading preview</p>
+        </article>
+        <article class="variant" data-variant="dissolve" data-mobile-hidden="true" aria-labelledby="dissolve-title">
+          <div class="variant-header">
+            <div class="title-row"><h2 id="dissolve-title"><span>03</span>Soft dissolve</h2></div>
+            <p class="description">The page stays still and fades into the previous screen.</p>
+            <div class="card-controls">
+              <div class="controls" aria-label="Soft dissolve controls">
+                <button class="button" data-action="open" disabled>Open</button>
+                <button class="button primary" data-action="close" disabled>Close</button>
+              </div>
+              <a class="larger" href="/?creator-motion-study=dissolve" target="_blank" rel="noopener">Open larger ↗</a>
+            </div>
+          </div>
+          <div class="frame-wrap"><iframe title="Soft dissolve interactive artist profile" data-src="/?creator-motion-study=dissolve"></iframe></div>
+          <p class="state" role="status">Loading preview</p>
+        </article>
+      </section>
+      <p class="footer">Try Close, then Open to repeat. You can also use the back arrow inside each phone.</p>
+    </main>
+    <script>
+      const cards = [...document.querySelectorAll('[data-variant]')].map(element => ({
+        element,
+        variant: element.dataset.variant,
+        iframe: element.querySelector('iframe'),
+        phase: 'loading',
+        open: element.querySelector('[data-action="open"]'),
+        close: element.querySelector('[data-action="close"]'),
+        status: element.querySelector('.state'),
+      }));
+      const allOpen = document.querySelector('[data-all="open"]');
+      const allClose = document.querySelector('[data-all="close"]');
+
+      function updateControls() {
+        for (const card of cards) {
+          card.open.disabled = card.phase !== 'closed';
+          card.close.disabled = card.phase !== 'open';
+          card.status.textContent = {
+            loading: 'Loading preview',
+            opening: 'Opening artist profile',
+            open: 'Artist profile open',
+            closing: 'Returning to the previous page',
+            closed: 'Previous page restored',
+          }[card.phase];
+        }
+        allOpen.disabled = !cards.some(card => card.phase === 'closed');
+        allClose.disabled = !cards.some(card => card.phase === 'open');
+      }
+
+      function send(card, action) {
+        if (action === 'open' && card.phase !== 'closed') return;
+        if (action === 'close' && card.phase !== 'open') return;
+        card.iframe.contentWindow.postMessage({ type: 'daily-culture-motion-study', action }, location.origin);
+        card.phase = action === 'open' ? 'opening' : 'closing';
+        updateControls();
+      }
+
+      window.addEventListener('message', event => {
+        if (event.origin !== location.origin || !event.data || event.data.type !== 'daily-culture-motion-study-state') return;
+        const card = cards.find(item => item.iframe.contentWindow === event.source && item.variant === event.data.variant);
+        if (!card || !['open', 'closing', 'closed'].includes(event.data.phase)) return;
+        card.phase = event.data.phase;
+        updateControls();
+      });
+
+      for (const card of cards) {
+        card.open.addEventListener('click', () => send(card, 'open'));
+        card.close.addEventListener('click', () => send(card, 'close'));
+        card.iframe.src = card.iframe.dataset.src;
+      }
+      allOpen.addEventListener('click', () => cards.forEach(card => send(card, 'open')));
+      allClose.addEventListener('click', () => cards.forEach(card => send(card, 'close')));
+      for (const button of document.querySelectorAll('[data-show]')) {
+        button.addEventListener('click', () => {
+          for (const tab of document.querySelectorAll('[data-show]')) tab.setAttribute('aria-pressed', String(tab === button));
+          for (const card of cards) card.element.dataset.mobileHidden = String(card.variant !== button.dataset.show);
+        });
+      }
+      updateControls();
+    </script>
+  </body>
+</html>

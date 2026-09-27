@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Scroll edge study · Taste (V1.2)</title>
+    <style>
+      @font-face {
+        font-family: "PP Neue Montreal";
+        src: local("PPNeueMontrealTT-Regular"), local("PP Neue Montreal TT Regular");
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+      }
+      :root {
+        font-family: "PP Neue Montreal", "PP Neue Montreal TT", system-ui, sans-serif;
+        font-synthesis: none;
+        -webkit-font-smoothing: antialiased;
+        color: #252525;
+        background: #fff;
+        --muted: #6e6e6e;
+        --line: rgb(37 37 37 / 15%);
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; }
+      a { color: inherit; text-underline-offset: 3px; }
+      button { font: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+      :focus-visible { outline: 2px solid #252525; outline-offset: 3px; }
+      main { width: min(100%, 1500px); margin: 0 auto; padding: 24px 32px 28px; }
+      .topline { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+      .eyebrow, .back { font-size: 12px; line-height: 16px; }
+      .eyebrow { margin: 0; color: var(--muted); }
+      .back { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; }
+      .back svg { width: 14px; height: 14px; }
+      .back:hover, .open:hover { color: var(--muted); text-decoration: underline; }
+      .intro-header { margin: 24px 0 18px; }
+      h1 { margin: 0 0 8px; font-size: clamp(26px, 2.6vw, 34px); font-weight: 400; line-height: 1.12; letter-spacing: -.5px; }
+      .intro { max-width: 72ch; margin: 0; color: var(--muted); font-size: 14px; line-height: 20px; }
+      .controls { display: flex; align-items: flex-end; flex-wrap: wrap; gap: 12px 24px; margin-bottom: 20px; }
+      .control-label { display: block; margin-bottom: 6px; color: var(--muted); font-size: 11px; line-height: 14px; }
+      .segmented { display: inline-flex; gap: 3px; padding: 3px; border-radius: 6px; background: #f2f2f2; }
+      .segmented button { min-height: 32px; padding: 0 12px; border: 0; border-radius: 3px; background: transparent; color: var(--muted); font-size: 12px; line-height: 16px; }
+      .segmented button:hover { color: #252525; }
+      .segmented button[aria-pressed="true"] { background: #fff; color: #252525; box-shadow: 0 1px 2px rgb(37 37 37 / 7%); }
+      .scroll-buttons { display: flex; gap: 4px; }
+      .scroll-buttons button { min-height: 38px; padding: 0 12px; border: 1px solid var(--line); border-radius: 4px; background: #fff; color: #252525; font-size: 12px; line-height: 16px; }
+      .scroll-buttons button:hover { background: #f2f2f2; }
+      .selector { display: none; }
+      .variants { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+      .variant { min-width: 0; overflow: hidden; border: 1px solid var(--line); border-radius: 8px; background: #fff; }
+      .variant[hidden] { display: none; }
+      .variant-header { min-height: 123px; display: flex; flex-direction: column; padding: 14px 16px; }
+      h2 { margin: 0; font-size: 20px; font-weight: 400; line-height: 24px; }
+      h2 span { margin-right: 8px; color: var(--muted); font-size: 12px; line-height: 16px; vertical-align: 2px; }
+      .description { margin: 6px 0 12px; color: var(--muted); font-size: 13px; line-height: 18px; }
+      .open { align-self: flex-start; margin-top: auto; font-size: 11px; line-height: 16px; text-decoration: none; }
+      iframe { display: block; width: 100%; height: clamp(500px, calc(100dvh - 355px), 830px); border: 0; border-top: 1px solid var(--line); background: #fff; }
+      .footer { margin: 14px 0 0; color: var(--muted); font-size: 12px; line-height: 18px; }
+      @media (width < 1100px) {
+        main { max-width: 600px; padding: 20px 20px 24px; }
+        .controls { gap: 12px 20px; margin-bottom: 16px; }
+        .selector { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px; margin-bottom: 12px; padding: 4px; border-radius: 6px; background: #f2f2f2; }
+        .selector button { min-height: 36px; padding: 6px 3px; border: 0; border-radius: 3px; background: transparent; color: var(--muted); font-size: 12px; line-height: 16px; }
+        .selector button[aria-selected="true"] { background: #fff; color: #252525; box-shadow: 0 1px 2px rgb(37 37 37 / 7%); }
+        .variants { display: block; }
+        iframe { height: clamp(540px, calc(100dvh - 400px), 830px); }
+      }
+      @media (max-width: 400px) {
+        main { padding: 16px 12px 24px; }
+        .segmented button { padding: 0 10px; }
+      }
+      @media (pointer: coarse) {
+        .back, .open { min-height: 44px; display: inline-flex; align-items: center; }
+        .selector button, .segmented button, .scroll-buttons button { min-height: 44px; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="topline">
+        <p class="eyebrow">Taste (V1.2) / Scroll edge study</p>
+        <a class="back" href="/">
+          <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M9.5 3.5 5 8l4.5 4.5" stroke="currentColor" stroke-width="1.25" /></svg>
+          Back to prototype
+        </a>
+      </div>
+      <header class="intro-header">
+        <h1>Soft edges while scrolling</h1>
+        <p class="intro">Compare the current screen with two gradient blur options. Subtle is a starting point for review.</p>
+      </header>
+      <div class="controls">
+        <div>
+          <span class="control-label" id="page-label">Page</span>
+          <div class="segmented" role="group" aria-labelledby="page-label">
+            <button type="button" data-page="profile" aria-pressed="true">Profile</button>
+            <button type="button" data-page="daily" aria-pressed="false">Home</button>
+            <button type="button" data-page="search" aria-pressed="false">Explore</button>
+            <button type="button" data-page="settings" aria-pressed="false">Settings</button>
+          </div>
+        </div>
+        <div>
+          <span class="control-label" id="theme-label">Theme</span>
+          <div class="segmented" role="group" aria-labelledby="theme-label">
+            <button type="button" data-theme="light" aria-pressed="true">Light</button>
+            <button type="button" data-theme="dark" aria-pressed="false">Dark</button>
+          </div>
+        </div>
+        <div>
+          <span class="control-label" id="scroll-label">Scroll all previews</span>
+          <div class="scroll-buttons" role="group" aria-labelledby="scroll-label">
+            <button type="button" data-position="0">Top</button>
+            <button type="button" data-position="0.5">Middle</button>
+            <button type="button" data-position="1">Bottom</button>
+          </div>
+        </div>
+      </div>
+      <div class="selector" role="tablist" aria-label="Choose a scroll edge variation">
+        <button type="button" role="tab" id="off-tab" data-show="off" aria-controls="off-card" aria-selected="false" tabindex="-1">01 Current</button>
+        <button type="button" role="tab" id="soft-tab" data-show="soft" aria-controls="soft-card" aria-selected="true" tabindex="0">02 Subtle</button>
+        <button type="button" role="tab" id="strong-tab" data-show="strong" aria-controls="strong-card" aria-selected="false" tabindex="-1">03 Stronger</button>
+      </div>
+      <section class="variants" aria-label="Three scroll edge variations">
+        <article class="variant" id="off-card" data-variant="off" aria-labelledby="off-title">
+          <div class="variant-header">
+            <h2 id="off-title"><span>01</span>Current</h2>
+            <p class="description">The existing screen, with no added edge blur.</p>
+            <a class="open" href="/?edge-blur-study=off&amp;edge-blur-page=profile" target="_blank" rel="noopener" aria-label="Open Current full size">Open full size ↗</a>
+          </div>
+          <iframe title="Current interactive scroll edge prototype" data-src="/?edge-blur-study=off&amp;edge-blur-page=profile"></iframe>
+        </article>
+        <article class="variant" id="soft-card" data-variant="soft" aria-labelledby="soft-title">
+          <div class="variant-header">
+            <h2 id="soft-title"><span>02</span>Subtle</h2>
+            <p class="description">A light gradient blur. Recommended starting point.</p>
+            <a class="open" href="/?edge-blur-study=soft&amp;edge-blur-page=profile" target="_blank" rel="noopener" aria-label="Open Subtle full size">Open full size ↗</a>
+          </div>
+          <iframe title="Subtle interactive scroll edge prototype" data-src="/?edge-blur-study=soft&amp;edge-blur-page=profile"></iframe>
+        </article>
+        <article class="variant" id="strong-card" data-variant="strong" aria-labelledby="strong-title">
+          <div class="variant-header">
+            <h2 id="strong-title"><span>03</span>Stronger</h2>
+            <p class="description">A more visible gradient blur at both scroll edges.</p>
+            <a class="open" href="/?edge-blur-study=strong&amp;edge-blur-page=profile" target="_blank" rel="noopener" aria-label="Open Stronger full size">Open full size ↗</a>
+          </div>
+          <iframe title="Stronger interactive scroll edge prototype" data-src="/?edge-blur-study=strong&amp;edge-blur-page=profile"></iframe>
+        </article>
+      </section>
+      <p class="footer">Scroll each phone independently, or use Top, Middle, and Bottom to compare. These previews do not change the default design.</p>
+    </main>
+    <script>
+      const tabs = [...document.querySelectorAll('[role="tab"]')];
+      const cards = [...document.querySelectorAll('[data-variant]')];
+      const pageButtons = [...document.querySelectorAll('[data-page]')];
+      const themeButtons = [...document.querySelectorAll('[data-theme]')];
+      const narrow = matchMedia('(width < 1100px)');
+      let selected = 'soft';
+      let currentPage = 'profile';
+      let currentTheme = 'light';
+      let currentPosition = 0;
+
+      function send(card, command) {
+        const frame = card.querySelector('iframe');
+        if (frame.dataset.ready !== 'true' || !frame.contentWindow) return;
+        frame.contentWindow.postMessage({
+          type: 'taste-edge-blur-command',
+          variant: card.dataset.variant,
+          ...command,
+        }, location.origin);
+      }
+
+      function broadcast(command) {
+        for (const card of cards) send(card, command);
+      }
+
+      function loadCard(card) {
+        const frame = card.querySelector('iframe');
+        if (frame.hasAttribute('src')) return;
+        frame.addEventListener('load', () => {
+          try {
+            if (!frame.contentWindow || frame.contentWindow.location.origin !== location.origin) return;
+          } catch {
+            return;
+          }
+          frame.dataset.ready = 'true';
+          send(card, { action: 'page', page: currentPage });
+          send(card, { action: 'theme', theme: currentTheme });
+          requestAnimationFrame(() => requestAnimationFrame(() => {
+            send(card, { action: 'scroll', position: currentPosition });
+          }));
+        });
+        frame.src = frame.dataset.src;
+      }
+
+      function updateLinks() {
+        for (const card of cards) {
+          const url = new URL('/', location.origin);
+          url.searchParams.set('edge-blur-study', card.dataset.variant);
+          url.searchParams.set('edge-blur-page', currentPage);
+          url.searchParams.set('edge-blur-theme', currentTheme);
+          card.querySelector('.open').href = url.pathname + url.search;
+        }
+      }
+
+      function showSelection() {
+        for (const tab of tabs) {
+          const active = tab.dataset.show === selected;
+          tab.setAttribute('aria-selected', String(active));
+          tab.tabIndex = active ? 0 : -1;
+        }
+        for (const card of cards) {
+          card.hidden = narrow.matches && card.dataset.variant !== selected;
+          card.setAttribute('role', narrow.matches ? 'tabpanel' : 'region');
+          card.setAttribute('aria-labelledby', `${card.dataset.variant}-${narrow.matches ? 'tab' : 'title'}`);
+          if (!card.hidden) loadCard(card);
+        }
+      }
+
+      for (const tab of tabs) {
+        tab.addEventListener('click', () => {
+          selected = tab.dataset.show;
+          showSelection();
+        });
+        tab.addEventListener('keydown', event => {
+          const index = tabs.indexOf(tab);
+          const destination = event.key === 'ArrowRight' ? (index + 1) % tabs.length
+            : event.key === 'ArrowLeft' ? (index + tabs.length - 1) % tabs.length
+              : event.key === 'Home' ? 0 : event.key === 'End' ? tabs.length - 1 : null;
+          if (destination === null) return;
+          event.preventDefault();
+          selected = tabs[destination].dataset.show;
+          showSelection();
+          tabs[destination].focus();
+        });
+      }
+
+      for (const button of pageButtons) {
+        button.addEventListener('click', () => {
+          currentPage = button.dataset.page;
+          currentPosition = 0;
+          for (const option of pageButtons) option.setAttribute('aria-pressed', String(option === button));
+          updateLinks();
+          broadcast({ action: 'page', page: currentPage });
+          requestAnimationFrame(() => requestAnimationFrame(() => {
+            broadcast({ action: 'scroll', position: currentPosition });
+          }));
+        });
+      }
+      for (const button of themeButtons) {
+        button.addEventListener('click', () => {
+          currentTheme = button.dataset.theme;
+          for (const option of themeButtons) option.setAttribute('aria-pressed', String(option === button));
+          updateLinks();
+          broadcast({ action: 'theme', theme: currentTheme });
+        });
+      }
+      for (const button of document.querySelectorAll('[data-position]')) {
+        button.addEventListener('click', () => {
+          currentPosition = Number(button.dataset.position);
+          broadcast({ action: 'scroll', position: currentPosition });
+        });
+      }
+      narrow.addEventListener('change', showSelection);
+      updateLinks();
+      showSelection();
+    </script>
+  </body>
+</html>

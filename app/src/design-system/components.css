@@ -1,0 +1,82 @@
+@import "./fonts.css";
+
+.dc-system :where(p) { color: inherit; }
+
+.dc-button,
+.dc-chip {
+  position: relative;
+  display: inline-flex;
+  min-height: 32px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--dc-space-4);
+  box-sizing: border-box;
+  border: var(--dc-border-width) solid transparent;
+  border-radius: var(--dc-radius-pill);
+  font: var(--dc-font-weight) var(--dc-type-label-size)/var(--dc-type-label-line) var(--dc-font-sans);
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 140ms ease, border-color 140ms ease, opacity 140ms ease;
+}
+
+.dc-button { min-height: 32px; padding: var(--dc-space-6) var(--dc-space-12); background: var(--dc-text); color: var(--dc-background); }
+.dc-button[data-size="small"] { min-height: 28px; padding: var(--dc-space-4) var(--dc-space-8); font-size: 11px; line-height: 14px; }
+.dc-button[data-variant="secondary"] { border-color: var(--dc-text); background: var(--dc-background); color: var(--dc-text); }
+.dc-button[data-variant="ghost"] { background: transparent; color: var(--dc-text); }
+.dc-button-label { display: inline-flex; align-items: center; justify-content: center; gap: var(--dc-space-4); }
+.dc-button[data-loading="true"] .dc-button-label { opacity: 0; }
+.dc-button-spinner { position: absolute; width: 16px; height: 16px; border: 1.5px solid currentColor; border-right-color: transparent; border-radius: 50%; animation: dc-button-spin 700ms linear infinite; }
+.dc-chip { min-height: 24px; padding: var(--dc-space-4) var(--dc-space-8); border-color: var(--dc-divider); background: var(--dc-background); color: var(--dc-text); font-size: 11px; line-height: 14px; }
+.dc-chip[data-selected="true"] { border-color: var(--dc-text); background: var(--dc-text); color: var(--dc-background); }
+.dc-button:disabled,
+.dc-chip:disabled { cursor: default; opacity: .45; }
+.dc-button[data-loading="true"] { opacity: .75; }
+.dc-button:focus-visible,
+.dc-chip:focus-visible,
+.dc-system .dc-artwork-card:focus-visible,
+.dc-system .dc-toggle:focus-visible { outline: 2px solid var(--dc-focus); outline-offset: 3px; }
+
+/* Gallery-only presentation. The live app retains its current card and switch rules. */
+.dc-system .dc-artwork-card { display: flex; width: 160px; min-width: 160px; flex-direction: column; padding: 0; border: 0; background: transparent; color: var(--dc-text); font-family: var(--dc-font-sans); text-align: left; cursor: pointer; }
+.dc-system .dc-artwork-card img { width: 160px; height: 190px; border-radius: var(--dc-radius-artwork); object-fit: contain; object-position: center bottom !important; background: var(--dc-background); }
+.dc-system .dc-artwork-card .piece-card-meta { margin-top: var(--dc-space-10); color: var(--dc-muted); font-size: var(--dc-type-caption-size); font-weight: var(--dc-font-weight); letter-spacing: 0; line-height: var(--dc-type-caption-line); }
+.dc-system .dc-artwork-card strong { display: -webkit-box; overflow: hidden; margin-top: 5px; font-size: var(--dc-type-body-size); font-weight: var(--dc-font-weight); line-height: 20px; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+.dc-system .dc-artwork-card small { overflow: hidden; margin-top: 5px; color: var(--dc-muted); font-size: var(--dc-type-label-size); line-height: var(--dc-type-label-line); text-overflow: ellipsis; white-space: nowrap; }
+/* Opt in per card. Existing live app cards keep their current dimensions and type. */
+.dc-artwork-card[data-density="compact"] .dc-artwork-card-copy { display: flex; width: 100%; min-width: 0; flex-direction: column; gap: var(--dc-space-2); margin-top: var(--dc-space-4); }
+.dc-artwork-card[data-density="compact"] .dc-artwork-card-copy > :is(strong, small, .piece-card-meta) { margin-top: 0; }
+.dc-artwork-card[data-density="compact"] .piece-card-meta { font-size: 11px; line-height: 14px; }
+.dc-artwork-card[data-density="compact"] strong { font-size: 12px; line-height: 16px; }
+.dc-artwork-card[data-density="compact"] small { font-size: 11px; line-height: 14px; }
+.dc-system .dc-toggle { position: relative; width: 45px; min-width: 45px; height: 27px; padding: 0; border: 0; border-radius: var(--dc-radius-pill); background: var(--dc-divider) !important; cursor: pointer; transition: background-color 180ms ease; }
+.dc-system .dc-toggle[data-checked="true"] { background: var(--dc-accent) !important; }
+.dc-system .dc-toggle span { position: absolute; top: 3px; left: 3px; width: 21px; height: 21px; border-radius: 50%; background: var(--dc-background); transition: transform 180ms ease; }
+.dc-system .dc-toggle[data-checked="true"] span { transform: translateX(18px); }
+
+/* Larger touch targets occupy real layout space rather than overlapping neighbors. */
+@media (pointer: coarse) {
+  .dc-button,
+  .dc-button[data-size="small"],
+  .dc-chip { min-height: 44px; }
+  .dc-system .dc-toggle,
+  .dc-system .dc-toggle[data-checked="true"] { min-height: 44px; background: transparent !important; }
+  .dc-system .dc-toggle::before { position: absolute; top: 50%; right: 0; left: 0; height: 27px; border-radius: var(--dc-radius-pill); background: var(--dc-divider); content: ""; transform: translateY(-50%); }
+  .dc-system .dc-toggle[data-checked="true"]::before { background: var(--dc-accent); }
+  .dc-system .dc-toggle span { top: calc(50% - 10.5px); }
+}
+
+@media (hover: hover) {
+  .dc-button:not(:disabled):hover,
+  .dc-chip:not(:disabled):hover { opacity: .8; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dc-button,
+  .dc-chip,
+  .dc-system .dc-toggle,
+  .dc-system .dc-toggle span { transition: none; }
+  .dc-button-spinner { animation: none; border-style: dotted; }
+}
+
+@keyframes dc-button-spin { to { transform: rotate(360deg); } }

@@ -1,0 +1,643 @@
+{
+  "batchId": "batch-006",
+  "editorialStatus": "pending_review",
+  "entries": [
+    {
+      "id": "frankenstein",
+      "title": "Frankenstein",
+      "creator": "Mary Shelley",
+      "dateDisplay": "1818",
+      "dateStart": 1818,
+      "dateEnd": null,
+      "place": "United Kingdom",
+      "medium": "literature",
+      "meaningBrief": "Victor wants the achievement of creating life but rejects the responsibility of caring for it. The creature learns affection and social exclusion before turning to revenge; explaining that development does not excuse his murders.",
+      "body": "Victor Frankenstein, a young student of science, discovers how to give life to a body assembled from human remains. He imagines that a new being will owe him gratitude. But when his experiment succeeds, its appearance disgusts him, and he runs away. Mary Shelley begins the creature’s life with abandonment by the person who made him.\n\nThe creature is intelligent and capable of affection. Watching a family from his hiding place, he learns their language and hopes they might accept him. Their rejection teaches him that kindness and learning cannot overcome their fear of his appearance. When he finally tells Victor his story, he describes what has changed:\n\n> I was benevolent; my soul glowed with love and humanity; but am I not alone, miserably alone?\n\nHis loneliness develops into resentment and deliberate violence. Shelley lets him explain himself without making the people he harms responsible for his crimes. Victor also tells a version that favors himself: he describes his suffering more readily than his obligations. Listening to both accounts, we see how each uses the other’s cruelty to justify his own.\n\nPublished in 1818, the novel emerged when experiments with electricity were raising questions about the boundary between living and dead matter. Shelley takes that scientific excitement into the ordinary responsibilities of a parent or creator. Victor prepares for discovery and recognition, but never for a dependent being with needs of his own. The novel’s lasting question concerns what he owes that being after the experiment works.",
+      "sources": [
+        {
+          "title": "Mary Shelley — Frankenstein, 1831 text",
+          "url": "https://www.gutenberg.org/files/84/84-h/84-h.htm",
+          "role": "primary text",
+          "supports": "Chapters 4–5, 10–16: creation, abandonment, education, rejection and revenge. Original publication was 1818; this quotation was checked in the 1831 revision.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "British Library — Frankenstein",
+          "url": "https://www.britishlibrary.cn/en/works/frankenstein/",
+          "role": "interpretation and factual context",
+          "supports": "Scientific debates and creation context. Erroneous metadata on the page not used.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "I was benevolent; my soul glowed with love and humanity; but am I not alone, miserably alone?",
+          "wordCount": 17,
+          "sourceUrl": "https://www.gutenberg.org/files/84/84-h/84-h.htm",
+          "locator": "Chapter 10; creature addresses Victor",
+          "language": "English",
+          "translator": null,
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-frankenstein-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouse.com/books/557081/frankenstein-the-1818-text-by-mary-shelley-introduction-by-charlotte-gordon-editorial-apparatus-by-charles-e-robinson/9781524705701/",
+        "altText": "Frankenstein — Penguin Classics · 1818 text cover",
+        "credit": "Penguin Classics · 1818 text; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "dorian-gray",
+      "title": "The Picture of Dorian Gray",
+      "creator": "Oscar Wilde",
+      "dateDisplay": "1890",
+      "dateStart": 1890,
+      "dateEnd": null,
+      "place": "United Kingdom",
+      "medium": "literature",
+      "meaningBrief": "Dorian keeps the social advantages of youth and beauty while the hidden portrait records his cruelty. Sibyl makes the moral cost concrete: he loves an artistic image but refuses the needs of the actual woman.",
+      "body": "Dorian Gray is a handsome young man whose portrait has just been painted. His friend Lord Henry convinces him that youth and beauty matter more than almost anything else. Dorian wishes the portrait could grow old while he stays young. The wish comes true, but the picture also begins to record the damage caused by his behavior.\n\nThat damage first becomes clear through Sibyl Vane, an actress Dorian wants to marry. He admires the characters she plays. After falling in love with him, she finds stage romance artificial and gives a poor performance. Dorian loses interest in her as soon as she disappoints him as an actress:\n\n> You used to stir my imagination. Now you don’t even stir my curiosity.\n\nThe portrait develops a cruel expression while Dorian’s face remains unchanged. He can hide the picture and continue appearing innocent to people who trust his looks and manners. This is how the bargain becomes more than a fantasy about aging. It allows him to pursue pleasure while concealing what his choices do to others. His reputation and his conduct grow further apart.\n\nOscar Wilde first published the story in 1890, then expanded it in 1891. Its treatment of desire and pleasure offended Victorian reviewers, although the novel gives those pleasures serious consequences. Wilde also defended art against demands that it teach respectable behavior. Lord Henry’s persuasive speeches belong to a character, rather than serving as a simple statement of Wilde’s beliefs. Their appeal becomes part of the problem Dorian has to confront.",
+      "sources": [
+        {
+          "title": "Oscar Wilde — The Picture of Dorian Gray",
+          "url": "https://www.gutenberg.org/files/174/174-h/174-h.htm",
+          "role": "primary text",
+          "supports": "1891 expanded text, chapters 2 and 7–8; wish, Sibyl, cruelty on portrait and public appearance.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "British Library — The Picture of Dorian Gray",
+          "url": "https://www.britishlibrary.cn/en/works/picture-of-dorian-gray/",
+          "role": "interpretation and factual context",
+          "supports": "1890/1891 publication, hostile reception and Wilde’s defense of art.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "You used to stir my imagination. Now you don’t even stir my curiosity.",
+          "wordCount": 13,
+          "sourceUrl": "https://www.gutenberg.org/files/174/174-h/174-h.htm",
+          "locator": "Chapter 7; Dorian speaks to Sibyl",
+          "language": "English",
+          "translator": null,
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-dorian-gray-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouse.com/books/595383/the-picture-of-dorian-gray-by-oscar-wilde/",
+        "altText": "The Picture of Dorian Gray — Vintage Classics cover",
+        "credit": "Vintage Classics; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "metamorphosis",
+      "title": "The Metamorphosis",
+      "creator": "Franz Kafka",
+      "dateDisplay": "1915",
+      "dateStart": 1915,
+      "dateEnd": null,
+      "place": "Prague, then Austria-Hungary",
+      "medium": "literature",
+      "meaningBrief": "Gregor retains an inner human life while work and family increasingly treat him as a burden. His first response reveals internalized obedience; the violin passage challenges the household’s judgment of his humanity.",
+      "body": "Gregor Samsa wakes one morning to find himself transformed into a huge insect-like creature. His first worries concern the train he must catch and the employer who will punish him for being late. As a traveling salesman, he supports his parents and sister while paying his father’s debts. Even this impossible change does not immediately free him from those duties:\n\n> I’ve got to get up, my train leaves at five.\n\nFranz Kafka published the story in 1915. Its strange event makes an ordinary pressure easier to see: Gregor has learned to measure his life through service to others. Once he cannot work, his family must earn money themselves. His sister initially feeds him and cleans his room, but care gradually gives way to impatience and disgust. Gregor still understands them, worries about them, and tries to cause as little trouble as possible. They increasingly see an unwanted animal where the reader still encounters a person.\n\nThe story follows how dependence can cost someone affection, privacy, and a place in the household. Kafka makes that loss unsettling through Gregor’s continued acceptance of other people’s demands. He often worries more about inconveniencing the family than about what they are doing to him. Yet his inner life does not disappear. When his sister plays the violin, he moves toward the music, wanting something beyond food and shelter:\n\n> Was he an animal if music could captivate him so?",
+      "sources": [
+        {
+          "title": "Franz Kafka — The Metamorphosis, translated by David Wyllie",
+          "url": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
+          "role": "primary text",
+          "supports": "Parts I and III; train worry and violin passages, family care and estrangement.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Allan Beveridge — Metamorphosis by Franz Kafka",
+          "url": "https://doi.org/10.1192/apt.bp.109.007146",
+          "role": "interpretation and factual context",
+          "supports": "Alienation, dependence and the contrast between Gregor’s understanding and his family’s response; also checked against primary text.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "I’ve got to get up, my train leaves at five.",
+          "wordCount": 10,
+          "sourceUrl": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
+          "locator": "Part I; Gregor’s opening thoughts",
+          "language": "English",
+          "translator": "David Wyllie",
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        },
+        {
+          "text": "Was he an animal if music could captivate him so?",
+          "wordCount": 10,
+          "sourceUrl": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
+          "locator": "Part III; Grete plays the violin",
+          "language": "English",
+          "translator": "David Wyllie",
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-metamorphosis-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouse.com/books/621164/the-metamorphosis-by-franz-kafka/",
+        "altText": "The Metamorphosis — Bantam Classics cover",
+        "credit": "Bantam Classics; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "nineteen-eighty-four",
+      "title": "Nineteen Eighty-Four",
+      "creator": "George Orwell",
+      "dateDisplay": "1949",
+      "dateStart": 1949,
+      "dateEnd": null,
+      "place": "United Kingdom",
+      "medium": "literature",
+      "meaningBrief": "Total political control works through surveillance, falsified records, restricted language and attacks on private loyalty. Winston’s defense of ordinary facts is necessary to independent judgment, not a claim that all opinions are equal.",
+      "body": "In George Orwell’s imagined future, Winston Smith works for the Ministry of Truth, changing old newspaper reports. If the ruling Party makes a failed prediction, he alters the record until it appears correct. If someone falls out of favor, their name can disappear from the past. Winston knows this happens because he helps do it, yet he cannot safely say so.\n\nThe Party also watches people through screens in their homes and encourages children to report their parents. Its planned language, Newspeak, removes words that might support independent thought. Together, these methods attack the things people need to challenge authority: trustworthy records, private conversation, and the ability to describe a different life. A diary becomes dangerous because it preserves thoughts the Party has not approved.\n\nWinston’s relationship with Julia gives this political struggle an intimate form. Affection creates a loyalty outside the state’s control. Their wish to have time and space together is ordinary, but the world around them treats it as rebellion. Orwell follows the pressure placed on both personal trust and the confidence that one’s own memories are real.\n\nPublished in 1949, the novel drew on dictatorship, propaganda, and political persecution that Orwell had already witnessed in his lifetime. The year in its title places those concerns in a fictional future. Its warning reaches beyond being watched: a government can demand that people surrender their judgment of what is true. Winston puts his objection in his diary:\n\n> Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.",
+      "sources": [
+        {
+          "title": "George Orwell — Nineteen Eighty-Four, Part I",
+          "url": "https://www.orwell.ru/library/novels/1984/english/en_p_1",
+          "role": "primary text",
+          "supports": "Chapters 1, 4, 5 and 7: telescreens, rewritten records, Newspeak and diary quotation.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Ben Pimlott — Introduction to Nineteen Eighty-Four",
+          "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/articles/ben-pimlott-introduction-to-nineteen-eighty-four/",
+          "role": "interpretation and factual context",
+          "supports": "Power, historical circumstances, political warning and Winston’s emotional rebellion.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.",
+          "wordCount": 19,
+          "sourceUrl": "https://www.orwell.ru/library/novels/1984/english/en_p_1",
+          "locator": "Part I, chapter VII; Winston’s diary",
+          "language": "English",
+          "translator": null,
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-nineteen-eighty-four-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouse.com/books/326569/1984-by-george-orwell-with-a-foreword-by-thomas-pynchon/",
+        "altText": "Nineteen Eighty-Four — Plume cover",
+        "credit": "Plume; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "all-quiet-western-front",
+      "title": "All Quiet on the Western Front",
+      "creator": "Erich Maria Remarque",
+      "dateDisplay": "1929",
+      "dateStart": 1929,
+      "dateEnd": null,
+      "place": "Germany",
+      "medium": "literature",
+      "meaningBrief": "Patriotic education sends schoolboys into violence that destroys youth, trust in adult authority and the ability to resume civilian life. Bodily suffering and home estrangement make the anti-romantic account explicit.",
+      "body": "Paul Bäumer and his classmates volunteer for the German army during the First World War. Their teacher has praised military service as a duty, and they expect to prove their courage. In the trenches, that education becomes useless. They learn to recognize approaching shells, find food, and keep themselves alive while friends their own age are wounded or killed.\n\nErich Maria Remarque, who had served in the war, published the novel in 1929. Paul is a fictional narrator, but the book’s opening statement makes the author’s purpose clear:\n\n> It will try simply to tell of a generation of men who, even though they may have escaped shells, were destroyed by the war.\n\nThe damage begins before these boys have built adult lives. A dying classmate’s boots become valuable because another soldier needs them. Such moments show how constant danger changes what people notice and how they respond to suffering. Friendship and shared food offer real comfort, but daily survival leaves little room for the futures they once imagined. The men have learned skills for war while losing confidence in the world that sent them there.\n\nWhen Paul returns home on leave, civilians still discuss victories and patriotic duty. He cannot fit his experience into their conversation, and his old room no longer restores his old self. Remarque connects this estrangement with the wounds and deaths at the front. The young soldiers lose their innocence, but also the trust that adults understand what they have asked of them. Survival alone cannot return the years in which they were supposed to grow up.",
+      "sources": [
+        {
+          "title": "Erich Maria Remarque — All Quiet on the Western Front",
+          "url": "https://standardebooks.org/ebooks/erich-maria-remarque/all-quiet-on-the-western-front/a-w-wheen/text/single-page",
+          "role": "primary text",
+          "supports": "Preface, Kemmerich’s boots and death, chapter 5 youth passage, chapter 7 home leave. A. W. Wheen translation.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Erich Maria Remarque Peace Center — Im Westen nichts Neues",
+          "url": "https://www.remarque.uni-osnabrueck.de/iwnn.htm",
+          "role": "interpretation and factual context",
+          "supports": "Publication and reception, author’s antiwar context; institutional text accessed through indexed browser retrieval.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "It will try simply to tell of a generation of men who, even though they may have escaped shells, were destroyed by the war.",
+          "wordCount": 24,
+          "sourceUrl": "https://standardebooks.org/ebooks/erich-maria-remarque/all-quiet-on-the-western-front/a-w-wheen/text/single-page",
+          "locator": "Prefatory statement; second sentence",
+          "language": "English",
+          "translator": "A. W. Wheen",
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-all-quiet-western-front-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouseretail.com/book/?isbn=9780449213940",
+        "altText": "All Quiet on the Western Front — Ballantine Books cover",
+        "credit": "Ballantine Books; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "remains-of-the-day",
+      "title": "The Remains of the Day",
+      "creator": "Kazuo Ishiguro",
+      "dateDisplay": "1989",
+      "dateStart": 1989,
+      "dateEnd": null,
+      "place": "United Kingdom",
+      "medium": "literature",
+      "meaningBrief": "Stevens mistakes unquestioning service and emotional restraint for dignity. His class loyalty compromises moral judgment and affection; his carefully defended memories reveal the gap.",
+      "body": "In the summer of 1956, Stevens, an English butler, takes a drive to visit Miss Kenton, a former colleague. Along the way, he remembers their years working at Darlington Hall. He is proud of having served an important household. His account slowly raises a different question: whether being an excellent servant has required him to give up too much of his own judgment.\n\nStevens believes his employer, Lord Darlington, understands politics better than he does. Before the Second World War, Darlington supports closer relations with Nazi Germany. Stevens treats his own role as a matter of doing the work properly, leaving larger decisions to his master. That separation allows obedience to feel honorable even when the cause being served is wrong.\n\nThe same habits shape his relationship with Miss Kenton. He responds to affection through rules, duties, and discussions about work. Because Stevens tells the story himself, the reader often notices feelings he struggles to admit. His formal, careful language is part of the experience: it shows how someone can explain a life convincingly while avoiding its most painful questions.\n\nKazuo Ishiguro published the novel in 1989. In his Nobel lecture, he described its concern with a man who surrendered both moral responsibility and the possibility of love to an ideal of perfect service. The English household gives that problem a clear social setting, where rank teaches Stevens whose opinions deserve to count. One of his later admissions puts the cost plainly:\n\n> I can’t even say I made my own mistakes.",
+      "sources": [
+        {
+          "title": "The Booker Prizes — Reading guide: The Remains of the Day",
+          "url": "https://thebookerprizes.com/the-booker-library/features/reading-guide-the-remains-of-the-day-by-kazuo-ishiguro",
+          "role": "interpretation and factual context",
+          "supports": "Premise, characters, narrative voice, class and verified novel quotation.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Kazuo Ishiguro — Nobel lecture, 2017",
+          "url": "https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/",
+          "role": "author testimony",
+          "supports": "Author explicitly explains wrong values, Nazi sympathizer employer, moral responsibility and repressed love.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "I can’t even say I made my own mistakes.",
+          "wordCount": 9,
+          "sourceUrl": "https://thebookerprizes.com/the-booker-library/features/reading-guide-the-remains-of-the-day-by-kazuo-ishiguro",
+          "locator": "Key quotes; Stevens’s late reflection, outcome not disclosed",
+          "language": "English",
+          "translator": null,
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-remains-of-the-day-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouse.com/books/85611/the-remains-of-the-day-by-kazuo-ishiguro-introduction-by-salman-rushdie/9780679731726/",
+        "altText": "The Remains of the Day — Vintage International cover",
+        "credit": "Vintage International; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "crime-and-punishment",
+      "title": "Crime and Punishment",
+      "creator": "Fyodor Dostoevsky",
+      "dateDisplay": "1866",
+      "dateStart": 1866,
+      "dateEnd": null,
+      "place": "Russia",
+      "medium": "literature",
+      "meaningBrief": "Raskolnikov’s theory grants exceptional men permission to kill; his crime exposes the gap between that idea and his conscience. Poverty provides pressure, not a sufficient explanation; Sonya offers responsibility and compassion.",
+      "body": "Raskolnikov, a former student living in poverty in Saint Petersburg, develops a theory about extraordinary people. Great leaders, he argues, sometimes break ordinary moral rules to accomplish important things. He plans to murder a pawnbroker and take her money. Part of his justification is that the money could serve better purposes. Part is the wish to discover whether he belongs among those exceptional men.\n\nFyodor Dostoevsky published the novel in 1866, amid Russian debates about poverty, reform, and the authority of religious morality. In the story, the murder happens early. What follows gives the title its broader meaning: punishment begins through fear, isolation, and guilt before any legal sentence. Raskolnikov cannot make his experience obey the argument that made the crime seem possible.\n\nHe eventually explains one of his motives to Sonya, a young woman who has entered prostitution to support her family:\n\n> I wanted to become a Napoleon, that is why I killed her.... Do you understand now?\n\nSonya has also been forced into desperate circumstances, but she does not accept his division between valuable people and disposable ones. Her Christian faith connects compassion with the need to admit responsibility. Their conversations give the novel much of its force. Raskolnikov wants an explanation that will justify what he has done; Sonya keeps responding to the suffering of actual people. Poverty helps explain his situation, but it cannot settle the question of his right to kill.",
+      "sources": [
+        {
+          "title": "Fyodor Dostoevsky — Crime and Punishment",
+          "url": "https://www.gutenberg.org/files/2554/2554-h/2554-h.htm",
+          "role": "primary text",
+          "supports": "Parts I, III chapter V and V chapter IV; theory, murder, motive and Sonya. Constance Garnett translation.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "A. N. Wilson — Review of Crime and Punishment",
+          "url": "https://www.spectator.com.au/2014/09/crime-and-punishment-by-fyodor-dostoevsky-book-review/",
+          "role": "interpretation and factual context",
+          "supports": "Moral argument, interior punishment, historical setting and Sonya’s religious significance.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "I wanted to become a Napoleon, that is why I killed her.... Do you understand now?",
+          "wordCount": 16,
+          "sourceUrl": "https://www.gutenberg.org/files/2554/2554-h/2554-h.htm",
+          "locator": "Part V, chapter IV; Raskolnikov speaks to Sonya",
+          "language": "English",
+          "translator": "Constance Garnett",
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-crime-and-punishment-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouse.com/books/318117/crime-and-punishment-by-fyodor-dostoyevsky-translated-with-an-introduction-and-notes-by-oliver-ready-cover-by-zohar-lazar/",
+        "altText": "Crime and Punishment — Penguin Classics · Oliver Ready translation cover",
+        "credit": "Penguin Classics · Oliver Ready translation; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "blindness",
+      "title": "Blindness",
+      "creator": "José Saramago",
+      "dateDisplay": "1995",
+      "dateStart": 1995,
+      "dateEnd": null,
+      "place": "Portugal",
+      "medium": "literature",
+      "meaningBrief": "A sudden loss of sight tests social responsibility. State abandonment and coercion contrast with a group’s practical care; the novel investigates humiliation and dependence without reducing human nature to inevitable savagery.",
+      "body": "A man suddenly loses his sight while stopped at a traffic light. Others soon experience the same white blindness, and the authorities confine the affected people in an abandoned asylum. An eye doctor’s wife pretends to be blind so she can stay with her husband. She can still see, making her both a witness to what happens and someone others may depend on.\n\nInside the asylum, food, cleanliness, and safety quickly become uncertain. The guards keep their distance, leaving the prisoners to manage conditions they cannot control. A group takes possession of the food and demands valuables, then sex, in exchange for it. José Saramago makes a basic need the means through which some people gain power over others.\n\nThe doctor’s wife and the people around her develop another way of living together. They share food, help one another move, and care for people who cannot offer much in return. These ordinary acts matter because they protect dignity where official protection has failed. The novel follows both exploitation and cooperation, rather than treating cruelty as everyone’s inevitable response to disaster.\n\nPublished in Portugal in 1995, *Blindness* leaves its city and characters unnamed. Saramago uses an imagined epidemic to examine habits already present in ordinary society: overlooking suffering, obeying harmful authority, and treating vulnerable people as someone else’s problem. In his 1998 Nobel lecture, he explained that the novel addressed how:\n\n> human dignity is insulted every day by the powerful of our world",
+      "sources": [
+        {
+          "title": "José Saramago Foundation — Blindness",
+          "url": "https://www.josesaramago.org/en/book/blindness-essay/",
+          "role": "interpretation and factual context",
+          "supports": "Publication, unnamed setting, loss of solidarity and capacity for care.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Duncan McColl Chesney — Saramago’s Blindness and Community",
+          "url": "https://interface.org.tw/index.php/if/article/view/160/518",
+          "role": "interpretation and factual context",
+          "supports": "2022 paper, pp. 8–11: coercion, institutional collapse, group care and community; PDF read.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "José Saramago — Nobel lecture, 1998",
+          "url": "https://www.nobelprize.org/prizes/literature/1998/saramago/lecture/",
+          "role": "author testimony",
+          "supports": "Author explains human dignity, humiliation and disrespect as the novel’s concerns. Quotation is from the lecture, not the novel.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "human dignity is insulted every day by the powerful of our world",
+          "wordCount": 12,
+          "sourceUrl": "https://www.nobelprize.org/prizes/literature/1998/saramago/lecture/",
+          "locator": "Closing discussion of writing Blindness",
+          "language": "English",
+          "translator": "Tim Crosfield and Fernando Rodrigues",
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-blindness-a.jpg",
+        "referenceUrl": "https://www.penguin.co.uk/books/374272/blindness-by-jose-saramago/9780099573586",
+        "altText": "Blindness — Vintage Classics cover",
+        "credit": "Vintage Classics; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "things-fall-apart",
+      "title": "Things Fall Apart",
+      "creator": "Chinua Achebe",
+      "dateDisplay": "1958",
+      "dateStart": 1958,
+      "dateEnd": null,
+      "place": "Nigeria",
+      "medium": "literature",
+      "meaningBrief": "Achebe restores Igbo people’s social and intellectual life to an account of colonial conquest. Okonkwo’s fear of weakness also produces harm; divisions within the community help explain missionary influence without excusing domination.",
+      "body": "Okonkwo has earned respect in his Igbo village through farming, wrestling, and hard work. He fears becoming like his father, a gentle musician remembered for unpaid debts. To prove his strength, Okonkwo avoids showing tenderness and rules his household through anger. Chinua Achebe begins with a man’s ambition, then shows the costs of treating every sign of affection as weakness.\n\nThe novel takes place in what is now southeastern Nigeria, around the arrival of British colonial rule. Before introducing that disruption, Achebe gives space to the community’s farming, marriages, religious practices, and ways of settling disputes. Conversation has its own standards of skill. As the narrator explains:\n\n> proverbs are the palm-oil with which words are eaten.\n\nChristian missionaries gain followers partly among people dissatisfied with existing customs. Okonkwo’s son is drawn toward a faith that seems to answer suffering his father accepts. The village is therefore already divided when colonial officials impose their own government and courts. Achebe shows both the community’s internal injustices and the destruction caused by outsiders who dismiss its institutions and knowledge.\n\nPublished in 1958, two years before Nigeria’s independence, the book challenged European stories that treated Africans as background to other people’s adventures. Achebe later described recognizing himself among the supposedly inferior characters in those books. Here, the people being colonized have families, arguments, humor, and conflicting beliefs of their own. Okonkwo’s failures belong within that fuller account of a society, rather than standing for the worth of an entire people.",
+      "sources": [
+        {
+          "title": "Chinua Achebe — Things Fall Apart, publisher excerpt",
+          "url": "https://www.penguinrandomhouse.com/books/565351/things-fall-apart-by-chinua-achebe/",
+          "role": "primary text",
+          "supports": "Chapter one: Okonkwo, Unoka, reputation, debt, language and the proverb quotation.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Chinua Achebe — The Art of Fiction No. 139",
+          "url": "https://www.theparisreview.org/interviews/1720/the-art-of-fiction-no-139-chinua-achebe",
+          "role": "author testimony",
+          "supports": "1994 interview with Jerome Brooks: colonial reading, writing Africa’s stories and community.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Penguin Random House — Things Fall Apart teaching guide",
+          "url": "https://images.penguinrandomhouse.com/promo_image/9780385474542_9379.pdf",
+          "role": "interpretation and factual context",
+          "supports": "Community and colonial encounter; publication context.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "proverbs are the palm-oil with which words are eaten.",
+          "wordCount": 9,
+          "sourceUrl": "https://www.penguinrandomhouse.com/books/565351/things-fall-apart-by-chinua-achebe/",
+          "locator": "Chapter one; narrator introduces the use of proverbs",
+          "language": "English",
+          "translator": null,
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-things-fall-apart-a.jpg",
+        "referenceUrl": "https://www.penguinrandomhouse.com/books/565351/things-fall-apart-by-chinua-achebe/",
+        "altText": "Things Fall Apart — Penguin Books · US edition cover",
+        "credit": "Penguin Books · US edition; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "hour-of-the-star",
+      "title": "The Hour of the Star",
+      "creator": "Clarice Lispector",
+      "dateDisplay": "1977",
+      "dateStart": 1977,
+      "dateEnd": null,
+      "place": "Brazil",
+      "medium": "literature",
+      "meaningBrief": "Macabéa’s poverty and social invisibility are exposed alongside the educated narrator’s difficulty seeing her without condescension. Her private pleasure challenges his account of an insignificant life; distinguish writer from fictional narrator.",
+      "body": "Macabéa, a young woman from northeastern Brazil, works as a poorly paid typist in Rio de Janeiro. She eats little, shares a room, and listens to the radio for fragments of a world she barely understands. Her boyfriend looks for someone who might help him get ahead. Few people around her take much interest in what she wants.\n\nClarice Lispector gives this story to a fictional male narrator, Rodrigo S. M. He keeps interrupting his account to discuss the difficulty of writing about Macabéa. He pities her, becomes impatient with her, and sometimes treats her as too insignificant to deserve a story. His reactions expose a second problem beside poverty: the educated observer can also diminish the person he claims to explain.\n\nMacabéa has pleasures that do not fit neatly into his descriptions of her misery. On a rare day alone in her room, she dances, drinks coffee, and enjoys having time to herself. The passage briefly gives her a kind of freedom that her daily life seldom allows:\n\n> She owed nothing to anyone and no one owed her a thing.\n\nPublished in 1977, *The Hour of the Star* connects Brazil’s social inequality with the question of who gets represented in literature. Macabéa’s movement from the Northeast to Rio places her among people seeking work far from home. Rodrigo has the education and language to tell her story, but struggles to recognize a life unlike his own. Lispector makes that difficulty part of the novel, allowing his condescension to become visible to the reader.",
+      "sources": [
+        {
+          "title": "Clarisse Fukelman — The Hour of the Star, Instituto Moreira Salles",
+          "url": "https://site.claricelispector.ims.com.br/en/book/a-hora-da-estrela/",
+          "role": "interpretation and factual context",
+          "supports": "Brazilian inequality, migration, narrator’s intrusions and limits of representation.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Instituto Moreira Salles — The Hour of the Star: Notes",
+          "url": "https://site.claricelispector.ims.com.br/en/archive/the-hour-of-the-star-notes/",
+          "role": "primary excerpt",
+          "supports": "Author’s drafts and final passages; paragraph 117: dancing, coffee and private happiness.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "New Directions — The Hour of the Star",
+          "url": "https://www.ndbooks.com/book/the-hour-of-the-star/",
+          "role": "interpretation and factual context",
+          "supports": "Edition metadata and distinction between author, narrator and protagonist.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-006",
+      "revisionGuide": "VOICE_GUIDE v0.22; succinct foreword, four or five paragraphs; publication, fiction and narrator kept distinct.",
+      "quotationNotes": [
+        {
+          "text": "She owed nothing to anyone and no one owed her a thing.",
+          "wordCount": 12,
+          "sourceUrl": "https://site.claricelispector.ims.com.br/en/archive/the-hour-of-the-star-notes/",
+          "locator": "Final-text excerpt for paragraph 117, alongside manuscript note",
+          "language": "English",
+          "translator": "Benjamin Moser",
+          "note": "Exact short excerpt; translation and source stay outside the reading text."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-006/research.md",
+        "basis": "New researched review draft. No prior calibration preference is treated as approval."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/literature/b006-hour-of-the-star-a.jpg",
+        "referenceUrl": "https://www.ndbooks.com/book/the-hour-of-the-star/",
+        "altText": "The Hour of the Star — New Directions · Paul Sahre cover cover",
+        "credit": "New Directions · Paul Sahre cover; original cover supplied by the publisher or José Saramago Foundation.",
+        "license": "See source-specific cover options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; no image choice or writing approval inferred."
+      },
+      "reviewAvailability": "active"
+    }
+  ],
+  "activeMedia": [
+    "literature"
+  ],
+  "onHoldMedia": [
+    "theater"
+  ],
+  "releasePolicy": "Import only currently approved writing with its selected image and resolved passage comments when Julio requests a prototype update. The app contains 20 works after the 27 September painting update. Pending revisions do not replace earlier approved app versions. Theater stays on hold."
+}

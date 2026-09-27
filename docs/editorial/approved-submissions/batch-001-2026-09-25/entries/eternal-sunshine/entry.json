@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "eternal-sunshine",
+    "medium": "cinema",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "creator": "Michel Gondry",
+    "dateDisplay": "2004",
+    "dateStart": 2004,
+    "dateEnd": null,
+    "body": "In Michel Gondry’s *Eternal Sunshine of the Spotless Mind* (2004), a clinic can erase memories of a particular person. After their breakup, Clementine has her memories of Joel removed. Hurt by Clementine’s decision, he goes through the same procedure.\n\nDuring the treatment, we follow Joel inside the memories being erased. He relives the arguments near the end of their relationship, then earlier times when they were happy together. As those moments begin to disappear too, he changes his mind. He wants to stop the treatment, although the people carrying it out cannot hear his protests.\n\nIn one memory, Clementine tells him how ugly she felt as a child, and he comforts her. Faced with losing this moment of closeness, Joel calls out to the doctor:\n\n> Please let me keep this memory.\n\nForgetting Clementine would remove much more than the pain of their breakup. Joel would also lose the conversations and shared experiences through which he came to know her. Their affection does not undo the arguments or make them certain to work as a couple. Joel can regret how their relationship ended and still want to remember the time they shared. The procedure gives him no way to keep that experience while removing only the hurt.",
+    "sources": [
+      {
+        "title": "Sight and Sound: Mark Olsen review and Gondry interview",
+        "url": "https://bfidatadigipres.github.io/member%20picks/2024/12/19/eternal-sunshine/",
+        "role": "criticism and creator interview",
+        "supports": "Relationship revisited in reverse chronology, separation of Joel’s inner experience from the external procedure, emotional value and uncertainty of love. Freshly reread 24 September 2026."
+      },
+      {
+        "title": "Focus Features: After 13 Years, Eternal Sunshine Still Blows Our Minds",
+        "url": "https://www.focusfeatures.com/article/legacy_eternal-sunshine_13-year-anniversary",
+        "role": "official distributor commentary",
+        "supports": "Fictional erasure procedure and Joel’s change of mind."
+      },
+      {
+        "title": "Boxoffice Movie Scenes: Eternal Sunshine excerpt",
+        "url": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+        "role": "released-film excerpt",
+        "supports": "Released-film scene: Clementine’s childhood insecurity, Joel’s reassurance and plea at approximately 1:05. Saved caption export reread 24 September 2026; current direct video retrieval failed."
+      },
+      {
+        "title": "r/TrueFilm: competing readings of Eternal Sunshine",
+        "url": "https://www.reddit.com/r/TrueFilm/comments/1dygt96/i_think_some_people_misinterpret_the_meaning_of/",
+        "role": "public reception challenge, not factual authority",
+        "supports": "Selected replies disagree about renewed love, repeated mistakes and the distinction between valuing experience and guaranteeing a relationship. Read 24 September 2026; no representative consensus inferred; draft-screenplay claims not adopted."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-20/ROUND_11_FINAL_DRAFTS.json",
+      "baselineSection": "film.A",
+      "changes": [
+        "No prose changes. Round 11 A was called perfect. Staged for batch review; not published.",
+        "24 September 2026 remake: full rewrite after current passage comments. Used “he goes through,” deleted the medical-solution framing and doll explanation, explained the memory sequence and its practical stakes, and replaced the confusing closing paragraph. Earlier round-11 praise does not approve this revised candidate."
+      ],
+      "notionUrl": "https://app.notion.com/p/Eternal-Sunshine-of-the-Spotless-Mind-169c5450872d807f8728ca08fda0157a?pvs=25"
+    },
+    "meaningBrief": "Erasing the pain of a breakup also removes the shared experiences through which a person became important. Following Joel inside memories being erased makes that cost concrete: he changes from seeking erasure to resisting it. Affection does not settle the couple’s conflicts or prove that they should stay together. The account withholds the final outcome.",
+    "quotationNotes": [
+      {
+        "text": "Please let me keep this memory.",
+        "speaker": "Joel",
+        "sourceUrl": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+        "locator": "Approximately 1:05 in the clip",
+        "wordCount": 6,
+        "version": "Released-film excerpt. Saved English caption export reread 24 September 2026; caption authorship unspecified. Direct video retrieval failed in this pass; no fresh audio verification.",
+        "purpose": "A specific plea to keep an intimate memory makes Joel’s changed wish concrete. The doll detail is not needed to understand the exchange."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://images.contentstack.io/v3/assets/blt223a4a92692ca457/blt97c5788e2fe386e7/68a386770cb1d42d1a387b22/6874_enternal_sunshin_of_the_spotless_mind_poster.png?branch=production&width=900&format=webp",
+      "referenceUrl": "https://www.focusfeatures.com/eternal_sunshine_of_the_spotless_mind",
+      "altText": "Official poster for Eternal Sunshine of the Spotless Mind (2004).",
+      "credit": "Focus Features / Universal Pictures",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Poster URL extracted from the distributor’s current page. Review reference only. Review URL requests a 900-pixel rendition from the same official image service."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 19,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-eternal-sunshine"
+  },
+  "decision": {
+    "id": "eternal-sunshine",
+    "decisionId": "julio-2026-09-25-eternal-sunshine",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image A; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import.",
+      "Latest approval of all cinema entries supersedes four earlier passage comments addressed by the previous rewrite; original quotes and feedback remain saved."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "aaa6972e0508127d",
+    "imageOption": "A",
+    "imageHash": "bd8b2827fd7cfe51",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [
+      "ef53565c-5dd5-4f54-85ad-860d0bd2cf52",
+      "6c06b60c-43c1-4e1d-9d4c-be465c139ae1",
+      "5421e6b1-9437-464a-b8cd-838ee613df56",
+      "72fb51d4-04e3-4b70-876d-48e18002d0d0"
+    ],
+    "previousImageChoice": "A",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "A",
+      "label": "Together on the ice",
+      "description": "The overhead view holds Joel and Clementine together within a large expanse of blue ice.",
+      "imageUrl": "image-options/assets/cinema/K6M8JXPG.jpg",
+      "sourceUrl": "https://shotdeck.com/browse/recordviewajax/image/K6M8JXPG/viewtype/full-size/show/1",
+      "credit": "Film frame from Eternal Sunshine of the Spotless Mind (2004), directed by Michel Gondry; cinematography by Ellen Kuras. Reference accessed through ShotDeck.",
+      "altText": "Joel and Clementine lie close together on blue-gray lake ice, viewed from directly above.",
+      "width": 1920,
+      "height": 1040,
+      "rightsStatus": "review_only_pending_clearance",
+      "shotId": "K6M8JXPG",
+      "shotTime": "00:15:37",
+      "filmTitle": "Eternal Sunshine of the Spotless Mind",
+      "filmYear": 2004,
+      "filmVersion": "2004 feature identified by title, year and director in ShotDeck. Transfer or edition not specified.",
+      "catalogUrl": "https://shotdeck.com/browse/stills#/movie/105~Eternal+Sunshine+of+the+Spotless+Mind",
+      "remoteImageUrl": "https://shotdeck.com/assets/images/stills/K6M8JXPG.jpg",
+      "displayMode": "contain",
+      "notes": "Wide overhead two-shot; right-heavy composition; cool desaturated blue.",
+      "metadataLimits": "Shot time and descriptive metadata come from ShotDeck. The exact transfer is unspecified. Actual raster dimensions govern display; retain the entire frame without stretching.",
+      "downloadProvenance": {
+        "method": "Unaltered local copy of the previously authorized native ShotDeck download.",
+        "sourceFile": "/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/film-frames/K6M8JXPG.jpg",
+        "copiedOn": "2026-09-23",
+        "sha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805",
+        "byteLength": 437425,
+        "unalteredCopyVerified": true
+      },
+      "reviewStatus": "proposed_pending_Julio_review",
+      "assetSha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Film frame from Eternal Sunshine of the Spotless Mind (2004), directed by Michel Gondry; cinematography by Ellen Kuras. Reference accessed through ShotDeck.",
+    "altText": "Joel and Clementine lie close together on blue-gray lake ice, viewed from directly above.",
+    "width": 1920,
+    "height": 1040,
+    "imageUrl": "assets/selected.jpg",
+    "sha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805",
+    "sourceAssetSha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805"
+  },
+  "frozen": {
+    "bodyHash": "aaa6972e0508127d",
+    "bodySha256": "b6c5a78eab195be39d6e0767f0924f2e68db62f0378bb710f46d13c40369a23d",
+    "imageHash": "bd8b2827fd7cfe51",
+    "sourceEntrySha256": "9e7af24e7df49ed71600c90c47e428c31b37a0b1095fac322f86b8a71e82186b"
+  }
+}

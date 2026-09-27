@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "beethoven-symphony-nine",
+    "medium": "music",
+    "title": "Symphony No. 9 in D minor, Op. 125",
+    "creator": "Ludwig van Beethoven",
+    "dateDisplay": "1824",
+    "dateStart": 1824,
+    "dateEnd": null,
+    "body": "For most of Beethoven’s Ninth Symphony, the orchestra plays without singers. In its final section, a human voice interrupts and calls for a more joyful song. Solo singers and a choir then join the instruments in words about friendship and human fellowship. The work was first performed in Vienna in 1824.\n\nThe familiar Ode to Joy melody arrives gradually. After a loud, unsettled opening to the final section, the orchestra recalls music heard earlier in the work. The lowest string instruments answer these fragments, then introduce a quiet, simple tune. Other instruments take it up. By the time the singers enter, listeners already know the melody they will sing.\n\nBeethoven wrote the singer’s opening call himself, then turned to Friedrich Schiller’s poem about joy bringing people together across their divisions. Friendship, love and the natural world give them reasons to belong to one another. The poem also gives this fellowship a religious basis, picturing a loving creator above the stars. Solo singers and the choir answer one another, turning that invitation into an exchange between people.\n\nThis ending follows music that has been restless, forceful and, at other moments, calm. The famous tune also changes as it returns, becoming a march, a prayer and a mass of overlapping voices. Across the final section, the quiet tune first heard in the low strings becomes something the orchestra and singers share.",
+    "sources": [
+      {
+        "title": "Beethoven-Haus: Symphony No. 9, Op. 125",
+        "url": "https://www.beethoven.de/de/work/view/5556714292117504/Sinfonie%20Nr.%209%20%26",
+        "role": "composer archive",
+        "supports": "Completion in February 1824, Vienna premiere 7 May 1824, Schiller text and work identity. German work-page narrative read."
+      },
+      {
+        "title": "Eastman School of Music: Symphony No. 9",
+        "url": "https://www.esm.rochester.edu/beethoven/symphony-no-9/",
+        "role": "scholarly musical analysis",
+        "supports": "Movement contrasts, finale’s recapitulations and low-string recitative, first instrumental statement of joy theme, voices, brotherhood and creator, march and contrapuntal treatment. Analysis read; no personal listening claimed."
+      },
+      {
+        "title": "ABC Classic listening guide: Beethoven Symphony No. 9",
+        "url": "https://www.abc.net.au/listen/classic/read-and-watch/listening-guide/1000-years-of-classical-music-beethoven-symphony-no-9/9931444",
+        "role": "institutional musical interpretation",
+        "supports": "Accessible formal account of the finale’s melody and variations; indexed text used as corroboration."
+      },
+      {
+        "title": "Public discussion: hearing the complete Ninth",
+        "url": "https://www.reddit.com/r/classicalmusic/comments/q1ih4b/",
+        "role": "reception clue",
+        "supports": "Listeners discuss the finale’s dependence on the whole work, alongside disagreement over preferred movements. No listener consensus or autobiographical programme inferred."
+      },
+      {
+        "title": "Oliver Condy: Beethoven Symphony No. 9, Philharmonia programme, 3 April 2022",
+        "url": "https://philharmonia-assets.s3.amazonaws.com/uploads/2022/04/03.04.22_RFH-online.pdf",
+        "role": "Substantive programme interpretation",
+        "supports": "Pages 5–6 freshly read: context of preceding sections, low-string theme before voice, Beethoven’s added opening words, Schiller, march and religious choral section. Used for the musical sequence alongside Eastman, not for its dramatic descriptive style."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New composition entry; no particular recording or performance is the subject",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "The final arrival of human voices gives explicit words to shared joy and fellowship. A simple melody grows through different instruments and voices after the earlier tensions; Schiller’s friendship and religious vision explain what this gathering celebrates. Explain the progression without requiring musical theory.",
+    "quotationNotes": [
+      "No poem or musical text quoted. Schiller’s invitation is paraphrased; the work’s public-domain German text and Eastman analysis support the account."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Beethoven_Ninth_Symphony.png",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_Ninth_Symphony.png",
+      "altText": "A handwritten manuscript page identified as the fourth movement of Beethoven’s Ninth Symphony.",
+      "credit": "Manuscript: Ludwig van Beethoven; reproduction via Wikimedia Commons.",
+      "license": "Public domain according to Commons metadata.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Supporting manuscript illustration. Commons identifies the fourth movement, but supplies no holding-institution shelfmark; do not invent folio, passage or first-edition claims."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 10,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-beethoven-symphony-nine"
+  },
+  "decision": {
+    "id": "beethoven-symphony-nine",
+    "decisionId": "julio-2026-09-25-beethoven-symphony-nine",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image A; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "39046a57012c5966",
+    "imageOption": "A",
+    "imageHash": "d410faa7f2c85f05",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "A",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "A",
+      "label": "Manuscript · current artwork",
+      "description": "Black-and-white handwritten music, without association with a particular recording.",
+      "imageUrl": "image-options/assets/music/beethoven-a-manuscript.png",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Beethoven_Ninth_Symphony.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_Ninth_Symphony.png",
+      "credit": "Ludwig van Beethoven; reproduction via Wikimedia Commons.",
+      "altText": "Handwritten orchestral score on white paper.",
+      "width": 500,
+      "height": 441,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Commons identifies the reproduction as PD-Art/Public Domain Mark; all candidates remain review-only until app clearance.",
+      "edition": "Manuscript illustration, identified by Commons as the fourth movement of the Ninth Symphony.",
+      "editionNotes": "Current illustration retained. Not an album cover or a recording. Commons does not identify a holding institution, shelfmark or folio; none is asserted. Its 2007 date is upload metadata, not composition date.",
+      "verificationSources": [],
+      "verifiedOn": "2026-09-23",
+      "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+      "sha256": "148735bd65dc7ccccc0b23d662fedd218b17dbee6a905b2e1baea69068933e9b",
+      "assetSha256": "148735bd65dc7ccccc0b23d662fedd218b17dbee6a905b2e1baea69068933e9b"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Ludwig van Beethoven; reproduction via Wikimedia Commons.",
+    "altText": "Handwritten orchestral score on white paper.",
+    "width": 1200,
+    "height": 1500,
+    "imageTreatment": "Existing vinyl presentation, packaged as a self-contained SVG",
+    "components": {
+      "label": "assets/label.png",
+      "surround": "../../assets/vinyl-reference.png",
+      "template": "../../provenance/vinyl_template.py",
+      "templateAndSurroundHashes": {
+        "visual-study/vinyl_template.py": "2792d91288b0b05f869c27a037913ad2b75ac24e87fecfb3d497cafaa3d55134",
+        "visual-study/references/vinyl-reference.png": "a5b1ac83629e349691a192b12f1bfd4971d3ff41e9dd9cf289ea19467276ea23"
+      }
+    },
+    "imageUrl": "assets/selected.svg",
+    "sha256": "08f12223bdc50631ecc312c3b7c2c1ce09216763af2c480a5b56916025c44321",
+    "sourceAssetSha256": "148735bd65dc7ccccc0b23d662fedd218b17dbee6a905b2e1baea69068933e9b"
+  },
+  "frozen": {
+    "bodyHash": "39046a57012c5966",
+    "bodySha256": "daa95362b5beea5dfe0261ff0175e294b010330a1c7088aced3352d7163226b6",
+    "imageHash": "d410faa7f2c85f05",
+    "sourceEntrySha256": "c349734c79c8a217049c7850ff9eb311f7b307d7178c5487d321b15230fbbd0e"
+  }
+}

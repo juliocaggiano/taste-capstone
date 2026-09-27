@@ -1,0 +1,256 @@
+[
+  {
+    "id": "im-still-here",
+    "title": "I'm Still Here",
+    "originalTitle": "Ainda Estou Aqui",
+    "year": 2024,
+    "director": "Walter Salles",
+    "filmVersion": "2024 feature identified by title, year and director in ShotDeck. Transfer or edition not specified.",
+    "shotId": "QC5VUQXE",
+    "shotUrl": "https://shotdeck.com/browse/recordviewajax/image/QC5VUQXE/viewtype/full-size/show/1",
+    "catalogUrl": "https://shotdeck.com/browse/stills#/movie/62576~I%27m+Still+Here",
+    "imageUrl": "https://shotdeck.com/assets/images/stills/QC5VUQXE.jpg",
+    "previewImageUrl": "https://shotdeck.com/assets/images/stills/thumb/small_QC5VUQXE.jpg",
+    "width": 1924,
+    "height": 1040,
+    "displayMode": "contain",
+    "altText": "Eunice, seen from behind, photographs her family and friends gathered on a sunny Rio beach.",
+    "rationale": "The warm group composition makes the family's shared life visible. Eunice taking the photograph also connects naturally with the entry's concern for memory. It includes Rubens and the wider social circle without showing detention or a late outcome. This is an editorial selection, not a claim that audiences universally consider it the film's defining image.",
+    "displayedShotMetadata": {
+      "shotTime": "00:26:30",
+      "cinematographer": "Adrian Teijido",
+      "productionDesigner": "Carlos Conti",
+      "frameSize": "Wide",
+      "shotType": [
+        "Group shot",
+        "Over the shoulder"
+      ],
+      "composition": "Balanced",
+      "aspectRatio": "1.85",
+      "opticalFormat": [
+        "Spherical",
+        "Super 35"
+      ],
+      "format": "Film - 35mm",
+      "color": [
+        "Warm",
+        "Yellow",
+        "Cyan",
+        "Blue"
+      ],
+      "lighting": [
+        "Hard light",
+        "Side light"
+      ],
+      "lightingType": [
+        "Daylight",
+        "Sunny"
+      ],
+      "timeOfDay": "Day",
+      "interiorExterior": "Exterior",
+      "set": "Ocean > Beach > Shore",
+      "storyLocationVisible": "... Rio de Janeiro > Rio",
+      "filmingLocationVisible": "... Brazil > Rio de Janeiro",
+      "camera": "Aaton Penelope",
+      "lens": "Panavision Primo Primes",
+      "filmStockOrResolution": "4K",
+      "tags": [
+        "beach",
+        "sand",
+        "shore",
+        "posing",
+        "family",
+        "photo",
+        "picture",
+        "coming together"
+      ]
+    },
+    "selectionMethod": "Inspected the signed-in 2024 title catalog, then compared visible frames in the site's Most popular sort. Opened the selected shot details and visually confirmed the full composition. Catalog showed 532 shots; this was a bounded selection, not an exhaustive comparison.",
+    "metadataLimits": "Shot metadata is transcribed from ShotDeck, not independently certified. The catalog also displayed Science-Fiction as a genre, an apparent mistag that is not adopted here. Its 4K field does not describe the delivered 1924×1040 image size. The detail link redirects to the image; use the catalog and shot ID to reopen metadata.",
+    "credit": "Film frame from I'm Still Here (2024), directed by Walter Salles; cinematography by Adrian Teijido. Reference accessed through ShotDeck.",
+    "rightsStatus": "not_cleared_for_app_use",
+    "accessNotes": "The official full-size frame opened in signed-in Chrome and was downloaded through the documented browser media download action. The downloaded file was copied unchanged into the local visual-study/film-frames folder. Original source proportions and filenames are preserved. No cookies, session stores, alternate network fetch, proxy or screenshot extraction were used. The files are for the authorized local review; public publication clearance remains unestablished.",
+    "reviewStatus": "proposed_pending_Julio_review",
+    "checkedOn": "2026-09-22",
+    "timeZone": "Europe/Berlin",
+    "localImagePath": "film-frames/QC5VUQXE.jpg",
+    "downloadProvenance": {
+      "downloadedAt": "2026-09-21T22:29:06.890098+00:00",
+      "sourceUrl": "https://shotdeck.com/assets/images/stills/QC5VUQXE.jpg",
+      "browser": "Chrome, existing signed-in ShotDeck session",
+      "method": "Documented browser media download: tab.playwright.getByRole('img').downloadMedia() on the visible official full-size frame page.",
+      "downloadedTo": "/Users/juliocaggiano/Downloads/QC5VUQXE.jpg",
+      "copiedTo": "/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/film-frames/QC5VUQXE.jpg",
+      "copyMethod": "Local copy; original download retained.",
+      "sha256": "2375c027b079bdc6170ef5afbc87c7cb19fa4fea1f79aa05867685789c23c258",
+      "byteLength": 802753,
+      "verifiedWidth": 1924,
+      "verifiedHeight": 1040,
+      "dimensionVerification": "macOS sips pixelWidth and pixelHeight",
+      "unalteredCopyVerified": true,
+      "authorization": "User explicitly requested downloading the selected frames and including them directly in the local prototype."
+    }
+  },
+  {
+    "id": "eternal-sunshine",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "director": "Michel Gondry",
+    "filmVersion": "2004 feature identified by title, year and director in ShotDeck. Transfer or edition not specified.",
+    "shotId": "K6M8JXPG",
+    "shotUrl": "https://shotdeck.com/browse/recordviewajax/image/K6M8JXPG/viewtype/full-size/show/1",
+    "catalogUrl": "https://shotdeck.com/browse/stills#/movie/105~Eternal+Sunshine+of+the+Spotless+Mind",
+    "imageUrl": "https://shotdeck.com/assets/images/stills/K6M8JXPG.jpg",
+    "width": 1920,
+    "height": 1040,
+    "displayMode": "contain",
+    "altText": "Joel and Clementine lie close together on blue-gray lake ice, viewed from directly above.",
+    "rationale": "The overhead composition is visually distinctive and keeps both people together within the frozen lake's open space. It presents the tenderness the entry explains Joel later wants to preserve. The early frame gives the relationship visual priority without exposing the ending. Keep the surrounding ice; a tight face crop would lose the composition.",
+    "displayedShotMetadata": {
+      "shotTime": "00:15:37",
+      "cinematographer": "Ellen Kuras",
+      "productionDesigner": "Dan Leigh",
+      "frameSize": "Wide",
+      "shotType": [
+        "2 shot",
+        "High angle",
+        "Overhead"
+      ],
+      "composition": "Right heavy",
+      "aspectRatio": "1.85",
+      "opticalFormat": [
+        "Spherical"
+      ],
+      "format": "Film - 35mm",
+      "color": [
+        "Cool",
+        "Desaturated",
+        "Blue"
+      ],
+      "lighting": [
+        "Soft light"
+      ],
+      "lightingType": [
+        "Artificial light"
+      ],
+      "timeOfDay": "Night",
+      "interiorExterior": "Exterior",
+      "set": "Lake",
+      "storyLocationVisible": "... United States of America > New York",
+      "filmingLocationVisible": "... United States > New York",
+      "camera": "Arricam LT",
+      "lens": "Arri Macro, Zeiss Super Speed",
+      "filmStockOrResolution": "8592/8692 Reala 500D",
+      "tags": [
+        "blue hair",
+        "cute",
+        "first date",
+        "furry boots",
+        "looking at sky",
+        "lying on ice",
+        "opposites attract",
+        "pointing up",
+        "stargazing",
+        "uggs"
+      ]
+    },
+    "selectionMethod": "Located the title in ShotDeck's E catalog, confirmed the 2004 film, then compared visible frames in Most popular order. Opened this shot's details and visually verified its composition. Catalog showed 360 shots; not all were inspected.",
+    "metadataLimits": "Shot metadata is transcribed from ShotDeck, not independently certified. Preserve the actual 1920×1040 raster ratio rather than stretching it to an exact nominal ratio. The detail link redirects to the image; use the catalog and shot ID to reopen metadata.",
+    "credit": "Film frame from Eternal Sunshine of the Spotless Mind (2004), directed by Michel Gondry; cinematography by Ellen Kuras. Reference accessed through ShotDeck.",
+    "rightsStatus": "not_cleared_for_app_use",
+    "accessNotes": "The official full-size frame opened in signed-in Chrome and was downloaded through the documented browser media download action. The downloaded file was copied unchanged into the local visual-study/film-frames folder. Original source proportions and filenames are preserved. No cookies, session stores, alternate network fetch, proxy or screenshot extraction were used. The files are for the authorized local review; public publication clearance remains unestablished.",
+    "reviewStatus": "proposed_pending_Julio_review",
+    "checkedOn": "2026-09-22",
+    "timeZone": "Europe/Berlin",
+    "localImagePath": "film-frames/K6M8JXPG.jpg",
+    "downloadProvenance": {
+      "downloadedAt": "2026-09-21T22:29:06.890098+00:00",
+      "sourceUrl": "https://shotdeck.com/assets/images/stills/K6M8JXPG.jpg",
+      "browser": "Chrome, existing signed-in ShotDeck session",
+      "method": "Documented browser media download: tab.playwright.getByRole('img').downloadMedia() on the visible official full-size frame page.",
+      "downloadedTo": "/Users/juliocaggiano/Downloads/K6M8JXPG.jpg",
+      "copiedTo": "/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/film-frames/K6M8JXPG.jpg",
+      "copyMethod": "Local copy; original download retained.",
+      "sha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805",
+      "byteLength": 437425,
+      "verifiedWidth": 1920,
+      "verifiedHeight": 1040,
+      "dimensionVerification": "macOS sips pixelWidth and pixelHeight",
+      "unalteredCopyVerified": true,
+      "authorization": "User explicitly requested downloading the selected frames and including them directly in the local prototype."
+    }
+  },
+  {
+    "id": "soul",
+    "title": "Soul",
+    "year": 2020,
+    "director": "Pete Docter",
+    "coDirector": "Kemp Powers",
+    "filmVersion": "2020 Pixar animated feature identified by title and year in ShotDeck. Transfer or edition not specified. ShotDeck displays Pete Docter; the co-director credit is retained from the existing researched batch record.",
+    "shotId": "N2M5LTVK",
+    "shotUrl": "https://shotdeck.com/browse/recordviewajax/image/N2M5LTVK/viewtype/full-size/show/1",
+    "catalogUrl": "https://shotdeck.com/browse/stills#/movie/3748~Soul",
+    "imageUrl": "https://shotdeck.com/assets/images/stills/N2M5LTVK.png",
+    "width": 1920,
+    "height": 804,
+    "displayMode": "contain",
+    "altText": "Joe Gardner crosses a sunlit New York street while talking on the phone, carrying a briefcase.",
+    "rationale": "Joe's long stride gives the frame energy, while autumn trees, sunlight and everyday traffic give the city a strong presence. This introduces the human world whose ordinary experiences matter to the entry. The frame comes early in the film and avoids showing a final decision or reducing the film to its imagined afterlife. Preserve the wide street view around Joe.",
+    "displayedShotMetadata": {
+      "shotTime": "00:09:03",
+      "cinematographers": [
+        "Ian Megibben",
+        "Matt Aspbury"
+      ],
+      "productionDesigner": "Steve Pilcher",
+      "frameSize": "Wide",
+      "shotType": [
+        "Group shot"
+      ],
+      "composition": "Left heavy",
+      "aspectRatio": "2.39",
+      "format": "Animation",
+      "color": [
+        "Warm",
+        "Saturated"
+      ],
+      "timeOfDay": "Day",
+      "interiorExterior": "Exterior",
+      "set": "City Street",
+      "storyLocationVisible": "... New York > New York City",
+      "filmStockOrResolution": "4K",
+      "tags": [
+        "bus",
+        "crosswalk",
+        "on phone",
+        "parked cars",
+        "phone call"
+      ]
+    },
+    "selectionMethod": "Located Soul through the title catalog, confirmed the 2020 film, compared visible Most popular frames and inspected the selected frame's details. Catalog showed 228 shots; not all were inspected.",
+    "metadataLimits": "Shot metadata is transcribed from ShotDeck, not independently certified. The 4K field does not describe the delivered 1920×804 PNG. The detail link redirects to the image; use the catalog and shot ID to reopen metadata.",
+    "credit": "Film frame from Disney and Pixar's Soul (2020), directed by Pete Docter and co-directed by Kemp Powers. Reference accessed through ShotDeck.",
+    "rightsStatus": "not_cleared_for_app_use",
+    "accessNotes": "The official full-size frame opened in signed-in Chrome and was downloaded through the documented browser media download action. The downloaded file was copied unchanged into the local visual-study/film-frames folder. Original source proportions and filenames are preserved. No cookies, session stores, alternate network fetch, proxy or screenshot extraction were used. The files are for the authorized local review; public publication clearance remains unestablished.",
+    "reviewStatus": "proposed_pending_Julio_review",
+    "checkedOn": "2026-09-22",
+    "timeZone": "Europe/Berlin",
+    "localImagePath": "film-frames/N2M5LTVK.png",
+    "downloadProvenance": {
+      "downloadedAt": "2026-09-21T22:29:06.890098+00:00",
+      "sourceUrl": "https://shotdeck.com/assets/images/stills/N2M5LTVK.png",
+      "browser": "Chrome, existing signed-in ShotDeck session",
+      "method": "Documented browser media download: tab.playwright.getByRole('img').downloadMedia() on the visible official full-size frame page.",
+      "downloadedTo": "/Users/juliocaggiano/Downloads/N2M5LTVK.png",
+      "copiedTo": "/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/film-frames/N2M5LTVK.png",
+      "copyMethod": "Local copy; original download retained.",
+      "sha256": "7b207f9a3d87e57f7b859f1cbaaddfab92853bdfa1dfaed53669a745b0392393",
+      "byteLength": 2601050,
+      "verifiedWidth": 1920,
+      "verifiedHeight": 804,
+      "dimensionVerification": "macOS sips pixelWidth and pixelHeight",
+      "unalteredCopyVerified": true,
+      "authorization": "User explicitly requested downloading the selected frames and including them directly in the local prototype."
+    }
+  }
+]

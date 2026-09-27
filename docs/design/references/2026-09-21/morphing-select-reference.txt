@@ -1,0 +1,913 @@
+Build a faithful, accessible React reconstruction of Annnimate's Morphing Select.
+
+Match the measured source defaults: a 280 x 52px #101010 trigger on #ebebe9, 12px trigger-to-panel gap, 252px six-option panel, 16px open radius, Switzer typography, soft-white labels, and #fd551d keyboard focus ring. Start on Velodrome.
+
+The dropdown panel must emerge from a duplicate trigger shape through the same SVG goo filter. Open over 800ms with elastic.out(1,0.82), remove the blur as the panel settles, fade the six options with a 20ms stagger, rotate the caret over 400ms, and roll the chosen value vertically over 400ms while the panel closes.
+
+Keep pointer, outside-click, Escape, ArrowUp, ArrowDown, Home, End, Enter, and Space behavior functional. Preserve listbox semantics, aria-selected, aria-expanded, aria-activedescendant, focus return, and reduced-motion support.
+
+Expose duration, easing, stagger, direction, gap, options, and initial value as isolated settings. Do not add a motion dependency; use the Web Animations API, CSS, and the local Switzer font.
+
+The complete implementation follows, one file per block — paste it as-is, or hand the whole thing to your AI tool to adapt.
+
+### MorphingSelectDemo.tsx
+
+```
+import {
+  forwardRef,
+  useCallback,
+  useEffect,
+  useId,
+  useImperativeHandle,
+  useLayoutEffect,
+  useMemo,
+  useRef,
+  useState,
+  type CSSProperties,
+  type KeyboardEvent,
+} from 'react'
+import { CaretDown } from '@phosphor-icons/react'
+import { usePrefersReducedMotion } from './shared'
+import './MorphingSelectDemo.css'
+
+export type MorphingSelectOption = {
+  value: string
+  label: string
+}
+
+export type MorphingSelectEase = 'elastic' | 'drift' | 'punch' | 'linear'
+
+export type MorphingSelectSettings = {
+  duration: number
+  ease: MorphingSelectEase
+  stagger: number
+  direction: 'down' | 'up'
+  gap: number
+}
+
+export const MORPHING_SELECT_OPTIONS: readonly MorphingSelectOption[] = [
+  { value: 'all', label: 'All disciplines' },
+  { value: 'track', label: 'Track' },
+  { value: 'alpine', label: 'Alpine' },
+  { value: 'velodrome', label: 'Velodrome' },
+  { value: 'tennis', label: 'Tennis' },
+  { value: 'trail', label: 'Trail' },
+]
+
+export const MORPHING_SELECT_DEFAULTS: Readonly<MorphingSelectSettings> = {
+  duration: 0.8,
+  ease: 'elastic',
+  stagger: 0.02,
+  direction: 'down',
+  gap: 12,
+}
+
+export type MorphingSelectDemoHandle = {
+  open: () => void
+  close: () => void
+  toggle: () => void
+  replay: () => void
+  reset: () => void
+}
+
+type MorphingSelectDemoProps = {
+  compact?: boolean
+  autoplay?: boolean
+  initialValue?: string
+  options?: readonly MorphingSelectOption[]
+  settings?: Partial<MorphingSelectSettings>
+  onChange?: (option: MorphingSelectOption, index: number) => void
+}
+
+const TRIGGER_HEIGHT = 52
+const OPTION_HEIGHT = 40
+const PANEL_PADDING = 12
+const OPEN_SHAPE_DELAY = 0.07
+const CLOSE_SHAPE_FACTOR = 0.65
+const VALUE_ROLL_DURATION = 400
+
+function elasticOut(progress: number, amplitude = 1, period = 0.82) {
+  if (progress === 0 || progress === 1) return progress
+  const phase = period / (Math.PI * 2) * Math.asin(1 / amplitude)
+  return amplitude * 2 ** (-10 * progress)
+    * Math.sin((progress - phase) * (Math.PI * 2) / period) + 1
+}
+
+function sampleFrames(
+  from: number,
+  to: number,
+  formatter: (value: number) => Keyframe,
+  ease: MorphingSelectEase,
+) {
+  if (ease !== 'elastic') {
+    return [formatter(from), formatter(to)]
+  }
+  return Array.from({ length: 49 }, (_, index) => {
+    const offset = index / 48
+    return { ...formatter(from + (to - from) * elasticOut(offset)), offset }
+  })
+}
+
+function cssEase(ease: MorphingSelectEase) {
+  return {
+    drift: 'cubic-bezier(0.3, 0.9, 0.1, 1)',
+    punch: 'cubic-bezier(0.7, 0, 0.16, 1)',
+    linear: 'linear',
+    elastic: 'linear',
+  }[ease]
+}
+
+function currentTranslateY(element: HTMLElement) {
+  const transform = window.getComputedStyle(element).transform
+  if (!transform || transform === 'none') return 0
+  return new DOMMatrixReadOnly(transform).m42
+}
+
+function holdCurrentStyles(shift: HTMLElement, shape: HTMLElement) {
+  const shiftY = currentTranslateY(shift)
+  const shapeStyles = window.getComputedStyle(shape)
+  const height = Number.parseFloat(shapeStyles.height)
+  const radius = Number.parseFloat(shapeStyles.borderTopLeftRadius)
+  shift.getAnimations().forEach((animation) => animation.cancel())
+  shape.getAnimations().forEach((animation) => animation.cancel())
+  shift.style.transform = `translate3d(0, ${shiftY}px, 0)`
+  shape.style.height = `${height}px`
+  shape.style.borderRadius = `${radius}px`
+  return { shiftY, height, radius }
+}
+
+export const MorphingSelectDemo = forwardRef<MorphingSelectDemoHandle, MorphingSelectDemoProps>(
+  function MorphingSelectDemo({
+    compact = false,
+    autoplay = compact,
+    initialValue = 'velodrome',
+    options = MORPHING_SELECT_OPTIONS,
+    settings,
+    onChange,
+  }, forwardedRef) {
+    const resolved = useMemo<MorphingSelectSettings>(() => ({
+      ...MORPHING_SELECT_DEFAULTS,
+      ...settings,
+    }), [settings])
+    const initialIndex = Math.max(0, options.findIndex((option) => option.value === initialValue))
+    const [open, setOpen] = useState(false)
+    const [selectedIndex, setSelectedIndex] = useState(initialIndex)
+    const [activeIndex, setActiveIndex] = useState(-1)
+    const [roll, setRoll] = useState(() => ({
+      current: options[initialIndex]?.label ?? '',
+      next: options[initialIndex]?.label ?? '',
+      active: false,
+    }))
+    const rootRef = useRef<HTMLDivElement>(null)
+    const triggerRef = useRef<HTMLButtonElement>(null)
+    const shiftRef = useRef<HTMLDivElement>(null)
+    const shapeRef = useRef<HTMLDivElement>(null)
+    const gooRef = useRef<HTMLDivElement>(null)
+    const blurRef = useRef<SVGFEGaussianBlurElement>(null)
+    const readyRef = useRef(false)
+    const motionTokenRef = useRef(0)
+    const blurFrameRef = useRef(0)
+    const rollTimerRef = useRef(0)
+    const replayTimersRef = useRef<number[]>([])
+    const openRef = useRef(open)
+    const reduced = usePrefersReducedMotion()
+    const filterId = `msel-goo-${useId().replaceAll(':', '')}`
+    const labelId = `msel-label-${useId().replaceAll(':', '')}`
+    const listId = `msel-list-${useId().replaceAll(':', '')}`
+    openRef.current = open
+
+    const motionScale = reduced ? 0.05 : 1
+    const panelHeight = options.length * OPTION_HEIGHT + PANEL_PADDING
+    const signedShift = (TRIGGER_HEIGHT + resolved.gap) * (resolved.direction === 'up' ? -1 : 1)
+
+    const clearReplayTimers = useCallback(() => {
+      replayTimersRef.current.forEach(window.clearTimeout)
+      replayTimersRef.current = []
+    }, [])
+
+    const closeSelect = useCallback((restoreFocus = false) => {
+      setOpen(false)
+      setActiveIndex(-1)
+      if (restoreFocus && !compact) {
+        window.requestAnimationFrame(() => triggerRef.current?.focus())
+      }
+    }, [compact])
+
+    const openSelect = useCallback(() => {
+      if (compact && !autoplay) return
+      setActiveIndex(selectedIndex)
+      setOpen(true)
+    }, [autoplay, compact, selectedIndex])
+
+    const reset = useCallback(() => {
+      clearReplayTimers()
+      window.clearTimeout(rollTimerRef.current)
+      const next = Math.max(0, options.findIndex((option) => option.value === initialValue))
+      const label = options[next]?.label ?? ''
+      setSelectedIndex(next)
+      setActiveIndex(-1)
+      setRoll({ current: label, next: label, active: false })
+      setOpen(false)
+    }, [clearReplayTimers, initialValue, options])
+
+    const selectAt = useCallback((index: number) => {
+      const option = options[index]
+      if (!option) return
+      window.clearTimeout(rollTimerRef.current)
+      setRoll((current) => ({ current: current.current, next: option.label, active: true }))
+      setSelectedIndex(index)
+      onChange?.(option, index)
+      closeSelect(true)
+      rollTimerRef.current = window.setTimeout(() => {
+        setRoll({ current: option.label, next: option.label, active: false })
+      }, reduced ? 20 : VALUE_ROLL_DURATION)
+    }, [closeSelect, onChange, options, reduced])
+
+    const replay = useCallback(() => {
+      reset()
+      const delay = reduced ? 30 : 260
+      replayTimersRef.current.push(window.setTimeout(openSelect, delay))
+    }, [openSelect, reduced, reset])
+
+    useImperativeHandle(forwardedRef, () => ({
+      open: openSelect,
+      close: () => closeSelect(true),
+      toggle: () => { if (openRef.current) closeSelect(true); else openSelect() },
+      replay,
+      reset,
+    }), [closeSelect, openSelect, replay, reset])
+
+    const animateBlur = useCallback((opening: boolean, token: number) => {
+      const goo = gooRef.current
+      const blur = blurRef.current
+      if (!goo || !blur) return
+      window.cancelAnimationFrame(blurFrameRef.current)
+      goo.style.filter = `url(#${filterId})`
+      const duration = Math.max(1, resolved.duration * 1000 * motionScale)
+      const closeDuration = duration * CLOSE_SHAPE_FACTOR
+      const started = performance.now()
+      const draw = (now: number) => {
+        if (token !== motionTokenRef.current) return
+        const elapsed = now - started
+        let std = 0
+        let done = false
+        if (opening) {
+          const fadeStart = duration * 0.4
+          const fadeDuration = duration * 0.25
+          if (elapsed < fadeStart) std = 9
+          else if (elapsed < fadeStart + fadeDuration) {
+            const progress = (elapsed - fadeStart) / fadeDuration
+            std = 9 * (1 - progress ** 2)
+          } else done = true
+        } else {
+          const riseDuration = 150 * motionScale
+          const fadeStart = closeDuration * 0.55
+          const fadeDuration = closeDuration * 0.3
+          if (elapsed < riseDuration) {
+            const progress = elapsed / Math.max(1, riseDuration)
+            std = 9 * (1 - (1 - progress) ** 2)
+          } else if (elapsed < fadeStart) std = 9
+          else if (elapsed < fadeStart + fadeDuration) {
+            const progress = (elapsed - fadeStart) / Math.max(1, fadeDuration)
+            std = 9 * (1 - progress ** 2)
+          } else done = true
+        }
+        blur.setAttribute('stdDeviation', done ? '0' : std.toFixed(3))
+        if (done) {
+          goo.style.filter = 'none'
+          return
+        }
+        blurFrameRef.current = window.requestAnimationFrame(draw)
+      }
+      blurFrameRef.current = window.requestAnimationFrame(draw)
+    }, [filterId, motionScale, resolved.duration])
+
+    useLayoutEffect(() => {
+      const shift = shiftRef.current
+      const shape = shapeRef.current
+      if (!shift || !shape) return undefined
+      if (!readyRef.current) {
+        shift.style.transform = 'translate3d(0, 0, 0)'
+        shape.style.height = `${TRIGGER_HEIGHT}px`
+        shape.style.borderRadius = `${TRIGGER_HEIGHT / 2}px`
+        readyRef.current = true
+        return undefined
+      }
+
+      const token = ++motionTokenRef.current
+      const current = holdCurrentStyles(shift, shape)
+      const duration = Math.max(1, resolved.duration * 1000 * motionScale)
+      const opening = open
+      animateBlur(opening, token)
+
+      const targetY = opening ? signedShift : 0
+      const targetHeight = opening ? panelHeight : TRIGGER_HEIGHT
+      const targetRadius = opening ? 16 : TRIGGER_HEIGHT / 2
+      const activeEase = opening ? resolved.ease : 'drift'
+      const shapeDelay = opening ? OPEN_SHAPE_DELAY * 1000 * motionScale : 0
+      const shiftDelay = opening ? 0 : OPEN_SHAPE_DELAY * 1000 * motionScale
+      const motionDuration = opening ? duration : duration * CLOSE_SHAPE_FACTOR
+
+      const shiftFrames = sampleFrames(
+        current.shiftY,
+        targetY,
+        (value) => ({ transform: `translate3d(0, ${value}px, 0)` }),
+        activeEase,
+      )
+      const shapeFrames = opening && activeEase === 'elastic'
+        ? Array.from({ length: 49 }, (_, index) => {
+          const offset = index / 48
+          const eased = elasticOut(offset)
+          return {
+            height: `${current.height + (targetHeight - current.height) * eased}px`,
+            borderRadius: `${Math.max(0, current.radius + (targetRadius - current.radius) * eased)}px`,
+            offset,
+          }
+        })
+        : [
+          { height: `${current.height}px`, borderRadius: `${current.radius}px` },
+          { height: `${targetHeight}px`, borderRadius: `${targetRadius}px` },
+        ]
+
+      const shiftAnimation = shift.animate(shiftFrames, {
+        duration: motionDuration,
+        delay: shiftDelay,
+        easing: cssEase(activeEase),
+        fill: 'forwards',
+      })
+      const shapeAnimation = shape.animate(shapeFrames, {
+        duration: motionDuration,
+        delay: shapeDelay,
+        easing: cssEase(activeEase),
+        fill: 'forwards',
+      })
+
+      Promise.allSettled([shiftAnimation.finished, shapeAnimation.finished]).then(() => {
+        if (token !== motionTokenRef.current) return
+        shift.style.transform = `translate3d(0, ${targetY}px, 0)`
+        shape.style.height = `${targetHeight}px`
+        shape.style.borderRadius = `${targetRadius}px`
+        shiftAnimation.cancel()
+        shapeAnimation.cancel()
+      })
+
+      return undefined
+    }, [animateBlur, motionScale, open, panelHeight, resolved.ease, resolved.duration, signedShift])
+
+    useEffect(() => {
+      if (!open || compact) return undefined
+      const onPointerDown = (event: PointerEvent) => {
+        if (!rootRef.current?.contains(event.target as Node)) closeSelect(false)
+      }
+      const onEscape = (event: globalThis.KeyboardEvent) => {
+        if (event.key === 'Escape') closeSelect(true)
+      }
+      document.addEventListener('pointerdown', onPointerDown)
+      document.addEventListener('keydown', onEscape)
+      return () => {
+        document.removeEventListener('pointerdown', onPointerDown)
+        document.removeEventListener('keydown', onEscape)
+      }
+    }, [closeSelect, compact, open])
+
+    useEffect(() => {
+      if (!compact || !autoplay) return undefined
+      if (reduced) {
+        reset()
+        return undefined
+      }
+      const root = rootRef.current
+      let active = false
+      let loopTimer = 0
+      const run = () => {
+        if (!active) return
+        reset()
+        replayTimersRef.current.push(window.setTimeout(openSelect, 650))
+        replayTimersRef.current.push(window.setTimeout(() => {
+          const next = (initialIndex + 1) % options.length
+          selectAt(next)
+        }, 2100))
+        loopTimer = window.setTimeout(run, 4300)
+      }
+      const observer = new IntersectionObserver(([entry]) => {
+        const visible = Boolean(entry?.isIntersecting && entry.intersectionRatio >= 0.3)
+        if (visible && !active) {
+          active = true
+          run()
+        } else if (!visible && active) {
+          active = false
+          window.clearTimeout(loopTimer)
+          reset()
+        }
+      }, { threshold: [0, 0.3, 1] })
+      if (root) observer.observe(root)
+      return () => {
+        active = false
+        window.clearTimeout(loopTimer)
+        observer.disconnect()
+        clearReplayTimers()
+      }
+    }, [autoplay, clearReplayTimers, compact, initialIndex, openSelect, options.length, reduced, reset, selectAt])
+
+    useEffect(() => () => {
+      clearReplayTimers()
+      window.clearTimeout(rollTimerRef.current)
+      window.cancelAnimationFrame(blurFrameRef.current)
+      motionTokenRef.current += 1
+    }, [clearReplayTimers])
+
+    const onTriggerKeyDown = (event: KeyboardEvent<HTMLButtonElement>) => {
+      if (!open) {
+        if (['Enter', ' ', 'ArrowDown', 'ArrowUp'].includes(event.key)) {
+          event.preventDefault()
+          openSelect()
+        }
+        return
+      }
+      if (event.key === 'Escape') {
+        event.preventDefault()
+        closeSelect(true)
+        return
+      }
+      if (event.key === 'Home' || event.key === 'End') {
+        event.preventDefault()
+        setActiveIndex(event.key === 'Home' ? 0 : options.length - 1)
+        return
+      }
+      if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+        event.preventDefault()
+        const direction = event.key === 'ArrowDown' ? 1 : -1
+        setActiveIndex((current) => {
+          const base = current >= 0 ? current : selectedIndex
+          return (base + direction + options.length) % options.length
+        })
+        return
+      }
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault()
+        selectAt(activeIndex >= 0 ? activeIndex : selectedIndex)
+      }
+    }
+
+    const style = {
+      '--msel-gap': `${resolved.gap}px`,
+      '--msel-panel-height': `${panelHeight}px`,
+      '--msel-open-delay': `${resolved.duration * 0.3 * motionScale}s`,
+      '--msel-option-start': `${resolved.duration * 0.32 * motionScale}s`,
+      '--msel-stagger': `${resolved.stagger * motionScale}s`,
+      '--msel-highlight-delay': `${(resolved.duration * 0.32 + options.length * resolved.stagger) * motionScale}s`,
+      '--msel-quick': `${0.2 * motionScale}s`,
+      '--msel-caret-duration': `${0.4 * motionScale}s`,
+      '--msel-roll-duration': `${0.4 * motionScale}s`,
+      '--msel-highlight-duration': `${0.22 * motionScale}s`,
+      '--msel-direction': resolved.direction === 'up' ? '-1' : '1',
+    } as CSSProperties
+
+    const selected = options[selectedIndex]
+    const active = activeIndex >= 0 ? activeIndex : selectedIndex
+
+    return (
+      <div
+        ref={rootRef}
+        className="msel-demo"
+        data-compact={compact ? 'true' : 'false'}
+        data-open={open ? 'true' : 'false'}
+        data-direction={resolved.direction}
+        style={style}
+        aria-hidden={compact ? true : undefined}
+      >
+        <div className="msel-wrap">
+          <div className="msel-field">
+            <span className="msel-label" id={labelId}>Discipline</span>
+            <div className="msel-stack">
+              <div ref={gooRef} className="msel-goo" aria-hidden="true">
+                <svg className="msel-filter-svg" width="0" height="0" focusable="false">
+                  <defs>
+                    <filter id={filterId} x="-50%" y="-700%" width="200%" height="1500%" colorInterpolationFilters="sRGB">
+                      <feGaussianBlur ref={blurRef} in="SourceGraphic" stdDeviation="0" result="blur" />
+                      <feColorMatrix
+                        in="blur"
+                        mode="matrix"
+                        values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -10"
+                        result="goo"
+                      />
+                      <feComposite in="SourceGraphic" in2="goo" operator="atop" />
+                    </filter>
+                  </defs>
+                </svg>
+                <div className="msel-trigger-bg" />
+                <div ref={shiftRef} className="msel-panel-shift">
+                  <div ref={shapeRef} className="msel-panel-shape" />
+                </div>
+              </div>
+
+              <div className="msel-trigger-bg-crisp" aria-hidden="true" />
+
+              <div className="msel-content">
+                <button
+                  ref={triggerRef}
+                  type="button"
+                  className="msel-trigger"
+                  aria-haspopup="listbox"
+                  aria-expanded={open}
+                  aria-labelledby={labelId}
+                  aria-controls={listId}
+                  aria-activedescendant={open ? `${listId}-option-${active}` : undefined}
+                  tabIndex={compact ? -1 : 0}
+                  onClick={(event) => {
+                    if (compact) return
+                    event.stopPropagation()
+                    if (open) closeSelect(true); else openSelect()
+                  }}
+                  onKeyDown={onTriggerKeyDown}
+                >
+                  <span className="msel-value-roller" data-rolling={roll.active ? 'true' : 'false'}>
+                    <span className="msel-value-face msel-value-face-current">{roll.current}</span>
+                    <span className="msel-value-face msel-value-face-next" aria-hidden="true">{roll.next}</span>
+                  </span>
+                  <CaretDown className="msel-caret" size={16} weight="regular" aria-hidden="true" />
+                </button>
+
+                <div className="msel-panel" aria-hidden={!open}>
+                  <div
+                    className="msel-highlight"
+                    aria-hidden="true"
+                    style={{ transform: `translate3d(0, ${6 + active * OPTION_HEIGHT}px, 0)` }}
+                  />
+                  <ul className="msel-list" id={listId} role="listbox" tabIndex={-1} aria-labelledby={labelId}>
+                    {options.map((option, index) => (
+                      <li
+                        className="msel-option"
+                        id={`${listId}-option-${index}`}
+                        key={option.value}
+                        role="option"
+                        aria-selected={selected?.value === option.value}
+                        onPointerEnter={() => { if (open && !compact) setActiveIndex(index) }}
+                        onClick={(event) => {
+                          if (compact) return
+                          event.stopPropagation()
+                          selectAt(index)
+                        }}
+                      >
+                        <span className="msel-option-mask">
+                          <span
+                            className="msel-option-mask-inner"
+                            style={{ '--msel-option-index': index } as CSSProperties}
+                          >
+                            {option.label}
+                          </span>
+                        </span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  },
+)
+```
+
+### MorphingSelectDemo.css
+
+```
+@font-face {
+  font-family: 'Morphing Select Switzer';
+  src: url('/vault/morphing-select/Switzer-Variable.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+.msel-demo {
+  --msel-bg: #ebebe9;
+  --msel-ink: #101010;
+  --msel-fg: rgb(255 250 242 / 92%);
+  --msel-fg-soft: rgb(255 255 255 / 78%);
+  --msel-fg-dim: rgb(255 255 255 / 55%);
+  container: msel-stage / size;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  overflow: hidden;
+  background: var(--msel-bg);
+  color: #0a0a0a;
+  font-family: 'Morphing Select Switzer', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  line-height: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+.msel-wrap {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--msel-bg);
+}
+
+.msel-field {
+  position: relative;
+  width: 280px;
+  transform-origin: 50% 50%;
+}
+
+.msel-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.msel-stack {
+  position: relative;
+}
+
+.msel-goo {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.msel-filter-svg {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.msel-trigger-bg,
+.msel-panel-shape {
+  position: absolute;
+  inset-inline-start: 0;
+  width: 100%;
+  background: var(--msel-ink);
+  will-change: transform, height, border-radius;
+}
+
+.msel-trigger-bg {
+  inset-block-start: 0;
+  height: 52px;
+  border-radius: 999px;
+}
+
+.msel-panel-shift {
+  position: absolute;
+  inset-block-start: 0;
+  inset-inline-start: 0;
+  width: 100%;
+  height: 52px;
+  transform: translate3d(0, 0, 0);
+  will-change: transform;
+}
+
+.msel-panel-shape {
+  inset-block-start: 0;
+  height: 52px;
+  border-radius: 26px;
+  transform-origin: 50% 0%;
+}
+
+.msel-demo[data-direction='up'] .msel-panel-shift {
+  inset-block: auto 0;
+}
+
+.msel-demo[data-direction='up'] .msel-panel-shape {
+  inset-block: auto 0;
+  transform-origin: 50% 100%;
+}
+
+.msel-trigger-bg-crisp {
+  position: absolute;
+  inset: 0;
+  height: 52px;
+  border-radius: 999px;
+  background: var(--msel-ink);
+  pointer-events: none;
+}
+
+.msel-content {
+  position: relative;
+  z-index: 1;
+}
+
+.msel-trigger {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: 52px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0 20px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--msel-fg);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 13.3333px;
+  line-height: normal;
+}
+
+.msel-trigger:focus-visible {
+  border-radius: 999px;
+  outline: 2px solid #fd551d;
+  outline-offset: 2px;
+}
+
+.msel-value-roller {
+  position: relative;
+  display: block;
+  height: 1.3em;
+  overflow: visible clip;
+  line-height: 1.3em;
+}
+
+.msel-value-face {
+  display: block;
+  transform: translateY(0%);
+  color: var(--msel-fg);
+  font-size: 15px;
+  font-weight: 380;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.msel-value-face-next {
+  position: absolute;
+  inset-block-start: 0;
+  inset-inline-start: 0;
+  transform: translateY(100%);
+}
+
+.msel-value-roller[data-rolling='true'] .msel-value-face-current,
+.msel-value-roller[data-rolling='true'] .msel-value-face-next {
+  transition: transform var(--msel-roll-duration) cubic-bezier(0.7, 0, 0.16, 1);
+}
+
+.msel-value-roller[data-rolling='true'] .msel-value-face-current {
+  transform: translateY(-100%);
+}
+
+.msel-value-roller[data-rolling='true'] .msel-value-face-next {
+  transform: translateY(0%);
+}
+
+.msel-caret {
+  display: block;
+  width: 16px;
+  height: 16px;
+  flex: 0 0 auto;
+  transform: rotate(0deg);
+  transform-origin: 50% 50%;
+  transition: transform var(--msel-caret-duration) cubic-bezier(0.7, 0, 0.16, 1);
+}
+
+.msel-demo[data-open='true'] .msel-caret {
+  transform: rotate(180deg);
+}
+
+.msel-panel {
+  position: absolute;
+  inset-block-start: calc(100% + var(--msel-gap));
+  inset-inline-start: 0;
+  z-index: 2;
+  width: 100%;
+  height: var(--msel-panel-height);
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity var(--msel-quick) cubic-bezier(0.4, 0, 1, 1),
+    visibility 0s linear var(--msel-quick);
+}
+
+.msel-demo[data-direction='up'] .msel-panel {
+  inset-block: auto calc(100% + var(--msel-gap));
+}
+
+.msel-demo[data-open='true'] .msel-panel {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+  transition:
+    opacity var(--msel-quick) cubic-bezier(0, 0, 0.2, 1) var(--msel-open-delay),
+    visibility 0s linear 0s;
+}
+
+.msel-list {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  outline: none;
+}
+
+.msel-highlight {
+  position: absolute;
+  inset-block-start: 0;
+  inset-inline: 6px;
+  z-index: 0;
+  height: 40px;
+  border-radius: 10px;
+  visibility: hidden;
+  opacity: 0;
+  background: rgb(255 255 255 / 10%);
+  pointer-events: none;
+  transition:
+    transform var(--msel-highlight-duration) cubic-bezier(0.7, 0, 0.16, 1),
+    opacity 0.18s cubic-bezier(0, 0, 0.2, 1),
+    visibility 0s linear 0.18s;
+  will-change: transform;
+}
+
+.msel-demo[data-open='true'] .msel-highlight {
+  visibility: visible;
+  opacity: 1;
+  transition-delay: 0s, var(--msel-highlight-delay), 0s;
+}
+
+.msel-option {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  height: 40px;
+  align-items: center;
+  padding: 0 14px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.msel-option-mask {
+  position: relative;
+  display: block;
+}
+
+.msel-option-mask-inner {
+  display: block;
+  opacity: 0;
+  color: var(--msel-fg-soft);
+  font-size: 14px;
+  font-weight: 380;
+  letter-spacing: -0.01em;
+  line-height: normal;
+  white-space: nowrap;
+  transition: opacity 0.3s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.msel-demo[data-open='true'] .msel-option-mask-inner {
+  opacity: 1;
+  transition-delay: calc(var(--msel-option-start) + var(--msel-option-index) * var(--msel-stagger));
+}
+
+.msel-option[aria-selected='true'] .msel-option-mask-inner {
+  color: var(--msel-fg);
+}
+
+.msel-demo[data-compact='true'] {
+  pointer-events: none;
+}
+
+.msel-demo[data-compact='true'] .msel-field {
+  scale: 0.82;
+}
+
+@container msel-stage (max-height: 360px) {
+  .msel-demo[data-compact='true'] .msel-field {
+    scale: 0.42;
+  }
+}
+
+@container msel-stage (max-height: 220px) {
+  .msel-demo[data-compact='true'] .msel-field {
+    scale: 0.36;
+  }
+}
+
+@media (max-width: 479px) {
+  .msel-demo:not([data-compact='true']) .msel-field {
+    width: min(280px, calc(100% - 40px));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .msel-demo *,
+  .msel-demo *::before,
+  .msel-demo *::after {
+    scroll-behavior: auto !important;
+  }
+}
+```

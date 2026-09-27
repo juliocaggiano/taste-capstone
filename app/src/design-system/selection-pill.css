@@ -1,0 +1,61 @@
+.dc-selection-pill {
+  --selection-surface: var(--dc-surface);
+  --selection-active: var(--dc-selected-surface);
+  position: relative;
+  box-sizing: border-box;
+  isolation: isolate;
+  display: inline-flex;
+  align-items: stretch;
+  gap: 2px;
+  max-width: 100%;
+  padding: 3px;
+  border-radius: 999px;
+  background: var(--selection-surface);
+  color: var(--dc-text);
+  font-family: var(--dc-font-sans, sans-serif);
+}
+.dc-selection-pill .dc-selection-indicator {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  border-radius: inherit;
+  background: var(--selection-active);
+  pointer-events: none;
+  transition: transform 240ms cubic-bezier(.22, 1, .36, 1), width 240ms cubic-bezier(.22, 1, .36, 1), height 240ms cubic-bezier(.22, 1, .36, 1), opacity 120ms ease;
+}
+.dc-selection-pill .dc-selection-option {
+  position: relative;
+  box-sizing: border-box;
+  display: flex;
+  min-width: 0;
+  min-height: 26px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+  padding: 4px 12px;
+  border: 0;
+  border-radius: inherit;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 12px;
+  line-height: 18px;
+  cursor: pointer;
+  transition: opacity 140ms ease, background-color 140ms ease;
+}
+.dc-selection-pill .dc-selection-option:hover:not(:disabled):not([aria-checked="true"]) { background: var(--dc-selected-surface); }
+.dc-selection-pill .dc-selection-option:disabled { opacity: .4; cursor: not-allowed; }
+.dc-selection-pill .dc-selection-option:focus-visible { outline: 2px solid var(--dc-focus); outline-offset: 2px; }
+.dc-selection-pill[data-orientation="vertical"] { display: flex; flex-direction: column; border-radius: 16px; }
+.dc-selection-pill[data-orientation="vertical"] .dc-selection-option { justify-content: space-between; text-align: left; }
+.dc-selection-check { flex: none; opacity: 0; transform: scale(.8); transition: opacity 160ms ease, transform 200ms cubic-bezier(.22, 1, .36, 1); }
+[aria-checked="true"] > .dc-selection-check { opacity: 1; transform: scale(1); }
+@media (pointer: coarse) { .dc-selection-pill .dc-selection-option { min-height: 44px; } }
+@media (prefers-reduced-motion: reduce) {
+  .dc-selection-pill .dc-selection-indicator,
+  .dc-selection-pill .dc-selection-option,
+  .dc-selection-check { transition: none; }
+  .dc-selection-check { transform: none; }
+}

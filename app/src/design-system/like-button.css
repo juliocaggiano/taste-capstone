@@ -1,0 +1,38 @@
+.dc-like-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--dc-surface);
+  color: var(--dc-text);
+  font: 400 12px/20px var(--dc-font-sans, sans-serif);
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+}
+.dc-like-button .dc-like-icon {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  transform-origin: center;
+  pointer-events: none;
+}
+.dc-like-icon > svg { display: block; flex: none; }
+.dc-like-count {
+  display: inline-flex;
+  flex: none;
+  overflow: hidden;
+  text-align: end;
+  font-variant-numeric: tabular-nums;
+  font-kerning: none;
+  white-space: nowrap;
+}
+.dc-like-count-value { display: inline-block; flex: none; width: max-content; }
+.dc-like-button:disabled { cursor: default; opacity: .45; }
+.dc-like-button:focus-visible { outline: 2px solid var(--dc-focus); outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) {
+  .dc-like-button .dc-like-icon { transform: none !important; }
+}

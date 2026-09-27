@@ -1,0 +1,17 @@
+{
+  "entries": 21,
+  "mediumCounts": {
+    "architecture": 3,
+    "sculpture": 3,
+    "painting": 3,
+    "music": 3,
+    "literature": 3,
+    "theater": 3,
+    "cinema": 3
+  },
+  "candidates": 63,
+  "distinctPerWork": true,
+  "dimensionsAndHashes": "passed",
+  "localImageAndOriginalURLs": 64,
+  "HTTP": "passed"
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "milkmaid",
+    "title": "The Milkmaid",
+    "creator": "Johannes Vermeer",
+    "dateDisplay": "c. 1660",
+    "dateStart": 1660,
+    "dateEnd": null,
+    "place": "Delft, Netherlands",
+    "medium": "painting",
+    "meaningBrief": "Sustained attention to a servant’s ordinary work gives the scene its significance, helped by deliberate pictorial simplification.",
+    "body": "Despite the title, this woman is a kitchen servant rather than someone milking cows. She pours a thin stream of milk into a bowl beside a table covered with bread, watching the task closely. Vermeer gives a small moment of household work the patient attention more often associated with a portrait of an important person.\n\nDomestic servants were familiar subjects in seventeenth-century Dutch art, but they frequently appeared in jokes about idleness or sexual availability. Vermeer’s woman is occupied and capable. Her rolled sleeves, strong arms and careful grip explain what she is doing without making her performance a lesson or a joke. A Cupid on a floor tile leaves room for a reference to love, although her expression gives us no access to a private story.\n\nThe bread and basket are painted with tiny touches of light that make their surfaces almost tangible. Around them, the room is comparatively bare. Recent examination revealed that Vermeer originally included a rack of jugs behind the servant and a large basket near the floor, then painted them out. The simplicity came through revision.\n\nThose removals help explain why an uneventful scene holds attention. Fewer objects compete with the woman, so the act of pouring becomes something we can follow for longer than we would normally give it. The servant’s place in the household may have been modest, but the painting makes her work worth sustained observation.",
+    "sources": [
+      {
+        "title": "Rijksmuseum — The Milkmaid",
+        "url": "https://www.rijksmuseum.nl/en/collection/object/The-Milkmaid--42dd0e658c2979aec8e144d2357c55c0",
+        "role": "interpretation and factual context",
+        "supports": "Current date c. 1660, servant, concentrated pouring, monumental attention and light.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — Vermeer’s Masterpiece: The Milkmaid",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2009/vermeer/photo-gallery",
+        "role": "interpretation and factual context",
+        "supports": "Domestic work, earlier depictions of maids, Cupid tile, tactile surfaces and concentrated figure.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Rijksmuseum — Discoveries beneath The Milkmaid",
+        "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-reveals-major-discoveries-on-vermeer-s-painting-the-milkmaid",
+        "role": "interpretation and factual context",
+        "supports": "Jug rack and fire basket painted out; simplification of the room. Older dates in this article superseded by the current object record.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained the servant’s task and pictorial tradition, then made the documented revisions answer why the scene holds attention.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-milkmaid-a.jpg",
+      "referenceUrl": "https://www.rijksmuseum.nl/en/collection/object/The-Milkmaid--42dd0e658c2979aec8e144d2357c55c0",
+      "altText": "A servant in a yellow bodice pours milk into a bowl beside bread and a basket in a simply furnished room.",
+      "credit": "Johannes Vermeer",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "night-watch",
+    "title": "The Night Watch",
+    "creator": "Rembrandt van Rijn",
+    "dateDisplay": "1642",
+    "dateStart": 1642,
+    "dateEnd": null,
+    "place": "Amsterdam, Netherlands",
+    "medium": "painting",
+    "meaningBrief": "A civic group portrait makes individual patrons part of a coordinated public body.",
+    "body": "In seventeenth-century Amsterdam, armed groups of citizens helped defend the city and maintain order. Their prosperous members commissioned portraits for the halls where they met, making membership a form of public recognition. Rembrandt’s commission came from the company led by Captain Frans Banninck Cocq. He turned its group portrait into a scene of men preparing to move.\n\nThe captain, dressed in black with a red sash, extends his hand beside his lieutenant in yellow. Around them, a drummer plays and musketeers handle their weapons. Instead of receiving equal attention in an orderly row, the men take different parts in a shared activity. Their officers appear important because the group seems to be gathering under their direction.\n\nThe brightly lit girl is an unexpected presence among the armed men. A chicken hangs at her waist with its claws conspicuous, serving as an emblem of the company. She helps identify the group much as a badge would, bringing a symbolic figure into a scene that otherwise feels caught in motion.\n\nDespite the familiar title, the men are not setting out on a night patrol. The painting acquired that name later, after its darkened appearance encouraged a mistaken reading. Seen as a civic portrait, its purpose becomes clearer: it gave a company of paying patrons an energetic image of itself, combining individual recognition with the appearance of organised public service.",
+    "sources": [
+      {
+        "title": "Rijksmuseum — Ten things about The Night Watch",
+        "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch",
+        "role": "interpretation and factual context",
+        "supports": "Commission, date, officers, musketeer actions, civic emblems and later title.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Rijksmuseum — Why is The Night Watch so famous?",
+        "url": "https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/why-is-the-night-watch-so-famous",
+        "role": "interpretation and factual context",
+        "supports": "Action replaces a static group portrait; daylight, lighting and group organization.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Smarthistory / Khan Academy — Rembrandt, The Night Watch",
+        "url": "https://www.khanacademy.org/humanities/renaissancereformation/baroqueart1/holland/a/rembrandt-the-night-watch",
+        "role": "interpretation and factual context",
+        "supports": "Indexed educational account of civic militia portrait commissions and the girl’s company emblem. Full page body unavailable to web reader.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained why the militia commissioned portraits and why movement, officers and emblems mattered to that purpose.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-night-watch-a.jpg",
+      "referenceUrl": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch",
+      "altText": "A civic militia gathers behind a captain dressed in black and a lieutenant in yellow, with raised weapons and a brightly lit girl.",
+      "credit": "Rembrandt van Rijn",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "judith-holofernes",
+    "title": "Judith Beheading Holofernes",
+    "creator": "Artemisia Gentileschi",
+    "dateDisplay": "c. 1620",
+    "dateStart": 1620,
+    "dateEnd": null,
+    "place": "Florence, Italy",
+    "medium": "painting",
+    "meaningBrief": "Gentileschi makes the courage of a biblical heroine depend on physical effort and cooperation between women.",
+    "body": "In the biblical Book of Judith, an invading army threatens the town of Bethulia. Judith, a widow, enters the enemy camp and wins the confidence of its commander, Holofernes. When he becomes drunk, she takes the opportunity to kill him. His death allows her community to overcome an army it could not defeat by force.\n\nArtemisia Gentileschi shows the killing as difficult physical work. Judith presses down on Holofernes’ head while her maid restrains him, and the two women lean into the task together. The maid has become an active participant rather than someone waiting to carry away the head. Their cooperation makes Judith’s celebrated courage practical: success depends on strength, timing and another woman’s help.\n\nJudith was already a familiar heroine in European art, admired for saving her people from a more powerful enemy. Gentileschi’s treatment gave unusual weight to the women carrying out the action. She painted the scene during a career in which she also had to establish her authority in a profession dominated by men, becoming the first woman admitted to Florence’s academy of art.\n\nHer experience of rape and the trial of her attacker has strongly influenced later readings of the painting. It offers relevant context for its interest in female power, but treating the scene only as personal revenge makes her artistic choices harder to see. Gentileschi was also interpreting a public religious story, and her version makes the heroine’s achievement inseparable from the effort required to carry it out.",
+    "sources": [
+      {
+        "title": "Uffizi — Judith Beheading Holofernes",
+        "url": "https://www.uffizi.it/en/artworks/judith-beheading-holofernes",
+        "role": "interpretation and factual context",
+        "supports": "Florence version, c. 1620, biblical rescue, force of the scene, artist’s career and academy admission.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "National Gallery — Artemisia exhibition",
+        "url": "https://www.nationalgallery.org.uk/about-us/press-and-media/press-releases-archive/artemisia",
+        "role": "interpretation and factual context",
+        "supports": "Women’s agency, painter’s experience of rape and trial, biographical interpretation and the two versions.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "National Gallery — Five heroines by Artemisia",
+        "url": "https://www.nationalgallery.org.uk/exhibitions/past/artemisia/five-heroines-by-artemisia",
+        "role": "interpretation and factual context",
+        "supports": "Judith’s story and the practical role of her maid; the page also discusses a different later moment, not this exact canvas.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained the town’s danger and the plan before the killing; kept biography relevant without reducing professional choices to revenge.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-judith-holofernes-a.jpg",
+      "referenceUrl": "https://www.uffizi.it/en/artworks/judith-beheading-holofernes",
+      "altText": "Judith in a gold dress cuts Holofernes’ throat while her maid restrains him on a bed.",
+      "credit": "Artemisia Gentileschi",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "calling-matthew",
+    "title": "The Calling of Saint Matthew",
+    "creator": "Caravaggio",
+    "dateDisplay": "1599–1600",
+    "dateStart": 1599,
+    "dateEnd": 1600,
+    "place": "Rome, Italy",
+    "medium": "painting",
+    "meaningBrief": "Grace reaches someone during ordinary, distrusted work; the invitation precedes the change in his life.",
+    "body": "In the Gospel of Matthew, Jesus approaches a tax collector at work and asks him to become a follower. Tax collectors served the ruling authorities and were widely distrusted, which makes the choice significant. The man does not have to begin as a respected or obviously holy person to receive the invitation.\n\nCaravaggio puts that encounter in a room where money is still being counted. Jesus enters from the right, partly concealed by Saint Peter, and extends his hand towards the table. A shaft of light follows the same direction. The bearded man usually identified as Matthew points towards himself, apparently surprised, while two others remain absorbed in the coins.\n\nFor people entering the chapel in Rome where the painting was installed, the clothes and surroundings would have seemed close to their own time. Caravaggio brought a biblical event into the familiar business of the city, allowing the religious meaning to emerge through an interruption to an ordinary day. Someone intent on money has been asked to give his life a different direction.\n\nThe different responses around the table keep the invitation from feeling automatic. Some people look up; others continue working. In Christian terms, the scene concerns grace, help from God that does not have to be earned in advance. Caravaggio makes that idea understandable by showing the call arriving before the tax collector has left his job or demonstrated that he deserves it.",
+    "sources": [
+      {
+        "title": "Smarthistory — Caravaggio, Calling of Saint Matthew",
+        "url": "https://smarthistory.org/caravaggio-calling-of-st-matthew/",
+        "role": "interpretation and factual context",
+        "supports": "Gospel narrative, ordinary contemporary dress, grace, light and gesture, church setting and usual identification of Matthew.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Turismo Roma — Caravaggio in Rome",
+        "url": "https://turismoroma.it/sites/default/files/Monografia%20Caravaggio_ENG_WEB.pdf",
+        "role": "interpretation and factual context",
+        "supports": "Official city guide: dates, Contarelli Chapel and illumination as grace.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "The Calling of Saint Matthew — identification debate",
+        "url": "https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew",
+        "role": "interpretation and factual context",
+        "supports": "Records the alternative identification of the younger figure; body uses “usually identified” rather than claiming certainty.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Connected occupation, invitation and different responses, explaining grace in familiar words.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-calling-matthew-a.jpg",
+      "referenceUrl": "https://smarthistory.org/caravaggio-calling-of-st-matthew/",
+      "altText": "Jesus points toward men seated around a table of coins as a diagonal beam of light crosses a dark room.",
+      "credit": "Caravaggio",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "surrender-breda",
+    "title": "The Surrender of Breda",
+    "creator": "Diego Velázquez",
+    "dateDisplay": "1634–1635",
+    "dateStart": 1634,
+    "dateEnd": 1635,
+    "place": "Madrid, Spain",
+    "medium": "painting",
+    "meaningBrief": "Courtesy to a defeated commander makes victorious Spanish power appear honourable to a royal audience.",
+    "body": "The Dutch city of Breda surrendered to an army serving Spain in 1625, after a long siege. The Dutch were fighting to end Spanish rule, so control of the city mattered to both sides. When Velázquez painted the victory about ten years later, he chose the handover of the keys as his central event.\n\nThe defeated commander, Justin of Nassau, bends towards Ambrogio Spinola, the Spanish commander. Spinola places a hand on his shoulder, appearing to stop him from kneeling. The gesture gives the encounter its human interest: victory does not require the losing man to be publicly humiliated. The soldiers remain on opposite sides, but their commanders can acknowledge one another’s standing.\n\nThis courtesy also served the painting’s royal audience. It was made for the Hall of Realms in a palace in Madrid, where battle pictures celebrated the Spanish monarchy’s achievements. Visitors were meant to admire a ruler whose armies could win and whose representatives knew how to behave generously afterwards. Military power and honour reinforced each other.\n\nThe long, upright Spanish lances make the victorious army look organised, while smoke over the distant landscape recalls the fighting that secured its position. Velázquez does not need to place that fighting in the foreground. By concentrating on the respectful exchange, he turns the manner of receiving a surrender into part of what made the victory worth celebrating.",
+    "sources": [
+      {
+        "title": "Museo del Prado — The Lances, or The Surrender of Breda",
+        "url": "https://www.museodelprado.es/en/resource/the-lances-or-the-surrender-of-breda-velazquez/927265db-4827-b737-08c0-6c2bf722764b",
+        "role": "interpretation and factual context",
+        "supports": "Accessible museum explanation: siege, Dutch conflict with Spain, exchange, gesture, propaganda and royal commission.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Web Gallery of Art — The Surrender of Breda",
+        "url": "https://www.wga.hu/html_m/v/velazque/04/0401vela.html",
+        "role": "interpretation and factual context",
+        "supports": "1634–35 date, Hall of Realms program and composition. Avoids the source’s overly absolute claims about absence of harm.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Joined the siege, handover and palace commission, showing why a humane encounter also served a political purpose.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-surrender-breda-a.jpg",
+      "referenceUrl": "https://www.museodelprado.es/en/resource/the-lances-or-the-surrender-of-breda-velazquez/927265db-4827-b737-08c0-6c2bf722764b",
+      "altText": "Two commanders exchange the keys of Breda between Dutch soldiers and a Spanish company carrying tall lances.",
+      "credit": "Diego Velázquez",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "american-gothic",
+    "title": "American Gothic",
+    "creator": "Grant Wood",
+    "dateDisplay": "1930",
+    "dateStart": 1930,
+    "dateEnd": null,
+    "place": "Iowa, United States",
+    "medium": "painting",
+    "meaningBrief": "An imagined rural household can embody both reassuring continuity and restrictive social habits.",
+    "body": "Grant Wood began with a house. In the small Iowa town of Eldon, he noticed a wooden home with a pointed window borrowed from Gothic church architecture, then imagined the people who might live there. His sister and his dentist posed separately for the figures, whom he presented as a farmer and daughter. They were never a household standing together outside that building.\n\nThe resulting picture appeared in 1930, as the Great Depression unsettled American confidence. The pitchfork, practical clothes and carefully kept house suggested work, thrift and continuity. Even their shapes belong together: the fork’s straight lines echo the man’s overalls and the pointed forms above him. Wood made rural life look remarkably orderly.\n\nWhether that order was reassuring or restrictive divided viewers. Some saw capable people whose habits might carry the country through a crisis; others saw a joke about the narrowness of small-town America. The man’s stare can seem dependable or unwelcoming, and the woman’s sideways glance prevents the pair from becoming an uncomplicated picture of family harmony.\n\nWood defended the rural people he painted, but the image has remained available to both readings. That tension helps explain its frequent reuse and parody. The same faces can stand for national resilience or resistance to change, depending on what a viewer believes those familiar American values preserve.",
+    "sources": [
+      {
+        "title": "Art Institute of Chicago — American Gothic",
+        "url": "https://www.artic.edu/artworks/6565/american-gothic",
+        "role": "interpretation and factual context",
+        "supports": "Collection description retrieved through the public API: father and daughter, Gothic house, Depression-era reassurance, divided reception.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Whitney Museum — American Gothic, audio transcript",
+        "url": "https://whitney.org/media/36759",
+        "role": "interpretation and factual context",
+        "supports": "Figures’ lack of communication and contemporary disagreement between affirmative and satirical readings.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Whitney Museum — Grant Wood: American Gothic and Other Fables",
+        "url": "https://whitney.org/exhibitions/grant-wood",
+        "role": "interpretation and factual context",
+        "supports": "Rural national identity and the complexity beneath the reassuring appearance.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Art Institute of Chicago — American Art teaching resource",
+        "url": "https://archive.artic.edu/homer_exhb/assets/Rsrc_001087.pdf",
+        "role": "institutional educational account",
+        "supports": "Indexed teaching text: Eldon house, Gothic window, sister and dentist as models, repeated forms and varied reception.",
+        "accessedOn": "2026-09-27"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Began with the actual house and models, then followed Depression-era reception and the durable disagreement over the image.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-american-gothic-a.jpg",
+      "referenceUrl": "https://www.artic.edu/artworks/6565/american-gothic",
+      "altText": "A farmer holds a pitchfork beside his daughter in front of a white house with a pointed Gothic window.",
+      "credit": "Grant Wood",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "abaporu",
+    "title": "Abaporu",
+    "creator": "Tarsila do Amaral",
+    "dateDisplay": "1928",
+    "dateStart": 1928,
+    "dateEnd": null,
+    "place": "São Paulo, Brazil",
+    "medium": "painting",
+    "meaningBrief": "Cultural cannibalism proposes transforming foreign influences rather than treating Europe as Brazil’s standard.",
+    "body": "Tarsila do Amaral gave *Abaporu* to her husband, the writer Oswald de Andrade, for his birthday in 1928. Its enormous foot, small head, cactus and hot yellow sun offered an unfamiliar image of a human figure. The painting helped prompt a proposal for Brazilian culture: instead of measuring itself against Europe, it could turn what it borrowed into something of its own.\n\nThe title draws on Indigenous words for a person who eats human flesh. Oswald used cannibalism as a cultural metaphor in his *Anthropophagic Manifesto*. An artist could “consume” foreign ideas, combine them with local experience and produce work that no longer belonged to the original source. The point was not to close Brazil off from the world, but to give Brazilian artists authority over what entered their culture and how it changed.\n\nThat metaphor also reversed a colonial judgment. Europeans had used accounts of cannibalism to describe Indigenous peoples as uncivilised; the Brazilian modernists turned the feared act into an image of creative independence. The choice was provocative because it used the coloniser’s own language of inferiority against the expectation that European culture should remain the model.\n\nTarsila herself had studied in Paris, including with Fernand Léger. The painting’s simplified shapes therefore belong to an international artistic conversation, while its colours and vegetation evoke Brazil. Her European training did not disappear. It became one of the materials she could put to a different use.",
+    "sources": [
+      {
+        "title": "MALBA — Abaporu",
+        "url": "https://coleccion.malba.org.ar/en/abaporu/",
+        "role": "interpretation and factual context",
+        "supports": "Regina Teixeira de Barros’s collection essay: date, birthday gift, manifesto, Paris training and national identity. Full Spanish essay retrieved from the public page.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "MoMA — Tarsila do Amaral, Abaporu",
+        "url": "https://www.moma.org/audio/playlist/48/735",
+        "role": "interpretation and factual context",
+        "supports": "Curator Luis Pérez-Oramas and artist recollection: proportions, title, birthday gift and cultural ingestion metaphor.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "MASP / UNESP — Tarsila Popular",
+        "url": "https://acervodigital.unesp.br/handle/unesp/381358",
+        "role": "interpretation and factual context",
+        "supports": "Curatorial text on European, Indigenous and Afro-Atlantic influences and the constructed, contested character of national identity.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Viewers debate Abaporu’s proportions",
+        "url": "https://www.reddit.com/r/ballutverso/comments/1lk8f10",
+        "role": "reception challenge",
+        "supports": "Indexed discussion offers conflicting small-head/large-foot explanations. Used as a challenge to avoid presenting a speculative symbolic code as fact.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained the gift, manifesto and reversal of colonial judgment as a causal sequence, with Tarsila’s Paris training making the proposal concrete.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-abaporu-a.jpg",
+      "referenceUrl": "https://coleccion.malba.org.ar/en/abaporu/",
+      "altText": "A seated figure with a huge foot and tiny head rests beside a green cactus beneath a yellow sun.",
+      "credit": "Tarsila do Amaral",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "broken-column",
+    "title": "The Broken Column",
+    "creator": "Frida Kahlo",
+    "dateDisplay": "1944",
+    "dateStart": 1944,
+    "dateEnd": null,
+    "place": "Mexico",
+    "medium": "painting",
+    "meaningBrief": "Kahlo controls the representation of pain that outward composure cannot reliably communicate.",
+    "body": "Frida Kahlo was eighteen when a bus accident left her with injuries that continued to affect her adult life. By the time she painted *The Broken Column* in 1944, pain and medical treatment were recurring parts of her experience. Here she opens her torso to show a cracked stone column in place of her spine, giving a visible form to damage another person could not ordinarily see.\n\nThe white medical brace holds her body upright, while nails scattered across the skin suggest pain extending beyond a single injured point. An architectural support has broken, and an external support is keeping it together. The comparison makes the body’s dependence on treatment understandable without requiring the viewer to know the details of her medical history.\n\nKahlo meets our gaze even as tears run down her face. Her expression does not supply the dramatic gesture that might make suffering easier to recognise from a distance. Instead, the calm face and exposed damage exist at the same time, describing how little another person’s outward composure can tell us about what they feel.\n\nThe barren, cracked landscape continues the image of instability around her. There is no doctor explaining the condition and no scene of an accident to account for it. Kahlo gives us the patient’s experience after the event, when living in an injured body has become part of everyday life. The self-portrait lets her choose how that experience will be seen.",
+    "sources": [
+      {
+        "title": "Casa de México / Museo Dolores Olmedo — La columna rota",
+        "url": "https://www.casademexico.es/frida-kahlo-alas-para-volar-la-columna-rota/",
+        "role": "interpretation and factual context",
+        "supports": "Josefina García’s museum text: 1944, damaged column/spine, brace, nails, tears, barren cracked landscape and pain.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Museo Frida Kahlo — Life and work",
+        "url": "https://www.museofridakahlo.org.mx/frida/?lang=en",
+        "role": "interpretation and factual context",
+        "supports": "1907 birth, 1925 bus accident, recovery and sustained medical history. No medical diagnosis inferred.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Viewers discuss Kahlo’s emotional and physical experience",
+        "url": "https://www.reddit.com/r/ArtHistory/comments/1pvz4bz/can_someone_who_likes_frida_kahlo_please_explain/",
+        "role": "reception challenge",
+        "supports": "Readers with chronic illness describe recognition; others resist reducing her life to suffering. Reception evidence, not a population-wide finding.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained the column and medical brace together, then developed the patient’s viewpoint without diagnosing her from the image.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-broken-column-a.jpg",
+      "referenceUrl": "https://www.casademexico.es/frida-kahlo-alas-para-volar-la-columna-rota/",
+      "altText": "Frida Kahlo faces the viewer in an orthopedic brace, her open torso revealing a broken column, with tears and nails across her body.",
+      "credit": "Frida Kahlo",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "grande-jatte",
+    "title": "A Sunday on La Grande Jatte—1884",
+    "creator": "Georges Seurat",
+    "dateDisplay": "1884–1886",
+    "dateStart": 1884,
+    "dateEnd": 1886,
+    "place": "Paris, France",
+    "medium": "painting",
+    "meaningBrief": "Public leisure retains visible social order; Seurat’s carefully constructed surface reinforces that formality.",
+    "body": "On an island in the Seine, Parisians spend a Sunday walking, sitting in the shade and watching boats. Seurat worked on this scene from 1884 to 1886, filling it with people whose clothes suggest different kinds of work and social standing. A shared afternoon away from work has brought them to the same stretch of grass without making them a single, sociable group.\n\nMany figures stand stiffly in profile or face us directly. Seurat admired the ordered figures of ancient art and gave these modern visitors some of that formality. A crowded outing begins to resemble a carefully arranged procession, with even the dogs and parasols finding their place. The stillness makes us notice how people present themselves in public, including when they are supposedly relaxing.\n\nThe surface is just as deliberate. Seurat used small touches of separate colours, drawing on contemporary theories about how neighbouring colours affect vision. Up close, the picture breaks into marks; at a distance, they help create the brightness of grass, shade and water. He developed the composition through many studies rather than trying to record a passing afternoon in one sitting.\n\nThis combination of leisure and calculation distinguishes the scene from a casual view of a park. The people have time to enjoy themselves, but their clothes, poses and careful separation continue to show the social world they have brought with them. Seurat makes that public order as noticeable as the pleasure of being outdoors.",
+    "sources": [
+      {
+        "title": "Art Institute of Chicago — Seurat: themes",
+        "url": "https://archive.artic.edu/seurat/seurat_themes.html",
+        "role": "interpretation and factual context",
+        "supports": "Two-year construction, ancient frieze comparison, modern social types, color method, leisure and the later painted border.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Smarthistory — Seurat, A Sunday on La Grande Jatte",
+        "url": "https://smarthistory.org/georges-seurat-a-sunday-on-la-grande-jatte-1884/",
+        "role": "interpretation and factual context",
+        "supports": "Indexed Smarthistory passages: solemnity of ancient frieze figures and modern leisure. Full page body unavailable; museum essay supplies the main account.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Viewers discuss Seurat’s composition and technique",
+        "url": "https://www.reddit.com/r/ArtHistory/comments/fks42e/georges_seurat_a_sunday_afternoon_on_la_grande/",
+        "role": "reception challenge",
+        "supports": "Discussion prompted attention to social composition beyond the familiar dot technique; not evidence of consensus.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Connected the outing’s social relations to its poses and method, avoiding a detachable paragraph of technical trivia.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-grande-jatte-a.jpg",
+      "referenceUrl": "https://archive.artic.edu/seurat/seurat_themes.html",
+      "altText": "People in varied dress stand and sit beside the Seine, arranged among trees, parasols, dogs and a small monkey.",
+      "credit": "Georges Seurat",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "birth-venus",
+    "title": "The Birth of Venus",
+    "creator": "Sandro Botticelli",
+    "dateDisplay": "c. 1485",
+    "dateStart": 1485,
+    "dateEnd": null,
+    "place": "Florence, Italy",
+    "medium": "painting",
+    "meaningBrief": "A classical goddess gains a new place in the learned domestic culture of Renaissance Florence.",
+    "body": "Venus, the ancient goddess of love and beauty, arrives at the shore on a shell. A wind god blows her towards land, where a woman waits with a flowered cloak. Although the painting is called *The Birth of Venus*, Botticelli shows the arrival that follows her emergence from the sea. The story comes from classical mythology, which had become a renewed source of interest in fifteenth-century Florence.\n\nHer pose recalls ancient statues in which Venus partly covers her naked body. Yet she does not stand with the weight and balance of an ordinary person. Her long neck, tilted figure and flowing hair contribute to a beauty shaped for the story, while the wind moves the surrounding flowers and fabric in the same gentle direction.\n\nA large painting of a nude goddess was an unusual subject in a culture where so much important art served Christian worship. Wealthy Florentine households also collected and studied ancient literature, sculpture and philosophy, giving mythological subjects a place outside the church. This painting became associated with the Medici family, although its original commission is not securely documented.\n\nThat setting helps explain why Venus mattered beyond her appearance. Classical antiquity offered Renaissance patrons an account of beauty and love they could discuss through poetry, philosophy and images. Botticelli gave the ancient goddess a form suited to that renewed interest, turning a familiar myth into an object for the learned pleasures of a Florentine home.",
+    "sources": [
+      {
+        "title": "Uffizi — The Birth of Venus",
+        "url": "https://www.uffizi.it/en/artworks/birth-of-venus",
+        "role": "interpretation and factual context",
+        "supports": "c. 1485, arrival on Cyprus, figures, antique statue pose, probable but undocumented early Medici association, canvas for domestic settings.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "The Birth of Venus — context and interpretive history",
+        "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+        "role": "interpretation and factual context",
+        "supports": "Renaissance classical revival, unusual monumental nude and multiple philosophical interpretations. No single program or anti-Christian intent asserted.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-005",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-005/research.md",
+      "basis": "New researched draft. Writing and image approval remain pending.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained the arrival and ancient model before the household setting, keeping the original commission uncertain.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b005-birth-venus-a.jpg",
+      "referenceUrl": "https://www.uffizi.it/en/artworks/birth-of-venus",
+      "altText": "Venus stands on a shell as winged winds blow her toward a shore, where a woman waits with a flowered cloak.",
+      "credit": "Sandro Botticelli",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "billie-holiday-strange-fruit",
+    "medium": "music",
+    "title": "Strange Fruit",
+    "creator": "Billie Holiday; song by Abel Meeropol",
+    "dateDisplay": "1939 recording",
+    "dateStart": 1939,
+    "dateEnd": null,
+    "body": "Billie Holiday’s 1939 recording of Strange Fruit is a protest against the lynching of Black Americans. The song describes a Southern landscape, then reveals what hangs from its trees:\n\n> Black bodies swinging in the southern breeze\n\nThe comparison makes the bodies part of a scene usually associated with beauty and abundance. Flowers and warm air remain, but they surround people who have been murdered. The song connects the familiar beauty of the South with the racial violence taking place there.\n\nAbel Meeropol, a New York schoolteacher, wrote both the words and the music. Holiday’s contribution was her interpretation. She sings slowly and with restraint, giving the images time to register. Her delivery leaves room for listeners to follow the words and recognise what the scene describes.\n\nAt Café Society, an integrated New York nightclub, the song changed the usual conditions of entertainment. Service stopped, the room darkened, and a spotlight remained on Holiday. She sang it at the end of her set and left without returning for a bow. The audience had to listen without drinks arriving or another number immediately following.\n\nHoliday recorded the song for the small Commodore label after her usual label declined it. That recording carried an explicit account of racist murder beyond the nightclub. In a period when Congress had repeatedly failed to pass federal anti-lynching legislation, the song put the victims before an audience that might otherwise avoid the subject.",
+    "sources": [
+      {
+        "title": "Library of Congress: Strange Fruit, essay by Julia Blackburn",
+        "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/StrangeFruit_Blackburn.pdf",
+        "role": "national recording archive; critical essay",
+        "supports": "1939 Commodore recording, Meeropol authorship, Café Society context, anti-lynching subject. Conflicting photograph identification and speculative persecution causality are not used."
+      },
+      {
+        "title": "Geoffrey Himes: What Makes Billie Holiday’s Music So Powerful Today",
+        "url": "https://www.smithsonianmag.com/arts-culture/what-makes-billie-holiday-so-powerful-today-180954893/",
+        "role": "substantive music criticism",
+        "supports": "Quiet, controlled vocal approach and specific comparison of the 1939 Strange Fruit performance with later interpretation. No personal listening claimed."
+      },
+      {
+        "title": "Indiana Public Media, Night Lights: A Strange and Bitter Crop",
+        "url": "https://www.ipm.org/show/nightlights/2019-09-11/strange-bitter-crop-billie-holidays-song-century",
+        "role": "public-broadcast music history",
+        "supports": "Café Society performance rules: halted service, spotlight, departure without an encore; discusses David Margolick’s historical account. Re-read 24 September 2026: service and lighting, final song/no bow, Commodore release and Congress’s repeated failure to pass anti-lynching legislation."
+      },
+      {
+        "title": "Public discussion: Billie Holiday, Strange Fruit",
+        "url": "https://www.reddit.com/r/Music/comments/hsxi42/",
+        "role": "reception clue",
+        "supports": "Some listeners describe only later recognizing the lynching subject; others compare versions. This supports explaining the metaphor directly. Unsupported assertions about government causation and death are excluded."
+      },
+      {
+        "title": "World History Commons: Strange Fruit (1939), primary source and annotation",
+        "url": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+        "role": "educational primary-source presentation",
+        "supports": "Verified seven-word lyric selection; anti-lynching subject and refusal by usual label before Commodore recording. Read 24 September 2026."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New entry about the 1939 Commodore recording, not a later live performance",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "A pastoral landscape reveals lynched Black bodies; Holiday’s restrained interpretation and the conditions of her nightclub performances make racist killing a subject audiences must attend to. A seven-word lyric excerpt gives direct evidence, while authorship and recording context remain distinct.",
+    "quotationNotes": [
+      {
+        "quote": "Black bodies swinging in the southern breeze",
+        "wordCount": 7,
+        "source": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+        "locator": "Annotation, quoted first stanza",
+        "verification": "Checked in the educational primary-source presentation. Plural bodies is the form printed there; Indiana Public Media transcribes body. No new direct audio verification claimed.",
+        "purpose": "Makes the central metaphor concrete without relying only on paraphrase. No other lyric excerpt appears."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Strange-Fruit-Commodore-1939.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Strange-Fruit-Commodore-1939.jpg",
+      "altText": "Commodore 526A label for Billie Holiday and Her Orchestra’s Strange Fruit.",
+      "credit": "Commodore Records label; original-record scan via Wikimedia Commons.",
+      "license": "Record-label image marked public domain on Commons; recording and composition rights are separate.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact 1939 release label, identified by Commons metadata. No audio download or recording-use clearance."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 11,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-billie-holiday-strange-fruit"
+  },
+  "decision": {
+    "id": "billie-holiday-strange-fruit",
+    "decisionId": "julio-2026-09-25-billie-holiday-strange-fruit",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image A; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "8a9da96570e5fc06",
+    "imageOption": "A",
+    "imageHash": "59b0ec9f04894104",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "A",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "A",
+      "label": "Commodore 526-A · 1939 release",
+      "description": "Red-and-gold record label naming Strange Fruit, Holiday and her orchestra.",
+      "imageUrl": "image-options/assets/music/holiday-a-commodore-label.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Strange-Fruit-Commodore-1939.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strange-Fruit-Commodore-1939.jpg",
+      "credit": "Commodore Records; original-record scan by Wikimedia Commons contributor WFinch.",
+      "altText": "Circular red Commodore label with gold type for Billie Holiday and Her Orchestra’s Strange Fruit, 526-A.",
+      "width": 2700,
+      "height": 2700,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Commons marks the label public domain in the United States because of publication without notice; this does not clear every jurisdiction, the song or recording.",
+      "edition": "Commodore 526-A; 1939 release.",
+      "editionNotes": "Title, performer and catalogue number are visible and agree with the Commons record. The physical pressing date of this particular copy is not independently established. This is record-label artwork, not a sleeve. No audio is included.",
+      "verificationSources": [],
+      "verifiedOn": "2026-09-23",
+      "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+      "sha256": "7f97b3a121e9eb80ce65787c716bdfc134ed4896b02abb57974a16127ac4eed8",
+      "assetSha256": "7f97b3a121e9eb80ce65787c716bdfc134ed4896b02abb57974a16127ac4eed8"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Commodore Records; original-record scan by Wikimedia Commons contributor WFinch.",
+    "altText": "Circular red Commodore label with gold type for Billie Holiday and Her Orchestra’s Strange Fruit, 526-A.",
+    "width": 1200,
+    "height": 1500,
+    "imageTreatment": "Existing vinyl presentation, packaged as a self-contained SVG",
+    "components": {
+      "label": "assets/label.jpg",
+      "surround": "../../assets/vinyl-reference.png",
+      "template": "../../provenance/vinyl_template.py",
+      "templateAndSurroundHashes": {
+        "visual-study/vinyl_template.py": "2792d91288b0b05f869c27a037913ad2b75ac24e87fecfb3d497cafaa3d55134",
+        "visual-study/references/vinyl-reference.png": "a5b1ac83629e349691a192b12f1bfd4971d3ff41e9dd9cf289ea19467276ea23"
+      }
+    },
+    "imageUrl": "assets/selected.svg",
+    "sha256": "d0bf1f75d42b0673486d297698a72caf322063d59266090bc1737d9ea3dbfba7",
+    "sourceAssetSha256": "7f97b3a121e9eb80ce65787c716bdfc134ed4896b02abb57974a16127ac4eed8"
+  },
+  "frozen": {
+    "bodyHash": "8a9da96570e5fc06",
+    "bodySha256": "02287e0615d7980c4d46278eee9b31dd0818c4073bf28c5bcdc03d8ddbd08e1d",
+    "imageHash": "59b0ec9f04894104",
+    "sourceEntrySha256": "2668108207e5ba79c768f1dbbe548556e66e54ddf331edf26a597d8274bd17fa"
+  }
+}

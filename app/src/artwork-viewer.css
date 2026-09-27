@@ -1,0 +1,103 @@
+.artwork-viewer-overlay {
+  position: absolute;
+  z-index: 64;
+  inset: 0;
+  background: #000;
+}
+
+.artwork-viewer {
+  position: absolute;
+  z-index: 65;
+  inset: 0;
+  min-height: 0;
+  overflow: hidden;
+  background: #000;
+  color: #fff;
+  font: 400 12px/16px var(--dc-font-sans);
+  outline: none;
+}
+
+.artwork-viewer, .artwork-viewer * { box-sizing: border-box; }
+/* The image owns the whole viewport. These scrims never clip or intercept it. */
+.artwork-viewer::before, .artwork-viewer::after {
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  left: 0;
+  pointer-events: none;
+  content: "";
+}
+.artwork-viewer::before { top: 0; height: calc(var(--viewer-safe-top, 54px) + 24px); background: linear-gradient(#0003, transparent); }
+.artwork-viewer::after { bottom: 0; height: calc(var(--viewer-safe-bottom, 34px) + 100px); background: linear-gradient(transparent, #0006); }
+
+.artwork-viewer-button {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  margin: 0;
+  padding: 8px 14px;
+  border: 1px solid #ffffff0d;
+  border-radius: 999px;
+  background: linear-gradient(145deg, rgb(72 72 72 / 33.6%), rgb(32 32 32 / 22.4%));
+  -webkit-backdrop-filter: blur(14px) brightness(.72);
+  backdrop-filter: blur(14px) brightness(.72);
+  box-shadow: inset 0 1px 0 #ffffff05;
+  color: #fff;
+  font: inherit;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.artwork-viewer-button:hover:not(:disabled) { background-color: #ffffff12; }
+.artwork-viewer-button:active:not(:disabled) { opacity: .72; }
+.artwork-viewer-button:disabled { opacity: .35; cursor: default; }
+.artwork-viewer-button:focus-visible, .artwork-viewer-canvas:focus-visible { outline: 2px solid #fff; outline-offset: -3px; }
+.artwork-viewer-icon { width: 44px; height: 44px; padding: 0; border: 0; background: transparent; -webkit-backdrop-filter: none; backdrop-filter: none; box-shadow: none; }
+/* Keep the full touch target while reducing the glass circle by 20%. */
+.artwork-viewer-icon::before { position: absolute; z-index: 0; inset: 4.4px; border: 1px solid #ffffff0d; border-radius: inherit; background: linear-gradient(145deg, rgb(72 72 72 / 33.6%), rgb(32 32 32 / 22.4%)); -webkit-backdrop-filter: blur(14px) brightness(.72); backdrop-filter: blur(14px) brightness(.72); box-shadow: inset 0 1px 0 #ffffff05; pointer-events: none; content: ""; }
+.artwork-viewer-icon:hover:not(:disabled) { background-color: transparent; }
+.artwork-viewer-icon:hover:not(:disabled)::before { background-color: #ffffff12; }
+.artwork-viewer-icon svg { position: relative; z-index: 1; }
+.artwork-viewer-close svg { width: 17.6px; height: 17.6px; }
+.artwork-viewer-download svg { width: 16.8px; height: 16.8px; }
+.artwork-viewer-button svg { flex: none; }
+.artwork-viewer-close, .artwork-viewer-download { position: absolute; z-index: 2; right: 12px; }
+.artwork-viewer-close { top: calc(var(--viewer-safe-top, 54px) + 12px); }
+.artwork-viewer-download { bottom: calc(var(--viewer-safe-bottom, 34px) + 12px); }
+
+.artwork-viewer-canvas {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  overscroll-behavior: contain;
+  cursor: zoom-in;
+}
+.artwork-viewer-canvas[data-zoomed="true"] { cursor: grab; }
+.artwork-viewer-canvas[data-dragging="true"][data-zoomed="true"] { cursor: grabbing; }
+.artwork-viewer-plane { position: absolute; left: 50%; top: 50%; pointer-events: none; }
+.artwork-viewer-image { display: block; width: 100%; height: 100%; max-width: none; max-height: none; pointer-events: none; -webkit-user-drag: none; }
+.artwork-viewer-tile-cell { position: absolute; pointer-events: none; }
+.artwork-viewer-tile-cell::before { position: absolute; inset: 0; background: #080808; opacity: .68; content: ""; transition: opacity 380ms ease-out var(--tile-reveal-delay, 0ms); }
+.artwork-viewer-tile-cell[data-ready="true"]::before,
+.artwork-viewer-tile-cell[data-failed="true"]::before { opacity: 0; }
+.artwork-viewer-tile-cell[data-failed="true"]::before { transition: none; }
+.artwork-viewer-tile { position: absolute; inset: 0; width: 100%; height: 100%; display: block; max-width: none; max-height: none; pointer-events: none; -webkit-user-drag: none; opacity: 0; transition: opacity 380ms ease-out var(--tile-reveal-delay, 0ms); }
+.artwork-viewer-tile[data-ready="true"] { opacity: 1; }
+@media (prefers-reduced-motion: reduce) { .artwork-viewer-tile, .artwork-viewer-tile-cell::before { transition: none; } }
+.artwork-viewer-message { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; margin: 0; padding: 24px; text-align: center; }
+.artwork-viewer-message p { margin: 0; }
+.artwork-viewer-heading { position: absolute; z-index: 2; right: 72px; bottom: calc(var(--viewer-safe-bottom, 34px) + 16px); left: 16px; pointer-events: none; text-shadow: 0 1px 8px #0008; }
+.artwork-viewer-heading h2 { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; margin: 0; font-size: 18px; line-height: 22px; font-weight: 400; overflow-wrap: anywhere; }
+.artwork-viewer-heading p { overflow: hidden; margin: 2px 0 0; color: #ffffffb3; font-size: 18px; line-height: 22px; text-overflow: ellipsis; white-space: nowrap; }
+.artwork-viewer-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+/* App-owned presentation override; native device markup and live clock stay intact. */
+.device-screen[data-device]:has(.daily-culture-app):has(.artwork-viewer) .status-bar { color: #fff; }
+.device-screen[data-device]:has(.daily-culture-app):has(.artwork-viewer) .status-indicator-svg,
+.device-screen[data-device]:has(.daily-culture-app):has(.artwork-viewer) .home-indicator-svg { filter: invert(1); }

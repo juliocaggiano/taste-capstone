@@ -1,0 +1,54 @@
+[
+  {
+    "entryId": "mclean-virginia",
+    "options": [
+      {
+        "id": "A",
+        "label": "Photographer’s original presentation",
+        "description": "Full photograph as published on the photographer’s website. No local crop or colour changes.",
+        "imageUrl": "image-options/assets/photography/b002-mclean-virginia-a.jpg",
+        "sourceUrl": "https://www.joelsternfeld.net/press/prospecting-for-gold-joel-sternfeld-at-the-hall-foundation",
+        "credit": "© Joel Sternfeld",
+        "altText": "A firefighter holding a pumpkin at a farm market, with scattered pumpkins in the foreground and a house burning uphill behind him.",
+        "width": 2400,
+        "height": 1920,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyright Joel Sternfeld. No reuse licence granted; public app use requires separate clearance.",
+        "remoteImageUrl": "https://cdn.sanity.io/images/6y4plugm/production/356b5a14b495c2a47cd80689dfbaf8dbd7d30b28-2400x1920.jpg?w=2400",
+        "sourceNotes": "Downloaded unchanged and visually inspected. No AI recreation, generative edits, sharpening, colour grading or project-made crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_exact_photograph",
+        "reviewedOn": "2026-09-25",
+        "sha256": "ce4e5448c555247a537e29ae17c209f0dee089209ca10acbe4c66b64f9659c5a"
+      }
+    ],
+    "optionPolicy": "One faithful original image; no artificial variations."
+  },
+  {
+    "entryId": "noor-nisa",
+    "options": [
+      {
+        "id": "A",
+        "label": "Photographer’s original presentation",
+        "description": "Full photograph as published on the photographer’s website. No local crop or colour changes.",
+        "imageUrl": "image-options/assets/photography/b002-noor-nisa-a.jpg",
+        "sourceUrl": "https://www.lynseyaddario.com/afghanistan/",
+        "credit": "© Lynsey Addario",
+        "altText": "Noor Nisa and her mother in blue burqas stand beside a dirt road among bare hills, with folded bedding on a green mat to their right.",
+        "width": 1804,
+        "height": 1200,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyright Lynsey Addario. No reuse licence granted; public app use requires separate clearance.",
+        "remoteImageUrl": "https://images.squarespace-cdn.com/content/v1/61ca3b4a4ce02f2c4e071072/1640817720637-NDA3RL7YQ5WURQTKI7BV/VeiledRebellion001.jpg",
+        "sourceNotes": "Downloaded unchanged and visually inspected. No AI recreation, generative edits, sharpening, colour grading or project-made crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_exact_photograph",
+        "reviewedOn": "2026-09-25",
+        "sha256": "02ce3e85b4fabfe38f3cb98137a9bae0b941edf858c8a39e3aa6f1bea47c1fb5"
+      }
+    ],
+    "optionPolicy": "One faithful original image; no artificial variations."
+  }
+]

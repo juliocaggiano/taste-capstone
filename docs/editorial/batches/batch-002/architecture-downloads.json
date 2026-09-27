@@ -1,0 +1,132 @@
+[
+  {
+    "entryId": "st-peters-basilica",
+    "id": "A",
+    "fileName": "Speculum Romanae Magnificentiae- Elevation Showing the Exterior of Saint Peter's Basilica from the South as Conceived by Michelagelo (Published in 1569) MET DP826753.jpg",
+    "imageUrl": "image-options/assets/architecture/b002-st-peters-basilica-a.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Speculum_Romanae_Magnificentiae-_Elevation_Showing_the_Exterior_of_Saint_Peter%27s_Basilica_from_the_South_as_Conceived_by_Michelagelo_%28Published_in_1569%29_MET_DP826753.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Speculum_Romanae_Magnificentiae-_Elevation_Showing_the_Exterior_of_Saint_Peter%27s_Basilica_from_the_South_as_Conceived_by_Michelagelo_%28Published_in_1569%29_MET_DP826753.jpg",
+    "bytes": 4109588
+  },
+  {
+    "entryId": "crystal-palace",
+    "id": "A",
+    "fileName": "The Crystal Palace page a1.jpg",
+    "imageUrl": "image-options/assets/architecture/b002-crystal-palace-a.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Crystal_Palace_page_a1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Crystal_Palace_page_a1.jpg",
+    "bytes": 367010
+  },
+  {
+    "entryId": "crystal-palace",
+    "id": "B",
+    "imageUrl": "image-options/assets/architecture/b002-crystal-palace-b.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/The_Crystal_Palace_page_34.jpg/1280px-The_Crystal_Palace_page_34.jpg",
+    "fullResolutionUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Crystal_Palace_page_34.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Crystal_Palace_page_34.jpg",
+    "bytes": 176606
+  },
+  {
+    "entryId": "crystal-palace",
+    "id": "C",
+    "imageUrl": "image-options/assets/architecture/b002-crystal-palace-c.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Crystal_Palace_page_37.jpg/1280px-The_Crystal_Palace_page_37.jpg",
+    "fullResolutionUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_Crystal_Palace_page_37.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Crystal_Palace_page_37.jpg",
+    "bytes": 305007
+  },
+  {
+    "entryId": "villa-rotonda",
+    "id": "A",
+    "imageUrl": "image-options/assets/architecture/b002-villa-rotonda-a.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palladio_Rotonda_%2823547400%29.jpg/1280px-Palladio_Rotonda_%2823547400%29.jpg",
+    "fullResolutionUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Palladio_Rotonda_%2823547400%29.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_%2823547400%29.jpg",
+    "bytes": 218738
+  },
+  {
+    "entryId": "villa-rotonda",
+    "id": "B",
+    "retryError": "HTTP Error 429: Too many requests (f061ab2)",
+    "imageUrl": "image-options/assets/architecture/b002-villa-rotonda-b.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Palladio_Rotonda_planta_Scamozzi_1778_%2823547396%29.jpg/1280px-Palladio_Rotonda_planta_Scamozzi_1778_%2823547396%29.jpg",
+    "fullResolutionUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Palladio_Rotonda_planta_Scamozzi_1778_%2823547396%29.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_planta_Scamozzi_1778_%2823547396%29.jpg",
+    "bytes": 188033
+  },
+  {
+    "entryId": "hagia-sophia",
+    "id": "A",
+    "imageUrl": "image-options/assets/architecture/b002-hagia-sophia-a.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Saint_Sophia%2C_Constantinopolis.jpg/1280px-Saint_Sophia%2C_Constantinopolis.jpg",
+    "fullResolutionUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Saint_Sophia%2C_Constantinopolis.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Sophia%2C_Constantinopolis.jpg",
+    "bytes": 220469
+  },
+  {
+    "entryId": "hagia-sophia",
+    "id": "B",
+    "imageUrl": "image-options/assets/architecture/b002-hagia-sophia-b.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hagia-Sophia-Laengsschnitt.jpg/1280px-Hagia-Sophia-Laengsschnitt.jpg",
+    "fullResolutionUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Hagia-Sophia-Laengsschnitt.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia-Sophia-Laengsschnitt.jpg",
+    "bytes": 257323
+  },
+  {
+    "entryId": "hagia-sophia",
+    "id": "C",
+    "imageUrl": "image-options/assets/architecture/b002-hagia-sophia-c.jpg",
+    "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Plan_du_Temple_de_Saincte_Sophie_-_Grelot_Guillaume-joseph_-_1680.jpg/1280px-Plan_du_Temple_de_Saincte_Sophie_-_Grelot_Guillaume-joseph_-_1680.jpg",
+    "fullResolutionUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Plan_du_Temple_de_Saincte_Sophie_-_Grelot_Guillaume-joseph_-_1680.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plan_du_Temple_de_Saincte_Sophie_-_Grelot_Guillaume-joseph_-_1680.jpg",
+    "bytes": 541746
+  },
+  {
+    "entryId": "st-peters-basilica",
+    "id": "B",
+    "imageUrl": "image-options/assets/architecture/b002-st-peters-basilica-b.jpg",
+    "remoteImageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP830312.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/364511",
+    "bytes": 4011210
+  },
+  {
+    "entryId": "st-peters-basilica",
+    "id": "C",
+    "imageUrl": "image-options/assets/architecture/b002-st-peters-basilica-c.jpg",
+    "remoteImageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP826758.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/403640",
+    "bytes": 4198817
+  },
+  {
+    "entryId": "villa-rotonda",
+    "id": "C",
+    "imageUrl": "image-options/assets/architecture/b002-villa-rotonda-c.jpg",
+    "remoteImageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP109542.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/698054",
+    "bytes": 2859777
+  },
+  {
+    "entryId": "alhambra",
+    "id": "A",
+    "imageUrl": "image-options/assets/architecture/b002-alhambra-a.jpg",
+    "remoteImageUrl": "https://www.academiacolecciones.com/dibujos/server/files/MA-0540.jpg",
+    "sourceUrl": "https://www.academiacolecciones.com/dibujos/inventario.php?id=MA-0540",
+    "bytes": 401063
+  },
+  {
+    "entryId": "alhambra",
+    "id": "B",
+    "imageUrl": "image-options/assets/architecture/b002-alhambra-b.jpg",
+    "remoteImageUrl": "https://www.academiacolecciones.com/dibujos/server/files/MA-0541.jpg",
+    "sourceUrl": "https://www.academiacolecciones.com/dibujos/inventario.php?id=MA-0541",
+    "bytes": 410776
+  },
+  {
+    "entryId": "alhambra",
+    "id": "C",
+    "imageUrl": "image-options/assets/architecture/b002-alhambra-c.jpg",
+    "remoteImageUrl": "https://www.academiacolecciones.com/dibujos/server/files/MA-0204.jpg",
+    "sourceUrl": "https://www.academiacolecciones.com/dibujos/inventario.php?id=MA-0204",
+    "bytes": 524546
+  }
+]

@@ -1,0 +1,1800 @@
+{
+  "schemaVersion": 1,
+  "batchId": "batch-001",
+  "createdAt": "2026-09-21",
+  "editorialOwner": "Julio Caggiano",
+  "status": "pending_review",
+  "entries": [
+    {
+      "id": "pantheon",
+      "medium": "architecture",
+      "title": "Pantheon",
+      "creator": "Architect unknown; completed under Emperor Hadrian",
+      "dateDisplay": "Early 2nd century CE",
+      "dateStart": 114,
+      "dateEnd": 128,
+      "place": "Rome, Italy",
+      "body": "The Pantheon in Rome has the columned entrance of a temple, but opens into one enormous circular room. No columns interrupt this interior: the weight passes into the thick surrounding walls.\n\nRoman builders made the concrete lighter toward the top and reduced the dome’s thickness as it rose. This reduced the weight the structure had to carry, helping the dome span the room without columns beneath it. The recessed squares in its ceiling also remove weight. At the centre, an opening called the oculus lets in rain and a beam of sunlight. The moving light makes different parts of the room visible as the day passes.\n\nThe building also connects religious belief with the authority of Rome’s rulers. Agrippa, a Roman general, commissioned an earlier Pantheon while serving Augustus, Rome’s first emperor. After decades of civil war, Augustus concentrated Rome’s government in his own hands, establishing rule by emperors. More than a century later, the present building was completed under another emperor, Hadrian. Its entrance still credits Agrippa, preserving the link with the earlier rulers. What happened inside is less certain. The Roman writer Cassius Dio associated its name with the gods and its vaulted roof with the heavens. The exact ceremonies and original purpose remain debated.\n\nIn 609, the building became a Christian church. That new use helped preserve the ancient structure, although later generations removed or replaced many of its original decorative materials.",
+      "meaningBrief": "Roman engineering reduces the dome’s weight so it can cover a vast room without internal columns. Moving light gives that space its changing character. Brief introductions to Agrippa, Augustus and Hadrian and Augustus’s concentration of government after civil war make the inscription and successive imperial patronage understandable without assuming Roman history; original ceremonies remain uncertain.",
+      "sources": [
+        {
+          "title": "Turismo Roma — Pantheon",
+          "url": "https://www.turismoroma.it/en/places/pantheon",
+          "role": "institutional",
+          "supports": "Geometry, oculus, coffers, Hadrianic completion and conversion into a church in 609."
+        },
+        {
+          "title": "Pantheon, Rome — historical and structural overview",
+          "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+          "role": "reference",
+          "supports": "Lightening of concrete, dating debate, uncertain original use and Cassius Dio’s interpretation."
+        },
+        {
+          "title": "Visitors discuss light inside the Pantheon",
+          "url": "https://www.reddit.com/r/architecture/comments/1n54cn0/",
+          "role": "public_reception",
+          "supports": "Reception clue: visitors describe the room changing with sunshine and rain; not used as historical authority."
+        },
+        {
+          "title": "Open University — Introducing the Pantheon; Eleanor Betts and Mark Wilson Jones",
+          "url": "https://www.open.edu/openlearn/history-the-arts/hadrians-rome/content-section-2.1",
+          "role": "substantive architectural interpretation",
+          "supports": "Transcript read: Agrippan inscription, replacement building completed under Hadrian, imperial context, structural devices, moving light and uncertainty about original purpose. Its 608 church date is not adopted; Rome’s institutional record supports 609."
+        },
+        {
+          "title": "Open University — Cassius Dio 53.27.1–4",
+          "url": "https://www.open.edu/openlearn/history-the-arts/hadrians-rome/content-section-5.3",
+          "role": "ancient testimony in educational edition",
+          "supports": "Ancient attributed associations of the Pantheon’s name with gods and its vaulted roof with the heavens. Not proof of the original architectural program."
+        },
+        {
+          "title": "Encyclopaedia Romana — Pantheon",
+          "url": "https://penelope.uchicago.edu/encyclopaedia_romana/romanurbs/pantheon.html",
+          "role": "scholarly reference",
+          "supports": "Dome thickness decreases toward the top; progressively lighter aggregate and coffers reduce weight. Retrieved indexed account; cosmic reconstruction is not adopted as fact."
+        },
+        {
+          "title": "British Museum — Augustus (Octavian), biography record",
+          "url": "https://www.britishmuseum.org/collection/term/BIOG57074",
+          "role": "museum reference",
+          "supports": "Augustus was Rome’s first emperor; relevant institutional biography retrieved 25 September 2026."
+        },
+        {
+          "title": "British Museum — coin R.9455, curator’s commentary",
+          "url": "https://www.britishmuseum.org/collection/object/C_R-9455",
+          "role": "museum object commentary",
+          "supports": "Agrippa identified as Octavian/Augustus’s principal general; relevant curator text retrieved 25 September 2026. The entry makes no claim about this coin’s disputed dating."
+        },
+        {
+          "title": "British Museum — Nero exhibition, From republic to empire",
+          "url": "https://www.britishmuseum.org/nero-content",
+          "role": "museum historical interpretation",
+          "supports": "Augustus emerged from decades of civil war and established personal rule while keeping republican institutions. Relevant exhibition text retrieved through the search index on 25 September 2026; direct page fetch returned 403."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+        "baselineSection": "pantheon; pre-remake batch body",
+        "changes": [
+          "Reorganizes spatial description into an explanation of how the unsupported interior works.",
+          "Adds the Agrippan inscription and its imperial connection; qualifies purpose and ancient cosmic interpretation.",
+          "Removes atmospheric filler and avoids claiming that church conversion preserved every original material."
+        ],
+        "notionUrl": null,
+        "previousBaseline": {
+          "baselineFile": null,
+          "baselineSection": null,
+          "changes": "New draft for batch 001."
+        },
+        "feedbackRevision": {
+          "date": "2026-09-25",
+          "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+          "baselineBodySha256": "a8a3adc317192a57876ab8134818ff27e72bfbe20d8be860d4849b1f9cc3855c",
+          "change": "25 September 2026: removes dimensions and sphere comparison, explains why the dome’s weight is reduced, and introduces Agrippa, Augustus and Hadrian, including Augustus’s concentration of government after civil war. Opening image, daylight and final preservation paragraph retained.",
+          "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+        }
+      },
+      "quotationNotes": [
+        "No direct quotations. Cassius Dio’s explanation and the inscription are paraphrased; neither establishes the exact original function."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Pantheon%2C_Rome%2C_ceiling%2C_2013-03-07-4.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Pantheon,_Rome,_ceiling,_2013-03-07-4.jpg",
+        "altText": "Interior of the Pantheon, looking up toward its coffered dome and open oculus.",
+        "credit": "Szilas, 2013 / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Photograph of the surviving interior. CC0 dedication verified on the file page."
+      },
+      "datePrecision": "approximate construction range; exact start is debated",
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 1,
+      "language": "en",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-pantheon"
+    },
+    {
+      "id": "borobudur",
+      "medium": "architecture",
+      "title": "Borobudur",
+      "creator": "Builders unknown; Sailendra dynasty patronage",
+      "dateDisplay": "8th–9th centuries",
+      "dateStart": 700,
+      "dateEnd": 899,
+      "place": "Central Java, Indonesia",
+      "body": "Borobudur is a Buddhist monument in Central Java whose teachings unfold along a walking route. Built during the eighth and ninth centuries under the Sailendra rulers, it has no large congregation hall inside. Worshippers move around its terraces and climb from one level to the next, passing carved stories along the way.\n\nSome reliefs recount the Buddha’s previous lives. In one, he appears as a rabbit who offers his own body to feed a hungry visitor. In another, he is the deer Ruru, who rescues a drowning man. When the man reveals its hiding place to a king who wants to capture it, Ruru forgives the betrayal. Such stories give generosity and compassion a concrete form. Other carvings include boats, houses and farming, placing religious narratives among details of the world its Javanese makers knew.\n\nThe building changes as the route rises. Narrow galleries with narrative reliefs give way to open circular terraces. Here, seated Buddhas occupy perforated, bell-shaped structures called stupas. The progression represents three realms of Buddhist thought: desire, form, and existence beyond form. Walking through them turns the effort to move beyond worldly attachment into a physical practice.\n\nThis arrangement also draws on a local tradition of sacred, terraced mountains associated with ancestors. Borobudur combines that Javanese setting with Buddhist teachings that travelled across Asia. Its shape and its carved narratives work together: one organizes the pilgrim’s movement, while the other provides stories to consider along the route.",
+      "meaningBrief": "The pilgrim learns through a designed sequence of walking, carved examples of conduct and ascending levels of Buddhist cosmology. A concrete Jataka example explains what the route teaches, while Javanese daily life and sacred-mountain traditions prevent treating the monument as a placeless diagram.",
+      "sources": [
+        {
+          "title": "UNESCO — Borobudur Temple Compounds",
+          "url": "https://whc.unesco.org/en/list/592",
+          "role": "institutional",
+          "supports": "Dating, Sailendra patronage, physical sequence, Buddhist cosmology and local ancestor-related mountain tradition."
+        },
+        {
+          "title": "The Metropolitan Museum of Art — The Art of South and Southeast Asia",
+          "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/sseasia.pdf",
+          "role": "museum_education",
+          "supports": "Printed pages 40–42 / PDF pages 47–49: reliefs teach pilgrims through a sequence of movement and record regional life."
+        },
+        {
+          "title": "Buddhist visitors discuss Borobudur",
+          "url": "https://www.reddit.com/r/Buddhism/comments/id5795/",
+          "role": "public_reception",
+          "supports": "Reception clue: ritual walking and reading the reliefs matter alongside views; historical claims verified against institutional sources."
+        },
+        {
+          "title": "Balai Konservasi Borobudur — Membangun Karakter Anak Melalui Cerita Relief Jataka",
+          "url": "https://kebudayaan.kemdikbud.go.id/bkborobudur/membangun-karakter-anak-melalui-cerita-relief-jataka/",
+          "role": "Indonesian conservation institution; relief interpretation",
+          "supports": "2017 Indonesian article’s narrative section read in retrieved indexed text: Buddha’s earlier life as a rabbit, disguised visitor and offering of the rabbit’s body. Panel numbers are omitted because related institutional articles differ."
+        },
+        {
+          "title": "Balai Konservasi Borobudur — Relief Membajak Sawah di Candi Borobudur",
+          "url": "https://kebudayaan.kemdikbud.go.id/bkborobudur/relief-membajak-sawah-di-candi-borobudur/",
+          "role": "Indonesian conservation institution; relief interpretation",
+          "supports": "Indonesian indexed article inspected: ploughing with oxen in a Jataka relief; concrete agricultural detail in the represented world."
+        },
+        {
+          "title": "So Tju Shinta Lee and Agus Aris Munandar — The signification of paramita teachings in Jatakamala reliefs at Candi Borobudur",
+          "url": "https://berkalaarkeologi.kemdikbud.go.id/index.php/berkalaarkeologi/article/download/963/943/4311",
+          "role": "primary archaeological interpretation of reliefs and narrative text",
+          "supports": "Berkala Arkeologi 42(1), 2022, pp. 45–46 and narrative summary table: Ruru rescue, betrayal and forgiveness; panels 96–97, within story sequence 94–98. Relevant text retrieved from indexed scholarly PDF and author-uploaded mirror; main PDF endpoint later failed."
+        },
+        {
+          "title": "Borobudur Wisdom — Jatakamala 26, Ruru-jataka",
+          "url": "https://borobudurwisdom.com/jatakamala-26-ruru-jataka/",
+          "role": "Indonesian rendering of the primary narrative; corroboration",
+          "supports": "King’s wish to capture Ruru and the rescued man’s betrayal, with Ruru later asking that the man be spared. The relief study, rather than this translation alone, establishes representation at Borobudur."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+        "baselineSection": "borobudur; pre-remake batch body",
+        "changes": [
+          "Adds a specific Jataka narrative in place of a generic reference to compassion.",
+          "Explains the three Buddhist realms and the pilgrim’s movement in ordinary language.",
+          "Retains the Javanese sacred-mountain and everyday-life context; distinguishes built ritual route from modern visitor access."
+        ],
+        "notionUrl": null,
+        "previousBaseline": {
+          "baselineFile": null,
+          "baselineSection": null,
+          "changes": "New draft for batch 001."
+        },
+        "feedbackRevision": {
+          "date": "2026-09-25",
+          "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+          "baselineBodySha256": "ba448a8d996eeadfa4b98734b80d08608f21224130e988ad1471b1516730ea23",
+          "change": "25 September 2026: adds only the verified Ruru deer example after the rabbit story. Every original sentence remains unchanged.",
+          "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+        }
+      },
+      "quotationNotes": [
+        "No direct quotations. Jataka narrative paraphrased from the Indonesian conservation institution’s account.",
+        "25 September addition: Ruru story paraphrased from the relief study’s Indonesian account; no quotation or published English translation claimed."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Borobudur-Nothwest-view.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Borobudur-Nothwest-view.jpg",
+        "altText": "Panoramic view of Borobudur’s stepped terraces and central summit, surrounded by trees.",
+        "credit": "Gunawan Kartapranata, 2008 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Full monument seen from the northwest. Source photograph remains uncropped."
+      },
+      "datePrecision": "century range; not exact start or completion years",
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 2,
+      "language": "en",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-borobudur"
+    },
+    {
+      "id": "sesc-pompeia",
+      "medium": "architecture",
+      "title": "SESC Pompeia",
+      "creator": "Lina Bo Bardi, with André Vainer and Marcelo Ferraz",
+      "dateDisplay": "1977–1986",
+      "dateStart": 1977,
+      "dateEnd": 1986,
+      "place": "São Paulo, Brazil",
+      "body": "SESC Pompeia is a place for sport, meals, reading and performance built inside a former factory in São Paulo. It belongs to SESC, a Brazilian organization funded by commerce and service businesses to support workers and their families. Many of its activities also welcome the wider public. This purpose helps explain why a swimming pool and a shared lunch table belong in the same complex as a theater.\n\nBefore the redesign, local families were already using the factory for leisure. On a visit in 1976, Lina Bo Bardi saw children playing, adults preparing food and football continuing beneath leaking roofs. She wanted that existing social life to continue. The project kept the brick sheds and their concrete structure, adding places for workshops, reading, eating and informal gatherings.\n\nThe new sports buildings required a different solution. An underground stream left a strip of land where construction was prohibited. Bo Bardi placed the courts and pool on one side and the changing rooms on the other. Elevated concrete walkways connect them, while a wooden deck occupies the strip below.\n\nThe bridges’ unusual appearance follows a practical need. The retained factory serves another: people can spend time together without every visit revolving around a scheduled performance or exhibition. Bo Bardi designed for the ordinary activities she had found there, including those of young workers from nearby shops.",
+      "meaningBrief": "A worker-oriented social institution and already active local leisure give the design its purpose. Reused factory sheds sustain mixed everyday activities; stream restrictions explain the dramatic bridges. The architecture makes room for this public life without requiring every visit to be a formal cultural event.",
+      "sources": [
+        {
+          "title": "Brasil Arquitetura — SESC Fábrica da Pompéia",
+          "url": "https://brasilarquitetura.com/project/sesc-fabrica-pompeia-lina",
+          "role": "creator_primary",
+          "supports": "Team and project date; Lina Bo Bardi’s published accounts of her 1976 visit, keeping popular use, the buried stream, bridges and collective leisure."
+        },
+        {
+          "title": "Instituto Bardi — Lina Bo Bardi’s SESC chair",
+          "url": "https://institutobardi.org.br/en/revista/lina-bo-bardis-sesc-chair/",
+          "role": "specialist",
+          "supports": "Retained factory and social facilities; communal furniture and public use."
+        },
+        {
+          "title": "Sesc — A história do conjunto esportivo do Sesc Pompeia",
+          "url": "https://portal.sescsp.org.br/online/artigo/13465_A%2BHISTORIA%2BDO%2BCONJUNTO%2BESPORTIVO%2BDO%2BSESC%2BPOMPEIA",
+          "role": "institutional",
+          "supports": "1986 sports-building opening, concrete blocks, bridges, deck and facilities."
+        },
+        {
+          "title": "Sesc São Paulo — FAQ: O que é o Sesc?",
+          "url": "https://portal.sescsp.org.br/fale-conosco/faq/index.action",
+          "role": "institutional self-description in Portuguese",
+          "supports": "Private business-funded organization; priority for workers and dependants in commerce, services and tourism, with activities also open to the general public. Relevant complete FAQ answer retrieved in indexed text."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+        "baselineSection": "sesc-pompeia; pre-remake batch body",
+        "changes": [
+          "Introduces the institution’s worker-service purpose and wider public before design decisions.",
+          "Connects existing leisure, factory reuse and practical stream restrictions.",
+          "Replaces the broad claim that the centre opposed established art education with documented ordinary uses."
+        ],
+        "notionUrl": null,
+        "previousBaseline": {
+          "baselineFile": null,
+          "baselineSection": null,
+          "changes": "New draft for batch 001."
+        }
+      },
+      "quotationNotes": [
+        "No direct quotations. Bo Bardi’s Portuguese recollections and SESC’s Portuguese self-description are paraphrased."
+      ],
+      "media": {
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/6230ecd32960d229ae80c200/1660919781678-VC97AV52AKXXYP7R8QHW/Nelson%2BKon%2B11.jpeg",
+        "referenceUrl": "https://www.luuupa.com/arquitectura/sesc-pompeia",
+        "altText": "SESC Pompeia’s concrete sports towers and elevated walkways above the retained factory roofs.",
+        "credit": "© Nelson Kon, via LUPA",
+        "license": "Copyrighted photograph; app-use permission pending",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Photograph of the sports towers, connecting walkways and retained factory roofs."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 3,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "removed"
+    },
+    {
+      "id": "michelangelo-david",
+      "medium": "sculpture",
+      "title": "David",
+      "creator": "Michelangelo Buonarroti",
+      "dateDisplay": "1501–1504",
+      "dateStart": 1501,
+      "dateEnd": 1504,
+      "body": "In the biblical story, David is a young shepherd who offers to fight Goliath, the armed champion frightening Israel’s soldiers. He rejects the king’s armor and confronts him with a sling and a stone, trusting in God. His victory makes him a model of strength that does not depend on size or military equipment.\n\nMichelangelo shows David before the fight. The sling lies over his shoulder, his brow is drawn, and his head turns toward an opponent we cannot see. There is no defeated giant at his feet. The still body and concentrated gaze direct attention to his readiness for the encounter. His muscular, nude figure recalls ancient heroic sculpture, while the small weapon keeps the biblical story recognizable.\n\nThe statue’s enormous scale had a practical origin. Commissioned in 1501, it was intended for a high buttress on Florence’s cathedral, where people would see it from far below. In 1504, a committee chose a different location: beside the entrance to the city’s government palace.\n\nFlorence already used David as a symbol of its capacity to resist stronger opponents. At the palace, the religious hero became a public emblem of the republic’s independence. The change of location gave his watchful stance a political role, placing a defender outside the building where the city was governed.",
+      "sources": [
+        {
+          "title": "Galleria dell’Accademia: David",
+          "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+          "role": "holding institution",
+          "supports": "1501–1504, cathedral commission, decision to place the statue at the government palace, civic strength and independence. Indexed institutional text read; direct page timed out."
+        },
+        {
+          "title": "Robert Baldwin: Michelangelo’s David and Civic Humanism",
+          "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-David.pdf",
+          "role": "scholarly interpretation",
+          "supports": "Pre-battle reading, sling and stone, classical heroic body, biblical faith and Florentine civic identification. Later Medici chronology in this essay is unreliable and unused."
+        },
+        {
+          "title": "Opera di Santa Maria del Fiore: the David commission",
+          "url": "https://duomo.firenze.it/en/opera-magazine/post/4603/era-il-16-agosto-1501-quando-michelangelo-veniva-incaricato-di-scolpire-il-david",
+          "role": "commissioning institution",
+          "supports": "Italian article freshly read in full: 1501 commission for a high external cathedral buttress, scale intended for viewing from below, and 1504 placement before Palazzo Vecchio as a republican emblem."
+        },
+        {
+          "title": "Public discussion: David’s details",
+          "url": "https://www.reddit.com/r/interestingasfuck/comments/cz6jkt/",
+          "role": "reception clue",
+          "supports": "Sampled comments emphasize technical skill and artistic greatness; used as a prompt to explain the subject and civic role, not as factual authority."
+        },
+        {
+          "title": "Victoria and Albert Museum — The story of Michelangelo’s David",
+          "url": "https://www.vam.ac.uk/articles/the-story-of-michelangelos-david",
+          "role": "museum interpretation and object history",
+          "supports": "Cathedral-to-government-palace relocation and public symbol of Florentine liberty; relevant paragraphs retrieved. The cast’s later history is outside this entry."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+        "baselineSection": "michelangelo-david; pre-remake batch body",
+        "changes": [
+          "Introduces the biblical unequal fight and religious trust before interpreting the figure.",
+          "Removes the claim that the sculpture depicts an exact moment of deciding what to do.",
+          "Explains the cathedral’s high intended placement and the later civic relocation."
+        ],
+        "notionUrl": null,
+        "previousBaseline": {
+          "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+          "baselineSection": "Version 0.18; New entry; no matching saved Notion text identified",
+          "changes": [
+            "New researched draft, pending Julio’s review. No prior approval transferred."
+          ]
+        }
+      },
+      "meaningBrief": "The biblical underdog becomes an alert, monumental defender before battle. Cathedral viewing conditions explain the scale, and relocation beside the government palace gives the inherited religious subject a specific republican role. The prose avoids assigning an unobservable decision to David.",
+      "quotationNotes": [
+        "No direct quotations. Biblical narrative paraphrased; no translation quoted."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+        "altText": "Michelangelo’s full-length marble David in the Galleria dell’Accademia.",
+        "credit": "Photograph: Jörg Bittner Unna, via Wikimedia Commons. Sculpture: Michelangelo.",
+        "license": "CC BY 3.0 (photograph); sculpture public domain.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Commons image metadata verified. Photographic license does not establish clearance of every cultural-property or commercial-use condition."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 4,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-michelangelo-david"
+    },
+    {
+      "id": "bernini-apollo-daphne",
+      "medium": "sculpture",
+      "title": "Apollo and Daphne",
+      "creator": "Gian Lorenzo Bernini",
+      "dateDisplay": "1622–1625",
+      "dateStart": 1622,
+      "dateEnd": 1625,
+      "body": "Bernini’s sculpture shows Daphne becoming a tree while Apollo reaches for her. In Ovid’s ancient Roman telling of the myth, Cupid causes Apollo to desire the nymph and Daphne to reject him. As Apollo pursues her, she asks her father, a river god, to change the body that attracts him. Her transformation answers that request, but also takes away her human form.\n\nBernini makes both conditions visible at once. Daphne’s body remains partly human as bark covers it, her feet take root and her fingers become leaves. Apollo’s hand meets the changing surface. The differences between skin, bark and foliage are all carved from marble, allowing a fixed sculpture to suggest an event still unfolding.\n\nMade for Cardinal Scipione Borghese between 1622 and 1625, the group originally stood against a wall. Approaching from Apollo’s side, viewers encountered the pursuit before seeing the transformation fully. A verse by Cardinal Maffeo Barberini on its base gave the pagan story a moral interpretation: pursuing fleeting beauty leaves the pursuer disappointed.",
+      "sources": [
+        {
+          "title": "Galleria Borghese catalogue: Apollo and Daphne",
+          "url": "https://www.collezionegalleriaborghese.it/en/opere/apollo-and-daphne",
+          "role": "holding institution; substantive catalogue essay",
+          "supports": "Dates, Ovidian narrative, transformation details, Scipione Borghese, moral inscription, original wall placement and changing view."
+        },
+        {
+          "title": "Galleria Borghese: Room III",
+          "url": "https://galleriaborghese.cultura.gov.it/en/il-museo/la-villa/sala-3-sala-di-apollo-e-dafne/",
+          "role": "holding institution",
+          "supports": "1622–1625 and the work’s original relation to the wall; indexed text."
+        },
+        {
+          "title": "Public discussion: Apollo and Daphne",
+          "url": "https://www.reddit.com/r/ArtHistory/comments/btk4ti/",
+          "role": "reception clue",
+          "supports": "Visitors discuss leaf-like lightness and seeing multiple angles. Museum history prevents treating today’s circulation around the sculpture as the original arrangement."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+        "baselineSection": "bernini-apollo-daphne; pre-remake batch body",
+        "changes": [
+          "Reorders the entry around the visible transformation and its mythic cause.",
+          "Separates Daphne’s bodily cost from the historical inscription’s warning to the pursuer.",
+          "Names the inscription’s author and retains the original viewing arrangement without treating current display as original."
+        ],
+        "notionUrl": "https://app.notion.com/p/Apollo-and-Daphne-bb83b3c6471643618f3f47297860631b?pvs=25",
+        "previousBaseline": {
+          "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+          "baselineSection": "Version 0.18; Saved reference: docs/editorial/research-2026-09-19/art-corpus.json, index 276, Apollo and Daphne",
+          "changes": [
+            "Replaces the saved entry’s incorrect 1655 date with 1622–1625.",
+            "Corrects saved Painting category to sculpture.",
+            "New prose preserves the myth and transformation while replacing extensive compiled quotations. Curation does not establish original authorship."
+          ]
+        },
+        "feedbackRevision": {
+          "date": "2026-09-25",
+          "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+          "baselineBodySha256": "011bda87d001ca9469921c13f90b026ab880138022020591bc8dfe9d69102895",
+          "change": "25 September 2026: deletes only the final sentence requested by Julio; all remaining prose unchanged.",
+          "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+        }
+      },
+      "meaningBrief": "Unwanted pursuit ends in Daphne’s bodily transformation. Marble surfaces and the original viewing sequence make escape and its physical cost legible; the patron’s circle supplied a separate moral reading directed toward Apollo’s pursuit of beauty. Neither the myth nor the historical inscription is presented as Bernini’s private confession.",
+      "quotationNotes": [
+        "No direct quotations. Ovidian plot is paraphrased from the preserved Notion narrative and the Borghese catalogue.",
+        "Barberini’s moral couplet is paraphrased; it is attributed separately from Bernini and from Daphne’s perspective."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_(Bernini)_(cropped).jpg",
+        "altText": "Bernini’s marble Apollo pursuing Daphne as her hands become branches and leaves.",
+        "credit": "Photograph: Architas, via Wikimedia Commons. Sculpture: Gian Lorenzo Bernini.",
+        "license": "CC BY-SA 4.0 (photograph); sculpture public domain.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Commons image metadata verified. Attribution/share-alike requirements and other app-use conditions remain to be reviewed."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 5,
+      "language": "en",
+      "revision": 3,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-bernini-apollo-daphne"
+    },
+    {
+      "id": "todaiji-great-buddha",
+      "medium": "sculpture",
+      "title": "Great Buddha at Tōdai-ji",
+      "creator": "Unknown makers; commissioned by Emperor Shōmu; later reconstruction teams",
+      "dateDisplay": "752 (first consecration; later reconstructions)",
+      "dateStart": 752,
+      "dateEnd": null,
+      "body": "The Great Buddha at Tōdai-ji in Nara represents Vairocana. In Buddhism, a Buddha is an enlightened being who has found freedom from the causes of suffering. The historical Buddha, Shakyamuni, was a human teacher who taught others a path toward that freedom. Vairocana is a cosmic Buddha, representing enlightenment beyond one human life. In the temple’s tradition, his wisdom and compassion extend throughout the universe. Worshippers honour him as a source of guidance and help for all living beings.\n\nIn the Buddhist teaching followed at the temple, no being exists in isolation. The worlds engraved on the bronze figure’s lotus pedestal express these connections. The seated body gives a visible form to a Buddha whose presence is not limited to one place or lifetime.\n\nEmperor Shōmu ordered the statue in 743. He wanted Buddhism to help protect the country and support its people. Tōdai-ji became the chief temple in a network of provincial monasteries, where monks studied and performed rituals for national peace. The Great Buddha’s dedication in 752 therefore served both religious worship and the emperor’s program of government.\n\nYet Shōmu’s proclamation did not describe the work simply as a display of imperial wealth. It invited people to contribute even a small amount of grass or soil and told officials not to force contributions. These were the ruler’s stated instructions, not proof that everyone worked freely. They show his wish to make participation in the building itself a religious act.\n\nThe statue has been repaired and partly remade after earthquakes and wartime fires. Its present reconstruction was dedicated in 1692. The object worshipped today carries that history of replacement, rather than surviving intact from the eighth century.",
+      "sources": [
+        {
+          "title": "Tōdai-ji: Daibutsuden",
+          "url": "https://www.todaiji.or.jp/en/information/daibutsuden/",
+          "role": "temple; theological interpretation",
+          "supports": "Vairocana, universal wisdom and compassion, Kegon teaching of interdependence, imagery engraved on the lotus pedestal."
+        },
+        {
+          "title": "Tōdai-ji: Historical overview",
+          "url": "https://www.todaiji.or.jp/en/history/",
+          "role": "temple; historical record",
+          "supports": "Commission in 743; first consecration 752; provincial-temple network, national peace rituals, damage and reconstruction, Buddha consecration 1692 and hall completion 1709."
+        },
+        {
+          "title": "Public discussion: Tōdai-ji",
+          "url": "https://www.reddit.com/r/ArchitecturePorn/comments/1hbmyie/",
+          "role": "reception clue",
+          "supports": "A sampled discussion connects scale and consecration but confuses reconstruction dates and asserts economic ruin without evidence. Used to identify the need for a careful chronology, not as authority."
+        },
+        {
+          "title": "Tōdai-ji — よくある質問; Great Buddha and 743 proclamation sections",
+          "url": "https://www.todaiji.or.jp/faq/",
+          "role": "temple; primary proclamation reproduced in Japanese",
+          "supports": "Question on the 743 edict reproduces instructions welcoming small offerings of grass or soil and prohibiting forced collection by officials. Used as stated instructions, not independent evidence of compliance or voluntary labor throughout."
+        },
+        {
+          "title": "Tōdai-ji — 大仏殿, Japanese explanation of Vairocana",
+          "url": "https://www.todaiji.or.jp/information/daibutsuden/",
+          "role": "temple’s own theological explanation in Japanese",
+          "supports": "Connects Shakyamuni’s enlightenment with Vairocana beyond time and space; explains universal wisdom, compassion and teachings directed toward helping all living beings. Relevant full section retrieved 25 September 2026."
+        },
+        {
+          "title": "Kathryn Selig Brown — Life of the Buddha, Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/essays/life-of-the-buddha",
+          "role": "museum scholarly explanation",
+          "supports": "Historical Shakyamuni/Siddhartha, enlightenment and his teaching of a path out of suffering. Relevant essay text read 25 September 2026; disputed traditional life dates are not adopted."
+        },
+        {
+          "title": "The Buddhist Society — The Buddha and His Teachings",
+          "url": "https://www.thebuddhistsociety.org/page/fundamental-teachings",
+          "role": "Buddhist educational organization",
+          "supports": "Awakening, suffering and the path of practice; relevant indexed teaching text retrieved 25 September 2026. Specific Kegon/Vairocana interpretation remains grounded in Tōdai-ji’s own explanation."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+        "baselineSection": "todaiji-great-buddha; pre-remake batch body",
+        "changes": [
+          "Replaces vague cosmic rhetoric with the named Buddha, belief and lotus imagery.",
+          "Adds the 743 proclamation’s small-contribution and anti-coercion instructions, expressly distinguished from actual working conditions.",
+          "Reduces rebuilding chronology to what prevents mistaking the present statue for an intact eighth-century object."
+        ],
+        "notionUrl": null,
+        "previousBaseline": {
+          "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+          "baselineSection": "Version 0.18; New entry; no matching saved Notion text identified",
+          "changes": [
+            "New researched draft, pending Julio’s review. No prior approval transferred."
+          ]
+        },
+        "feedbackRevision": {
+          "date": "2026-09-25",
+          "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+          "baselineBodySha256": "0a9ee7ac4765df821c2112512d0811b4fd79f803e2d40f432aff22eac4174dfc",
+          "change": "25 September 2026: expands the introduction for readers unfamiliar with Buddhism, distinguishing historical Shakyamuni and cosmic Vairocana and explaining veneration. Existing lotus/interdependence sentences and all three later paragraphs retained verbatim.",
+          "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+        }
+      },
+      "meaningBrief": "The novice introduction distinguishes the historical teacher Shakyamuni from the cosmic Vairocana, whom the temple venerates for universal wisdom and compassion. Interdependence and lotus imagery connect that belief to the statue; the imperial temple network, contribution edict and reconstruction history remain unchanged.",
+      "quotationNotes": [
+        "No direct quotations. Japanese 743 proclamation paraphrased in English; this is not presented as wording from a published English translation.",
+        "Vairocana and interdependence are introduced as Buddhist teachings, not empirical claims."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NaraTodaijiDaibutsu0212.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:NaraTodaijiDaibutsu0212.jpg",
+        "altText": "The seated Great Buddha inside Tōdai-ji, viewed from the front right.",
+        "credit": "Photograph: Fg2, via Wikimedia Commons.",
+        "license": "Commons uploader’s public-domain dedication (PD-self).",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Commons upload history confirms Fg2 as the photographer/uploader and reproduces the public-domain dedication. Temple commercial-image conditions are separate from that dedication."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 6,
+      "language": "en",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-todaiji-great-buddha"
+    },
+    {
+      "id": "stanczyk",
+      "medium": "painting",
+      "title": "Stańczyk",
+      "creator": "Jan Matejko",
+      "dateDisplay": "1862",
+      "dateStart": 1862,
+      "dateEnd": null,
+      "body": "A court jester sits alone in a red costume while a royal ball continues in the next room. His hands are clasped, his face is serious, and he seems to have lost all interest in entertaining anyone. The title of Jan Matejko’s painting connects his concern to the loss of Smolensk, a fortress captured by Muscovite forces in 1514. A setback for the country has scarcely interrupted the party.\n\nStańczyk served Poland’s Renaissance rulers and became remembered as a jester whose wit included political judgment. That reputation gives the scene its irony: the man paid to make the court laugh understands the seriousness of its situation, while the people with greater authority carry on enjoying themselves. Matejko lets the contrast between the two rooms make the criticism.\n\nHe painted this in 1862, long after the defeat, when Poland itself had been divided among Russia, Prussia and Austria. For his audience, the failures of earlier rulers belonged to a history whose consequences they still lived with. Matejko also gave the jester his own face. Placing himself in that uncomfortable role suggests what he wanted historical painting to do: bring neglected questions about the country’s past back into public view.",
+      "sources": [
+        {
+          "title": "National Museum in Warsaw: Stańczyk, object 446753",
+          "url": "https://cyfrowe.mnw.art.pl/pl/zbiory/446753",
+          "role": "holding-museum catalogue",
+          "supports": "Artist, date, title, collection and historical interpretation; current catalogue cautions against a literal reconstruction of the court event."
+        },
+        {
+          "title": "National Museum in Warsaw: public catalogue record",
+          "url": "https://cyfrowe-api.mnw.art.pl/api/object/446753",
+          "role": "primary catalogue metadata",
+          "supports": "Machine-readable museum record, public curatorial description, 1862 creation date and museum public-domain label."
+        },
+        {
+          "title": "Anna Cymer: Stańczyk — Jan Matejko",
+          "url": "https://culture.pl/en/work/stanczyk-jan-matejko",
+          "role": "institutional interpretation",
+          "supports": "Jester and court contrast, national concern under partition, Matejko’s self-likeness and his understanding of historical painting."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/CALIBRATION_16_PAINTING_BOOK_FILM.md",
+        "baselineSection": "Stańczyk / A",
+        "changes": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "24 September 2026 remake: tightened the role inversion, brought the constructed-history caveat into the prose, and connected partition and self-likeness to the painting’s political account. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/Sta-czyk-197c5450872d8057a498e8437e945765?pvs=25",
+        "feedbackRevision": {
+          "date": "2026-09-25",
+          "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+          "baselineBodySha256": "16bf58e4082ca097e487fb2e6e55f02a3959bd37fa5ac5663f33163ac0bcb0a4",
+          "change": "25 September 2026: deletes only the first paragraph’s final historicity warning requested by Julio; all remaining prose unchanged. The warning is not relocated into the reading text.",
+          "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+        },
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Restored the scene-to-history movement of preferred round 16 A; explained the court role and the later loss of independence.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "meaningBrief": "The jester takes public responsibility seriously while the court celebrates; Matejko relates that failure to a partitioned Poland.",
+      "quotationNotes": [],
+      "media": {
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/1280px-Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+        "altText": "A court jester dressed in red sits alone while a royal ball continues through an open doorway.",
+        "credit": "Jan Matejko / National Museum in Warsaw; photograph credited in file metadata to Krzysztof Wilczyński / Muzeum Narodowe w Warszawie.",
+        "license": "Commons marks the reproduction PD-Art/Public Domain Mark; museum catalogue marks the work public domain. The file also retains a photographer copyright field.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Exact painting, 1862. Remote review reference only. Conflicting reproduction metadata and app reuse remain to be reviewed."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "revision": 4,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "reviewNumber": 7,
+      "language": "en",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "death-of-marat",
+      "medium": "painting",
+      "title": "The Death of Marat",
+      "creator": "Jacques-Louis David",
+      "dateDisplay": "1793",
+      "dateStart": 1793,
+      "dateEnd": null,
+      "body": "Jean-Paul Marat spent much of his final day working in a bath, where the water relieved a painful skin condition. He was a journalist and politician during the French Revolution, known for demanding harsh action against its enemies. In July 1793, Charlotte Corday, who opposed his politics, gained access to him and stabbed him. His friend and political ally Jacques-Louis David was asked to paint the murdered man.\n\nDavid’s Marat looks very different from the combative figure his opponents knew. His face is peaceful, his diseased skin appears unmarked, and a plain wooden box serves as his desk. He still holds a letter, as if death had interrupted his work for someone seeking help. Together, these details present a modest public servant whose concern for others continued until his last moments.\n\nThe hanging arm and lowered head would also have looked familiar to people accustomed to Christian paintings of the dead Christ. David drew on that visual tradition to give a political death the dignity of religious sacrifice. A viewer did not need to know Marat’s speeches or journalism to understand the kind of person the painting asked them to mourn.\n\nThat account had a public purpose. David was a member of the National Convention, the assembly governing France, and the painting hung where its deputies met. Marat’s role in revolutionary violence is absent from the image. What the assembly saw instead was an example of devotion to the Revolution, shaped by an artist who shared the cause.",
+      "sources": [
+        {
+          "title": "Royal Museums of Fine Arts of Belgium: Marat assassiné",
+          "url": "https://fine-arts-museum.be/fr/la-collection/jacques-louis-david-marat-assassine",
+          "role": "holding-museum catalogue",
+          "supports": "1793 original, David, inventory 3260; holding-museum identity reference."
+        },
+        {
+          "title": "Musée du Louvre: Une icône de la Révolution",
+          "url": "https://www.louvre.fr/expositions-et-evenements/expositions/jacques-louis-david/oeuvres-en-lumiere/une-icone-de-la-revolution",
+          "role": "curatorial analysis",
+          "supports": "Convention commission and David’s deputy status; idealized body, Christian martyr imagery, Caravaggio comparison, simple living and paired Convention display. French page freshly reread 24 September 2026; local reproduction visually inspected."
+        },
+        {
+          "title": "Stanford: The life and radicalization of Jean-Paul Marat",
+          "url": "https://news.stanford.edu/stories/2025/11/jean-paul-marat-biography-history-prophet-terror-book",
+          "role": "historian’s account and authorized biography excerpt",
+          "supports": "Marat’s advocacy of executing perceived revolutionary enemies; Corday’s killing; skin illness and medicinal baths. Freshly reread 24 September 2026; no specific medical diagnosis asserted."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/CALIBRATION_09_PAINTING_BOOK_FILM.md",
+        "baselineSection": "The Death of Marat / A",
+        "changes": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "24 September 2026 remake: added Marat’s advocacy of executions to distinguish the historical politician from David’s martyr image; connected directly inspected body and desk details to idealization; retained commission and political display. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/The-Death-of-Marat-a7d07117ffee4ce58dba61a3846b0908?pvs=25",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Joined Marat’s death, David’s choices and the painting’s public use in one chronological account, following preferred round 9 A.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "meaningBrief": "David uses a religious language of sacrifice to shape a political ally into a revolutionary martyr.",
+      "quotationNotes": [],
+      "media": {
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+        "altText": "The full painting of Marat lying in his bath, with a letter in his hand, his other arm hanging down, and a wooden box beside him.",
+        "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium; Google Art Project reproduction, derivative file uploaded by Wikimedia Commons user Pixel8tor.",
+        "license": "Commons identifies this faithful reproduction as PD-Art/Public Domain Mark 1.0; app reuse is not yet cleared.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Full Brussels original, inventory 3260. Selected preview is 1920 × 2471 pixels, from the 3885 × 5000 Commons file. Replaces the 295-pixel museum image after visual QA. This is a derivative Google Art Project reproduction, not a new photograph by the museum photographer credited for the previous image."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "reviewNumber": 8,
+      "language": "en",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "the-ambassadors",
+      "medium": "painting",
+      "title": "The Ambassadors",
+      "creator": "Hans Holbein the Younger",
+      "dateDisplay": "1533",
+      "dateStart": 1533,
+      "dateEnd": null,
+      "body": "The strange shape at these men’s feet is a skull. Seen from directly in front, it looks stretched almost beyond recognition; viewed from a sharp angle on the right, it falls into proportion. Holbein placed this optical surprise beneath a portrait of two French diplomats whose clothes and possessions advertise almost everything a successful man could want in 1533: wealth, education and influence.\n\nThe objects between them include books, a globe and instruments for measuring the heavens. These were signs of learning as well as expensive possessions. Yet the skull adds something their accomplishments cannot secure. It belongs to the tradition of *memento mori*, a Latin phrase meaning “remember that you must die.” European artists often included reminders of death in portraits, placing a person’s status beside the knowledge that it would not last forever.\n\nHolbein makes that familiar reminder require an actual change of position. The distortion, called anamorphosis, lets the skull become clear as the impressive portrait slips out of its usual view. Its Christian context appears in a second, easily missed detail: a crucifix partly hidden behind the curtain at the upper left. For the painting’s original audience, death was bound up with questions of salvation and life after death. The diplomats’ achievements fill most of the picture, but those beliefs give it another measure of a human life.",
+      "sources": [
+        {
+          "title": "National Gallery: The Ambassadors",
+          "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+          "role": "holding-museum catalogue and interpretation",
+          "supports": "1533 identity; diplomats Jean de Dinteville and Georges de Selve; wealth and learning; distorted skull seen from the right; crucifix and Christian salvation."
+        },
+        {
+          "title": "Susan Foister: The Ambassadors, National Gallery catalogue, 2024",
+          "url": "https://www.nationalgallery.org.uk/paintings/catalogues/foister-2024/the-ambassadors",
+          "role": "substantive catalogue research",
+          "supports": "Mortality and Christian redemption alongside the portrait’s worldly accomplishments; interpretive complexities and historical context."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/CALIBRATION_07_PAINTING_BOOK_FILM.md",
+        "baselineSection": "The Ambassadors / A",
+        "changes": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "24 September 2026 remake: made the viewing action and memento mori tradition easier to follow, then connected mortality directly to the crucifix’s Christian promise. Preserved the central account without adding an instrument inventory or speculative viewing-position thesis. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/The-Ambassadors-a5a7e834adf345e9a472402b73767bc7?pvs=25",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Led with the defining skull and explained the objects, memento mori and crucifix together, following round 7 A.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "meaningBrief": "The distorted skull places worldly accomplishments within a Christian meditation on death and salvation.",
+      "quotationNotes": [],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+        "altText": "Two richly dressed diplomats stand beside shelves of instruments and books, with a distorted skull across the foreground.",
+        "credit": "Hans Holbein the Younger; collection: National Gallery, London; digital reproduction via Wikimedia Commons. Photographer not identified.",
+        "license": "Commons marks this faithful reproduction PD-Art/Public Domain Mark.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Exact work matched to the National Gallery catalogue. Commons lists a third-party reproduction source; retain provenance and review image quality and app rights separately."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "reviewNumber": 9,
+      "language": "en",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "beethoven-symphony-nine",
+      "medium": "music",
+      "title": "Symphony No. 9 in D minor, Op. 125",
+      "creator": "Ludwig van Beethoven",
+      "dateDisplay": "1824",
+      "dateStart": 1824,
+      "dateEnd": null,
+      "body": "For most of Beethoven’s Ninth Symphony, the orchestra plays without singers. In its final section, a human voice interrupts and calls for a more joyful song. Solo singers and a choir then join the instruments in words about friendship and human fellowship. The work was first performed in Vienna in 1824.\n\nThe familiar Ode to Joy melody arrives gradually. After a loud, unsettled opening to the final section, the orchestra recalls music heard earlier in the work. The lowest string instruments answer these fragments, then introduce a quiet, simple tune. Other instruments take it up. By the time the singers enter, listeners already know the melody they will sing.\n\nBeethoven wrote the singer’s opening call himself, then turned to Friedrich Schiller’s poem about joy bringing people together across their divisions. Friendship, love and the natural world give them reasons to belong to one another. The poem also gives this fellowship a religious basis, picturing a loving creator above the stars. Solo singers and the choir answer one another, turning that invitation into an exchange between people.\n\nThis ending follows music that has been restless, forceful and, at other moments, calm. The famous tune also changes as it returns, becoming a march, a prayer and a mass of overlapping voices. Across the final section, the quiet tune first heard in the low strings becomes something the orchestra and singers share.",
+      "sources": [
+        {
+          "title": "Beethoven-Haus: Symphony No. 9, Op. 125",
+          "url": "https://www.beethoven.de/de/work/view/5556714292117504/Sinfonie%20Nr.%209%20%26",
+          "role": "composer archive",
+          "supports": "Completion in February 1824, Vienna premiere 7 May 1824, Schiller text and work identity. German work-page narrative read."
+        },
+        {
+          "title": "Eastman School of Music: Symphony No. 9",
+          "url": "https://www.esm.rochester.edu/beethoven/symphony-no-9/",
+          "role": "scholarly musical analysis",
+          "supports": "Movement contrasts, finale’s recapitulations and low-string recitative, first instrumental statement of joy theme, voices, brotherhood and creator, march and contrapuntal treatment. Analysis read; no personal listening claimed."
+        },
+        {
+          "title": "ABC Classic listening guide: Beethoven Symphony No. 9",
+          "url": "https://www.abc.net.au/listen/classic/read-and-watch/listening-guide/1000-years-of-classical-music-beethoven-symphony-no-9/9931444",
+          "role": "institutional musical interpretation",
+          "supports": "Accessible formal account of the finale’s melody and variations; indexed text used as corroboration."
+        },
+        {
+          "title": "Public discussion: hearing the complete Ninth",
+          "url": "https://www.reddit.com/r/classicalmusic/comments/q1ih4b/",
+          "role": "reception clue",
+          "supports": "Listeners discuss the finale’s dependence on the whole work, alongside disagreement over preferred movements. No listener consensus or autobiographical programme inferred."
+        },
+        {
+          "title": "Oliver Condy: Beethoven Symphony No. 9, Philharmonia programme, 3 April 2022",
+          "url": "https://philharmonia-assets.s3.amazonaws.com/uploads/2022/04/03.04.22_RFH-online.pdf",
+          "role": "Substantive programme interpretation",
+          "supports": "Pages 5–6 freshly read: context of preceding sections, low-string theme before voice, Beethoven’s added opening words, Schiller, march and religious choral section. Used for the musical sequence alongside Eastman, not for its dramatic descriptive style."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; New composition entry; no particular recording or performance is the subject",
+        "changes": [
+          "New researched draft, pending Julio’s review. No prior approval transferred.",
+          "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+        ],
+        "notionUrl": null,
+        "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+        "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+      },
+      "meaningBrief": "The final arrival of human voices gives explicit words to shared joy and fellowship. A simple melody grows through different instruments and voices after the earlier tensions; Schiller’s friendship and religious vision explain what this gathering celebrates. Explain the progression without requiring musical theory.",
+      "quotationNotes": [
+        "No poem or musical text quoted. Schiller’s invitation is paraphrased; the work’s public-domain German text and Eastman analysis support the account."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Beethoven_Ninth_Symphony.png",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_Ninth_Symphony.png",
+        "altText": "A handwritten manuscript page identified as the fourth movement of Beethoven’s Ninth Symphony.",
+        "credit": "Manuscript: Ludwig van Beethoven; reproduction via Wikimedia Commons.",
+        "license": "Public domain according to Commons metadata.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Supporting manuscript illustration. Commons identifies the fourth movement, but supplies no holding-institution shelfmark; do not invent folio, passage or first-edition claims."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 10,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-beethoven-symphony-nine"
+    },
+    {
+      "id": "billie-holiday-strange-fruit",
+      "medium": "music",
+      "title": "Strange Fruit",
+      "creator": "Billie Holiday; song by Abel Meeropol",
+      "dateDisplay": "1939 recording",
+      "dateStart": 1939,
+      "dateEnd": null,
+      "body": "Billie Holiday’s 1939 recording of Strange Fruit is a protest against the lynching of Black Americans. The song describes a Southern landscape, then reveals what hangs from its trees:\n\n> Black bodies swinging in the southern breeze\n\nThe comparison makes the bodies part of a scene usually associated with beauty and abundance. Flowers and warm air remain, but they surround people who have been murdered. The song connects the familiar beauty of the South with the racial violence taking place there.\n\nAbel Meeropol, a New York schoolteacher, wrote both the words and the music. Holiday’s contribution was her interpretation. She sings slowly and with restraint, giving the images time to register. Her delivery leaves room for listeners to follow the words and recognise what the scene describes.\n\nAt Café Society, an integrated New York nightclub, the song changed the usual conditions of entertainment. Service stopped, the room darkened, and a spotlight remained on Holiday. She sang it at the end of her set and left without returning for a bow. The audience had to listen without drinks arriving or another number immediately following.\n\nHoliday recorded the song for the small Commodore label after her usual label declined it. That recording carried an explicit account of racist murder beyond the nightclub. In a period when Congress had repeatedly failed to pass federal anti-lynching legislation, the song put the victims before an audience that might otherwise avoid the subject.",
+      "sources": [
+        {
+          "title": "Library of Congress: Strange Fruit, essay by Julia Blackburn",
+          "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/StrangeFruit_Blackburn.pdf",
+          "role": "national recording archive; critical essay",
+          "supports": "1939 Commodore recording, Meeropol authorship, Café Society context, anti-lynching subject. Conflicting photograph identification and speculative persecution causality are not used."
+        },
+        {
+          "title": "Geoffrey Himes: What Makes Billie Holiday’s Music So Powerful Today",
+          "url": "https://www.smithsonianmag.com/arts-culture/what-makes-billie-holiday-so-powerful-today-180954893/",
+          "role": "substantive music criticism",
+          "supports": "Quiet, controlled vocal approach and specific comparison of the 1939 Strange Fruit performance with later interpretation. No personal listening claimed."
+        },
+        {
+          "title": "Indiana Public Media, Night Lights: A Strange and Bitter Crop",
+          "url": "https://www.ipm.org/show/nightlights/2019-09-11/strange-bitter-crop-billie-holidays-song-century",
+          "role": "public-broadcast music history",
+          "supports": "Café Society performance rules: halted service, spotlight, departure without an encore; discusses David Margolick’s historical account. Re-read 24 September 2026: service and lighting, final song/no bow, Commodore release and Congress’s repeated failure to pass anti-lynching legislation."
+        },
+        {
+          "title": "Public discussion: Billie Holiday, Strange Fruit",
+          "url": "https://www.reddit.com/r/Music/comments/hsxi42/",
+          "role": "reception clue",
+          "supports": "Some listeners describe only later recognizing the lynching subject; others compare versions. This supports explaining the metaphor directly. Unsupported assertions about government causation and death are excluded."
+        },
+        {
+          "title": "World History Commons: Strange Fruit (1939), primary source and annotation",
+          "url": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+          "role": "educational primary-source presentation",
+          "supports": "Verified seven-word lyric selection; anti-lynching subject and refusal by usual label before Commodore recording. Read 24 September 2026."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; New entry about the 1939 Commodore recording, not a later live performance",
+        "changes": [
+          "New researched draft, pending Julio’s review. No prior approval transferred.",
+          "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+        ],
+        "notionUrl": null,
+        "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+        "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+      },
+      "meaningBrief": "A pastoral landscape reveals lynched Black bodies; Holiday’s restrained interpretation and the conditions of her nightclub performances make racist killing a subject audiences must attend to. A seven-word lyric excerpt gives direct evidence, while authorship and recording context remain distinct.",
+      "quotationNotes": [
+        {
+          "quote": "Black bodies swinging in the southern breeze",
+          "wordCount": 7,
+          "source": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+          "locator": "Annotation, quoted first stanza",
+          "verification": "Checked in the educational primary-source presentation. Plural bodies is the form printed there; Indiana Public Media transcribes body. No new direct audio verification claimed.",
+          "purpose": "Makes the central metaphor concrete without relying only on paraphrase. No other lyric excerpt appears."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Strange-Fruit-Commodore-1939.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Strange-Fruit-Commodore-1939.jpg",
+        "altText": "Commodore 526A label for Billie Holiday and Her Orchestra’s Strange Fruit.",
+        "credit": "Commodore Records label; original-record scan via Wikimedia Commons.",
+        "license": "Record-label image marked public domain on Commons; recording and composition rights are separate.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Exact 1939 release label, identified by Commons metadata. No audio download or recording-use clearance."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 11,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-billie-holiday-strange-fruit"
+    },
+    {
+      "id": "joao-gilberto-chega-saudade",
+      "medium": "music",
+      "title": "Chega de Saudade",
+      "creator": "João Gilberto; music by Antônio Carlos Jobim, lyrics by Vinicius de Moraes",
+      "dateDisplay": "1958 recording",
+      "dateStart": 1958,
+      "dateEnd": null,
+      "body": "In Chega de Saudade, a man misses his lover and asks for her return. He begins in sadness, then imagines the affection they could share if she came back. The music becomes brighter as his thoughts turn toward reunion. João Gilberto’s 1958 recording makes this change feel intimate, with a quiet voice that sounds close to ordinary speech.\n\nThe guitar keeps moving while Gilberto stretches a word or starts a phrase slightly before or after its beat. Voice and instrument remain together without matching every accent. He draws on samba’s dance rhythms, fitting the work of several percussion instruments into the patterns of one guitar. The singing can therefore sound unhurried while the accompaniment stays lively.\n\nThe song was written by Antônio Carlos Jobim and Vinicius de Moraes. Elizeth Cardoso had already recorded it, with Gilberto playing guitar, before he made his own version that July. Jobim arranged the instruments accompanying him. Released as a single in August, Gilberto’s recording became a landmark of bossa nova, the emerging Brazilian style associated with this close relationship between understated singing and rhythmic guitar.\n\nCardoso’s earlier recording was already part of this experiment. Working with Gilberto, she reduced the wavering effect called vibrato in parts of her singing. The new style developed through exchanges among performers, composers and arrangers, each changing how a familiar Brazilian rhythm could accompany a voice.",
+      "sources": [
+        {
+          "title": "Instituto Moreira Salles: Chega de Saudade, recording catalogue",
+          "url": "https://discografiabrasileira.com.br/fonograma/133285/chega-de-saudade",
+          "role": "recording archive",
+          "supports": "10 July 1958 recording, August 1958 issue, Odeon 14360, matrix RIO-12725; composer/lyricist, performer and Jobim-orchestra credits."
+        },
+        {
+          "title": "Instituto Moreira Salles: Ainda bossa, ainda nova",
+          "url": "https://ims.com.br/2018/03/29/ainda-bossa-ainda-nova/",
+          "role": "institutional music criticism",
+          "supports": "Cardoso’s earlier recording with Gilberto on guitar; collaborative development and differences between singer and composer contributions."
+        },
+        {
+          "title": "Gabriel S. S. Lima Rezende: O truque do mestre",
+          "url": "https://www.scielo.br/j/rieb/a/fDvChwFkzDXLYWtDm6vnT3C/?lang=pt",
+          "role": "scholarly musical analysis",
+          "supports": "Composition’s formal change, D-major second section and hopeful lyrical turn; traditional samba resources and modern musical transformation. The author’s larger socioeconomic interpretation is not presented as settled fact."
+        },
+        {
+          "title": "Ricardo Quiñones: João Gilberto, Jazz.com Encyclopedia",
+          "url": "https://jazz.com/encyclopedia/gilberto-joo-prado-pereira-de-oliveira/",
+          "role": "substantive performance analysis",
+          "supports": "Steady guitar bass, displaced chord rhythm, intimate vocal delivery ahead of/behind the beat, and voice/guitar interaction in Chega de Saudade. Broader biographical anecdotes and absolute genre-invention claims unused."
+        },
+        {
+          "title": "Public discussion: Chega de Saudade, Music as Emotion",
+          "url": "https://www.reddit.com/r/LetsTalkMusic/comments/h0dse5/",
+          "role": "reception clue",
+          "supports": "Listener interest in longing mixed with hope; prompted clear explanation for non-Portuguese readers. Thread conflates album and single, and makes inaccurate language claims, all excluded."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; New entry about the July 1958 recording and August 1958 single, not the 1959 album",
+        "changes": [
+          "New researched draft, pending Julio’s review. No prior approval transferred.",
+          "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+        ],
+        "notionUrl": null,
+        "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+        "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+      },
+      "meaningBrief": "The lyric moves from loneliness to imagined reunion. Gilberto’s soft speechlike phrasing and guitar rhythms make that longing intimate while retaining samba’s movement. Cardoso’s earlier version and Jobim’s arrangement establish collaboration rather than a lone-inventor story.",
+      "quotationNotes": [
+        "Lyrics paraphrased. No Portuguese lyric or English translation quoted. Listening descriptions follow rechecked scholarly and musician criticism, not a claimed new direct listening session."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Joao_Gilberto_-_Chega_de_Saudade.jpg",
+        "referenceUrl": "https://en.wikipedia.org/wiki/File:Joao_Gilberto_-_Chega_de_Saudade.jpg",
+        "altText": "Cover of João Gilberto’s 1959 album Chega de Saudade, shown as a later illustration of the 1958 recording.",
+        "credit": "Odeon Records album cover, via English Wikipedia.",
+        "license": "Copyrighted album artwork. Wikipedia’s contextual non-free-use rationale is not an app-use license.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "SUPPORTING ILLUSTRATION: 1959 album cover, not the 1958 single label. Parent authorized this explicit fallback after the exact label could not be retrieved. Entry metadata remains the 1958 recording."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 12,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-joao-gilberto-chega-saudade"
+    },
+    {
+      "id": "animal-farm",
+      "medium": "literature",
+      "title": "Animal Farm",
+      "creator": "George Orwell",
+      "dateDisplay": "1945",
+      "dateStart": 1945,
+      "dateEnd": null,
+      "body": "In George Orwell’s *Animal Farm* (1945), farm animals overthrow an owner who takes the produce of their labour. They want enough food, an end to beatings, and a share in what their work creates. Their rebellion begins with a practical hope: life should improve when those doing the work control the farm.\n\nThe pigs soon reserve the milk and apples for themselves. Their spokesman, Squealer, says their intellectual work requires better food. He presents this privilege as necessary for everyone’s welfare, then warns that the old farmer could return. The animals’ fear of losing their freedom helps the pigs secure advantages over them.\n\nBoxer, the cart-horse, responds to each difficulty with the promise, “I will work harder!” His strength and loyalty help keep the farm running. But he answers failures of leadership by demanding more of himself. His willingness to serve the others makes him especially useful to rulers who take an increasing share of their labour.\n\nNapoleon, the pigs’ leader, ends public debate and uses dogs to enforce obedience. The pigs change the rules to permit conduct once forbidden to everyone. The farm’s principle of equality eventually becomes: “All animals are equal, but some animals are more equal than others.” The words still promise equality, while authorising unequal treatment.\n\nOrwell wrote the fable in response to Stalin’s Soviet Union. He regarded its ruling hierarchy as a betrayal of the revolution’s promise of liberation. He supported socialism and objected to defending Soviet repression in its name. The animals’ wish for a fairer society has good reasons behind it. Their leaders exploit that hope, along with their fear of returning to the old life.",
+      "sources": [
+        {
+          "title": "George Orwell: Animal Farm, English text",
+          "url": "https://gutenberg.net.au/ebooks01/0100011h.html",
+          "role": "primary work",
+          "supports": "Early equality and hope; milk and apples; Boxer’s recurring promise; Napoleon’s dogs, rule changes and coercion; the altered equality maxim."
+        },
+        {
+          "title": "George Orwell: Preface to the Ukrainian Edition of Animal Farm",
+          "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/animal-farm/preface-to-the-ukrainian-edition-of-animal-farm-by-george-orwell/",
+          "role": "author’s historical explanation",
+          "supports": "Orwell’s socialism and criticism of Soviet class hierarchy. English text is a back-translation of a shortened Ukrainian translation, not the lost original English preface."
+        },
+        {
+          "title": "John Molyneux: Animal Farm revisited, 1989",
+          "url": "https://www.marxists.org/history/etol/writers/molyneux/1989/xx/orwell.html",
+          "role": "substantive literary and political criticism",
+          "supports": "Freshly read literary and political criticism: self-serving justification of pig privileges, justifiable hopes for equality, Boxer’s labour, and the distinction between Orwell’s stated politics and possible readings of the fable. The critic disputes a wholly socialist reading; his interpretation is not treated as the author’s intent."
+        },
+        {
+          "title": "Penguin: Animal Farm",
+          "url": "https://www.penguin.co.uk/books/433229/animal-farm-by-orwell-george/9781787302525",
+          "role": "publisher publication history",
+          "supports": "First publication in 1945; this linked product is a later edition, not the edition used for the article’s quotations."
+        },
+        {
+          "title": "r/books: deleted post, surviving Animal Farm discussion",
+          "url": "https://www.reddit.com/r/books/comments/1mag52w/deleted_by_user/",
+          "role": "public reception clue only",
+          "supports": "Freshly read surviving comments show emotional response to Boxer and disagreement over reducing the fable to an anti-communist slogan. No votes exposed; deleted post and contemporary political analogies are not used as authority."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+        "baselineSection": "animal-farm",
+        "changes": [
+          "Retained Boxer’s requested meaningful motto and the altered equality maxim; linked Boxer’s self-demand explicitly to the failure of leadership.",
+          "Clarified the animals’ material hopes, fear of restoration, and Orwell’s socialist objection to Soviet hierarchy. Removed the isolated repetition about rulers and equality."
+        ],
+        "notionUrl": "https://app.notion.com/p/Animal-Farm-A-revolu-o-dos-bichos-45aa8ff8110f4474bc4a76d3bcf1cccc?pvs=25",
+        "previousBaselineFile": "docs/editorial/research-2026-09-21/ROUND_16_ANIMAL_FARM_BOXER_ADDITION.json",
+        "previousBaselineSection": "A_with_Boxer",
+        "previousChanges": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "Uses the separately requested Boxer addition; that addition has not received separate approval.",
+          "Block quotation converted to an inline quotation. No factual rewrite."
+        ],
+        "baselineBodySha256": "645843ebb7fc5856348b525f9d89fef7b5f8ddda1e4a25d4b13763608f0abf27",
+        "revisionStatus": "candidate_for_review; no approval inferred",
+        "editorialGuideVersion": "0.19"
+      },
+      "meaningBrief": "A justified desire for relief from exploitation becomes vulnerable to leaders who claim privilege in the name of collective welfare. Fear, loyalty, changed rules and force explain the loss of control. Boxer supplies the emotional cost without disclosing his fate. Orwell’s socialist critique distinguishes betrayed equality from an assertion that equality itself is futile.",
+      "quotationNotes": [
+        {
+          "text": "I will work harder!",
+          "wordCount": 4,
+          "sourceUrl": "https://gutenberg.net.au/ebooks01/0100011h.html",
+          "locator": "Chapter III",
+          "language": "English original",
+          "translator": null,
+          "note": "Boxer’s personal motto in response to each problem and setback. Exact wording."
+        },
+        {
+          "text": "All animals are equal, but some animals are more equal than others.",
+          "wordCount": 12,
+          "sourceUrl": "https://gutenberg.net.au/ebooks01/0100011h.html",
+          "locator": "Chapter X",
+          "language": "English original",
+          "translator": null,
+          "note": "Exact lexical wording; baseline normalizes the source’s two uppercase lines to sentence case and supplies a comma and final period. Later thematic revelation, with no character fate disclosed."
+        },
+        {
+          "note": "Total quoted words in this entry: 16. Gutenberg Australia transcription by Colin Choat, first posted 2001 and updated 2008; the underlying printed copy is not specified. No claim of a particular first-edition text. App text and quotation clearance remain separate from public-domain status in the source’s jurisdiction."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://img1.bonhams.com/image?src=Images%2Flive%2F2024-02%2F20%2F60125380-1-1.jpg",
+        "referenceUrl": "https://www.bonhams.com/auction/29869/lot/112/orwell-george-animal-farm-a-fairy-story-first-edition-first-issue-with-may-1945-on-copyright-page-secker-and-warburg-1945/",
+        "altText": "Green and grey first-edition dust jacket of Animal Farm: A Fairy Story by George Orwell.",
+        "credit": "Bonhams auction photograph; Secker & Warburg first edition, 1945. Jacket designer not established.",
+        "license": "No open reuse license identified for the auction photograph or jacket design.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Catalogued as first edition, first issue, with May 1945 on the copyright page. This is not a claim that the novel was publicly released in May. Image URL is live; page metadata was available through search, while direct web-page retrieval returned 403. Review reference only."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 13,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-animal-farm"
+    },
+    {
+      "id": "vidas-secas",
+      "medium": "literature",
+      "title": "Vidas Secas",
+      "creator": "Graciliano Ramos",
+      "dateDisplay": "1938",
+      "dateStart": 1938,
+      "dateEnd": null,
+      "body": "Graciliano Ramos’s *Vidas Secas* (1938) follows a fictional family of *retirantes*: people driven from their homes by drought and poverty. Fabiano, Sinha Vitória, their two boys and their dog, Baleia, cross Brazil’s northeastern interior looking for food and work. A farm where they can stay offers relief, but little security.\n\nFabiano works as a cattle herder on land he does not own. His employer pays him less than he is owed. When Fabiano complains, the man tells him to look for work elsewhere. Losing the job would also mean losing the family’s home. This dependence helps explain why their poverty continues even when the drought ends.\n\nFabiano struggles to put his thoughts into words before people who can punish or dismiss him. Their authority makes him doubt his own worth. “You’re an animal, Fabiano,” he tells himself, while also taking pride in his endurance. The narration lets us follow thoughts that he cannot easily express aloud. Sinha Vitória’s calculations, the boys’ curiosity and Baleia’s affection give each a life beyond the struggle for food.\n\nRamos had been imprisoned without formal charges under Getúlio Vargas in 1936. He later connected living alongside poor prisoners with his ability to write about their lives. The novel gives sustained attention to people whose limited speech and low social standing make it easy for others to disregard them.\n\nThe parents imagine a city where their boys could attend school. Their imagined city remains unnamed. The search connects their story to Brazil’s wider history of internal migration. From 1935, São Paulo subsidised migrants’ journeys to supply its coffee and cotton farms with workers. That history helps explain the uncertainty surrounding the family’s hope: leaving the drought could bring new work without ending their dependence on employers.",
+      "sources": [
+        {
+          "title": "Vidas seccas, first edition, 1938 — Biblioteca Brasiliana Guita e José Mindlin",
+          "url": "https://brasiliana.usp.br/handle/bbm/8399",
+          "role": "primary edition catalogue",
+          "supports": "1938 first-edition identity and scan provenance."
+        },
+        {
+          "title": "Vidas seccas, 1938 first-edition scan",
+          "url": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+          "role": "primary work",
+          "supports": "Fabiano’s self-description on printed page 23; household and work dependence; closing family hopes and narrator’s anticipated confinement on printed pages 196–197."
+        },
+        {
+          "title": "João Roberto Maia: Vidas secas and land/labor relations",
+          "url": "https://www.scielo.br/j/alea/a/rNBYPktCKPyMkZTp875f7Gj/",
+          "role": "substantive literary criticism",
+          "supports": "Poverty outside drought, dependence on landowners, wage cheating, and migration into broader labor relations."
+        },
+        {
+          "title": "Casa Museu Graciliano Ramos: 1936",
+          "url": "https://www.casagracilianoramos.com.br/sala-6-memorias-do-carcere/1936-",
+          "role": "author museum chronology",
+          "supports": "Arrest on 3 March 1936 and release on 13 January 1937, without a formal accusation, under Vargas."
+        },
+        {
+          "title": "Zenir Campos Reis: Tempos futuros — Vidas secas, de Graciliano Ramos",
+          "url": "https://www.scielo.br/j/ea/a/4P76p7GKXFft33XjbtKdLqk/?format=html&lang=pt",
+          "role": "substantive criticism and documented author statements",
+          "supports": "Prison experience, poor people’s inner lives, self-description and endurance, individual family perspectives, and the cyclic ending."
+        },
+        {
+          "title": "Museu da Imigração: Brasileiros na Hospedaria — Percursos, ocupação e trabalho",
+          "url": "https://www.museudaimigracao.org.br/en/blog/conhecendo-o-acervo/brasileiros-na-hospedaria-percursos-ocupacao-e-trabalho",
+          "role": "historical museum research",
+          "supports": "São Paulo’s 1935 policy subsidizing internal migrants’ journeys for cotton and coffee cultivation; real context distinguished from the fictional family’s trajectory."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+        "baselineSection": "vidas-secas",
+        "changes": [
+          "Preserved the praised employer/pay/housing paragraph verbatim.",
+          "Moved the family’s interior lives ahead of author biography; clarified the contribution of narration and the link between speech, authority and shame.",
+          "Replaced the vague anticipated trap in a city with a qualified account of migration; explicitly distinguishes real São Paulo policy from the fictional family’s destination."
+        ],
+        "notionUrl": "https://app.notion.com/p/Vidas-Secas-5f85462daca6485081a8fea9d7409455?pvs=25",
+        "previousBaselineFile": "docs/editorial/CALIBRATION_18_PARAGRAPH_REVISION.md",
+        "previousBaselineSection": "Complete A with only that paragraph changed",
+        "previousChanges": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "Retains the paragraph-two repair preferred by Julio; that preference does not imply approval of the whole entry. No factual rewrite."
+        ],
+        "baselineBodySha256": "fb2389c77c17d3bac90cd077993de319d71d7b53bd0deccd84dd8ce3e9575489",
+        "revisionStatus": "candidate_for_review; no approval inferred",
+        "editorialGuideVersion": "0.19"
+      },
+      "meaningBrief": "Drought drives the family out, but land and job dependence sustain poverty during relief. Limited speech and imposed inferiority coexist with thought, skill, affection and hopes for schooling. The preserved employer paragraph explains the practical trap. Author imprisonment and real migration policy supply bounded historical context, without asserting that the fictional family reaches São Paulo.",
+      "quotationNotes": [
+        {
+          "text": "You’re an animal, Fabiano",
+          "wordCount": 4,
+          "originalText": "Você é um bicho, Fabiano.",
+          "sourceUrl": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+          "locator": "1938 first edition, printed p. 23; one-based PDF p. 35",
+          "language": "Our English translation from Portuguese",
+          "translator": "Editorial translation prepared in this task; not a published English translator’s wording",
+          "note": "Fabiano speaks to himself. Context joins socially imposed low status with pride in his capacity to endure. Four quoted English words. Source ending punctuation is adapted to the surrounding attribution. The original first edition spells the title Vidas seccas; the display title uses the established modern spelling."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://www.editoradobrasil.com.br/wp-content/uploads/2024/06/capa_VIDAS-SECAS-scaled-e1719249807948.jpg",
+        "referenceUrl": "https://www.editoradobrasil.com.br/vidas-secas/",
+        "altText": "Title-bearing cover of Vidas secas by Graciliano Ramos, Editora do Brasil’s 2024 edition.",
+        "credit": "Editora do Brasil, 2024 edition of Graciliano Ramos’s Vidas secas. Individual cover artist not established from the publisher page.",
+        "license": "Publisher page states all rights reserved; no open reuse license identified for this cover image.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Later edition used as a recognizable review image, not the 1938 first edition. Publisher identifies this edition as 2024, ISBN 9788510096683, and provides this URL under “Imagem em alta”. Article quotations remain sourced to the 1938 USP scan. Replaces its unmarked binding image after visual QA."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 14,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-vidas-secas"
+    },
+    {
+      "id": "the-great-gatsby",
+      "medium": "literature",
+      "title": "The Great Gatsby",
+      "creator": "F. Scott Fitzgerald",
+      "dateDisplay": "1925",
+      "dateStart": 1925,
+      "dateEnd": null,
+      "body": "F. Scott Fitzgerald’s *The Great Gatsby* (1925) follows a society in which wealth brings admiration and protects people from consequences. Its narrator, Nick Carraway, enters this world during the summer of 1922, when he moves near wealthy neighbours on Long Island.\n\nHis neighbour Gatsby has risen from poverty and wants to recover his former relationship with Daisy Buchanan. She represents both someone he loves and the wealthy life he has imagined for himself. His fortune, made through criminal dealings, pays for the mansion and parties intended to attract her. Yet Daisy’s husband, Tom, still regards him as an inferior. Money buys Gatsby possessions and attention, while inherited status remains harder to acquire.\n\nTom’s own position requires no comparable effort. He is unfaithful to Daisy and violent toward his mistress, while continuing to claim social superiority. His conduct exposes the distance between being respected for wealth and deserving respect. Nick describes how Tom and Daisy “smashed up things and creatures and then retreated back into their money”. Their protection lets them leave others to bear the consequences of their choices.\n\nGatsby’s ambition draws on the American promise that a person can rise beyond the circumstances of their birth. He invests that hope in Daisy and in the social world she belongs to. Recovering their relationship also means trying to make the past fit the future he has imagined.\n\nNick nevertheless admires Gatsby’s capacity to hope, even while disapproving of his conduct. Gatsby’s desire for a better life becomes tied to gaining acceptance among people whose behaviour gives him little reason to admire them.",
+      "sources": [
+        {
+          "title": "F. Scott Fitzgerald: The Great Gatsby, original English text",
+          "url": "https://www.gutenberg.org/files/64317/64317-h/64317-h.htm",
+          "role": "primary work",
+          "supports": "1922 story setting, Gatsby’s origins and criminal wealth, Tom’s conduct, class exclusion, Nick’s simultaneous disapproval and admiration, and the chapter IX quotation."
+        },
+        {
+          "title": "Daniel Shaviro: Bonfires of the American Dream in American Rhetoric, Literature, and Film",
+          "url": "https://www.law.nyu.edu/sites/default/files/Shaviro%20-%20Bonfires%20of%20the%20American%20Dream.pdf",
+          "role": "substantive literary and social analysis",
+          "supports": "Gatsby discussion, especially PDF pages 18–20: inherited standing, moral worth, protection from consequences, and contradictory aspiration. Previously read for the approved repair."
+        },
+        {
+          "title": "American Dreaming: Really Reading The Great Gatsby",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7467143/",
+          "role": "substantive literary criticism",
+          "supports": "Money, indifference, inherited privilege and Tom’s violence. Previously read for the approved repair; fresh access returned a browser challenge."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+        "baselineSection": "the-great-gatsby",
+        "changes": [
+          "Preserved the approved central relation between wealth, moral worth, social exclusion and Nick’s divided admiration.",
+          "Fixed quotation grammar; explained the American promise of advancement and Gatsby’s wish to recover the past through Daisy."
+        ],
+        "notionUrl": "https://app.notion.com/p/The-Great-Gatsby-217c5450872d804da0b4da43b5ebb66d?pvs=25",
+        "previousBaselineFile": "docs/editorial/research-2026-09-21/ROUND_14_FINAL_DRAFT.json",
+        "previousBaselineSection": "body",
+        "previousChanges": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "Approved round-14 prose retained. Block quotation converted to an inline quotation, with terminal punctuation for the resulting sentence. No factual rewrite."
+        ],
+        "baselineBodySha256": "526783357d690c2ef11e6e8a9b6538f642ccfd538bc7c070cc5674e8e2cd66d6",
+        "revisionStatus": "candidate_for_review; no approval inferred",
+        "editorialGuideVersion": "0.19"
+      },
+      "meaningBrief": "Gatsby’s longing joins love, self-invention and acceptance into inherited privilege. Nick sees both Gatsby’s hope and his compromised means. Tom’s violence and wealth-protected carelessness show why social standing does not establish moral worth. The American promise of advancement is explained through a specific desire rather than an abstract slogan.",
+      "quotationNotes": [
+        {
+          "text": "smashed up things and creatures and then retreated back into their money",
+          "wordCount": 12,
+          "sourceUrl": "https://www.gutenberg.org/files/64317/64317-h/64317-h.htm",
+          "locator": "Chapter IX, Nick’s retrospective description of Tom and Daisy",
+          "language": "English original",
+          "translator": null,
+          "note": "Exact continuous twelve-word excerpt from within a longer sentence; surrounding prose supplies speaker and referents. The quote does not disclose the late plot events. Project Gutenberg ebook 64317; do not claim a particular first-edition page number."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Gatsby_Cover_1925_Retouched.jpg",
+        "altText": "Blue first-edition dust jacket with floating eyes and red lips above a brightly lit city.",
+        "credit": "Francis Cugat, 1925 dust-jacket illustration; Charles Scribner’s Sons; digital restoration by Wikimedia Commons user Flask.",
+        "license": "Commons marks the image public domain in the United States because of publication date; this is not worldwide rights clearance.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "A digitally restored reproduction of the 1925 first-edition jacket, including scratch removal and color adjustments. Not an untouched scan. Review reference only."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 15,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-the-great-gatsby"
+    },
+    {
+      "id": "antigone",
+      "medium": "theater",
+      "title": "Antigone",
+      "creator": "Sophocles",
+      "dateDisplay": "circa 441 BCE",
+      "dateStart": -441,
+      "dateEnd": null,
+      "body": "In Sophocles’s *Antigone*, two brothers have killed each other in a struggle for the mythical city of Thebes. Creon, the new ruler, honours Eteocles for defending it. He forbids the burial of Polyneices, who attacked with a foreign army. Their sister Antigone covers the forbidden body with earth, knowing that the punishment is death.\n\nFor Antigone, leaving her brother exposed would betray both someone she loves and the duties owed to the dead. In ancient Greek life, burial joined family responsibility to religious obligation. Cities could also use funeral honours, or their refusal, to distinguish loyal citizens from enemies. Creon’s decree therefore reaches into an obligation that Antigone believes no ruler can cancel.\n\nHer sister Ismene fears resisting men who hold power over them. Antigone treats that fear as disloyalty. When Ismene later offers to share her punishment, Antigone refuses. Her resolve protects her brother’s claim to burial, but also makes her harsh toward someone who loves her.\n\nCreon believes obedience will restore order after civil war. He increasingly treats disagreement as an attack on his own authority. His son Haemon, who is engaged to Antigone, tries to persuade him to listen to the citizens who pity her. He risks his father’s anger while trying to protect the woman he is to marry. When Creon insists on ruling as he chooses, Haemon replies:\n\n> That is no city which belongs to one man.\n\nPerformed in Athens around 441 BCE, the tragedy placed this royal family’s conflict before a city governed by its citizens. Grief, loyalty and the fear of losing authority shape what each character can hear. Creon’s refusal to reconsider turns advice from his own family into another offence against his rule.",
+      "sources": [
+        {
+          "title": "Antigone, translated by R. C. Jebb",
+          "url": "https://classics.mit.edu/Sophocles/antigone.html",
+          "role": "primary dramatic text in translation",
+          "supports": "Opening conflict, burial argument and Creon–Haemon exchange; exact selected line. Haemon’s betrothal, Ismene’s fear and Antigone’s refusal to share responsibility with her."
+        },
+        {
+          "title": "UCL: Antigone Study Guide",
+          "url": "https://www.ucl.ac.uk/arts-humanities/classics/events/classical-play/past-productions/antigone-study-guide",
+          "role": "substantial scholarly interpretation",
+          "supports": "Civic and religious burial duties, limits of authority, gender, divided loyalties and character complexity."
+        },
+        {
+          "title": "r/AYearOfMythology: Antigone part one discussion",
+          "url": "https://www.reddit.com/r/AYearOfMythology/comments/1bxcbxf/antigone_part_one_lines_1_700_reading_discussion/",
+          "role": "public reception clue",
+          "supports": "Readers debate Creon’s public-order claim and refusal to hear dissent. Claims were checked against the play; no consensus claim."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/cinema-theater.json",
+        "baselineSection": "antigone",
+        "changes": [
+          "Added Haemon’s engagement to Antigone and the personal stakes of his appeal to Creon.",
+          "Moved burial’s social and religious meaning beside the disputed act; clarified Ismene’s fear and Antigone’s harshness without balancing away Creon’s responsibility.",
+          "Distinguished mythical setting from Athenian performance context."
+        ],
+        "notionUrl": null,
+        "previousBaselineFile": null,
+        "previousBaselineSection": null,
+        "previousChanges": [
+          "New staged entry under guide v0.18; no prior approval. Discusses Sophocles’s play, not Anouilh’s adaptation or a particular production."
+        ],
+        "baselineBodySha256": "46124d82215aad875050427c3678472e69ada9d4f7d5b3a52f82c4455e392d67",
+        "revisionStatus": "candidate_for_review; no approval inferred",
+        "editorialGuideVersion": "0.19"
+      },
+      "meaningBrief": "The city’s definition of loyalty collides with burial duties to family and gods. Bereavement, fear, Antigone’s harsh resolve, Creon’s need for obedience and Haemon’s divided loyalties give the conflict human stakes. Haemon’s betrothal is explicit. Mythical Thebes remains distinct from the democratic Athens where the play was staged; the account does not treat all positions as equally justified.",
+      "quotationNotes": [
+        {
+          "text": "That is no city which belongs to one man.",
+          "speaker": "Haemon to Creon",
+          "sourceUrl": "https://classics.mit.edu/Sophocles/antigone.html",
+          "locator": "Creon–Haemon exchange; web line 768",
+          "wordCount": 9,
+          "version": "R. C. Jebb English translation; wording verified directly.",
+          "purpose": "Exposes the shift from protecting the city to identifying it with the ruler. The surrounding burial conflict remains explicit."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Antigone_of_Sophocles_%281911%29.djvu/page7-1280px-The_Antigone_of_Sophocles_%281911%29.djvu.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:The_Antigone_of_Sophocles_(1911).djvu",
+        "altText": "Title page of Joseph Edward Harry’s 1911 English edition of The Antigone of Sophocles.",
+        "credit": "The Robert Clarke Company, 1911; HathiTrust scan via Wikimedia Commons",
+        "license": "Public Domain Mark / PD-scan as recorded by Commons.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Historical edition reference, not the first ancient performance or the Jebb translation quoted in the entry. Page 7 image URL extracted from Wikisource. App media review still pending."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 16,
+      "language": "en",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "on_hold",
+      "editorialDecisionId": "julio-2026-09-25-antigone"
+    },
+    {
+      "id": "a-dolls-house",
+      "medium": "theater",
+      "title": "A Doll’s House",
+      "creator": "Henrik Ibsen",
+      "dateDisplay": "1879",
+      "dateStart": 1879,
+      "dateEnd": null,
+      "body": "In Henrik Ibsen’s *A Doll’s House* (1879), Nora Helmer appears to have a comfortable marriage. Her husband, Torvald, is becoming a bank manager. He gives her money and affectionate pet names, while treating her judgment as less serious than his own.\n\nNora has secretly carried a responsibility he knows nothing about. When he was ill, she borrowed money for a restorative trip to Italy and forged her father’s signature. She has since saved from her allowance and taken copying work to repay the loan. Telling her friend Mrs Linde about those late nights, she recalls the pleasure of earning:\n\n> It was like being a man.\n\nThe comparison makes the inequality within their household clear. Torvald takes paid work and financial authority for granted. Nora enjoys discovering that she can provide for someone, yet hides that achievement because she believes owing his recovery to her would humiliate him. She helps maintain his image as protector, even while secretly doing the protecting herself.\n\nWhen the lender threatens to reveal the forgery, Nora expects Torvald to take the blame upon himself. She imagines him prepared to make a sacrifice comparable to hers. His reaction centres instead on the danger to his reputation. The crisis exposes how differently they understand the love they have been relying on.\n\nSet in a nineteenth-century Norwegian household, the play connects that disappointment to a marriage organised around male authority and female dependence. Nora’s affection and concealed competence have existed alongside her performance as a carefree wife. She begins to question whether being cherished on those terms has allowed her to form her own judgment. Her uncertainty concerns the whole relationship, including who makes decisions and whose sacrifices can be acknowledged.",
+      "sources": [
+        {
+          "title": "A Doll’s House, translated by R. Farquharson Sharp",
+          "url": "https://www.gutenberg.org/cache/epub/2542/pg2542-images.html",
+          "role": "primary dramatic text in translation",
+          "supports": "Nora’s loan, forged signature, concealed copying work, pleasure in earning, and fear of Torvald’s reaction. Act III: Nora’s expectation that Torvald would take blame; his stated limit on sacrificing honour and her description of his fear for himself."
+        },
+        {
+          "title": "AQA: A Doll’s House text overview",
+          "url": "https://filestore.aqa.org.uk/resources/english/AQA-7716-7717-TO-PROTEST-DOLL.PDF",
+          "role": "substantial educational interpretation",
+          "supports": "Money, respectability, Nora’s existing competence and the unequal marriage; all six pages read."
+        },
+        {
+          "title": "Erik Bjerck Hagen: Et dukkehjem, Store norske leksikon",
+          "url": "https://snl.no/Et_dukkehjem",
+          "role": "scholarly reference and historical reception",
+          "supports": "1879 publication/premiere, play’s development and the tension between outward childishness and concealed responsibility."
+        },
+        {
+          "title": "r/classicliterature: A Doll’s House discussion",
+          "url": "https://www.reddit.com/r/classicliterature/comments/1fy68oy/a_dolls_house/",
+          "role": "public reception clue",
+          "supports": "Readers identify pet names, marital roles and the uncertainty of independence; no representative audience claim."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/cinema-theater.json",
+        "baselineSection": "a-dolls-house",
+        "changes": [
+          "Developed the omitted causal hinge: Nora expects reciprocal sacrifice; Torvald’s reaction centres on his reputation.",
+          "Retained the earning passage because it explains concealed competence and financial independence; final decision withheld."
+        ],
+        "notionUrl": null,
+        "previousBaselineFile": null,
+        "previousBaselineSection": null,
+        "previousChanges": [
+          "New staged entry under guide v0.18; no prior approval. Discusses the original play rather than a film or modern staging."
+        ],
+        "baselineBodySha256": "5e0b326ced4a8bad7d82de4f1a5386891b7bc6d822dcc93122ed92d70b29e4f7",
+        "revisionStatus": "candidate_for_review; no approval inferred",
+        "editorialGuideVersion": "0.19"
+      },
+      "meaningBrief": "Nora’s hidden loan and paid work contradict the role Torvald assigns her. She expects reciprocal sacrifice because love has justified her own risk; his concern for reputation exposes an unequal understanding of care. The account retains her existing agency and affection, connects financial authority to marital dependence, and withholds her final decision.",
+      "quotationNotes": [
+        {
+          "text": "It was like being a man.",
+          "speaker": "Nora to Mrs Linde",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/2542/pg2542-images.html",
+          "locator": "Act I, account of copying work; web line 625",
+          "wordCount": 6,
+          "version": "R. Farquharson Sharp English translation; wording and surrounding speech verified.",
+          "purpose": "Makes the gendered experience of earning and independence audible without disclosing her final decision."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://media.snl.no/media/37786/standard_compressed_NF.2009-0196.jpg",
+        "referenceUrl": "https://snl.no/Et_dukkehjem",
+        "altText": "Cover of the 1879 first edition of Henrik Ibsen’s Et dukkehjem.",
+        "credit": "Jon-Erik Faksvaag / Ibsenmuseet, Norsk Folkemuseum",
+        "license": "CC BY-SA 3.0, as stated beside the first-edition image on SNL.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Specific historical edition photograph; not a contemporary production. App media review remains pending."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 17,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "on_hold",
+      "editorialDecisionId": "julio-2026-09-25-a-dolls-house"
+    },
+    {
+      "id": "auto-da-compadecida",
+      "medium": "theater",
+      "title": "Auto da Compadecida",
+      "creator": "Ariano Suassuna",
+      "dateDisplay": "1955; first performed 1956",
+      "dateStart": 1955,
+      "dateEnd": 1956,
+      "body": "In Ariano Suassuna’s *Auto da Compadecida*, João Grilo and Chicó have little money or influence in a town in northeastern Brazil. João survives partly by deceiving people who can usually order him around. He understands their vanity and greed well enough to turn those weaknesses to his advantage.\n\nWhen their employers’ dog dies, João persuades the local clergy to give it a religious burial by inventing a generous bequest. The promise of money changes their objections into willingness to help. The joke exposes a practical inequality: people with money can obtain exceptions from authorities who claim to apply the same rules to everyone.\n\nWritten in 1955 and first staged in 1956, the play draws on circus performance and *cordel*, stories circulated in inexpensive verse booklets. Its clown speaks directly to the audience and announces the religious judgment that will frame the action. The word *auto* refers here to a play organised around religious and moral questions. The characters’ conduct will be examined before Jesus, with the Virgin Mary speaking in their defence.\n\nMary is the *Compadecida*, the compassionate figure named in the title. She asks Jesus: “I plead for these poor people who have no one on their side, my son.” Her defence asks what fear, weakness and hardship have done to each person. For João, survival under people with greater power helps explain the habit of lying. It does not make every deception harmless.\n\nThe judgment also examines people who held authority over him. Their positions cannot settle the question of their goodness, and his poverty cannot settle it either. Within the play’s popular Catholic world, mercy depends on attending to lives that a list of offences leaves unexplained. The comedy’s criticism of corrupt clergy develops alongside its faith in a more understanding judgment.",
+      "sources": [
+        {
+          "title": "Mateus Araújo: 60 anos da peleja de João Grilo e Chicó, Teatrojornal",
+          "url": "https://teatrojornal.com.br/2015/06/60-anos-da-peleja-de-joao-grilo-e-chico/",
+          "role": "theatre history and criticism with creator statements",
+          "supports": "1955 writing, 1956 premiere, cordel and circus sources, survival through cunning, institutional criticism and Black Jesus."
+        },
+        {
+          "title": "Tereza Aline Pereira de Queiroz: Mimetismo e Recriação do Imaginário Medieval, Revista Brasileira de História",
+          "url": "https://www.scielo.br/j/rbh/a/kJbTyp3MKNwzzK6j7BJQfBC/?lang=pt",
+          "role": "scholarly interpretation with quoted primary passages",
+          "supports": "Clown’s announcement, dog’s burial, corruption, fear, mercy and the play’s Catholic dramatic framework; cited play edition 1981."
+        },
+        {
+          "title": "Jonas Nogueira da Costa: As questões teológicas presentes na Compadecida",
+          "url": "https://www.vidapastoral.com.br/artigos/temas-teologicos/as-questoes-teologicas-presentes-na-compadecida-da-obra-de-ariano-suassuna/",
+          "role": "theological critical perspective",
+          "supports": "Freshly read complete substantive article and bibliography: Mary’s advocacy, her exact first sentence cited to Suassuna 2005 p.148, Jesus’s role, attention to lived circumstances and the distinction from treating Jesus as tyrannical. Theological perspective, not universal religious fact."
+        },
+        {
+          "title": "Li Sobre Isso: Auto da Compadecida, with reader response",
+          "url": "https://lisobreisso.wordpress.com/2011/11/28/o-auto-da-compadecida/",
+          "role": "public reception clue",
+          "supports": "Humour and comparison with adaptations; the visible response corrects version confusion, reinforcing the need to keep play and screen versions distinct."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/cinema-theater.json",
+        "baselineSection": "auto-da-compadecida",
+        "changes": [
+          "Explained the clown’s announced judgment, Jesus’s role and Mary’s advocacy before discussing mercy; defined auto and cordel.",
+          "Added a short translated Mary passage verified in a scholarly theological article quoting the 2005 play edition.",
+          "Removed the undeveloped Black Jesus mention; the entry does not deny that important racial challenge, but avoids a disconnected theme marker.",
+          "Kept the judgment’s compassion toward powerful as well as poor characters; no individual outcome disclosed."
+        ],
+        "notionUrl": null,
+        "previousBaselineFile": null,
+        "previousBaselineSection": null,
+        "previousChanges": "['New staged entry under guide v0.18; no prior approval. Refers to Suassuna’s play, not the Guel Arraes adaptation.'] Root clarified cordel as inexpensive verse booklets.",
+        "baselineBodySha256": "f862ec51cdd400f88c5526600e6de84316122cb63866aad880549b880b4f8f2d",
+        "revisionStatus": "candidate_for_review; no approval inferred",
+        "editorialGuideVersion": "0.19"
+      },
+      "meaningBrief": "João’s cunning exposes privileges that money buys, while the announced Christian judgment examines both his wrongs and those of powerful people. Mary asks that conduct be understood through concrete fear and hardship. Cordel, circus and the auto form explain how comedy and religious mercy coexist. Poverty explains pressures without automatically proving innocence; Jesus is not portrayed as an unmerciful adversary.",
+      "quotationNotes": [
+        {
+          "text": "I plead for these poor people who have no one on their side, my son.",
+          "speaker": "The Compadecida, Mary, to Jesus",
+          "sourceUrl": "https://www.vidapastoral.com.br/artigos/temas-teologicos/as-questoes-teologicas-presentes-na-compadecida-da-obra-de-ariano-suassuna/",
+          "locator": "Article section 2, citing Suassuna, Agir 2005, p. 148; first sentence of the quoted passage",
+          "wordCount": 15,
+          "version": "Our English translation of Portuguese play dialogue quoted in Jonas Nogueira da Costa’s article; not an authorised English edition or a film subtitle.",
+          "purpose": "Gives Mary’s compassionate advocacy a voice, followed by an explanation of circumstances rather than an unsupported general moral. No character’s sentence or fate is revealed.",
+          "verificationLimit": "The cited printed edition itself was not newly obtained; wording is verified against the visible Portuguese quotation in the scholarly article. The first complete sentence is translated; the following sentence is omitted. Original Portuguese is not reproduced again in this candidate packet."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://teatrojornal.com.br/wp-content/uploads/2015/06/a_compadecida_primeira-versao-1957-foto-arquivo-projeto-memorias-da-cena-pernambucana-capa-1.jpg",
+        "referenceUrl": "https://teatrojornal.com.br/2015/06/60-anos-da-peleja-de-joao-grilo-e-chico/",
+        "altText": "Ariano Suassuna with the Teatro Adolescente do Recife company associated with the first production of Auto da Compadecida.",
+        "credit": "Acervo Memórias da Cena Pernambucana, via Teatrojornal",
+        "license": "Archive photograph; no open reuse license established.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "The article identifies Clênio Wanderley’s original production and dates its caption 1956; the image filename says 1957. Use the company/production identification without asserting an exact photograph year. This is not a film still."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 18,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "on_hold",
+      "editorialDecisionId": "julio-2026-09-25-auto-da-compadecida"
+    },
+    {
+      "id": "eternal-sunshine",
+      "medium": "cinema",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "creator": "Michel Gondry",
+      "dateDisplay": "2004",
+      "dateStart": 2004,
+      "dateEnd": null,
+      "body": "In Michel Gondry’s *Eternal Sunshine of the Spotless Mind* (2004), a clinic can erase memories of a particular person. After their breakup, Clementine has her memories of Joel removed. Hurt by Clementine’s decision, he goes through the same procedure.\n\nDuring the treatment, we follow Joel inside the memories being erased. He relives the arguments near the end of their relationship, then earlier times when they were happy together. As those moments begin to disappear too, he changes his mind. He wants to stop the treatment, although the people carrying it out cannot hear his protests.\n\nIn one memory, Clementine tells him how ugly she felt as a child, and he comforts her. Faced with losing this moment of closeness, Joel calls out to the doctor:\n\n> Please let me keep this memory.\n\nForgetting Clementine would remove much more than the pain of their breakup. Joel would also lose the conversations and shared experiences through which he came to know her. Their affection does not undo the arguments or make them certain to work as a couple. Joel can regret how their relationship ended and still want to remember the time they shared. The procedure gives him no way to keep that experience while removing only the hurt.",
+      "sources": [
+        {
+          "title": "Sight and Sound: Mark Olsen review and Gondry interview",
+          "url": "https://bfidatadigipres.github.io/member%20picks/2024/12/19/eternal-sunshine/",
+          "role": "criticism and creator interview",
+          "supports": "Relationship revisited in reverse chronology, separation of Joel’s inner experience from the external procedure, emotional value and uncertainty of love. Freshly reread 24 September 2026."
+        },
+        {
+          "title": "Focus Features: After 13 Years, Eternal Sunshine Still Blows Our Minds",
+          "url": "https://www.focusfeatures.com/article/legacy_eternal-sunshine_13-year-anniversary",
+          "role": "official distributor commentary",
+          "supports": "Fictional erasure procedure and Joel’s change of mind."
+        },
+        {
+          "title": "Boxoffice Movie Scenes: Eternal Sunshine excerpt",
+          "url": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+          "role": "released-film excerpt",
+          "supports": "Released-film scene: Clementine’s childhood insecurity, Joel’s reassurance and plea at approximately 1:05. Saved caption export reread 24 September 2026; current direct video retrieval failed."
+        },
+        {
+          "title": "r/TrueFilm: competing readings of Eternal Sunshine",
+          "url": "https://www.reddit.com/r/TrueFilm/comments/1dygt96/i_think_some_people_misinterpret_the_meaning_of/",
+          "role": "public reception challenge, not factual authority",
+          "supports": "Selected replies disagree about renewed love, repeated mistakes and the distinction between valuing experience and guaranteeing a relationship. Read 24 September 2026; no representative consensus inferred; draft-screenplay claims not adopted."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/research-2026-09-20/ROUND_11_FINAL_DRAFTS.json",
+        "baselineSection": "film.A",
+        "changes": [
+          "No prose changes. Round 11 A was called perfect. Staged for batch review; not published.",
+          "24 September 2026 remake: full rewrite after current passage comments. Used “he goes through,” deleted the medical-solution framing and doll explanation, explained the memory sequence and its practical stakes, and replaced the confusing closing paragraph. Earlier round-11 praise does not approve this revised candidate."
+        ],
+        "notionUrl": "https://app.notion.com/p/Eternal-Sunshine-of-the-Spotless-Mind-169c5450872d807f8728ca08fda0157a?pvs=25"
+      },
+      "meaningBrief": "Erasing the pain of a breakup also removes the shared experiences through which a person became important. Following Joel inside memories being erased makes that cost concrete: he changes from seeking erasure to resisting it. Affection does not settle the couple’s conflicts or prove that they should stay together. The account withholds the final outcome.",
+      "quotationNotes": [
+        {
+          "text": "Please let me keep this memory.",
+          "speaker": "Joel",
+          "sourceUrl": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+          "locator": "Approximately 1:05 in the clip",
+          "wordCount": 6,
+          "version": "Released-film excerpt. Saved English caption export reread 24 September 2026; caption authorship unspecified. Direct video retrieval failed in this pass; no fresh audio verification.",
+          "purpose": "A specific plea to keep an intimate memory makes Joel’s changed wish concrete. The doll detail is not needed to understand the exchange."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://images.contentstack.io/v3/assets/blt223a4a92692ca457/blt97c5788e2fe386e7/68a386770cb1d42d1a387b22/6874_enternal_sunshin_of_the_spotless_mind_poster.png?branch=production&width=900&format=webp",
+        "referenceUrl": "https://www.focusfeatures.com/eternal_sunshine_of_the_spotless_mind",
+        "altText": "Official poster for Eternal Sunshine of the Spotless Mind (2004).",
+        "credit": "Focus Features / Universal Pictures",
+        "license": "Copyrighted promotional artwork; no app-use license established.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Poster URL extracted from the distributor’s current page. Review reference only. Review URL requests a 900-pixel rendition from the same official image service."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 19,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-eternal-sunshine"
+    },
+    {
+      "id": "soul",
+      "medium": "cinema",
+      "title": "Soul",
+      "creator": "Pete Docter; co-directed by Kemp Powers",
+      "dateDisplay": "2020",
+      "dateStart": 2020,
+      "dateEnd": null,
+      "body": "In *Soul* (2020), New York music teacher Joe Gardner believes his real life will begin when he becomes a professional jazz pianist. He loves playing, but years of unsuccessful auditions have made everything else feel secondary. His fear comes out in a conversation with his mother:\n\n> I’m just afraid that if I died today, that my life would have amounted to nothing.\n\nAn accident separates Joe’s soul from his body on the day he finally lands a coveted gig. His body is still alive, but his soul is heading towards the Great Beyond, the film’s afterlife. Refusing to go, he escapes into the Great Before, where souls prepare for life on Earth. There he meets 22, who has never found a reason to want to be born. Repeated failures to discover a calling have left her feeling inadequate. Joe becomes her mentor and assumes that finding a passion will solve her problem.\n\nWhen they find a way to Earth, a mix-up puts 22 in Joe’s body. She enjoys experiences he takes for granted: tasting pizza, watching a seed drift from a tree, talking with people. These encounters make her want more time on Earth before she has chosen anything to do with her life.\n\nJoe struggles to value these experiences because he still measures a life’s worth by professional success. His love of music can be part of a worthwhile life without being its only justification.",
+      "sources": [
+        {
+          "title": "Disney/Pixar: Soul production notes",
+          "url": "https://lumiere-a.akamaihd.net/v1/documents/soul_production_notes_final_10-14-20_3d1e05e6.pdf",
+          "role": "primary production documentation",
+          "supports": "Credits, premise, Joe and 22’s motivations; read relevant pages in round 16."
+        },
+        {
+          "title": "Fresh Air: Soul creators on passion, purpose and realizing you are enough",
+          "url": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+          "role": "creator interview and released-film soundbites",
+          "supports": "Accident separates soul from body; Great Beyond/Great Before transition; exact released-film soundbite with Libba; passion distinct from fame and life’s value distinct from achievement. Transcript freshly reread 24 September 2026."
+        },
+        {
+          "title": "Stephanie Zacharek: Soul review",
+          "url": "https://time.com/5923340/soul-review-pixar/",
+          "role": "criticism",
+          "supports": "22’s concrete earthly experiences; used narrowly within the source’s 100-word derivation ceiling."
+        },
+        {
+          "title": "Lou Thomas: Soul review, Sight and Sound",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/soul-pixar-disney-pete-docter-kemp-powers-jamie-foxx-jazz-musician-fantasy",
+          "role": "criticism",
+          "supports": "Ambition, 22’s reluctance and attention to ordinary experience."
+        },
+        {
+          "title": "r/movies: official Soul discussion",
+          "url": "https://www.reddit.com/r/movies/comments/kkbd5s/official_discussion_soul_spoilers/",
+          "role": "public reception clue",
+          "supports": "Prior selected threads challenge simple career-change and appreciate-small-things morals; no consensus claim."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/research-2026-09-21/ROUND_16_FINAL_DRAFTS.json",
+        "baselineSection": "works[key=soul].A",
+        "changes": [
+          "Removed inline source links; all prose and paragraph structure preserved. Round 16 A preferred and called really good. Staged for batch review.",
+          "24 September 2026 remake: explained body–soul separation and the distinct Great Beyond/Great Before, removed the unwanted sentence about help returning to the performance, clarified the body mix-up, and tightened the ordinary-life/ambition connection. Retained the meaningful, transcript-verified Joe quotation. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/Soul-bc48c9f723434c76bf6261ae10836911?pvs=25"
+      },
+      "meaningBrief": "Joe makes professional musical achievement the condition for his life to matter. The clear body–soul transition establishes the fictional premise; 22’s first ordinary experiences then challenge his assumption that life requires a calling. The film preserves the value of music while questioning the use of a career as the sole measure of a life.",
+      "quotationNotes": [
+        {
+          "text": "I’m just afraid that if I died today, that my life would have amounted to nothing.",
+          "speaker": "Joe Gardner, speaking with his mother Libba",
+          "sourceUrl": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+          "locator": "Released-film soundbite during Joe’s conversation with Libba; transcript paragraph beginning FOXX, approximately web line 151.",
+          "wordCount": 16,
+          "version": "NPR/Fresh Air transcript of released-film audio; wording and surrounding exchange reread 24 September 2026. No separate direct audio verification.",
+          "purpose": "Makes the emotional stakes of Joe’s ambition explicit."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg?region=0%2C0%2C540%2C810",
+        "referenceUrl": "https://movies.disney.com/soul",
+        "altText": "Official Disney+ promotional poster for Soul (2020).",
+        "credit": "Disney / Pixar",
+        "license": "Copyrighted promotional artwork; no app-use license established.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Official Disney film-page image; this is promotional artwork for the 2020 film."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 20,
+      "language": "en",
+      "revision": 3,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-soul"
+    },
+    {
+      "id": "im-still-here",
+      "medium": "cinema",
+      "title": "I’m Still Here",
+      "creator": "Walter Salles",
+      "dateDisplay": "2024",
+      "dateStart": 2024,
+      "dateEnd": null,
+      "body": "Brazil’s 1964 military coup removed an elected government and stripped congressman Rubens Paiva of his mandate. In January 1971, agents took him from his Rio de Janeiro home. He was tortured and killed in custody. The authorities concealed the crime and circulated a false account of his escape. Walter Salles’s *I’m Still Here* (2024) follows the family left behind, drawing on a memoir by Rubens’s son Marcelo.\n\nThe film centres on Rubens’s wife, Eunice, who is also imprisoned, along with their teenage daughter Eliana. After her release, she must raise five children while seeking answers from the authorities responsible. Confronting the men watching her home, she asks: “What are you looking at? What do you want? Where’s my husband?” The family cannot bury Rubens, and the government refuses to acknowledge his death.\n\nBefore the arrest, Salles shows a busy home full of music, visitors and conversation. This gives us time to know the family before fear changes how they live. Afterwards, Eunice keeps daily life going for the children while deciding how much to tell them. Her composure requires work: she has to care for them while pursuing information that officials continue to withhold.\n\nEunice’s later life extended this work beyond her own family. She entered law school in 1973, defended Indigenous rights and campaigned for official recognition of the dictatorship’s disappeared. Rubens’s death certificate was issued in 1996, twenty-five years after his arrest. Obtaining it meant forcing the state to acknowledge a death that its own agents had caused and concealed.",
+      "sources": [
+        {
+          "title": "Câmara dos Deputados: Rubens Paiva biography",
+          "url": "https://www.camara.leg.br/deputados/131119/biografia",
+          "role": "institutional historical record",
+          "supports": "Revoked mandate, arrest, torture and death, official escape account, 1996 certificate."
+        },
+        {
+          "title": "São Paulo Truth Commission: Rubens Beirodt Paiva",
+          "url": "https://comissaodaverdade.al.sp.gov.br/mortos-desaparecidos/rubens-beirodt-paiva",
+          "role": "historical investigation",
+          "supports": "Custody and concealment; Eunice and Eliana’s detention."
+        },
+        {
+          "title": "CNN: Salles and Torres interview with film clip",
+          "url": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+          "role": "creator interview and released-film excerpt",
+          "supports": "Eunice’s confrontation dialogue, composure and familial experience."
+        },
+        {
+          "title": "Letterboxd: Salles and Torres interview",
+          "url": "https://letterboxd.com/journal/im-still-here-fernanda-torres-walter-salles-interview/",
+          "role": "creator interview",
+          "supports": "Household freedom, the children’s differing knowledge and memory."
+        },
+        {
+          "title": "Memórias da Ditadura: Eunice Paiva",
+          "url": "https://memoriasdaditadura.org.br/personagens/eunice-paiva/",
+          "role": "historical biography",
+          "supports": "1973 law-school entry, Indigenous-rights work and long campaign for acknowledgment."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/research-2026-09-21/ROUND_18_FINAL_DRAFTS.json",
+        "baselineSection": "works[key=im_still_here].A",
+        "changes": [
+          "Removed inline source links; all prose and paragraph structure preserved. Julio praised the round 18 film without naming A or B. A is selected for this batch, not inferred as his preferred variant. Staged for review.",
+          "24 September 2026 remake: made a restrained style revision after the “slightly less AI-written” note, replacing abstract transitions with concrete family actions. Preserved historical killing, official concealment, Eunice’s legal work and the delayed certificate. Retained the contextual film quotation with its broadcast-translation limitation. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/I-m-Still-Here-25dc5450872d80138d0be56c750e2a32?pvs=25"
+      },
+      "meaningBrief": "The historical killing is established; the family’s uncertainty comes from state concealment. The film follows Eunice’s practical care and pursuit of answers, while her later legal work connects her family’s experience to wider struggles for rights and recognition. Her agency, not generic endurance or an unresolved historical mystery, carries the account.",
+      "quotationNotes": [
+        {
+          "text": "What are you looking at? What do you want? Where’s my husband?",
+          "speaker": "Eunice Paiva, confronting men watching her home",
+          "sourceUrl": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+          "locator": "Film clip, web transcript line 250",
+          "wordCount": 12,
+          "version": "CNN English broadcast translation in a rush transcript, freshly reread 24 September 2026. Not independently checked against theatrical subtitles or Portuguese audio.",
+          "purpose": "Expresses her demand for information withheld by those exercising power."
+        }
+      ],
+      "media": {
+        "imageUrl": "https://www.sonyclassics.com/assets/img/films/imstillhere/poster/imstillhere.jpg",
+        "referenceUrl": "https://www.sonyclassics.com/film/imstillhere/",
+        "altText": "Official English-language poster for I’m Still Here (2024).",
+        "credit": "Sony Pictures Classics",
+        "license": "Copyrighted promotional artwork; no app-use license established.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Poster URL extracted from Sony’s film page; not a photograph of the historical Paiva family."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 21,
+      "language": "en",
+      "revision": 2,
+      "editorialStatus": "approved",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-im-still-here"
+    }
+  ],
+  "activeMedia": [
+    "architecture",
+    "sculpture",
+    "painting",
+    "music",
+    "literature",
+    "theater",
+    "cinema"
+  ],
+  "onHoldMedia": [
+    "theater"
+  ],
+  "releasePolicy": "Import only currently approved writing with its selected image and resolved passage comments when Julio requests a prototype update. The app contains 20 works after the 27 September painting update. Pending revisions do not replace earlier approved app versions. Theater stays on hold."
+}

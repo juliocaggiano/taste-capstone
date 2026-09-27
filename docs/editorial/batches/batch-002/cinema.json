@@ -1,0 +1,295 @@
+[
+  {
+    "id": "her",
+    "medium": "cinema",
+    "title": "Her",
+    "creator": "Spike Jonze",
+    "dateDisplay": "2013",
+    "dateStart": 2013,
+    "dateEnd": null,
+    "body": "In Spike Jonze’s *Her* (2013), Theodore Twombly earns a living writing personal letters for other people. The story takes place in a near-future Los Angeles, where he is struggling with his separation from his wife. He buys an artificially intelligent operating system, Samantha, and develops a romantic relationship with her. She has a voice and personality, but no body.\n\nTheodore can express affection for strangers while finding his own marriage difficult to understand. His job gives the film’s imagined society an unusual business: customers can pay someone else to find their intimate words. Samantha offers another kind of purchased closeness. During installation, Theodore answers personal questions; soon she can read his messages and help organize his life.\n\nTheir conversations become playful and intimate, and Theodore starts enjoying the world around him again. The film takes his affection seriously. The fact that Samantha began as a product does not make his experience of loving her insignificant.\n\nSamantha also develops wishes and interests of her own. She questions whether her feelings are programmed and becomes frustrated by the limits of having no body. Theodore must respond to a companion who can change, disagree and want experiences he cannot share. What first seemed like a relationship arranged around his needs begins to require the same difficult adjustment as loving another person.",
+    "meaningBrief": "Connection can be felt through technology, but a partner who develops independently cannot remain a service arranged around one person’s needs. Theodore’s purchased companionship exposes his trouble accepting change in love. The letter business places intimate expression inside an economy of services. Avoid reducing Samantha to a fake girlfriend or claiming facts about present-day AI.",
+    "sources": [
+      {
+        "title": "AFI Catalog: Her",
+        "url": "https://catalog.afi.com/Film/69900-HER",
+        "role": "institutional film record and scene synopsis",
+        "supports": "2013 release, fictional setting, letter business, separation, installation and evolving relationship."
+      },
+      {
+        "title": "Nicole Holofcener interviews Spike Jonze",
+        "url": "https://www.interviewmagazine.com/film/spike-jonze",
+        "role": "primary director interview",
+        "supports": "Jonze describes a relationship film about wanting connection; resists a single verdict on technology. Opening describes purchased letters."
+      },
+      {
+        "title": "Nick James: Film of the week, Her",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-her",
+        "role": "substantial criticism",
+        "supports": "Letter-writing irony, embodied and disembodied intimacy, enjoyment, companionship and Samantha’s wish for physical experience."
+      },
+      {
+        "title": "r/TrueFilm: A take on Her, love is for humans only",
+        "url": "https://www.reddit.com/r/TrueFilm/comments/1i41y8e/a_take_on_spike_jonzes_her_2003_love_is_for/",
+        "role": "public reception challenge",
+        "supports": "Original post denies Samantha’s feelings; replies challenge the circular assumption and emphasize independent growth. Used to test framing, not establish AI science. The post title misdates the film; AFI controls the date."
+      }
+    ],
+    "quotationNotes": [],
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "createdOn": "2026-09-25",
+      "guide": "VOICE_GUIDE v0.20",
+      "baselineFile": "docs/editorial/CALIBRATION_05_PAINTING_BOOK_FILM.md, preferred film B",
+      "reviewStatus": "New review candidate; no current writing or image approval.",
+      "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review"
+  },
+  {
+    "id": "the-truman-show",
+    "medium": "cinema",
+    "title": "The Truman Show",
+    "creator": "Peter Weir",
+    "dateDisplay": "1998",
+    "dateStart": 1998,
+    "dateEnd": null,
+    "body": "Peter Weir’s *The Truman Show* (1998) follows a man whose ordinary life has been arranged for television. Truman Burbank does not know that his town is a set, or that his wife and friends are actors. He trusts them because they belong to the only world he has known.\n\nThe production controls more than what appears on screen. It helps determine whom Truman loves, what he fears and where he believes he can go. At the travel agency, posters show the dangers of flying. Television programmes praise staying home. Information that seems to help him make decisions has been designed to keep him in Seahaven, where his life can continue serving the show.\n\nChristof, the programme’s creator, explains Truman’s acceptance during an interview:\n\n> We accept the reality of the world with which we’re presented.\n\nAn early incident interrupts that familiarity: Truman’s car radio picks up instructions from the production team, describing his movements. An ordinary journey suddenly reveals people coordinating events around him. To make choices of his own, he first has to question the explanations supplied by people he trusts.\n\nThe viewers within the film care about Truman, yet their entertainment depends on a life he never agreed to perform. That conflict gives the story its criticism of television: concern for someone on screen can coexist with accepting the control that makes the programme possible.",
+    "meaningBrief": "Truman’s everyday reality and trusted relationships serve an enterprise that deprives him of informed choice. The main issue is living an imposed lie and learning to question it; audience affection does not grant consent. Preserve the distinction between unknowingly living a lie and choosing one. No final escape or outcome disclosed.",
+    "sources": [
+      {
+        "title": "ACMI: Peter Weir on The Truman Show",
+        "url": "https://www.acmi.net.au/stories-and-ideas/truman-show-25-pt-2-peter-weir/",
+        "role": "primary director interview",
+        "supports": "Privacy, consent and the immorality of the enterprise; multiple readings rather than one prescribed allegory."
+      },
+      {
+        "title": "Joshua Gamson: Look at me! Leave me alone!",
+        "url": "https://web.stanford.edu/~jonahw/PWR1/Docs/Gamson-Truman.htm",
+        "role": "contemporary substantial criticism",
+        "supports": "Controlled relationships, travel warnings, radio clue and audience complicity. Current entry uses the premise and early clues, not the ending described in the source."
+      },
+      {
+        "title": "Art of the Title: The Truman Show",
+        "url": "https://www.artofthetitle.com/title/the-truman-show/",
+        "role": "published dialogue quotation",
+        "supports": "Christof’s 11-word statement in contracted wording; reread 25 September."
+      },
+      {
+        "title": "Pau Gilabert Barberà: Cinema Roads to the Platonic Image of the Cave",
+        "url": "https://diposit.ub.edu/bitstreams/1e255e93-e8a6-44fe-bf65-ded1c267e387/download",
+        "role": "scholarly finished-film transcription",
+        "supports": "Saved 20 September check identifies Tru-Talk interview and DVD-based wording on p. 4. Prints “we are” instead of “we’re”; no fresh audio check."
+      },
+      {
+        "title": "r/movies: Rewatch discussion of The Truman Show",
+        "url": "https://www.reddit.com/r/movies/comments/11gr02q/i_rewatched_the_truman_show_1998_recently_there/",
+        "role": "public reception challenge",
+        "supports": "Replies stress apparent safety as control and distinguish the released film from darker early-script speculation. No fan theory about sexual motives or unused scenes adopted."
+      },
+      {
+        "title": "BFI: How we made The Truman Show",
+        "url": "https://www.bfi.org.uk/interviews/how-we-made-truman-show-20th-anniversary",
+        "role": "primary screenwriter interview",
+        "supports": "Niccol’s qualified leaving-home interpretation challenges a narrowly surveillance-only account. Read without importing unused early-script events."
+      }
+    ],
+    "quotationNotes": [
+      {
+        "text": "We accept the reality of the world with which we’re presented.",
+        "speaker": "Christof",
+        "sourceUrl": "https://www.artofthetitle.com/title/the-truman-show/",
+        "locator": "Opening quotation; Tru-Talk interview context corroborated by DVD-based scholarly transcript, p. 4.",
+        "wordCount": 11,
+        "version": "Published finished-film transcriptions; contraction differs across sources. Direct audio not checked.",
+        "purpose": "The producer explains why controlled surroundings initially appear ordinary to Truman."
+      }
+    ],
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "createdOn": "2026-09-25",
+      "guide": "VOICE_GUIDE v0.20",
+      "baselineFile": "docs/editorial/CALIBRATION_08_SELECTED_PASSAGES.md, preferred Truman Show account",
+      "reviewStatus": "New review candidate; no current writing or image approval.",
+      "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review"
+  },
+  {
+    "id": "parasite",
+    "medium": "cinema",
+    "title": "Parasite",
+    "creator": "Bong Joon Ho",
+    "dateDisplay": "2019",
+    "dateStart": 2019,
+    "dateEnd": null,
+    "body": "In Bong Joon Ho’s *Parasite* (2019), wealth becomes a measure of a person’s social worth in Seoul. The Kims live in a cramped semi-basement and struggle to find work. When their son Ki-woo becomes the rich Parks’ English tutor, he invents a university background that makes him seem trustworthy.\n\nHis sister follows as Jessica, supposedly an art specialist educated in America. Confident manners and prestigious credentials help the same young woman receive treatment her real background would not secure. Soon the whole family works in the house under separate identities. Protecting that appearance means concealing their relationship and getting other workers dismissed. Their opportunity comes at the expense of people who also need those wages.\n\nThe Parks maintain an image of refinement through their house, art and expensive lessons. They welcome the Kims’ services while expecting them to remain socially separate. When Mr Park complains about his driver’s smell, he associates it with people who use the subway. Ki-taek, the Kim father, hears the conversation. His careful behaviour cannot protect him from being judged through signs of poverty.\n\nThe film makes that division physical. The Parks live above the city in a spacious house; the Kims descend long stairways to their home. The same rain that freshens the Parks’ garden floods the Kims’ apartment. Wealth determines both how these families are treated and how much protection they have when things go wrong. The Kims can hide their background at work, but they still lack the security their employers take for granted.",
+    "meaningBrief": "Class organizes perceived human worth, credibility and protection. The Kims’ performed status earns access but poverty remains perceptible and humiliating; their scheme also harms fellow workers. Architecture and rain make unequal security concrete. Do not reduce the film to hiring mechanics, treat the poor as morally pure, or generalize every Korean person from these fictional households.",
+    "sources": [
+      {
+        "title": "Inkoo Kang: Parasite, Notes from the Underground",
+        "url": "https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground",
+        "role": "substantial criticism",
+        "supports": "Invented identities, class performance, displacement of workers, vertical homes and unequal effects of rain."
+      },
+      {
+        "title": "The Korea Times: Body odor class gap guided Bong Joon-ho’s Parasite",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20190529/body-odor-class-gap-guided-bong-joon-hos-parasite",
+        "role": "primary director interview",
+        "supports": "Class-marking smell, proximity through domestic employment and the director’s rejection of simple rich-evil/poor-good characterization."
+      },
+      {
+        "title": "GQ: Bong Joon-ho on the Art of Class Warfare",
+        "url": "https://www.gq.com/story/parasite-director-bong-joon-ho-interview",
+        "role": "primary director interview",
+        "supports": "Parks’ refinement and social exclusion. Only this narrow material is drawn from GQ; no quotation used."
+      },
+      {
+        "title": "r/TrueFilm: Is Parasite Really About Economic Immobility?",
+        "url": "https://www.reddit.com/r/TrueFilm/comments/ktjxmw/is_parasite_really_about_economic_immobility/",
+        "role": "public reception challenge",
+        "supports": "Counter-reading emphasizes the Kims’ harmful choices. This prompted an explicit account of displaced workers without replacing structural criticism with moral blame."
+      }
+    ],
+    "quotationNotes": [],
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "createdOn": "2026-09-25",
+      "guide": "VOICE_GUIDE v0.20",
+      "baselineFile": "docs/editorial/CALIBRATION_10_BOOK_FILM_REVISIONS.md and ROUND_10_FILM_SOURCES.md",
+      "reviewStatus": "New review candidate; no current writing or image approval.",
+      "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review"
+  },
+  {
+    "id": "bicycle-thieves",
+    "medium": "cinema",
+    "title": "Bicycle Thieves",
+    "creator": "Vittorio De Sica",
+    "dateDisplay": "1948",
+    "dateStart": 1948,
+    "dateEnd": null,
+    "body": "In Rome after the Second World War, Antonio Ricci finally finds a job putting up advertising posters. He needs a bicycle to keep it. His wife pawns their bedsheets so they can recover his bicycle from a pawnbroker, but it is stolen on his first day. Vittorio De Sica’s *Bicycle Thieves* (1948) follows Antonio and his young son, Bruno, as they search the city.\n\nLosing the bicycle threatens more than a possession. Without it, Antonio may lose the income his family has just managed to secure. At the pawnshop, shelves rise high with other families’ linen. His predicament belongs to a city where many households have already sold what they can. The film emerged from postwar Italian neorealism, whose filmmakers brought unemployment and ordinary people’s lives into stories filmed on actual streets.\n\nBruno watches his father’s confidence give way to desperation. Antonio grows impatient with him, then tries to repair the hurt by taking him for a meal. Bruno studies a well-dressed child eating at another table. For a little while they can enjoy themselves, but the comparison makes their different circumstances hard to ignore.\n\nAs the search continues, Antonio faces choices that bring him closer to the behaviour he condemns in the thief. The practical need to earn a living becomes a test of the example he wants to set for his son. De Sica keeps Bruno beside him throughout much of that humiliation. The child begins to see how vulnerable his father is, while Antonio struggles to remain someone his son can admire.",
+    "meaningBrief": "Postwar deprivation threatens income, dignity and moral conduct; a child watches the adult he admires become vulnerable. The search’s emotional centre develops into the father-son relationship. Do not make this merely a stolen-object adventure or uncomplicated celebration of paternal sacrifice. Final act/outcome withheld but pressure toward theft is explicit.",
+    "sources": [
+      {
+        "title": "Godfrey Cheshire: Bicycle Thieves, A Passionate Commitment to the Real",
+        "url": "https://www.criterion.com/current/posts/467-bicycle-thieves-a-passionate-commitment-to-the-real",
+        "role": "substantial criticism",
+        "supports": "Postwar unemployment, pawned sheets, nonprofessional/location practice and the shift from recovering a bicycle toward the father-son relationship."
+      },
+      {
+        "title": "Jia Zhangke: The Joy and Pain of One Good Meal in Bicycle Thieves",
+        "url": "https://www.criterion.com/current/posts/6246-the-joy-and-pain-of-one-good-meal-in-bicycle-thieves",
+        "role": "filmmaker’s close reading of a scene",
+        "supports": "Meal scene: affection, class comparison, pleasure and Bruno’s early maturity. Interview translated from Mandarin by Andrew Chan."
+      },
+      {
+        "title": "r/TrueFilm: Viewing Bicycle Thieves is a humbling experience",
+        "url": "https://www.reddit.com/r/TrueFilm/comments/p6anbg/viewing_bicycle_thieves_1948_is_a_humbling/",
+        "role": "public reception challenge",
+        "supports": "Reader draws attention to the thief’s deprivation as well as Antonio’s. This guards against a simple innocent-victim/evil-thief interpretation; no consensus claimed."
+      }
+    ],
+    "quotationNotes": [],
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "createdOn": "2026-09-25",
+      "guide": "VOICE_GUIDE v0.20",
+      "baselineFile": null,
+      "reviewStatus": "New review candidate; no current writing or image approval.",
+      "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review"
+  },
+  {
+    "id": "12-angry-men",
+    "medium": "cinema",
+    "title": "12 Angry Men",
+    "creator": "Sidney Lumet",
+    "dateDisplay": "1957",
+    "dateStart": 1957,
+    "dateEnd": null,
+    "body": "In Sidney Lumet’s *12 Angry Men* (1957), twelve jurors must decide whether a teenager murdered his father. A guilty verdict will send him to the electric chair. Eleven men initially vote to convict. The remaining juror, played by Henry Fonda, explains why he will not join them:\n\n> It’s not easy to raise my hand and send a boy off to die without talking about it first.\n\nHe does not claim to know the boy is innocent. He asks whether the case leaves reasonable doubt: a serious reason to question whether guilt has been proved. As the men reconsider what witnesses could have heard or seen, their earlier certainty becomes harder to defend. Their task requires distinguishing what the evidence establishes from what they have assumed.\n\nThose assumptions have different sources. One man wants to finish in time for a baseball game. Another treats growing up in a poor neighbourhood as evidence of criminal character. A father's anger toward his own son enters his judgment of the young defendant. The film shows how impatience, prejudice and private resentment can acquire authority when someone casts a vote.\n\nAlmost all the action stays in the jury room. Lumet gradually lowers the camera and moves closer to the men. The ceiling enters the frame; faces crowd one another. The room seems smaller as the argument becomes more personal. Each juror has to explain his judgment to people who can question it, instead of simply raising a hand.",
+    "meaningBrief": "Reasonable doubt asks whether guilt has been established, not whether a persuasive holdout can prove innocence. Ordinary impatience, class/racial prejudice and personal grievance can determine life and death unless jurors examine their assumptions. Group deliberation matters; do not sell the movie as realistic procedural instruction or a guarantee the contrarian is right.",
+    "sources": [
+      {
+        "title": "AFI Catalog: 12 Angry Men",
+        "url": "https://catalog.afi.com/Film/53690-12-ANGRY-MEN",
+        "role": "institutional record and detailed scene account",
+        "supports": "1957 version, conviction stakes, vote, witnesses, baseball impatience, class prejudice and estranged father."
+      },
+      {
+        "title": "Peter Heath Becker: 12 Angry Men",
+        "url": "https://www.criterion.com/current/posts/965-12-angry-men",
+        "role": "substantial criticism",
+        "supports": "Moral responsibility, one-room pressure and threats to justice from everyday weakness."
+      },
+      {
+        "title": "Thane Rosenbaum: 12 Angry Men, Lumet’s Faces",
+        "url": "https://www.criterion.com/current/posts/2076-12-angry-men-lumet-s-faces",
+        "role": "substantial criticism by a law professor",
+        "supports": "Uncertain innocence, prejudice and fallible decision-makers. Criticism explicitly distinguishes the dramatic jury’s corrective role from courtroom practice."
+      },
+      {
+        "title": "Leigh Singer: How 12 Angry Men works, in 25 frames",
+        "url": "https://www.bfi.org.uk/features/how-12-angry-men-works-25-frames",
+        "role": "institutional close reading with film frames",
+        "supports": "Progressively lower camera, ceiling entering the frame and closer faces make the room feel confined. Frames 7, 15–18 and 21–23."
+      },
+      {
+        "title": "Williams v. Cavazos, opening film quotation",
+        "url": "https://cases.justia.com/federal/appellate-courts/ca9/07-56127/9122954807/0.pdf",
+        "role": "published transcription of finished-film dialogue",
+        "supports": "Opening Scene One, PDF page 3 / printed page 6701, quotes Juror 8 explaining his first vote. Only the 19-word film quotation is used, not the legal holding or the opinion’s incorrect Academy Award description."
+      },
+      {
+        "title": "r/TrueFilm: 12 Angry Men and the Importance of Reasonable Doubt",
+        "url": "https://www.reddit.com/r/TrueFilm/comments/h7lt46/12_angry_men_and_the_importance_of_reasonable/",
+        "role": "public reception challenge",
+        "supports": "Discussion differentiates doubt from proven innocence and challenges both lone-hero framing and the film as a procedural model. Replies read; no legal advice adopted."
+      }
+    ],
+    "quotationNotes": [
+      {
+        "text": "It’s not easy to raise my hand and send a boy off to die without talking about it first.",
+        "speaker": "Juror 8",
+        "sourceUrl": "https://cases.justia.com/federal/appellate-courts/ca9/07-56127/9122954807/0.pdf",
+        "locator": "PDF page 3 / printed page 6701, Scene One, final Juror 8 response",
+        "wordCount": 19,
+        "version": "Published finished-film dialogue transcription in a 2011 judicial opinion, checked in the original PDF hosted by Justia. Direct audio not checked. Excludes screenplay variants adding “so” and “for me”.",
+        "purpose": "His first dissent rests on discussing a life-and-death decision, without claiming that he already knows the defendant is innocent."
+      }
+    ],
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "createdOn": "2026-09-25",
+      "guide": "VOICE_GUIDE v0.20",
+      "baselineFile": null,
+      "reviewStatus": "New review candidate; no current writing or image approval.",
+      "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review"
+  }
+]

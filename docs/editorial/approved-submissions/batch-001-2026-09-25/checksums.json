@@ -1,0 +1,214 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "INDEX.md": {
+      "sha256": "82e602fab88cb5a41b7499fc266e22eb59e72da93eda8fe55618e30b1deea1bf",
+      "bytes": 2353
+    },
+    "README.md": {
+      "sha256": "cc704f4970d3115f62a9a10473ccec78ce39b4f62d8eb01f7ceed3e1f45099f9",
+      "bytes": 2064
+    },
+    "assets/vinyl-reference.png": {
+      "sha256": "a5b1ac83629e349691a192b12f1bfd4971d3ff41e9dd9cf289ea19467276ea23",
+      "bytes": 1086980
+    },
+    "entries/animal-farm/assets/cover.jpg": {
+      "sha256": "31663db27b3a846cdc21a409d3032d8284082bf7ac699355af5eb47da4746e2a",
+      "bytes": 134392
+    },
+    "entries/animal-farm/assets/selected.svg": {
+      "sha256": "14854e6c0d55c070299dd29474ea75928d7a51ae6f1f4643a1386b1a7fba2d81",
+      "bytes": 179906
+    },
+    "entries/animal-farm/entry.json": {
+      "sha256": "0547becd7bd3f2f7649bbffff8d367c1203fc3dfc4fc9c3b55be5089a7e5e59e",
+      "bytes": 13169
+    },
+    "entries/animal-farm/entry.md": {
+      "sha256": "ee9521d740f68ed321a9b82fe1ffbe6f4b3e0ba8a109be50c362c725174c5029",
+      "bytes": 1937
+    },
+    "entries/beethoven-symphony-nine/assets/label.png": {
+      "sha256": "148735bd65dc7ccccc0b23d662fedd218b17dbee6a905b2e1baea69068933e9b",
+      "bytes": 136927
+    },
+    "entries/beethoven-symphony-nine/assets/selected.svg": {
+      "sha256": "08f12223bdc50631ecc312c3b7c2c1ce09216763af2c480a5b56916025c44321",
+      "bytes": 3082695
+    },
+    "entries/beethoven-symphony-nine/entry.json": {
+      "sha256": "842f77376793994a2ba46ad08155f39ef80a9d7ab076f2d5b4de774e8e921ddd",
+      "bytes": 10207
+    },
+    "entries/beethoven-symphony-nine/entry.md": {
+      "sha256": "967522f3c2b425ac9653a8a21daf1f243d12c6762a8c629ffb80b7545f283a6a",
+      "bytes": 1625
+    },
+    "entries/billie-holiday-strange-fruit/assets/label.jpg": {
+      "sha256": "7f97b3a121e9eb80ce65787c716bdfc134ed4896b02abb57974a16127ac4eed8",
+      "bytes": 4185809
+    },
+    "entries/billie-holiday-strange-fruit/assets/selected.svg": {
+      "sha256": "d0bf1f75d42b0673486d297698a72caf322063d59266090bc1737d9ea3dbfba7",
+      "bytes": 8481306
+    },
+    "entries/billie-holiday-strange-fruit/entry.json": {
+      "sha256": "41390c94cd8245ea8e59af7364850228b2cc3da3573548a0565d6e6e2ae527df",
+      "bytes": 11042
+    },
+    "entries/billie-holiday-strange-fruit/entry.md": {
+      "sha256": "de134f83fba822a90f2ef3900baf69a8c29242acfc469073327b725c2f62ebc0",
+      "bytes": 1762
+    },
+    "entries/death-of-marat/assets/selected.jpg": {
+      "sha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439",
+      "bytes": 1312185
+    },
+    "entries/death-of-marat/entry.json": {
+      "sha256": "645a7fb6b83c797771f3bfbfe879a2751438295ba9bd8e62c214ebf687459c58",
+      "bytes": 9186
+    },
+    "entries/death-of-marat/entry.md": {
+      "sha256": "fe821f703a9f65d382c5cf9c420cac1a35e043c7c2b12822e82d313a080c04db",
+      "bytes": 1454
+    },
+    "entries/eternal-sunshine/assets/selected.jpg": {
+      "sha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805",
+      "bytes": 437425
+    },
+    "entries/eternal-sunshine/entry.json": {
+      "sha256": "f98e89a9e55321b0e09ebab8a2e0032f55af9fdc1d0fa219ae03688f5681565c",
+      "bytes": 10706
+    },
+    "entries/eternal-sunshine/entry.md": {
+      "sha256": "451f4fb739ebf4cfd26bfe90c330fbd4e0a5ea269b56c1f5280c28afa230c39c",
+      "bytes": 1470
+    },
+    "entries/im-still-here/assets/selected.jpg": {
+      "sha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee",
+      "bytes": 647922
+    },
+    "entries/im-still-here/entry.json": {
+      "sha256": "f572a609a62565eb95dd7f89f1f981e22c189fc7ad4841fb244a45207db0d705",
+      "bytes": 10455
+    },
+    "entries/im-still-here/entry.md": {
+      "sha256": "66fabc6ef1c37a77b85d738d95c5599db3db71e8a6229cbca4e95eb78b45063f",
+      "bytes": 1808
+    },
+    "entries/joao-gilberto-chega-saudade/assets/label.jpg": {
+      "sha256": "ad03f6f40c799983c629d656bb6fbebf6ac49f49046fdf56f802c6c70d86c825",
+      "bytes": 23562
+    },
+    "entries/joao-gilberto-chega-saudade/assets/selected.svg": {
+      "sha256": "d96b79e3720bf2ab5a41cd13d05c0106e968fdc3b61e1e993bd70b7a18c89320",
+      "bytes": 2931644
+    },
+    "entries/joao-gilberto-chega-saudade/entry.json": {
+      "sha256": "812843d7925516b5a4477411ae968e66e8b650c750ec3aa1a5e71e5336d49599",
+      "bytes": 10555
+    },
+    "entries/joao-gilberto-chega-saudade/entry.md": {
+      "sha256": "d0ef585d968c0aa4a68f6f35d6404abf87eb1e11bcb600d06bdd0d5fab5279b2",
+      "bytes": 1797
+    },
+    "entries/michelangelo-david/assets/original.jpg": {
+      "sha256": "c587cfaa65f6ec4c273126e78ed9940edd78f098b86a5ef7b708535a047318b8",
+      "bytes": 77235
+    },
+    "entries/michelangelo-david/assets/selected.png": {
+      "sha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2",
+      "bytes": 1821655
+    },
+    "entries/michelangelo-david/entry.json": {
+      "sha256": "58c333832a1e5a69ac6eb9735bc801d9ce04b0b9771c445c29b59f94fdc9da6a",
+      "bytes": 11335
+    },
+    "entries/michelangelo-david/entry.md": {
+      "sha256": "08b57db23b550a034b7b6d03196f2361b6da48909038444a66cc6ce1610b4c77",
+      "bytes": 1546
+    },
+    "entries/soul/assets/selected.png": {
+      "sha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439",
+      "bytes": 2289713
+    },
+    "entries/soul/entry.json": {
+      "sha256": "655042b11f471241eb56041ff3ce291ec020add0ca5bf19520da71b2cb22cb27",
+      "bytes": 10601
+    },
+    "entries/soul/entry.md": {
+      "sha256": "1e0da3e9099f8def2dd973366dcb6ff535be2bca3cab9749e16904f3c8470207",
+      "bytes": 1598
+    },
+    "entries/stanczyk/assets/selected.jpg": {
+      "sha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022",
+      "bytes": 763885
+    },
+    "entries/stanczyk/entry.json": {
+      "sha256": "3d657fb11441830cb2d7666c9521a709dc0089f138213f695f9d2fc4be067ae5",
+      "bytes": 8529
+    },
+    "entries/stanczyk/entry.md": {
+      "sha256": "06d244ed10fa8f8cb28a804f57a7f50f7af45971eb66cb6e75474374b9ad061c",
+      "bytes": 1179
+    },
+    "entries/the-ambassadors/assets/selected.jpg": {
+      "sha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47",
+      "bytes": 971736
+    },
+    "entries/the-ambassadors/entry.json": {
+      "sha256": "012db31bd9278953f40b0730e53e073d1e292ff3a3e860b612e0060197bccaeb",
+      "bytes": 8221
+    },
+    "entries/the-ambassadors/entry.md": {
+      "sha256": "8d99d4fad93af06d1d8e4711fae720e603ffe6d6fe1b396a9eececf683366fc6",
+      "bytes": 1340
+    },
+    "entries/vidas-secas/assets/cover.jpg": {
+      "sha256": "7378e7f7dae0655b1963887df84c638f0b6efd0d5d88fd5380a3b415847c1a53",
+      "bytes": 134669
+    },
+    "entries/vidas-secas/assets/selected.svg": {
+      "sha256": "9e39b324877098367530ede22bc8284ed539146e2bf590296b9a27e035bed64d",
+      "bytes": 180274
+    },
+    "entries/vidas-secas/entry.json": {
+      "sha256": "1c50fb549105af1b84b1355efd9725e12e73d1b221d26781ae1233a8cb63bcbd",
+      "bytes": 14157
+    },
+    "entries/vidas-secas/entry.md": {
+      "sha256": "b30f8c8055beb55bb542a5aa7492d4c022ef5e3d73ca040fe6d31d9912d0fdd0",
+      "bytes": 2064
+    },
+    "manifest.json": {
+      "sha256": "88f63a28380fe4cdca9a39672fe652e6f05ed828beadbb36be0832d6de86e4ff",
+      "bytes": 8602
+    },
+    "provenance/editorial-decisions.json": {
+      "sha256": "5d7a9c6e555eab0ffb8e041d652e8c302909d4ff83bb865ef1e872b2f82d41ff",
+      "bytes": 18381
+    },
+    "provenance/export_approved.py": {
+      "sha256": "ce9edd1656f351a9a9baba7a47222693190e4f0e22e9fa9d283009b2d17fcfb7",
+      "bytes": 20366
+    },
+    "provenance/review-entries.json": {
+      "sha256": "178ebed45516d7e6aa181ad6459362fe7f427fd74a77c224dc91e17af524a5b1",
+      "bytes": 91004
+    },
+    "provenance/review.css": {
+      "sha256": "c77c4da16057c40fa426242fe4c3fb0dc6853fd6c9143fd50e0488c8081cd97a",
+      "bytes": 13020
+    },
+    "provenance/source-entries.json": {
+      "sha256": "3cbf7c4ff82a6c6e7fc1c300ae2f98aa843d0cdad77bafe7fb9ceaed80a2dd1a",
+      "bytes": 77271
+    },
+    "provenance/vinyl_template.py": {
+      "sha256": "2792d91288b0b05f869c27a037913ad2b75ac24e87fecfb3d497cafaa3d55134",
+      "bytes": 1759
+    }
+  },
+  "note": "This checksum file excludes itself."
+}

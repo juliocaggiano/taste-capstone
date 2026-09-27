@@ -1,0 +1,581 @@
+[
+  {
+    "entryId": "stanczyk",
+    "options": [
+      {
+        "id": "A",
+        "label": "Museum reproduction",
+        "description": "Detailed museum image with deep reds and dark green curtains.",
+        "imageUrl": "image-options/assets/painting/stanczyk-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+        "credit": "Jan Matejko / National Museum in Warsaw; photograph credited to Krzysztof Wilczyński/MNW.",
+        "altText": "Full painting: stanczyk",
+        "width": 1920,
+        "height": 1428,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/1920px-Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+        "sourceDimensions": [
+          5766,
+          4289
+        ],
+        "sourceNotes": "National Museum in Warsaw / Wikimedia Polska GLAM partnership image. Complete composition. No color changes made for this review.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022"
+      },
+      {
+        "id": "B",
+        "label": "Web Gallery of Art",
+        "description": "Older color reproduction with warmer highlights and brighter orange-red clothing. Limited to 800 pixels wide.",
+        "imageUrl": "image-options/assets/painting/stanczyk-wga.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko_-_Sta%C3%B1czyk_-_WGA14661.jpg",
+        "credit": "Jan Matejko / Web Gallery of Art, via Wikimedia Commons.",
+        "altText": "Complete color reproduction of Stańczyk, showing the seated red-clothed jester and distant court festivities.",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jan_Matejko_-_Sta%C3%B1czyk_-_WGA14661.jpg",
+        "license": "Public domain / PD-Art as stated by Wikimedia Commons.",
+        "sourceNotes": "Independent published WGA reproduction, uploaded to Commons in 2011. Original WGA source: https://www.wga.hu/art/m/matejko/stanczyk.jpg . Lower detail than the museum file; no claim that its color is more accurate.",
+        "width": 800,
+        "height": 595,
+        "imageFormat": "JPEG",
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "5654802077a832131c18e8598dd0d8a665b6aa53e878fd8c6736cef53b41cbd8",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jan_Matejko_-_Sta%C3%B1czyk_-_WGA14661.jpg"
+      },
+      {
+        "id": "C",
+        "label": "WikiArt color reproduction",
+        "description": "Full-color reproduction with brighter red clothing and warmer, lighter table and floor details than the museum option.",
+        "imageUrl": "image-options/assets/painting/stanczyk-wikiart.jpg",
+        "sourceUrl": "https://www.wikiart.org/en/jan-matejko/sta%C5%84czyk-during-a-ball-at-the-court-of-queen-1862",
+        "credit": "Jan Matejko / National Museum in Warsaw; published by WikiArt, which credits the Wikimedia museum image as its source.",
+        "altText": "Complete Stańczyk painting, with the seated red-clothed jester, papers on the table and court festivities at right.",
+        "width": 2464,
+        "height": 1832,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "WikiArt marks the painting public domain. Rights and reuse terms for the published reproduction remain pending app clearance.",
+        "remoteImageUrl": "https://uploads1.wikiart.org/00163/images/jan-matejko/stanczyk.jpg",
+        "originalImageUrl": "https://uploads1.wikiart.org/00163/images/jan-matejko/stanczyk.jpg",
+        "sourceDimensions": [
+          2464,
+          1832
+        ],
+        "sourceNotes": "The public WikiArt artwork page supplies this 2464 × 1832 reproduction and identifies the 1862 National Museum in Warsaw painting. Its source link points to https://pl.wikipedia.org/wiki/Plik:Jan_Matejko,_Sta%C5%84czyk.jpg . It appears derived from the same museum capture as A, with a visibly brighter and warmer existing rendering. It is not claimed to be an independent photograph or a more color-accurate image. The full source file was downloaded unchanged; no grading, cropping or sharpening was applied for this review.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "a4061e5a944f9aab732df07cbdf3ab60673e063e429c18d769c2de531b72621f"
+      }
+    ]
+  },
+  {
+    "entryId": "death-of-marat",
+    "options": [
+      {
+        "id": "A",
+        "label": "Google Art reproduction",
+        "description": "Cooler, muted reproduction with a gray background and clearly visible letter, knife and inscription.",
+        "imageUrl": "image-options/assets/painting/death-of-marat-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+        "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium / Google Arts & Culture; existing Commons derivative by Pixel8tor.",
+        "altText": "Full painting: death of marat",
+        "width": 1920,
+        "height": 2471,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+        "sourceDimensions": [
+          3885,
+          5000
+        ],
+        "sourceNotes": "Brussels original, inventory 3260. Existing source derivative retained unchanged; no grading or cropping performed for this review.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
+      },
+      {
+        "id": "B",
+        "label": "Brussels museum photograph",
+        "description": "Warmer photograph with a brighter table and green cloth. Thin frame edges and faint reflections remain visible.",
+        "imageUrl": "image-options/assets/painting/death-of-marat-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David,_La_Mort_de_Marat_(ou_Marat_assassin%C3%A9),_1793,_Bruxelles,_Mus%C3%A9es_royaux_des_Beaux%E2%80%91Arts_de_Belgique,_inv._3260.jpg",
+        "credit": "Jacques-Louis David; photograph by Matthieu.lett.ube, CC BY 4.0, via Wikimedia Commons.",
+        "altText": "Full painting: death of marat",
+        "width": 1920,
+        "height": 2475,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "CC BY 4.0",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Jacques-Louis_David%2C_La_Mort_de_Marat_%28ou_Marat_assassin%C3%A9%29%2C_1793%2C_Bruxelles%2C_Mus%C3%A9es_royaux_des_Beaux%E2%80%91Arts_de_Belgique%2C_inv._3260.jpg/1920px-Jacques-Louis_David%2C_La_Mort_de_Marat_%28ou_Marat_assassin%C3%A9%29%2C_1793%2C_Bruxelles%2C_Mus%C3%A9es_royaux_des_Beaux%E2%80%91Arts_de_Belgique%2C_inv._3260.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jacques-Louis_David%2C_La_Mort_de_Marat_%28ou_Marat_assassin%C3%A9%29%2C_1793%2C_Bruxelles%2C_Mus%C3%A9es_royaux_des_Beaux%E2%80%91Arts_de_Belgique%2C_inv._3260.jpg",
+        "sourceDimensions": [
+          7499,
+          9667
+        ],
+        "sourceNotes": "Commons description explicitly identifies the Brussels original, inventory 3260. Independent photograph; slight display-light reflections are part of the source.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "f9cde8480252b019cc55be8b5cb8f50c2a7f4eb1889939409e8a955824deac6d"
+      },
+      {
+        "id": "C",
+        "label": "Gallery photograph · 2011",
+        "description": "Warm brown reproduction with softer detail and visible photographic grain.",
+        "imageUrl": "image-options/assets/painting/death-of-marat-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_De_moord_op_Marat_-_MSK_Brussel_25-02-2011_13-11-35.jpg",
+        "credit": "Jacques-Louis David; photograph by Paul Hermans, via Wikimedia Commons.",
+        "altText": "Full painting: death of marat",
+        "width": 1620,
+        "height": 2110,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jacques-Louis_David_-_De_moord_op_Marat_-_MSK_Brussel_25-02-2011_13-11-35.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jacques-Louis_David_-_De_moord_op_Marat_-_MSK_Brussel_25-02-2011_13-11-35.jpg",
+        "sourceDimensions": [
+          1620,
+          2110
+        ],
+        "sourceNotes": "Photograph of the original in Brussels, taken 25 February 2011 according to the source filename. Complete composition. Commons marks the faithful reproduction PD-Art.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "9dfe5e58aa4a3a982e4d4bcdfc9d5c7360a90965cc375bdfd6ef1968fe5113e5"
+      }
+    ]
+  },
+  {
+    "entryId": "the-ambassadors",
+    "options": [
+      {
+        "id": "A",
+        "label": "Existing color reproduction",
+        "description": "Cooler color reproduction with bright pink sleeves. A small source watermark remains at the bottom right.",
+        "imageUrl": "image-options/assets/painting/the-ambassadors-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+        "credit": "Hans Holbein the Younger / paintings-art-picture.com, via Wikimedia Commons.",
+        "altText": "Full painting: the ambassadors",
+        "width": 1920,
+        "height": 1925,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg/1920px-HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+        "sourceDimensions": [
+          1995,
+          2000
+        ],
+        "sourceNotes": "Existing baseline image. Source website watermark retained; unsuitable if an unmarked app image is required. Color accuracy is not independently calibrated.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "db400b8f08a3c9d88cfc8a080adc41543ae6d62802a41b2ecd5fbb3478ab6b78"
+      },
+      {
+        "id": "B",
+        "label": "Google Art reproduction",
+        "description": "Detailed reproduction with deep green curtains and warmer gold tones. No visible watermark.",
+        "imageUrl": "image-options/assets/painting/the-ambassadors-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+        "credit": "Hans Holbein the Younger / National Gallery, London / Google Arts & Culture, via Wikimedia Commons.",
+        "altText": "Full painting: the ambassadors",
+        "width": 1920,
+        "height": 1892,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/1920px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+        "sourceDimensions": [
+          30000,
+          29560
+        ],
+        "sourceNotes": "Complete composition, including the upper-left crucifix and foreground skull. Review image is 1920 pixels wide from the 30000 × 29560 source; this is one option, not several resolution variants.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
+      },
+      {
+        "id": "C",
+        "label": "National Gallery photograph",
+        "description": "Brighter gallery photograph with lighter green curtains and slight perspective distortion.",
+        "imageUrl": "image-options/assets/painting/the-ambassadors-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_National_Gallery_Holbein_Ambassadors_01.jpg",
+        "credit": "Hans Holbein the Younger; photograph © Ad Meskens / Wikimedia Commons, CC BY-SA 4.0.",
+        "altText": "Full painting: the ambassadors",
+        "width": 1920,
+        "height": 1882,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "CC BY-SA 4.0",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/London_National_Gallery_Holbein_Ambassadors_01.jpg/1920px-London_National_Gallery_Holbein_Ambassadors_01.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/London_National_Gallery_Holbein_Ambassadors_01.jpg",
+        "sourceDimensions": [
+          2866,
+          2810
+        ],
+        "sourceNotes": "Independent gallery photograph. Complete painted composition; its lighting and perspective differ from the flat reproductions. Attribution and share-alike conditions require review before app use.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-23",
+        "sha256": "c889a4fab267791309b7a53d7ce5a41408e5be7530f7a8f00f8e0f12e59ad29b"
+      }
+    ]
+  },
+  {
+    "entryId": "animal-farm",
+    "options": [
+      {
+        "id": "A",
+        "label": "Alma Classics",
+        "description": "English edition. Flat cyan-and-pink illustrated cover with a pig, horse, barn and windmill.",
+        "imageUrl": "image-options/assets/literature/animal-farm-alma-flat.jpg",
+        "sourceUrl": "https://almabooks.com/product/animal-farm/",
+        "remoteImageUrl": "https://almabooks.com/wp-content/uploads/2020/08/9781847498588.jpg",
+        "originalImageUrl": "https://almabooks.com/wp-content/uploads/2020/08/9781847498588.jpg",
+        "credit": "Alma Classics; cover designer not identified on the consulted page.",
+        "altText": "Flat Animal Farm cover in cyan, pink, black and white, with four farm illustrations.",
+        "edition": {
+          "publisher": "Alma Classics",
+          "series": "Evergreens",
+          "language": "English",
+          "isbn": "9781847498588"
+        },
+        "sourceNotes": "Official publisher cover and ISBN. Downloaded unchanged at 1534 × 2339. Replaces the photographed 1945 jacket; this is a different edition, not a flattened reconstruction. The black border is part of the printed cover design. No publication year is inferred from the image upload path.",
+        "license": "Cover design remains subject to copyright; review only.",
+        "rightsStatus": "review_only_pending_clearance",
+        "width": 1534,
+        "height": 2339,
+        "imageFormat": "JPEG",
+        "downloadStatus": "downloaded",
+        "visualReviewStatus": "reviewed_flat_front_cover_no_mockup",
+        "reviewedOn": "2026-09-23",
+        "sha256": "61b3a8f2cc6735f717eb4ad8db5976c6298e10010702913e764449223df0b720",
+        "sourceFraming": "Flat rectangular front-cover artwork; no external surround, physical spine or perspective. Artwork fills the source image.",
+        "presentation": "fixed_portrait_sharp_corners",
+        "replaces": {
+          "label": "First edition · 1945",
+          "imageUrl": "image-options/assets/literature/animal-farm-a.jpg",
+          "sourceUrl": "https://www.bonhams.com/auction/29869/lot/112/orwell-george-animal-farm-a-fairy-story-first-edition-first-issue-with-may-1945-on-copyright-page-secker-and-warburg-1945/",
+          "edition": {
+            "publisher": "Secker & Warburg",
+            "language": "English",
+            "year": 1945,
+            "designation": "First edition, first issue"
+          },
+          "reason": "Replaced for a new review with a flat front-cover image. Prior asset is preserved."
+        }
+      },
+      {
+        "id": "B",
+        "label": "Penguin Modern Classics · 2000",
+        "description": "English paperback. Orange artwork sits above a white title panel. Publisher image is 500 pixels tall.",
+        "imageUrl": "image-options/assets/literature/animal-farm-b.jpg",
+        "sourceUrl": "https://www.penguin.co.uk/books/57033/animal-farm-by-orwell-george/9780141182704",
+        "remoteImageUrl": "https://cdn.penguin.co.uk/dam-assets/books/9780141182704/9780141182704-jacket-large.jpg",
+        "credit": "Penguin Modern Classics / Penguin Books; cover artwork credit not established.",
+        "altText": "Penguin Animal Farm cover with an orange room, a stained table and a white title panel.",
+        "edition": {
+          "publisher": "Penguin Modern Classics",
+          "language": "English",
+          "publicationDate": "2000-02-24",
+          "isbn": "9780141182704"
+        },
+        "sourceNotes": "Official publisher page and its jacket image. Date describes this ISBN; the current cover file may reflect later reprints. At 326 × 500 this is suitable for a compact comparison, with limited enlargement.",
+        "license": "Cover design and source photograph remain subject to copyright; review only.",
+        "width": 326,
+        "height": 500,
+        "imageFormat": "JPEG",
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "visualReviewStatus": "reviewed_flat_front_cover_no_mockup",
+        "reviewedOn": "2026-09-23",
+        "sha256": "e2d4648e95ea09d60b73505cf05b9878f738c601220102745566b7270569ad4a",
+        "originalImageUrl": "https://cdn.penguin.co.uk/dam-assets/books/9780141182704/9780141182704-jacket-large.jpg",
+        "sourceFraming": "Flat rectangular front-cover artwork; no external surround, physical spine or perspective. Artwork fills the source image.",
+        "presentation": "fixed_portrait_sharp_corners"
+      },
+      {
+        "id": "C",
+        "label": "Read & Co. Classics",
+        "description": "English edition. Bold yellow pig and rough white lettering on a charcoal background.",
+        "imageUrl": "image-options/assets/literature/animal-farm-c.jpg",
+        "sourceUrl": "https://www.readandcobooks.co.uk/books/animal-farm-orwell/",
+        "remoteImageUrl": "https://www.readandcobooks.co.uk/wp-content/uploads/animal-farm-orwell-9781528718820-cover.jpg",
+        "credit": "Read & Co. Classics; cover designer not identified on the consulted page.",
+        "altText": "Animal Farm cover with a yellow pig face and rough white title lettering on dark gray.",
+        "edition": {
+          "publisher": "Read & Co. Classics",
+          "language": "English",
+          "isbn": "9781528718820"
+        },
+        "sourceNotes": "Official publisher image and structured metadata identify this ISBN. The page groups paperback, hardback and ebook dates, so an exact date is not assigned to the displayed cover. Includes the essay Why I Write according to the publisher.",
+        "license": "Cover design and source photograph remain subject to copyright; review only.",
+        "width": 600,
+        "height": 927,
+        "imageFormat": "JPEG",
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "visualReviewStatus": "reviewed_flat_front_cover_no_mockup",
+        "reviewedOn": "2026-09-23",
+        "sha256": "31663db27b3a846cdc21a409d3032d8284082bf7ac699355af5eb47da4746e2a",
+        "originalImageUrl": "https://www.readandcobooks.co.uk/wp-content/uploads/animal-farm-orwell-9781528718820-cover.jpg",
+        "sourceFraming": "Flat rectangular front-cover artwork; no external surround, physical spine or perspective. Artwork fills the source image.",
+        "presentation": "fixed_portrait_sharp_corners"
+      }
+    ]
+  },
+  {
+    "entryId": "vidas-secas",
+    "options": [
+      {
+        "id": "A",
+        "label": "Record · 2019",
+        "description": "Portuguese edition. Orange cover with a line drawing of a resting dog and large serif lettering.",
+        "imageUrl": "image-options/assets/literature/vidas-record-large.jpg",
+        "sourceUrl": "https://www.record.com.br/products/vidas-secas-edicao-oficial",
+        "remoteImageUrl": "https://static.wixstatic.com/media/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg/v1/fill/w_972%2Ch_1500%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg",
+        "originalImageUrl": "https://static.wixstatic.com/media/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg/v1/fill/w_972%2Ch_1500%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg",
+        "credit": "Record edition; larger cover reproduction hosted by Jordino. Cover designer not independently established.",
+        "altText": "Flat orange Vidas Secas cover with a thin resting dog, title and author lettering.",
+        "edition": {
+          "publisher": "Record",
+          "language": "Portuguese",
+          "isbn": "9788501114785",
+          "publicationDate": "2019-02-04"
+        },
+        "sourceNotes": "Publisher catalog and product image verify this orange cover and ISBN. The publisher-hosted original available here is only 200 × 309, so the matching complete 972 × 1500 reproduction from Jordino was used. Both were viewed to verify identity. The source file was downloaded unchanged; no mockup crop or synthetic reconstruction.",
+        "license": "Cover design remains subject to copyright; review only.",
+        "rightsStatus": "review_only_pending_clearance",
+        "width": 972,
+        "height": 1500,
+        "imageFormat": "JPEG",
+        "downloadStatus": "downloaded",
+        "visualReviewStatus": "reviewed_flat_front_cover_no_mockup",
+        "reviewedOn": "2026-09-23",
+        "sha256": "7378e7f7dae0655b1963887df84c638f0b6efd0d5d88fd5380a3b415847c1a53",
+        "sourceFraming": "Flat rectangular front-cover artwork; no external surround, physical spine or perspective. Artwork fills the source image.",
+        "presentation": "fixed_portrait_sharp_corners",
+        "replaces": {
+          "label": "Editora do Brasil · 2024",
+          "imageUrl": "image-options/assets/literature/vidas-secas-a.jpg",
+          "sourceUrl": "https://www.editoradobrasil.com.br/vidas-secas/",
+          "edition": {
+            "publisher": "Editora do Brasil",
+            "language": "Portuguese",
+            "year": 2024,
+            "isbn": "9788510096683",
+            "designation": "First edition from this publisher"
+          },
+          "reason": "Replaced for a new review with a flat front-cover image. Prior asset is preserved."
+        },
+        "imageSourceUrl": "https://www.jordino.com.br/post/5-livros-para-come%C3%A7ar-a-ler-autores-nacionais-descubra-a-riqueza-da-literatura-brasileira",
+        "publisherImageUrl": "https://cdn.shopify.com/s/files/1/0722/9197/5420/files/093204edacefc23004ea054cff70b59f.jpg?v=1789517496"
+      },
+      {
+        "id": "B",
+        "label": "Record Econômica · 2024",
+        "description": "Portuguese edition. Red lettering and a sketched cattle skull on a white cover.",
+        "imageUrl": "image-options/assets/literature/vidas-record-pocket.jpg",
+        "sourceUrl": "https://www.record.com.br/products/vidas-secas-economica-edicao-oficial",
+        "remoteImageUrl": "https://cdn.awsli.com.br/2500x2500/1423/1423450/produto/323739073/815sgmxaicl-_sl1500_-qsqncbw0n5.jpg",
+        "originalImageUrl": "https://cdn.awsli.com.br/2500x2500/1423/1423450/produto/323739073/815sgmxaicl-_sl1500_-qsqncbw0n5.jpg",
+        "credit": "Record edition; cover image supplied by Movimento Literário. Cover designer not independently established.",
+        "altText": "Flat white Vidas Secas cover with red lettering and a black line drawing of a cattle skull.",
+        "edition": {
+          "publisher": "Record",
+          "language": "Portuguese",
+          "isbn": "9786555877915",
+          "publicationDate": "2024-01-29",
+          "designation": "Econômica edition"
+        },
+        "sourceNotes": "Official Record page verifies ISBN, edition and date. Full 1000 × 1500 image was obtained from the indexed Movimento Literário listing. The white field is the printed cover background, not padding around a photographed book. Its logo and edition seal remain intact. The retailer product page returned 404 on direct access although the indexed image still loaded; publisher metadata provides the current identity check.",
+        "license": "Cover design remains subject to copyright; review only.",
+        "rightsStatus": "review_only_pending_clearance",
+        "width": 1000,
+        "height": 1500,
+        "imageFormat": "JPEG",
+        "downloadStatus": "downloaded",
+        "visualReviewStatus": "reviewed_flat_front_cover_no_mockup",
+        "reviewedOn": "2026-09-23",
+        "sha256": "3d0ee0c3705102354657f4542891e6bd6b0621257a20e5ff5dd5be279c8a8469",
+        "sourceFraming": "Flat rectangular front-cover artwork; no external surround, physical spine or perspective. Artwork fills the source image.",
+        "presentation": "fixed_portrait_sharp_corners",
+        "replaces": {
+          "label": "Global · J. Borges cover",
+          "imageUrl": "image-options/assets/literature/vidas-secas-b.webp",
+          "sourceUrl": "https://grupoeditorialglobal.com.br/catalogos/livro/?id=4667",
+          "edition": {
+            "publisher": "Global Editora",
+            "language": "Portuguese",
+            "isbn": "9786556125404",
+            "designation": "First edition from this publisher"
+          },
+          "reason": "Replaced for a new review with a flat front-cover image. Prior asset is preserved."
+        },
+        "imageSourceUrl": "https://www.movimentoliterario.com.br/vidas-secas---ramos--graciliano-9786555877915-9800455212",
+        "additionalSourceUrls": [
+          "https://www.martinsfontespaulista.com.br/vidas-secas--economica----edicao-oficial-1078381/p"
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Todavia · 2024",
+        "description": "Portuguese edition. Large black author lettering above green-and-purple shapes on cream.",
+        "imageUrl": "image-options/assets/literature/vidas-todavia-flat.jpg",
+        "sourceUrl": "https://todavialivros.com.br/livros/vidas-secas",
+        "remoteImageUrl": "https://cdn.awsli.com.br/2500x2500/1423/1423450/produto/332327081/61lkibmgtql-_sl1500_-6ix1meen15.jpg",
+        "originalImageUrl": "https://cdn.awsli.com.br/2500x2500/1423/1423450/produto/332327081/61lkibmgtql-_sl1500_-6ix1meen15.jpg",
+        "credit": "Todavia edition; cover image supplied by Movimento Literário. Cover designer not independently established.",
+        "altText": "Flat cream Vidas Secas cover with large black author lettering and a purple plant-like shape over green.",
+        "edition": {
+          "publisher": "Todavia",
+          "language": "Portuguese",
+          "isbn": "9786556925790",
+          "year": 2024,
+          "designation": "First Todavia edition"
+        },
+        "sourceNotes": "Complete 989 × 1500 retailer-supplied front cover. Todavia’s indexed catalog confirms the work; direct page access was intermittently blocked. ISBN, Portuguese language and 2024 edition were independently confirmed by Livraria da Travessa. The cream background is part of the cover design, not a surrounding surface. No image editing or perspective correction was performed.",
+        "license": "Cover design remains subject to copyright; review only.",
+        "rightsStatus": "review_only_pending_clearance",
+        "width": 989,
+        "height": 1500,
+        "imageFormat": "JPEG",
+        "downloadStatus": "downloaded",
+        "visualReviewStatus": "reviewed_flat_front_cover_no_mockup",
+        "reviewedOn": "2026-09-23",
+        "sha256": "4d386ba93245340ac011a66112e8f92d434598d036da5968faa30bcf6cf1e901",
+        "sourceFraming": "Flat rectangular front-cover artwork; no external surround, physical spine or perspective. Artwork fills the source image.",
+        "presentation": "fixed_portrait_sharp_corners",
+        "replaces": {
+          "label": "Principis · 2024",
+          "imageUrl": "image-options/assets/literature/vidas-secas-c.jpg",
+          "sourceUrl": "https://www.cirandacultural.com.br/produto/livro-principis-vidas-secas-74848",
+          "edition": {
+            "publisher": "Principis / Ciranda Cultural",
+            "language": "Portuguese",
+            "year": 2024,
+            "isbn": "9786550971298",
+            "designation": "First edition from this publisher; Clássicos da literatura brasileira"
+          },
+          "reason": "Replaced for a new review with a flat front-cover image. Prior asset is preserved."
+        },
+        "imageSourceUrl": "https://www.movimentoliterario.com.br/vidas-secas---ramos--graciliano---todavia-9786556925790-9800471038",
+        "additionalSourceUrls": [
+          "https://www.travessa.com.br/vidas-secas/artigo/e73bb28a-9109-4d57-a19a-a5fd5e63fc2e"
+        ]
+      }
+    ]
+  },
+  {
+    "entryId": "the-great-gatsby",
+    "options": [
+      {
+        "id": "A",
+        "label": "Macmillan Collector’s Library · 2016",
+        "description": "A mint title field above a monochrome portrait, with restrained gold lettering.",
+        "sourceUrl": "https://www.panmacmillan.com/authors/f-scott-fitzgerald/the-great-gatsby/9781509826360",
+        "remoteImageUrl": "https://ik.imagekit.io/panmac/edition/9781509826360.jpg",
+        "credit": "Macmillan Collector’s Library; cover designer not independently identified.",
+        "altText": "A mint title field above a monochrome portrait, with restrained gold lettering.",
+        "edition": {
+          "publisher": "Macmillan Collector’s Library",
+          "language": "English",
+          "isbn": "9781509826360",
+          "publicationDate": "2016-09-08"
+        },
+        "license": "Cover artwork is copyrighted; review only.",
+        "sourceNotes": "Publisher-supplied flat front artwork. No physical spine, perspective, added shadow or corner rounding. Original image downloaded unchanged. Display in the established fixed rectangular book frame on gray.",
+        "fidelityNotes": "No image generation or editing.",
+        "imageTreatment": "Publisher cover",
+        "presentation": "fixed_portrait_sharp_corners",
+        "sourceFraming": "Flat front cover filling a sharp rectangular frame.",
+        "imageUrl": "image-options/assets/literature/sep25-gatsby-macmillan-2016.jpg",
+        "width": 1200,
+        "height": 1932,
+        "sha256": "72f36ad7e1c1400aa018d103e2108af4663b7c9c84bceeff01a2c5c2cf1b3850",
+        "downloadStatus": "downloaded",
+        "reviewedOn": "2026-09-25",
+        "visualReviewStatus": "candidate_for_Julio_review",
+        "rightsStatus": "review_only_pending_clearance",
+        "originalImageUrl": "image-options/assets/literature/sep25-gatsby-macmillan-2016.jpg",
+        "imageFormat": "JPEG"
+      },
+      {
+        "id": "B",
+        "label": "Penguin Classics Deluxe · 2021",
+        "description": "Large dimensional lettering over a teal-and-gold Art Deco pattern.",
+        "sourceUrl": "https://www.penguinrandomhouse.com/books/653390/the-great-gatsby-by-f-scott-fitzgerald-introduction-by-min-jin-lee-edited-with-notes-by-philip-mcgowan/9780143136125/",
+        "remoteImageUrl": "https://images2.penguinrandomhouse.com/cover/9780143136125",
+        "credit": "Penguin Classics; cover designer not independently identified.",
+        "altText": "Large dimensional lettering over a teal-and-gold Art Deco pattern.",
+        "edition": {
+          "publisher": "Penguin Classics",
+          "language": "English",
+          "isbn": "9780143136125",
+          "publicationDate": "2021-01-05"
+        },
+        "license": "Cover artwork is copyrighted; review only.",
+        "sourceNotes": "Publisher-supplied flat front artwork. No physical spine, perspective, added shadow or corner rounding. Original image downloaded unchanged. Display in the established fixed rectangular book frame on gray.",
+        "fidelityNotes": "No image generation or editing.",
+        "imageTreatment": "Publisher cover",
+        "presentation": "fixed_portrait_sharp_corners",
+        "sourceFraming": "Flat front cover filling a sharp rectangular frame.",
+        "imageUrl": "image-options/assets/literature/sep25-gatsby-penguin-deluxe-2021.jpg",
+        "width": 293,
+        "height": 450,
+        "sha256": "d3984e46e7a7f18eeb0d9a460ba9632d4ab3a1b53675b8b0c6401776231e7fce",
+        "downloadStatus": "downloaded",
+        "reviewedOn": "2026-09-25",
+        "visualReviewStatus": "candidate_for_Julio_review",
+        "rightsStatus": "review_only_pending_clearance",
+        "originalImageUrl": "image-options/assets/literature/sep25-gatsby-penguin-deluxe-2021.jpg",
+        "imageFormat": "JPEG"
+      },
+      {
+        "id": "C",
+        "label": "Macmillan · Parties and Passions",
+        "description": "Blue checkered geometry and pink lights surround a small dancing couple.",
+        "sourceUrl": "https://us.macmillan.com/books/9781035058587/thegreatgatsby/",
+        "remoteImageUrl": "https://ik.imagekit.io/panmac/edition/9781035058587.jpg",
+        "credit": "Macmillan Collector’s Library; cover designer not independently identified.",
+        "altText": "Blue checkered geometry and pink lights surround a small dancing couple.",
+        "edition": {
+          "publisher": "Macmillan Collector’s Library",
+          "language": "English",
+          "isbn": "9781035058587",
+          "publicationDate": "2025-09-16"
+        },
+        "license": "Cover artwork is copyrighted; review only.",
+        "sourceNotes": "Publisher-supplied flat front artwork. No physical spine, perspective, added shadow or corner rounding. Original image downloaded unchanged. Display in the established fixed rectangular book frame on gray.",
+        "fidelityNotes": "No image generation or editing.",
+        "imageTreatment": "Publisher cover",
+        "presentation": "fixed_portrait_sharp_corners",
+        "sourceFraming": "Flat front cover filling a sharp rectangular frame.",
+        "imageUrl": "image-options/assets/literature/sep25-gatsby-mac-parties-2025.jpg",
+        "width": 500,
+        "height": 758,
+        "sha256": "d4edae5a2aff6ff42bc143c055e43e9852f065e0bc6198b576be5efc2ccf7686",
+        "downloadStatus": "downloaded",
+        "reviewedOn": "2026-09-25",
+        "visualReviewStatus": "candidate_for_Julio_review",
+        "rightsStatus": "review_only_pending_clearance",
+        "originalImageUrl": "image-options/assets/literature/sep25-gatsby-mac-parties-2025.jpg",
+        "imageFormat": "JPEG"
+      }
+    ]
+  }
+]

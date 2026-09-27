@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "death-of-marat",
+    "medium": "painting",
+    "title": "The Death of Marat",
+    "creator": "Jacques-Louis David",
+    "dateDisplay": "1793",
+    "dateStart": 1793,
+    "dateEnd": null,
+    "body": "Jean-Paul Marat was a journalist and politician during the French Revolution. He demanded the execution of people he considered enemies of the Revolution. In July 1793, Charlotte Corday, a political opponent, stabbed him in his bath. He often worked there because bathing relieved a severe skin condition.\n\nJacques-Louis David painted *The Death of Marat* later that year. He was Marat’s political ally and a deputy in the National Convention, the assembly governing France. The Convention commissioned him to commemorate the murdered man. The result presents Marat as someone who died serving the people, leaving his role in revolutionary violence outside the picture.\n\nDavid makes this argument through the body itself. Marat’s lowered head and hanging arm recall images of the dead Christ, particularly Caravaggio’s *The Entombment of Christ*. His skin appears smooth, and a plain wooden box serves as a desk. These choices give him the appearance of a selfless man living simply. Christian images of sacrifice help turn a contemporary political assassination into martyrdom.\n\nThe painting hung in the Convention beside David’s portrait of another murdered deputy, Le Peletier. As the assembly conducted its work, the two deaths became examples of sacrifice for the Revolution.",
+    "sources": [
+      {
+        "title": "Royal Museums of Fine Arts of Belgium: Marat assassiné",
+        "url": "https://fine-arts-museum.be/fr/la-collection/jacques-louis-david-marat-assassine",
+        "role": "holding-museum catalogue",
+        "supports": "1793 original, David, inventory 3260; holding-museum identity reference."
+      },
+      {
+        "title": "Musée du Louvre: Une icône de la Révolution",
+        "url": "https://www.louvre.fr/expositions-et-evenements/expositions/jacques-louis-david/oeuvres-en-lumiere/une-icone-de-la-revolution",
+        "role": "curatorial analysis",
+        "supports": "Convention commission and David’s deputy status; idealized body, Christian martyr imagery, Caravaggio comparison, simple living and paired Convention display. French page freshly reread 24 September 2026; local reproduction visually inspected."
+      },
+      {
+        "title": "Stanford: The life and radicalization of Jean-Paul Marat",
+        "url": "https://news.stanford.edu/stories/2025/11/jean-paul-marat-biography-history-prophet-terror-book",
+        "role": "historian’s account and authorized biography excerpt",
+        "supports": "Marat’s advocacy of executing perceived revolutionary enemies; Corday’s killing; skin illness and medicinal baths. Freshly reread 24 September 2026; no specific medical diagnosis asserted."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_09_PAINTING_BOOK_FILM.md",
+      "baselineSection": "The Death of Marat / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: added Marat’s advocacy of executions to distinguish the historical politician from David’s martyr image; connected directly inspected body and desk details to idealization; retained commission and political display. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/The-Death-of-Marat-a7d07117ffee4ce58dba61a3846b0908?pvs=25"
+    },
+    "meaningBrief": "David constructs a revolutionary martyr through an idealized body, Christian sacrifice imagery and signs of simple living. Marat’s advocacy of executions gives the reader essential context for what this political image selects and omits. The commission and Convention display show how the representation served public revolutionary memory.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "altText": "The full painting of Marat lying in his bath, with a letter in his hand, his other arm hanging down, and a wooden box beside him.",
+      "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium; Google Art Project reproduction, derivative file uploaded by Wikimedia Commons user Pixel8tor.",
+      "license": "Commons identifies this faithful reproduction as PD-Art/Public Domain Mark 1.0; app reuse is not yet cleared.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Full Brussels original, inventory 3260. Selected preview is 1920 × 2471 pixels, from the 3885 × 5000 Commons file. Replaces the 295-pixel museum image after visual QA. This is a derivative Google Art Project reproduction, not a new photograph by the museum photographer credited for the previous image."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 8,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-death-of-marat"
+  },
+  "decision": {
+    "id": "death-of-marat",
+    "decisionId": "julio-2026-09-25-death-of-marat",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image A; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "510d856b75932d70",
+    "imageOption": "A",
+    "imageHash": "d55c2188d19def55",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "A",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "A",
+      "label": "Google Art reproduction",
+      "description": "Cooler, muted reproduction with a gray background and clearly visible letter, knife and inscription.",
+      "imageUrl": "image-options/assets/painting/death-of-marat-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium / Google Arts & Culture; existing Commons derivative by Pixel8tor.",
+      "altText": "Full painting: death of marat",
+      "width": 1920,
+      "height": 2471,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "sourceDimensions": [
+        3885,
+        5000
+      ],
+      "sourceNotes": "Brussels original, inventory 3260. Existing source derivative retained unchanged; no grading or cropping performed for this review.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-23",
+      "sha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439",
+      "assetSha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium / Google Arts & Culture; existing Commons derivative by Pixel8tor.",
+    "altText": "Full painting: death of marat",
+    "width": 1920,
+    "height": 2471,
+    "imageUrl": "assets/selected.jpg",
+    "sha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439",
+    "sourceAssetSha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
+  },
+  "frozen": {
+    "bodyHash": "510d856b75932d70",
+    "bodySha256": "fb000be73523cc11bd6d910a7101de14a7c7b325251129ac5ad1c3ae1b7c7dd6",
+    "imageHash": "d55c2188d19def55",
+    "sourceEntrySha256": "0a611307a4e5be242d8bf6fec8147e1cdaaf018bf70d614dff35facf1122c80f"
+  }
+}

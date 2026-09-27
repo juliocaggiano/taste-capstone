@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "im-still-here",
+    "medium": "cinema",
+    "title": "I’m Still Here",
+    "creator": "Walter Salles",
+    "dateDisplay": "2024",
+    "dateStart": 2024,
+    "dateEnd": null,
+    "body": "Brazil’s 1964 military coup removed an elected government and stripped congressman Rubens Paiva of his mandate. In January 1971, agents took him from his Rio de Janeiro home. He was tortured and killed in custody. The authorities concealed the crime and circulated a false account of his escape. Walter Salles’s *I’m Still Here* (2024) follows the family left behind, drawing on a memoir by Rubens’s son Marcelo.\n\nThe film centres on Rubens’s wife, Eunice, who is also imprisoned, along with their teenage daughter Eliana. After her release, she must raise five children while seeking answers from the authorities responsible. Confronting the men watching her home, she asks: “What are you looking at? What do you want? Where’s my husband?” The family cannot bury Rubens, and the government refuses to acknowledge his death.\n\nBefore the arrest, Salles shows a busy home full of music, visitors and conversation. This gives us time to know the family before fear changes how they live. Afterwards, Eunice keeps daily life going for the children while deciding how much to tell them. Her composure requires work: she has to care for them while pursuing information that officials continue to withhold.\n\nEunice’s later life extended this work beyond her own family. She entered law school in 1973, defended Indigenous rights and campaigned for official recognition of the dictatorship’s disappeared. Rubens’s death certificate was issued in 1996, twenty-five years after his arrest. Obtaining it meant forcing the state to acknowledge a death that its own agents had caused and concealed.",
+    "sources": [
+      {
+        "title": "Câmara dos Deputados: Rubens Paiva biography",
+        "url": "https://www.camara.leg.br/deputados/131119/biografia",
+        "role": "institutional historical record",
+        "supports": "Revoked mandate, arrest, torture and death, official escape account, 1996 certificate."
+      },
+      {
+        "title": "São Paulo Truth Commission: Rubens Beirodt Paiva",
+        "url": "https://comissaodaverdade.al.sp.gov.br/mortos-desaparecidos/rubens-beirodt-paiva",
+        "role": "historical investigation",
+        "supports": "Custody and concealment; Eunice and Eliana’s detention."
+      },
+      {
+        "title": "CNN: Salles and Torres interview with film clip",
+        "url": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+        "role": "creator interview and released-film excerpt",
+        "supports": "Eunice’s confrontation dialogue, composure and familial experience."
+      },
+      {
+        "title": "Letterboxd: Salles and Torres interview",
+        "url": "https://letterboxd.com/journal/im-still-here-fernanda-torres-walter-salles-interview/",
+        "role": "creator interview",
+        "supports": "Household freedom, the children’s differing knowledge and memory."
+      },
+      {
+        "title": "Memórias da Ditadura: Eunice Paiva",
+        "url": "https://memoriasdaditadura.org.br/personagens/eunice-paiva/",
+        "role": "historical biography",
+        "supports": "1973 law-school entry, Indigenous-rights work and long campaign for acknowledgment."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-21/ROUND_18_FINAL_DRAFTS.json",
+      "baselineSection": "works[key=im_still_here].A",
+      "changes": [
+        "Removed inline source links; all prose and paragraph structure preserved. Julio praised the round 18 film without naming A or B. A is selected for this batch, not inferred as his preferred variant. Staged for review.",
+        "24 September 2026 remake: made a restrained style revision after the “slightly less AI-written” note, replacing abstract transitions with concrete family actions. Preserved historical killing, official concealment, Eunice’s legal work and the delayed certificate. Retained the contextual film quotation with its broadcast-translation limitation. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/I-m-Still-Here-25dc5450872d80138d0be56c750e2a32?pvs=25"
+    },
+    "meaningBrief": "The historical killing is established; the family’s uncertainty comes from state concealment. The film follows Eunice’s practical care and pursuit of answers, while her later legal work connects her family’s experience to wider struggles for rights and recognition. Her agency, not generic endurance or an unresolved historical mystery, carries the account.",
+    "quotationNotes": [
+      {
+        "text": "What are you looking at? What do you want? Where’s my husband?",
+        "speaker": "Eunice Paiva, confronting men watching her home",
+        "sourceUrl": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+        "locator": "Film clip, web transcript line 250",
+        "wordCount": 12,
+        "version": "CNN English broadcast translation in a rush transcript, freshly reread 24 September 2026. Not independently checked against theatrical subtitles or Portuguese audio.",
+        "purpose": "Expresses her demand for information withheld by those exercising power."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://www.sonyclassics.com/assets/img/films/imstillhere/poster/imstillhere.jpg",
+      "referenceUrl": "https://www.sonyclassics.com/film/imstillhere/",
+      "altText": "Official English-language poster for I’m Still Here (2024).",
+      "credit": "Sony Pictures Classics",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Poster URL extracted from Sony’s film page; not a photograph of the historical Paiva family."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 21,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-im-still-here"
+  },
+  "decision": {
+    "id": "im-still-here",
+    "decisionId": "julio-2026-09-25-im-still-here",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image C; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "8c2d7ac3de0759b0",
+    "imageOption": "C",
+    "imageHash": "35613c213b4aec5d",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "C",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "C",
+      "label": "The empty room",
+      "description": "Eunice stands at the edge of a bare room. The space offers a quieter image of absence.",
+      "imageUrl": "image-options/assets/cinema/PLKJE7W8.jpg",
+      "sourceUrl": "https://shotdeck.com/browse/recordviewajax/image/PLKJE7W8/viewtype/full-size/show/1",
+      "credit": "Film frame from I'm Still Here (2024), directed by Walter Salles; cinematography by Adrian Teijido. Reference accessed through ShotDeck.",
+      "altText": "Eunice stands near a doorway on the right side of an empty, sunlit room.",
+      "width": 1924,
+      "height": 1040,
+      "rightsStatus": "review_only_pending_clearance",
+      "shotId": "PLKJE7W8",
+      "shotTime": "01:44:18",
+      "filmTitle": "I'm Still Here",
+      "filmYear": 2024,
+      "filmVersion": "2024 feature identified by title, year and director in ShotDeck. Transfer or edition not specified.",
+      "catalogUrl": "https://shotdeck.com/browse/stills#/movie/62576~I%27m+Still+Here",
+      "remoteImageUrl": "https://shotdeck.com/assets/images/stills/PLKJE7W8.jpg",
+      "displayMode": "contain",
+      "notes": "Wide single; right-heavy composition; warm desaturated color; daylight backlight. Later scene, selected for its composition without describing its narrative circumstances.",
+      "metadataLimits": "Shot time and descriptive metadata come from ShotDeck. The exact transfer is unspecified. Actual raster dimensions govern display; retain the entire frame without stretching.",
+      "downloadProvenance": {
+        "method": "Signed-in Chrome; visible official full-size image; documented tab.playwright.getByRole('img').downloadMedia() action, followed by unaltered local copy.",
+        "sourceFile": "/Users/juliocaggiano/Downloads/PLKJE7W8.jpg",
+        "copiedOn": "2026-09-23",
+        "sha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee",
+        "byteLength": 647922,
+        "unalteredCopyVerified": true
+      },
+      "reviewStatus": "proposed_pending_Julio_review",
+      "assetSha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Film frame from I'm Still Here (2024), directed by Walter Salles; cinematography by Adrian Teijido. Reference accessed through ShotDeck.",
+    "altText": "Eunice stands near a doorway on the right side of an empty, sunlit room.",
+    "width": 1924,
+    "height": 1040,
+    "imageUrl": "assets/selected.jpg",
+    "sha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee",
+    "sourceAssetSha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee"
+  },
+  "frozen": {
+    "bodyHash": "8c2d7ac3de0759b0",
+    "bodySha256": "1c1b12d6db7bd72ffb8f7a85511e92e5fd2f7f0c6680b6973d9c884eb4a62172",
+    "imageHash": "35613c213b4aec5d",
+    "sourceEntrySha256": "2ec1afaee4cab45f7de62043f868dde1dcd8eee9c3104a22ff047ddb39dcd895"
+  }
+}

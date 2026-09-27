@@ -1,0 +1,107 @@
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.artwork-filter-sheet) .sheet-content {
+  padding-bottom: 0;
+}
+.device-screen:has(.artwork-filter-sheet) .keyboard-dock { z-index: 82; }
+.artwork-filter-sheet {
+  --msel-surface: var(--app-surface);
+  color: var(--app-text);
+  font-family: var(--app-sans);
+  font-size: 14px;
+  line-height: 20px;
+}
+.artwork-filter-fields { display: flex; flex-direction: column; gap: 20px; padding-bottom: 20px; }
+.artwork-filter-field { display: flex; min-width: 0; flex-direction: column; gap: 8px; }
+.artwork-filter-field > label, .artwork-filter-field > span { font: inherit; }
+.artwork-filter-sheet .dc-morph-select {
+  --msel-surface: var(--app-surface);
+  --msel-ink: var(--app-text);
+  --msel-selected: var(--app-bg);
+  --msel-muted: var(--app-muted);
+  --msel-focus: var(--app-focus);
+  --msel-trigger-radius: 4px;
+  --msel-panel-radius: 8px;
+  --msel-option-radius: 4px;
+  width: 100%;
+  font: inherit;
+}
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-sheet .dc-morph-select > .dc-morph-select-trigger {
+  min-height: 44px;
+  height: 44px;
+  padding: 0 12px;
+  border-radius: 4px;
+  background: var(--app-surface);
+  color: var(--app-text);
+  font: inherit;
+}
+.artwork-filter-sheet .dc-morph-select-overlay { font: inherit; }
+.artwork-filter-sheet .dc-morph-select-option { min-height: var(--msel-option-min-height, 44px); padding: var(--msel-option-padding, 8px 10px); gap: var(--msel-option-gap, 8px); }
+.artwork-filter-sheet .dc-morph-select-overlay > .dc-morph-select-list { padding: var(--msel-list-padding, 6px); }
+.artwork-filter-sheet .dc-morph-select-overlay :is(.dc-morph-select-caret, .dc-morph-select-check) { width: var(--msel-glyph-size, 14px); height: var(--msel-glyph-size, 14px); flex-basis: var(--msel-glyph-size, 14px); }
+.artwork-filter-dates { min-width: 0; margin: 0; padding: 0; border: 0; }
+.artwork-filter-dates legend { float: left; width: 100%; padding: 0; margin: 0 0 12px; }
+.artwork-filter-period { clear: both; margin-bottom: 12px; }
+.artwork-filter-period > label { color: var(--app-muted); font-size: 12px; line-height: 16px; }
+.artwork-filter-year-fields { clear: both; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.artwork-filter-year-fields label { color: var(--app-muted); font-size: 12px; line-height: 16px; }
+.artwork-filter-year-fields input {
+  box-sizing: border-box; width: 100%; min-width: 0; height: 44px; padding: 10px 12px;
+  border: 1px solid var(--app-divider); border-radius: 4px; outline: none;
+  background: var(--app-bg); color: var(--app-text); font: inherit; box-shadow: none;
+  transition: box-shadow 150ms ease;
+}
+.artwork-filter-year-fields input::placeholder { color: var(--app-muted); }
+.artwork-filter-year-fields input:focus { box-shadow: 0 0 0 1px color-mix(in srgb, var(--app-muted) 40%, transparent); }
+.artwork-filter-year-fields input[aria-invalid="true"] { border-color: var(--app-muted); }
+.artwork-filter-error { margin: 8px 0 0; font-size: 12px; line-height: 16px; }
+.artwork-filter-error { color: var(--app-text); }
+.artwork-filter-sheet .dc-selection-option { min-height: 44px; font: inherit; }
+.artwork-filter-footer {
+  position: sticky; bottom: 0; z-index: 2; display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  padding: 12px 0 max(20px, var(--device-safe-area-bottom, 20px));
+  border-top: 1px solid var(--app-divider); background: var(--app-surface-raised);
+}
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-footer > button {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px;
+  padding: 0 16px; border: 0; border-radius: 999px; background: var(--app-surface); color: var(--app-text);
+  font: 400 14px/20px var(--app-sans); cursor: pointer;
+}
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-footer > button:last-child { background: var(--app-text); color: var(--app-bg); }
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-footer > button:disabled { opacity: .4; cursor: default; }
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-footer > button:focus-visible { outline: 2px solid var(--app-focus); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { .artwork-filter-year-fields input { transition: none; } }
+
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-chooser-trigger {
+  display: flex; width: 100%; height: 44px; min-width: 0; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 0 12px; border-radius: 4px; background: var(--app-surface); color: var(--app-text); font: inherit;
+}
+.artwork-filter-chooser-trigger > span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.artwork-filter-chooser-trigger > svg { flex: none; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.artwork-filter-picker) { height: 89%; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.artwork-filter-picker) .sheet-header { padding-left: 64px; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.artwork-filter-picker) .sheet-content { display: flex; overflow: hidden; }
+.artwork-filter-sheet[data-choosing] { display: flex; min-width: 0; width: 100%; min-height: 0; }
+.artwork-filter-picker { display: flex; flex: 1; flex-direction: column; min-height: 0; min-width: 0; gap: 12px; padding-bottom: max(20px, var(--device-safe-area-bottom, 20px)); }
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-picker-back {
+  position: absolute; top: 35px; left: 20px; display: grid; width: 32px; height: 32px; place-items: center;
+  border-radius: 4px; background: transparent; color: var(--app-muted);
+}
+.artwork-filter-picker-search { display: flex; flex: none; align-items: center; gap: 10px; height: 44px; padding: 0 12px; background: var(--app-surface); border-radius: 4px; }
+.artwork-filter-picker-search > svg { flex: none; color: var(--app-muted); }
+.artwork-filter-picker-search > input { flex: 1; width: 100%; min-width: 0; height: 44px; margin: 0; padding: 0; border: 0; outline: 0; background: transparent; color: var(--app-text); font: inherit; }
+.artwork-filter-picker-search > input::placeholder { color: var(--app-muted); }
+.artwork-filter-picker-search > input::-webkit-search-cancel-button { -webkit-appearance: none; }
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-picker-search > button { display: grid; place-items: center; flex: none; width: 32px; height: 44px; color: var(--app-muted); }
+.artwork-filter-picker-options { position: relative; flex: 1; min-height: 0; overflow: auto; overscroll-behavior: contain; touch-action: pan-y; scrollbar-width: thin; }
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-picker-options > button {
+  display: flex; width: 100%; min-height: 44px; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 10px 12px; border-radius: 4px; color: var(--app-text); font: inherit;
+}
+.artwork-filter-picker-options > button > span { min-width: 0; overflow-wrap: anywhere; }
+.artwork-filter-picker-options > button > svg { flex: none; }
+.device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-picker-options > button:is([data-active="true"], :hover) { background: var(--app-surface); }
+.artwork-filter-picker-empty { margin: 12px; color: var(--app-muted); font-size: 14px; line-height: 20px; }
+@media (pointer: coarse) {
+  .device-screen:has(.daily-culture-app) .bottom-sheet:has(.artwork-filter-picker) .sheet-header { padding-left: 76px; }
+  .device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-picker-back { top: 29px; width: 44px; height: 44px; }
+  .device-screen:has(.daily-culture-app) .bottom-sheet .artwork-filter-picker-search > button { width: 44px; margin-right: -12px; }
+}

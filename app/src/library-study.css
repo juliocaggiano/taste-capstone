@@ -1,0 +1,180 @@
+/* Selected Library overview and the retained comparison variants. */
+.daily-culture-app .library-study-page {
+  padding: 64px var(--app-page-gutter, 8px) 0;
+  color: var(--app-text);
+  font-family: var(--app-sans);
+  letter-spacing: 0;
+}
+.daily-culture-app .library-study-page .library-study-toolbar {
+  display: flex;
+  min-width: 0;
+  min-height: 36px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  padding: 0 4px;
+}
+.daily-culture-app .library-study-page .library-study-toolbar h1,
+.daily-culture-app .library-study-page .library-study-toolbar h2 {
+  margin: 0;
+  min-width: 0;
+  color: var(--app-text);
+  font: 400 16px/20px var(--app-sans);
+  letter-spacing: 0;
+}
+.daily-culture-app .library-study-page .library-study-heading-actions { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+.daily-culture-app .library-study-page .library-study-search-button { display: grid; width: 32px; height: 32px; flex: none; place-items: center; border-radius: 4px; color: var(--app-muted); }
+.daily-culture-app .library-study-page .library-study-search-button:active { opacity: .65; }
+.daily-culture-app .library-study-page .library-study-search-field {
+  display: flex; min-height: 32px; align-items: center; gap: 8px; margin: 8px 4px 0; padding: 4px 12px;
+  border-radius: 999px; background: var(--app-surface); color: var(--app-muted);
+}
+.daily-culture-app .library-study-page .library-study-search-field > svg { flex: none; }
+.daily-culture-app .library-study-page .library-study-search-field > input {
+  width: 100%; min-width: 0; height: 20px; flex: 1; padding: 0; border: 0; outline: 0;
+  background: transparent; color: var(--app-text); font: 400 14px/20px var(--app-sans);
+}
+.daily-culture-app .library-study-page .library-study-search-field > input::placeholder { color: var(--app-muted); opacity: 1; }
+.daily-culture-app .library-study-page .library-study-search-field > input::-webkit-search-cancel-button { -webkit-appearance: none; }
+.daily-culture-app .library-study-page .library-study-search-field:focus-within { box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--app-muted) 16%, transparent); }
+.daily-culture-app .library-study-page .library-study-search-field > button { display: grid; width: 24px; height: 24px; flex: none; place-items: center; border-radius: 50%; }
+.daily-culture-app .library-study-page .library-study-count {
+  color: var(--app-muted);
+  font: 400 12px/16px var(--app-sans);
+}
+.daily-culture-app .library-study-page .library-study-tabs {
+  position: relative;
+  display: inline-grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  min-width: 174px;
+  flex: 1 1 auto;
+  max-width: 220px;
+  border-bottom: 1px solid var(--app-divider);
+}
+.daily-culture-app .library-study-page .library-study-tabs > button {
+  display: flex;
+  min-height: 36px;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 6px 8px;
+  color: var(--app-muted);
+  font: 400 13px/20px var(--app-sans);
+  white-space: nowrap;
+  transition: color 160ms ease;
+}
+.daily-culture-app .library-study-page .library-study-tabs > button[aria-selected="true"] { color: var(--app-text); }
+.daily-culture-app .library-study-page .library-study-tab-indicator {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 50%;
+  height: 1px;
+  background: var(--app-text);
+  transition: transform 180ms ease;
+  pointer-events: none;
+}
+.daily-culture-app .library-study-page .library-study-switcher {
+  --msel-surface: var(--app-surface);
+  --msel-ink: var(--app-text);
+  --msel-selected: var(--app-bg);
+  --msel-muted: var(--app-muted);
+  --msel-focus: var(--app-muted);
+  min-width: 140px;
+  max-width: 190px;
+  font: 400 14px/20px var(--app-sans);
+}
+.daily-culture-app .library-study-page .library-study-new-folder {
+  display: inline-flex;
+  min-height: 28px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--app-muted);
+  font: 400 12px/16px var(--app-sans);
+  white-space: nowrap;
+  transition: color 160ms ease, background-color 160ms ease;
+}
+.daily-culture-app .library-study-page .library-study-new-folder:active { background: var(--app-surface); color: var(--app-text); }
+@media (hover: hover) {
+  .daily-culture-app .library-study-page .library-study-new-folder:hover { background: var(--app-surface); color: var(--app-text); }
+}
+.daily-culture-app .library-study-page .library-study-panel { animation: library-study-reveal 160ms ease-out both; }
+@keyframes library-study-reveal { from { opacity: 0; } to { opacity: 1; } }
+.daily-culture-app .library-study-page .library-study-folder-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: 20px 8px;
+  margin-top: 20px;
+  padding: 0 4px;
+}
+.daily-culture-app .library-study-page .library-study-folder-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 8px;
+  text-align: left;
+}
+.daily-culture-app .library-study-page .library-study-folder-cover {
+  display: grid;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 4px;
+  background: var(--app-surface);
+  color: var(--app-muted);
+}
+.daily-culture-app .library-study-page .library-study-folder-cover img { width: 100%; height: 100%; object-fit: cover; }
+.daily-culture-app .library-study-page .library-study-folder-copy { display: flex; min-width: 0; flex-direction: column; gap: 2px; }
+.daily-culture-app .library-study-page .library-study-folder-copy strong { color: var(--app-text); font: 400 14px/18px var(--app-sans); overflow-wrap: anywhere; }
+.daily-culture-app .library-study-page .library-study-folder-copy > span { color: var(--app-muted); font: 400 12px/16px var(--app-sans); }
+.daily-culture-app .library-study-page .library-study-folder-card[data-selected="true"] .library-study-folder-copy strong { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.daily-culture-app .library-study-page .library-study-folder-heading-copy { display: flex; min-width: 0; flex: 1 1 160px; align-items: center; gap: 8px; }
+.daily-culture-app .library-study-page .library-study-folder-heading-copy > div { min-width: 0; }
+.daily-culture-app .library-study-page .library-study-folder-heading-copy h1 { overflow-wrap: anywhere; }
+.daily-culture-app .library-study-page .library-study-folder-heading-copy span { color: var(--app-muted); font: 400 12px/16px var(--app-sans); }
+.daily-culture-app .library-study-page .library-study-folder-navigation { padding: 0 4px; margin-bottom: 8px; }
+.daily-culture-app .library-study-page .library-study-back { position: relative; display: grid; width: 32px; height: 32px; flex: none; place-items: center; border-radius: 4px; background: transparent; color: var(--app-muted); }
+.daily-culture-app .library-study-page .library-study-back::before { content: none; }
+.daily-culture-app .library-study-page .library-study-back > svg { position: relative; }
+.daily-culture-app .library-study-page .library-study-folder-rail { margin-top: 16px; }
+.daily-culture-app .library-study-page .library-study-folder-track { display: flex; gap: 12px; padding: 0 4px; }
+.daily-culture-app .library-study-page .library-study-folder-rail .library-study-folder-card { width: 168px; flex: 0 0 168px; }
+.daily-culture-app .library-study-page .library-study-artworks-heading { margin-top: 32px; }
+.daily-culture-app .library-study-page[data-library-searching="true"] .library-study-artworks-heading { margin-top: 16px; }
+.daily-culture-app .library-study-page .library-study-artworks-heading h2 { display: flex; align-items: baseline; gap: 8px; }
+.daily-culture-app .library-study-page .library-study-artworks-heading + .library-work-grid { margin-top: 12px; }
+.daily-culture-app .library-study-page:not([data-library-study]) .library-study-artworks-heading + .library-work-grid { margin-top: 8px; }
+.daily-culture-app .library-study-page .library-study-medium-row { display: flex; min-height: 32px; align-items: center; gap: 8px; padding: 0 4px; color: var(--app-muted); font: 400 12px/16px var(--app-sans); }
+.daily-culture-app .library-study-page .library-study-artworks-heading + .library-study-medium-row { margin-top: 8px; }
+.daily-culture-app .library-study-page .library-study-medium-select { --msel-surface: var(--app-surface); --msel-ink: var(--app-text); --msel-selected: var(--app-bg); --msel-muted: var(--app-muted); --msel-focus: var(--app-muted); min-width: 112px; max-width: 180px; font: 400 12px/16px var(--app-sans); }
+.daily-culture-app .library-study-page .library-study-medium-row + .library-work-grid { margin-top: 8px; }
+.daily-culture-app .library-study-page .library-study-medium-row + .library-study-empty { padding-top: 24px; }
+.daily-culture-app .library-study-page .library-study-empty { min-height: 220px; padding: 40px 4px; }
+.daily-culture-app .library-study-page .library-study-empty h2 { margin: 0 0 8px; font: 400 16px/20px var(--app-sans); }
+.daily-culture-app .library-study-page .library-study-empty p { margin: 0; color: var(--app-muted); font: 400 13px/18px var(--app-sans); }
+.daily-culture-app .library-study-page .library-study-empty > button { margin-top: 16px; }
+.daily-culture-app .library-study-page :is(.library-study-tabs > button, .library-study-new-folder, .library-study-folder-card, .library-study-back, .library-study-search-button, .library-study-search-field > button):focus-visible { outline: 1px solid var(--app-muted); outline-offset: 3px; }
+@media (pointer: coarse) {
+  .daily-culture-app .library-study-page .library-study-tabs > button,
+  .daily-culture-app .library-study-page .library-study-new-folder { min-height: 44px; }
+  .daily-culture-app .library-study-page .library-study-search-button { width: 44px; height: 44px; }
+  .daily-culture-app .library-study-page .library-study-search-field { min-height: 44px; }
+  .daily-culture-app .library-study-page .library-study-search-field > input { min-height: 36px; }
+  .daily-culture-app .library-study-page .library-study-search-field > button { width: 44px; height: 44px; margin-right: -12px; }
+  .daily-culture-app .library-study-page .library-study-back { width: 44px; height: 44px; }
+  .daily-culture-app .library-study-page .library-study-toolbar > .discover-gallery-actions { margin-left: auto; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .daily-culture-app .library-study-page .library-study-panel { animation: none; }
+  .daily-culture-app .library-study-page .library-study-tab-indicator,
+  .daily-culture-app .library-study-page .library-study-new-folder,
+  .daily-culture-app .library-study-page .library-study-tabs > button { transition: none; }
+}

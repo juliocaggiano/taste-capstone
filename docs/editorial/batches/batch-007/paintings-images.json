@@ -1,0 +1,91 @@
+[
+  {
+    "entryId": "death-of-socrates",
+    "options": [
+      {
+        "entryId": "death-of-socrates",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b007-death-of-socrates-a.jpg",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/436105",
+        "sourceTitle": "Metropolitan Museum reproduction",
+        "remoteImageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-13139-001.jpg",
+        "originalImageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-13139-001.jpg",
+        "width": 4000,
+        "height": 2663,
+        "credit": "Jacques-Louis David; The Metropolitan Museum of Art, Open Access",
+        "sourceCredit": "The Metropolitan Museum of Art, Open Access",
+        "license": "Public domain / CC0",
+        "sha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6",
+        "sourceDimensions": [
+          4000,
+          2663
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+        "label": "Metropolitan Museum reproduction",
+        "description": "Darker, warm-toned museum photograph; the complete photographed canvas edge is visible.",
+        "altText": "Socrates sits upright on a bed, raising one hand while reaching for a cup of poison with the other, surrounded by grieving companions; Plato sits at the foot of the bed.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-27"
+      },
+      {
+        "entryId": "death-of-socrates",
+        "id": "B",
+        "imageUrl": "image-options/assets/painting/b007-death-of-socrates-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg",
+        "sourceTitle": "Google Arts & Culture reproduction",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 4000,
+        "height": 2653,
+        "credit": "Jacques-Louis David; Google Arts & Culture via Wikimedia Commons",
+        "sourceCredit": "Google Arts & Culture via Wikimedia Commons",
+        "license": "Public domain / PD-Art as recorded by Wikimedia Commons",
+        "sha256": "c263efd80a27bf2b48f651fba8ef849584e7b0a2f2330c234cf408a67680b605",
+        "sourceDimensions": [
+          4000,
+          2653
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+        "label": "Google Arts & Culture reproduction",
+        "description": "Lighter stonework with a greener cast and softer contrast.",
+        "altText": "Socrates sits upright on a bed, raising one hand while reaching for a cup of poison with the other, surrounded by grieving companions; Plato sits at the foot of the bed.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-27"
+      },
+      {
+        "entryId": "death-of-socrates",
+        "id": "C",
+        "imageUrl": "image-options/assets/painting/b007-death-of-socrates-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_-_WGA6058.jpg",
+        "sourceTitle": "Web Gallery of Art reproduction",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jacques-Louis_David_-_The_Death_of_Socrates_-_WGA6058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jacques-Louis_David_-_The_Death_of_Socrates_-_WGA6058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1539,
+        "height": 1000,
+        "credit": "Jacques-Louis David; Web Gallery of Art via Wikimedia Commons",
+        "sourceCredit": "Web Gallery of Art via Wikimedia Commons",
+        "license": "Public domain / PD-Art as recorded by Wikimedia Commons",
+        "sha256": "8f1e0d81343a431fe7000427536c94e33e6e450259c276208307468d32934897",
+        "sourceDimensions": [
+          1539,
+          1000
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+        "label": "Web Gallery of Art reproduction",
+        "description": "Stronger contrast and cooler, darker stonework; lower resolution than A and B.",
+        "altText": "Socrates sits upright on a bed, raising one hand while reaching for a cup of poison with the other, surrounded by grieving companions; Plato sits at the foot of the bed.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-27"
+      }
+    ]
+  }
+]

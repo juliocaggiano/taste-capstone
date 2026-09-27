@@ -1,0 +1,955 @@
+[
+  {
+    "id": "michelangelo-david",
+    "medium": "sculpture",
+    "title": "David",
+    "creator": "Michelangelo Buonarroti",
+    "dateDisplay": "1501–1504",
+    "dateStart": 1501,
+    "dateEnd": 1504,
+    "body": "In the biblical story, David is a young shepherd who offers to fight Goliath, the armed champion frightening Israel’s soldiers. He rejects the king’s armor and confronts him with a sling and a stone, trusting in God. His victory makes him a model of strength that does not depend on size or military equipment.\n\nMichelangelo shows David before the fight. The sling lies over his shoulder, his brow is drawn, and his head turns toward an opponent we cannot see. There is no defeated giant at his feet. The still body and concentrated gaze direct attention to his readiness for the encounter. His muscular, nude figure recalls ancient heroic sculpture, while the small weapon keeps the biblical story recognizable.\n\nThe statue’s enormous scale had a practical origin. Commissioned in 1501, it was intended for a high buttress on Florence’s cathedral, where people would see it from far below. In 1504, a committee chose a different location: beside the entrance to the city’s government palace.\n\nFlorence already used David as a symbol of its capacity to resist stronger opponents. At the palace, the religious hero became a public emblem of the republic’s independence. The change of location gave his watchful stance a political role, placing a defender outside the building where the city was governed.",
+    "sources": [
+      {
+        "title": "Galleria dell’Accademia: David",
+        "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+        "role": "holding institution",
+        "supports": "1501–1504, cathedral commission, decision to place the statue at the government palace, civic strength and independence. Indexed institutional text read; direct page timed out."
+      },
+      {
+        "title": "Robert Baldwin: Michelangelo’s David and Civic Humanism",
+        "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-David.pdf",
+        "role": "scholarly interpretation",
+        "supports": "Pre-battle reading, sling and stone, classical heroic body, biblical faith and Florentine civic identification. Later Medici chronology in this essay is unreliable and unused."
+      },
+      {
+        "title": "Opera di Santa Maria del Fiore: the David commission",
+        "url": "https://duomo.firenze.it/en/opera-magazine/post/4603/era-il-16-agosto-1501-quando-michelangelo-veniva-incaricato-di-scolpire-il-david",
+        "role": "commissioning institution",
+        "supports": "Italian article freshly read in full: 1501 commission for a high external cathedral buttress, scale intended for viewing from below, and 1504 placement before Palazzo Vecchio as a republican emblem."
+      },
+      {
+        "title": "Public discussion: David’s details",
+        "url": "https://www.reddit.com/r/interestingasfuck/comments/cz6jkt/",
+        "role": "reception clue",
+        "supports": "Sampled comments emphasize technical skill and artistic greatness; used as a prompt to explain the subject and civic role, not as factual authority."
+      },
+      {
+        "title": "Victoria and Albert Museum — The story of Michelangelo’s David",
+        "url": "https://www.vam.ac.uk/articles/the-story-of-michelangelos-david",
+        "role": "museum interpretation and object history",
+        "supports": "Cathedral-to-government-palace relocation and public symbol of Florentine liberty; relevant paragraphs retrieved. The cast’s later history is outside this entry."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+      "baselineSection": "michelangelo-david; pre-remake batch body",
+      "changes": [
+        "Introduces the biblical unequal fight and religious trust before interpreting the figure.",
+        "Removes the claim that the sculpture depicts an exact moment of deciding what to do.",
+        "Explains the cathedral’s high intended placement and the later civic relocation."
+      ],
+      "notionUrl": null,
+      "previousBaseline": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; New entry; no matching saved Notion text identified",
+        "changes": [
+          "New researched draft, pending Julio’s review. No prior approval transferred."
+        ]
+      }
+    },
+    "meaningBrief": "The biblical underdog becomes an alert, monumental defender before battle. Cathedral viewing conditions explain the scale, and relocation beside the government palace gives the inherited religious subject a specific republican role. The prose avoids assigning an unobservable decision to David.",
+    "quotationNotes": [
+      "No direct quotations. Biblical narrative paraphrased; no translation quoted."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+      "altText": "Michelangelo’s full-length marble David in the Galleria dell’Accademia.",
+      "credit": "Photograph: Jörg Bittner Unna, via Wikimedia Commons. Sculpture: Michelangelo.",
+      "license": "CC BY 3.0 (photograph); sculpture public domain.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Commons image metadata verified. Photographic license does not establish clearance of every cultural-property or commercial-use condition."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 4,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-michelangelo-david"
+  },
+  {
+    "id": "stanczyk",
+    "medium": "painting",
+    "title": "Stańczyk",
+    "creator": "Jan Matejko",
+    "dateDisplay": "1862",
+    "dateStart": 1862,
+    "dateEnd": null,
+    "body": "In Jan Matejko’s *Stańczyk* (1862), a Polish court jester sits alone while a royal ball continues nearby. The painting’s full title connects his distress with the loss of Smolensk, a fortress captured by Muscovite forces in 1514.\n\nThe jester’s position gives the scene its political criticism. His job is to amuse the court, yet he seems to take the country’s troubles more seriously than its courtiers. Through the doorway, the guests continue their festivities. He remains apart, with his hands clasped and his attention elsewhere. The person expected to entertain becomes the person capable of serious judgment.\n\nMatejko painted this scene centuries after the defeat, when Poland was divided among neighbouring powers. National history gave him a way to examine how the country had lost its independence and what public responsibility required. He also gave Stańczyk his own facial features. This identification suggests a role for the painter similar to the jester’s: using art to question the conduct of those in power.",
+    "sources": [
+      {
+        "title": "National Museum in Warsaw: Stańczyk, object 446753",
+        "url": "https://cyfrowe.mnw.art.pl/pl/zbiory/446753",
+        "role": "holding-museum catalogue",
+        "supports": "Artist, date, title, collection and historical interpretation; current catalogue cautions against a literal reconstruction of the court event."
+      },
+      {
+        "title": "National Museum in Warsaw: public catalogue record",
+        "url": "https://cyfrowe-api.mnw.art.pl/api/object/446753",
+        "role": "primary catalogue metadata",
+        "supports": "Machine-readable museum record, public curatorial description, 1862 creation date and museum public-domain label."
+      },
+      {
+        "title": "Anna Cymer: Stańczyk — Jan Matejko",
+        "url": "https://culture.pl/en/work/stanczyk-jan-matejko",
+        "role": "institutional interpretation",
+        "supports": "Jester and court contrast, national concern under partition, Matejko’s self-likeness and his understanding of historical painting."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_16_PAINTING_BOOK_FILM.md",
+      "baselineSection": "Stańczyk / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: tightened the role inversion, brought the constructed-history caveat into the prose, and connected partition and self-likeness to the painting’s political account. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/Sta-czyk-197c5450872d8057a498e8437e945765?pvs=25",
+      "feedbackRevision": {
+        "date": "2026-09-25",
+        "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+        "baselineBodySha256": "16bf58e4082ca097e487fb2e6e55f02a3959bd37fa5ac5663f33163ac0bcb0a4",
+        "change": "25 September 2026: deletes only the first paragraph’s final historicity warning requested by Julio; all remaining prose unchanged. The warning is not relocated into the reading text.",
+        "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+      }
+    },
+    "meaningBrief": "A court entertainer becomes the figure of political judgment while the courtiers celebrate. Matejko’s self-likeness and work under partition connect that role inversion with the public responsibility of historical painting. The Smolensk association comes from the title; the combined dates do not document a literal 1514 dispatch or court ball.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/1280px-Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+      "altText": "A court jester dressed in red sits alone while a royal ball continues through an open doorway.",
+      "credit": "Jan Matejko / National Museum in Warsaw; photograph credited in file metadata to Krzysztof Wilczyński / Muzeum Narodowe w Warszawie.",
+      "license": "Commons marks the reproduction PD-Art/Public Domain Mark; museum catalogue marks the work public domain. The file also retains a photographer copyright field.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact painting, 1862. Remote review reference only. Conflicting reproduction metadata and app reuse remain to be reviewed."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 7,
+    "language": "en",
+    "revision": 3,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-stanczyk"
+  },
+  {
+    "id": "death-of-marat",
+    "medium": "painting",
+    "title": "The Death of Marat",
+    "creator": "Jacques-Louis David",
+    "dateDisplay": "1793",
+    "dateStart": 1793,
+    "dateEnd": null,
+    "body": "Jean-Paul Marat was a journalist and politician during the French Revolution. He demanded the execution of people he considered enemies of the Revolution. In July 1793, Charlotte Corday, a political opponent, stabbed him in his bath. He often worked there because bathing relieved a severe skin condition.\n\nJacques-Louis David painted *The Death of Marat* later that year. He was Marat’s political ally and a deputy in the National Convention, the assembly governing France. The Convention commissioned him to commemorate the murdered man. The result presents Marat as someone who died serving the people, leaving his role in revolutionary violence outside the picture.\n\nDavid makes this argument through the body itself. Marat’s lowered head and hanging arm recall images of the dead Christ, particularly Caravaggio’s *The Entombment of Christ*. His skin appears smooth, and a plain wooden box serves as a desk. These choices give him the appearance of a selfless man living simply. Christian images of sacrifice help turn a contemporary political assassination into martyrdom.\n\nThe painting hung in the Convention beside David’s portrait of another murdered deputy, Le Peletier. As the assembly conducted its work, the two deaths became examples of sacrifice for the Revolution.",
+    "sources": [
+      {
+        "title": "Royal Museums of Fine Arts of Belgium: Marat assassiné",
+        "url": "https://fine-arts-museum.be/fr/la-collection/jacques-louis-david-marat-assassine",
+        "role": "holding-museum catalogue",
+        "supports": "1793 original, David, inventory 3260; holding-museum identity reference."
+      },
+      {
+        "title": "Musée du Louvre: Une icône de la Révolution",
+        "url": "https://www.louvre.fr/expositions-et-evenements/expositions/jacques-louis-david/oeuvres-en-lumiere/une-icone-de-la-revolution",
+        "role": "curatorial analysis",
+        "supports": "Convention commission and David’s deputy status; idealized body, Christian martyr imagery, Caravaggio comparison, simple living and paired Convention display. French page freshly reread 24 September 2026; local reproduction visually inspected."
+      },
+      {
+        "title": "Stanford: The life and radicalization of Jean-Paul Marat",
+        "url": "https://news.stanford.edu/stories/2025/11/jean-paul-marat-biography-history-prophet-terror-book",
+        "role": "historian’s account and authorized biography excerpt",
+        "supports": "Marat’s advocacy of executing perceived revolutionary enemies; Corday’s killing; skin illness and medicinal baths. Freshly reread 24 September 2026; no specific medical diagnosis asserted."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_09_PAINTING_BOOK_FILM.md",
+      "baselineSection": "The Death of Marat / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: added Marat’s advocacy of executions to distinguish the historical politician from David’s martyr image; connected directly inspected body and desk details to idealization; retained commission and political display. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/The-Death-of-Marat-a7d07117ffee4ce58dba61a3846b0908?pvs=25"
+    },
+    "meaningBrief": "David constructs a revolutionary martyr through an idealized body, Christian sacrifice imagery and signs of simple living. Marat’s advocacy of executions gives the reader essential context for what this political image selects and omits. The commission and Convention display show how the representation served public revolutionary memory.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "altText": "The full painting of Marat lying in his bath, with a letter in his hand, his other arm hanging down, and a wooden box beside him.",
+      "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium; Google Art Project reproduction, derivative file uploaded by Wikimedia Commons user Pixel8tor.",
+      "license": "Commons identifies this faithful reproduction as PD-Art/Public Domain Mark 1.0; app reuse is not yet cleared.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Full Brussels original, inventory 3260. Selected preview is 1920 × 2471 pixels, from the 3885 × 5000 Commons file. Replaces the 295-pixel museum image after visual QA. This is a derivative Google Art Project reproduction, not a new photograph by the museum photographer credited for the previous image."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 8,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-death-of-marat"
+  },
+  {
+    "id": "the-ambassadors",
+    "medium": "painting",
+    "title": "The Ambassadors",
+    "creator": "Hans Holbein the Younger",
+    "dateDisplay": "1533",
+    "dateStart": 1533,
+    "dateEnd": null,
+    "body": "Hans Holbein the Younger’s *The Ambassadors* (1533) portrays two French diplomats surrounded by expensive clothes, books and scientific instruments. These possessions present them as men of standing and learning. Across the foreground lies a stretched shape that becomes recognisable as a skull when viewed at a sharp angle from the right.\n\nThis distortion is called anamorphosis. It makes the reminder of death difficult to read from the position where the rest of the portrait looks clear. Moving to the side reveals the skull in proportion. The effect gives unusual force to a familiar practice in European portraiture: including a skull as a *memento mori*, a reminder that the sitter will die.\n\nThe portrait preserves the men’s accomplishments while placing them alongside that limit. Their wealth and knowledge remain impressive, but cannot protect them from death. A partly hidden crucifix at the upper left gives this thought a Christian setting. The skull recalls human mortality; the image of Christ adds the promise of salvation and life after death. Together, these details connect the diplomats’ worldly position with beliefs about what lies beyond it.",
+    "sources": [
+      {
+        "title": "National Gallery: The Ambassadors",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+        "role": "holding-museum catalogue and interpretation",
+        "supports": "1533 identity; diplomats Jean de Dinteville and Georges de Selve; wealth and learning; distorted skull seen from the right; crucifix and Christian salvation."
+      },
+      {
+        "title": "Susan Foister: The Ambassadors, National Gallery catalogue, 2024",
+        "url": "https://www.nationalgallery.org.uk/paintings/catalogues/foister-2024/the-ambassadors",
+        "role": "substantive catalogue research",
+        "supports": "Mortality and Christian redemption alongside the portrait’s worldly accomplishments; interpretive complexities and historical context."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_07_PAINTING_BOOK_FILM.md",
+      "baselineSection": "The Ambassadors / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: made the viewing action and memento mori tradition easier to follow, then connected mortality directly to the crucifix’s Christian promise. Preserved the central account without adding an instrument inventory or speculative viewing-position thesis. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/The-Ambassadors-a5a7e834adf345e9a472402b73767bc7?pvs=25"
+    },
+    "meaningBrief": "The anamorphic skull makes mortality central to a portrait of rank and learning. It works with the partly concealed crucifix, which adds the Christian promise of salvation. The oblique viewing requirement is a concrete way the skull is encountered, not proof of an invented philosophical message about all truth depending on perspective.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+      "altText": "Two richly dressed diplomats stand beside shelves of instruments and books, with a distorted skull across the foreground.",
+      "credit": "Hans Holbein the Younger; collection: National Gallery, London; digital reproduction via Wikimedia Commons. Photographer not identified.",
+      "license": "Commons marks this faithful reproduction PD-Art/Public Domain Mark.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact work matched to the National Gallery catalogue. Commons lists a third-party reproduction source; retain provenance and review image quality and app rights separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 9,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-the-ambassadors"
+  },
+  {
+    "id": "beethoven-symphony-nine",
+    "medium": "music",
+    "title": "Symphony No. 9 in D minor, Op. 125",
+    "creator": "Ludwig van Beethoven",
+    "dateDisplay": "1824",
+    "dateStart": 1824,
+    "dateEnd": null,
+    "body": "For most of Beethoven’s Ninth Symphony, the orchestra plays without singers. In its final section, a human voice interrupts and calls for a more joyful song. Solo singers and a choir then join the instruments in words about friendship and human fellowship. The work was first performed in Vienna in 1824.\n\nThe familiar Ode to Joy melody arrives gradually. After a loud, unsettled opening to the final section, the orchestra recalls music heard earlier in the work. The lowest string instruments answer these fragments, then introduce a quiet, simple tune. Other instruments take it up. By the time the singers enter, listeners already know the melody they will sing.\n\nBeethoven wrote the singer’s opening call himself, then turned to Friedrich Schiller’s poem about joy bringing people together across their divisions. Friendship, love and the natural world give them reasons to belong to one another. The poem also gives this fellowship a religious basis, picturing a loving creator above the stars. Solo singers and the choir answer one another, turning that invitation into an exchange between people.\n\nThis ending follows music that has been restless, forceful and, at other moments, calm. The famous tune also changes as it returns, becoming a march, a prayer and a mass of overlapping voices. Across the final section, the quiet tune first heard in the low strings becomes something the orchestra and singers share.",
+    "sources": [
+      {
+        "title": "Beethoven-Haus: Symphony No. 9, Op. 125",
+        "url": "https://www.beethoven.de/de/work/view/5556714292117504/Sinfonie%20Nr.%209%20%26",
+        "role": "composer archive",
+        "supports": "Completion in February 1824, Vienna premiere 7 May 1824, Schiller text and work identity. German work-page narrative read."
+      },
+      {
+        "title": "Eastman School of Music: Symphony No. 9",
+        "url": "https://www.esm.rochester.edu/beethoven/symphony-no-9/",
+        "role": "scholarly musical analysis",
+        "supports": "Movement contrasts, finale’s recapitulations and low-string recitative, first instrumental statement of joy theme, voices, brotherhood and creator, march and contrapuntal treatment. Analysis read; no personal listening claimed."
+      },
+      {
+        "title": "ABC Classic listening guide: Beethoven Symphony No. 9",
+        "url": "https://www.abc.net.au/listen/classic/read-and-watch/listening-guide/1000-years-of-classical-music-beethoven-symphony-no-9/9931444",
+        "role": "institutional musical interpretation",
+        "supports": "Accessible formal account of the finale’s melody and variations; indexed text used as corroboration."
+      },
+      {
+        "title": "Public discussion: hearing the complete Ninth",
+        "url": "https://www.reddit.com/r/classicalmusic/comments/q1ih4b/",
+        "role": "reception clue",
+        "supports": "Listeners discuss the finale’s dependence on the whole work, alongside disagreement over preferred movements. No listener consensus or autobiographical programme inferred."
+      },
+      {
+        "title": "Oliver Condy: Beethoven Symphony No. 9, Philharmonia programme, 3 April 2022",
+        "url": "https://philharmonia-assets.s3.amazonaws.com/uploads/2022/04/03.04.22_RFH-online.pdf",
+        "role": "Substantive programme interpretation",
+        "supports": "Pages 5–6 freshly read: context of preceding sections, low-string theme before voice, Beethoven’s added opening words, Schiller, march and religious choral section. Used for the musical sequence alongside Eastman, not for its dramatic descriptive style."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New composition entry; no particular recording or performance is the subject",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "The final arrival of human voices gives explicit words to shared joy and fellowship. A simple melody grows through different instruments and voices after the earlier tensions; Schiller’s friendship and religious vision explain what this gathering celebrates. Explain the progression without requiring musical theory.",
+    "quotationNotes": [
+      "No poem or musical text quoted. Schiller’s invitation is paraphrased; the work’s public-domain German text and Eastman analysis support the account."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Beethoven_Ninth_Symphony.png",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_Ninth_Symphony.png",
+      "altText": "A handwritten manuscript page identified as the fourth movement of Beethoven’s Ninth Symphony.",
+      "credit": "Manuscript: Ludwig van Beethoven; reproduction via Wikimedia Commons.",
+      "license": "Public domain according to Commons metadata.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Supporting manuscript illustration. Commons identifies the fourth movement, but supplies no holding-institution shelfmark; do not invent folio, passage or first-edition claims."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 10,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-beethoven-symphony-nine"
+  },
+  {
+    "id": "billie-holiday-strange-fruit",
+    "medium": "music",
+    "title": "Strange Fruit",
+    "creator": "Billie Holiday; song by Abel Meeropol",
+    "dateDisplay": "1939 recording",
+    "dateStart": 1939,
+    "dateEnd": null,
+    "body": "Billie Holiday’s 1939 recording of Strange Fruit is a protest against the lynching of Black Americans. The song describes a Southern landscape, then reveals what hangs from its trees:\n\n> Black bodies swinging in the southern breeze\n\nThe comparison makes the bodies part of a scene usually associated with beauty and abundance. Flowers and warm air remain, but they surround people who have been murdered. The song connects the familiar beauty of the South with the racial violence taking place there.\n\nAbel Meeropol, a New York schoolteacher, wrote both the words and the music. Holiday’s contribution was her interpretation. She sings slowly and with restraint, giving the images time to register. Her delivery leaves room for listeners to follow the words and recognise what the scene describes.\n\nAt Café Society, an integrated New York nightclub, the song changed the usual conditions of entertainment. Service stopped, the room darkened, and a spotlight remained on Holiday. She sang it at the end of her set and left without returning for a bow. The audience had to listen without drinks arriving or another number immediately following.\n\nHoliday recorded the song for the small Commodore label after her usual label declined it. That recording carried an explicit account of racist murder beyond the nightclub. In a period when Congress had repeatedly failed to pass federal anti-lynching legislation, the song put the victims before an audience that might otherwise avoid the subject.",
+    "sources": [
+      {
+        "title": "Library of Congress: Strange Fruit, essay by Julia Blackburn",
+        "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/StrangeFruit_Blackburn.pdf",
+        "role": "national recording archive; critical essay",
+        "supports": "1939 Commodore recording, Meeropol authorship, Café Society context, anti-lynching subject. Conflicting photograph identification and speculative persecution causality are not used."
+      },
+      {
+        "title": "Geoffrey Himes: What Makes Billie Holiday’s Music So Powerful Today",
+        "url": "https://www.smithsonianmag.com/arts-culture/what-makes-billie-holiday-so-powerful-today-180954893/",
+        "role": "substantive music criticism",
+        "supports": "Quiet, controlled vocal approach and specific comparison of the 1939 Strange Fruit performance with later interpretation. No personal listening claimed."
+      },
+      {
+        "title": "Indiana Public Media, Night Lights: A Strange and Bitter Crop",
+        "url": "https://www.ipm.org/show/nightlights/2019-09-11/strange-bitter-crop-billie-holidays-song-century",
+        "role": "public-broadcast music history",
+        "supports": "Café Society performance rules: halted service, spotlight, departure without an encore; discusses David Margolick’s historical account. Re-read 24 September 2026: service and lighting, final song/no bow, Commodore release and Congress’s repeated failure to pass anti-lynching legislation."
+      },
+      {
+        "title": "Public discussion: Billie Holiday, Strange Fruit",
+        "url": "https://www.reddit.com/r/Music/comments/hsxi42/",
+        "role": "reception clue",
+        "supports": "Some listeners describe only later recognizing the lynching subject; others compare versions. This supports explaining the metaphor directly. Unsupported assertions about government causation and death are excluded."
+      },
+      {
+        "title": "World History Commons: Strange Fruit (1939), primary source and annotation",
+        "url": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+        "role": "educational primary-source presentation",
+        "supports": "Verified seven-word lyric selection; anti-lynching subject and refusal by usual label before Commodore recording. Read 24 September 2026."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New entry about the 1939 Commodore recording, not a later live performance",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "A pastoral landscape reveals lynched Black bodies; Holiday’s restrained interpretation and the conditions of her nightclub performances make racist killing a subject audiences must attend to. A seven-word lyric excerpt gives direct evidence, while authorship and recording context remain distinct.",
+    "quotationNotes": [
+      {
+        "quote": "Black bodies swinging in the southern breeze",
+        "wordCount": 7,
+        "source": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+        "locator": "Annotation, quoted first stanza",
+        "verification": "Checked in the educational primary-source presentation. Plural bodies is the form printed there; Indiana Public Media transcribes body. No new direct audio verification claimed.",
+        "purpose": "Makes the central metaphor concrete without relying only on paraphrase. No other lyric excerpt appears."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Strange-Fruit-Commodore-1939.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Strange-Fruit-Commodore-1939.jpg",
+      "altText": "Commodore 526A label for Billie Holiday and Her Orchestra’s Strange Fruit.",
+      "credit": "Commodore Records label; original-record scan via Wikimedia Commons.",
+      "license": "Record-label image marked public domain on Commons; recording and composition rights are separate.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact 1939 release label, identified by Commons metadata. No audio download or recording-use clearance."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 11,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-billie-holiday-strange-fruit"
+  },
+  {
+    "id": "joao-gilberto-chega-saudade",
+    "medium": "music",
+    "title": "Chega de Saudade",
+    "creator": "João Gilberto; music by Antônio Carlos Jobim, lyrics by Vinicius de Moraes",
+    "dateDisplay": "1958 recording",
+    "dateStart": 1958,
+    "dateEnd": null,
+    "body": "In Chega de Saudade, a man misses his lover and asks for her return. He begins in sadness, then imagines the affection they could share if she came back. The music becomes brighter as his thoughts turn toward reunion. João Gilberto’s 1958 recording makes this change feel intimate, with a quiet voice that sounds close to ordinary speech.\n\nThe guitar keeps moving while Gilberto stretches a word or starts a phrase slightly before or after its beat. Voice and instrument remain together without matching every accent. He draws on samba’s dance rhythms, fitting the work of several percussion instruments into the patterns of one guitar. The singing can therefore sound unhurried while the accompaniment stays lively.\n\nThe song was written by Antônio Carlos Jobim and Vinicius de Moraes. Elizeth Cardoso had already recorded it, with Gilberto playing guitar, before he made his own version that July. Jobim arranged the instruments accompanying him. Released as a single in August, Gilberto’s recording became a landmark of bossa nova, the emerging Brazilian style associated with this close relationship between understated singing and rhythmic guitar.\n\nCardoso’s earlier recording was already part of this experiment. Working with Gilberto, she reduced the wavering effect called vibrato in parts of her singing. The new style developed through exchanges among performers, composers and arrangers, each changing how a familiar Brazilian rhythm could accompany a voice.",
+    "sources": [
+      {
+        "title": "Instituto Moreira Salles: Chega de Saudade, recording catalogue",
+        "url": "https://discografiabrasileira.com.br/fonograma/133285/chega-de-saudade",
+        "role": "recording archive",
+        "supports": "10 July 1958 recording, August 1958 issue, Odeon 14360, matrix RIO-12725; composer/lyricist, performer and Jobim-orchestra credits."
+      },
+      {
+        "title": "Instituto Moreira Salles: Ainda bossa, ainda nova",
+        "url": "https://ims.com.br/2018/03/29/ainda-bossa-ainda-nova/",
+        "role": "institutional music criticism",
+        "supports": "Cardoso’s earlier recording with Gilberto on guitar; collaborative development and differences between singer and composer contributions."
+      },
+      {
+        "title": "Gabriel S. S. Lima Rezende: O truque do mestre",
+        "url": "https://www.scielo.br/j/rieb/a/fDvChwFkzDXLYWtDm6vnT3C/?lang=pt",
+        "role": "scholarly musical analysis",
+        "supports": "Composition’s formal change, D-major second section and hopeful lyrical turn; traditional samba resources and modern musical transformation. The author’s larger socioeconomic interpretation is not presented as settled fact."
+      },
+      {
+        "title": "Ricardo Quiñones: João Gilberto, Jazz.com Encyclopedia",
+        "url": "https://jazz.com/encyclopedia/gilberto-joo-prado-pereira-de-oliveira/",
+        "role": "substantive performance analysis",
+        "supports": "Steady guitar bass, displaced chord rhythm, intimate vocal delivery ahead of/behind the beat, and voice/guitar interaction in Chega de Saudade. Broader biographical anecdotes and absolute genre-invention claims unused."
+      },
+      {
+        "title": "Public discussion: Chega de Saudade, Music as Emotion",
+        "url": "https://www.reddit.com/r/LetsTalkMusic/comments/h0dse5/",
+        "role": "reception clue",
+        "supports": "Listener interest in longing mixed with hope; prompted clear explanation for non-Portuguese readers. Thread conflates album and single, and makes inaccurate language claims, all excluded."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New entry about the July 1958 recording and August 1958 single, not the 1959 album",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "The lyric moves from loneliness to imagined reunion. Gilberto’s soft speechlike phrasing and guitar rhythms make that longing intimate while retaining samba’s movement. Cardoso’s earlier version and Jobim’s arrangement establish collaboration rather than a lone-inventor story.",
+    "quotationNotes": [
+      "Lyrics paraphrased. No Portuguese lyric or English translation quoted. Listening descriptions follow rechecked scholarly and musician criticism, not a claimed new direct listening session."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Joao_Gilberto_-_Chega_de_Saudade.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/File:Joao_Gilberto_-_Chega_de_Saudade.jpg",
+      "altText": "Cover of João Gilberto’s 1959 album Chega de Saudade, shown as a later illustration of the 1958 recording.",
+      "credit": "Odeon Records album cover, via English Wikipedia.",
+      "license": "Copyrighted album artwork. Wikipedia’s contextual non-free-use rationale is not an app-use license.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "SUPPORTING ILLUSTRATION: 1959 album cover, not the 1958 single label. Parent authorized this explicit fallback after the exact label could not be retrieved. Entry metadata remains the 1958 recording."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 12,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-joao-gilberto-chega-saudade"
+  },
+  {
+    "id": "animal-farm",
+    "medium": "literature",
+    "title": "Animal Farm",
+    "creator": "George Orwell",
+    "dateDisplay": "1945",
+    "dateStart": 1945,
+    "dateEnd": null,
+    "body": "In George Orwell’s *Animal Farm* (1945), farm animals overthrow an owner who takes the produce of their labour. They want enough food, an end to beatings, and a share in what their work creates. Their rebellion begins with a practical hope: life should improve when those doing the work control the farm.\n\nThe pigs soon reserve the milk and apples for themselves. Their spokesman, Squealer, says their intellectual work requires better food. He presents this privilege as necessary for everyone’s welfare, then warns that the old farmer could return. The animals’ fear of losing their freedom helps the pigs secure advantages over them.\n\nBoxer, the cart-horse, responds to each difficulty with the promise, “I will work harder!” His strength and loyalty help keep the farm running. But he answers failures of leadership by demanding more of himself. His willingness to serve the others makes him especially useful to rulers who take an increasing share of their labour.\n\nNapoleon, the pigs’ leader, ends public debate and uses dogs to enforce obedience. The pigs change the rules to permit conduct once forbidden to everyone. The farm’s principle of equality eventually becomes: “All animals are equal, but some animals are more equal than others.” The words still promise equality, while authorising unequal treatment.\n\nOrwell wrote the fable in response to Stalin’s Soviet Union. He regarded its ruling hierarchy as a betrayal of the revolution’s promise of liberation. He supported socialism and objected to defending Soviet repression in its name. The animals’ wish for a fairer society has good reasons behind it. Their leaders exploit that hope, along with their fear of returning to the old life.",
+    "sources": [
+      {
+        "title": "George Orwell: Animal Farm, English text",
+        "url": "https://gutenberg.net.au/ebooks01/0100011h.html",
+        "role": "primary work",
+        "supports": "Early equality and hope; milk and apples; Boxer’s recurring promise; Napoleon’s dogs, rule changes and coercion; the altered equality maxim."
+      },
+      {
+        "title": "George Orwell: Preface to the Ukrainian Edition of Animal Farm",
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/animal-farm/preface-to-the-ukrainian-edition-of-animal-farm-by-george-orwell/",
+        "role": "author’s historical explanation",
+        "supports": "Orwell’s socialism and criticism of Soviet class hierarchy. English text is a back-translation of a shortened Ukrainian translation, not the lost original English preface."
+      },
+      {
+        "title": "John Molyneux: Animal Farm revisited, 1989",
+        "url": "https://www.marxists.org/history/etol/writers/molyneux/1989/xx/orwell.html",
+        "role": "substantive literary and political criticism",
+        "supports": "Freshly read literary and political criticism: self-serving justification of pig privileges, justifiable hopes for equality, Boxer’s labour, and the distinction between Orwell’s stated politics and possible readings of the fable. The critic disputes a wholly socialist reading; his interpretation is not treated as the author’s intent."
+      },
+      {
+        "title": "Penguin: Animal Farm",
+        "url": "https://www.penguin.co.uk/books/433229/animal-farm-by-orwell-george/9781787302525",
+        "role": "publisher publication history",
+        "supports": "First publication in 1945; this linked product is a later edition, not the edition used for the article’s quotations."
+      },
+      {
+        "title": "r/books: deleted post, surviving Animal Farm discussion",
+        "url": "https://www.reddit.com/r/books/comments/1mag52w/deleted_by_user/",
+        "role": "public reception clue only",
+        "supports": "Freshly read surviving comments show emotional response to Boxer and disagreement over reducing the fable to an anti-communist slogan. No votes exposed; deleted post and contemporary political analogies are not used as authority."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+      "baselineSection": "animal-farm",
+      "changes": [
+        "Retained Boxer’s requested meaningful motto and the altered equality maxim; linked Boxer’s self-demand explicitly to the failure of leadership.",
+        "Clarified the animals’ material hopes, fear of restoration, and Orwell’s socialist objection to Soviet hierarchy. Removed the isolated repetition about rulers and equality."
+      ],
+      "notionUrl": "https://app.notion.com/p/Animal-Farm-A-revolu-o-dos-bichos-45aa8ff8110f4474bc4a76d3bcf1cccc?pvs=25",
+      "previousBaselineFile": "docs/editorial/research-2026-09-21/ROUND_16_ANIMAL_FARM_BOXER_ADDITION.json",
+      "previousBaselineSection": "A_with_Boxer",
+      "previousChanges": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "Uses the separately requested Boxer addition; that addition has not received separate approval.",
+        "Block quotation converted to an inline quotation. No factual rewrite."
+      ],
+      "baselineBodySha256": "645843ebb7fc5856348b525f9d89fef7b5f8ddda1e4a25d4b13763608f0abf27",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "A justified desire for relief from exploitation becomes vulnerable to leaders who claim privilege in the name of collective welfare. Fear, loyalty, changed rules and force explain the loss of control. Boxer supplies the emotional cost without disclosing his fate. Orwell’s socialist critique distinguishes betrayed equality from an assertion that equality itself is futile.",
+    "quotationNotes": [
+      {
+        "text": "I will work harder!",
+        "wordCount": 4,
+        "sourceUrl": "https://gutenberg.net.au/ebooks01/0100011h.html",
+        "locator": "Chapter III",
+        "language": "English original",
+        "translator": null,
+        "note": "Boxer’s personal motto in response to each problem and setback. Exact wording."
+      },
+      {
+        "text": "All animals are equal, but some animals are more equal than others.",
+        "wordCount": 12,
+        "sourceUrl": "https://gutenberg.net.au/ebooks01/0100011h.html",
+        "locator": "Chapter X",
+        "language": "English original",
+        "translator": null,
+        "note": "Exact lexical wording; baseline normalizes the source’s two uppercase lines to sentence case and supplies a comma and final period. Later thematic revelation, with no character fate disclosed."
+      },
+      {
+        "note": "Total quoted words in this entry: 16. Gutenberg Australia transcription by Colin Choat, first posted 2001 and updated 2008; the underlying printed copy is not specified. No claim of a particular first-edition text. App text and quotation clearance remain separate from public-domain status in the source’s jurisdiction."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://img1.bonhams.com/image?src=Images%2Flive%2F2024-02%2F20%2F60125380-1-1.jpg",
+      "referenceUrl": "https://www.bonhams.com/auction/29869/lot/112/orwell-george-animal-farm-a-fairy-story-first-edition-first-issue-with-may-1945-on-copyright-page-secker-and-warburg-1945/",
+      "altText": "Green and grey first-edition dust jacket of Animal Farm: A Fairy Story by George Orwell.",
+      "credit": "Bonhams auction photograph; Secker & Warburg first edition, 1945. Jacket designer not established.",
+      "license": "No open reuse license identified for the auction photograph or jacket design.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Catalogued as first edition, first issue, with May 1945 on the copyright page. This is not a claim that the novel was publicly released in May. Image URL is live; page metadata was available through search, while direct web-page retrieval returned 403. Review reference only."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 13,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-animal-farm"
+  },
+  {
+    "id": "vidas-secas",
+    "medium": "literature",
+    "title": "Vidas Secas",
+    "creator": "Graciliano Ramos",
+    "dateDisplay": "1938",
+    "dateStart": 1938,
+    "dateEnd": null,
+    "body": "Graciliano Ramos’s *Vidas Secas* (1938) follows a fictional family of *retirantes*: people driven from their homes by drought and poverty. Fabiano, Sinha Vitória, their two boys and their dog, Baleia, cross Brazil’s northeastern interior looking for food and work. A farm where they can stay offers relief, but little security.\n\nFabiano works as a cattle herder on land he does not own. His employer pays him less than he is owed. When Fabiano complains, the man tells him to look for work elsewhere. Losing the job would also mean losing the family’s home. This dependence helps explain why their poverty continues even when the drought ends.\n\nFabiano struggles to put his thoughts into words before people who can punish or dismiss him. Their authority makes him doubt his own worth. “You’re an animal, Fabiano,” he tells himself, while also taking pride in his endurance. The narration lets us follow thoughts that he cannot easily express aloud. Sinha Vitória’s calculations, the boys’ curiosity and Baleia’s affection give each a life beyond the struggle for food.\n\nRamos had been imprisoned without formal charges under Getúlio Vargas in 1936. He later connected living alongside poor prisoners with his ability to write about their lives. The novel gives sustained attention to people whose limited speech and low social standing make it easy for others to disregard them.\n\nThe parents imagine a city where their boys could attend school. Their imagined city remains unnamed. The search connects their story to Brazil’s wider history of internal migration. From 1935, São Paulo subsidised migrants’ journeys to supply its coffee and cotton farms with workers. That history helps explain the uncertainty surrounding the family’s hope: leaving the drought could bring new work without ending their dependence on employers.",
+    "sources": [
+      {
+        "title": "Vidas seccas, first edition, 1938 — Biblioteca Brasiliana Guita e José Mindlin",
+        "url": "https://brasiliana.usp.br/handle/bbm/8399",
+        "role": "primary edition catalogue",
+        "supports": "1938 first-edition identity and scan provenance."
+      },
+      {
+        "title": "Vidas seccas, 1938 first-edition scan",
+        "url": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+        "role": "primary work",
+        "supports": "Fabiano’s self-description on printed page 23; household and work dependence; closing family hopes and narrator’s anticipated confinement on printed pages 196–197."
+      },
+      {
+        "title": "João Roberto Maia: Vidas secas and land/labor relations",
+        "url": "https://www.scielo.br/j/alea/a/rNBYPktCKPyMkZTp875f7Gj/",
+        "role": "substantive literary criticism",
+        "supports": "Poverty outside drought, dependence on landowners, wage cheating, and migration into broader labor relations."
+      },
+      {
+        "title": "Casa Museu Graciliano Ramos: 1936",
+        "url": "https://www.casagracilianoramos.com.br/sala-6-memorias-do-carcere/1936-",
+        "role": "author museum chronology",
+        "supports": "Arrest on 3 March 1936 and release on 13 January 1937, without a formal accusation, under Vargas."
+      },
+      {
+        "title": "Zenir Campos Reis: Tempos futuros — Vidas secas, de Graciliano Ramos",
+        "url": "https://www.scielo.br/j/ea/a/4P76p7GKXFft33XjbtKdLqk/?format=html&lang=pt",
+        "role": "substantive criticism and documented author statements",
+        "supports": "Prison experience, poor people’s inner lives, self-description and endurance, individual family perspectives, and the cyclic ending."
+      },
+      {
+        "title": "Museu da Imigração: Brasileiros na Hospedaria — Percursos, ocupação e trabalho",
+        "url": "https://www.museudaimigracao.org.br/en/blog/conhecendo-o-acervo/brasileiros-na-hospedaria-percursos-ocupacao-e-trabalho",
+        "role": "historical museum research",
+        "supports": "São Paulo’s 1935 policy subsidizing internal migrants’ journeys for cotton and coffee cultivation; real context distinguished from the fictional family’s trajectory."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+      "baselineSection": "vidas-secas",
+      "changes": [
+        "Preserved the praised employer/pay/housing paragraph verbatim.",
+        "Moved the family’s interior lives ahead of author biography; clarified the contribution of narration and the link between speech, authority and shame.",
+        "Replaced the vague anticipated trap in a city with a qualified account of migration; explicitly distinguishes real São Paulo policy from the fictional family’s destination."
+      ],
+      "notionUrl": "https://app.notion.com/p/Vidas-Secas-5f85462daca6485081a8fea9d7409455?pvs=25",
+      "previousBaselineFile": "docs/editorial/CALIBRATION_18_PARAGRAPH_REVISION.md",
+      "previousBaselineSection": "Complete A with only that paragraph changed",
+      "previousChanges": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "Retains the paragraph-two repair preferred by Julio; that preference does not imply approval of the whole entry. No factual rewrite."
+      ],
+      "baselineBodySha256": "fb2389c77c17d3bac90cd077993de319d71d7b53bd0deccd84dd8ce3e9575489",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "Drought drives the family out, but land and job dependence sustain poverty during relief. Limited speech and imposed inferiority coexist with thought, skill, affection and hopes for schooling. The preserved employer paragraph explains the practical trap. Author imprisonment and real migration policy supply bounded historical context, without asserting that the fictional family reaches São Paulo.",
+    "quotationNotes": [
+      {
+        "text": "You’re an animal, Fabiano",
+        "wordCount": 4,
+        "originalText": "Você é um bicho, Fabiano.",
+        "sourceUrl": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+        "locator": "1938 first edition, printed p. 23; one-based PDF p. 35",
+        "language": "Our English translation from Portuguese",
+        "translator": "Editorial translation prepared in this task; not a published English translator’s wording",
+        "note": "Fabiano speaks to himself. Context joins socially imposed low status with pride in his capacity to endure. Four quoted English words. Source ending punctuation is adapted to the surrounding attribution. The original first edition spells the title Vidas seccas; the display title uses the established modern spelling."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://www.editoradobrasil.com.br/wp-content/uploads/2024/06/capa_VIDAS-SECAS-scaled-e1719249807948.jpg",
+      "referenceUrl": "https://www.editoradobrasil.com.br/vidas-secas/",
+      "altText": "Title-bearing cover of Vidas secas by Graciliano Ramos, Editora do Brasil’s 2024 edition.",
+      "credit": "Editora do Brasil, 2024 edition of Graciliano Ramos’s Vidas secas. Individual cover artist not established from the publisher page.",
+      "license": "Publisher page states all rights reserved; no open reuse license identified for this cover image.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Later edition used as a recognizable review image, not the 1938 first edition. Publisher identifies this edition as 2024, ISBN 9788510096683, and provides this URL under “Imagem em alta”. Article quotations remain sourced to the 1938 USP scan. Replaces its unmarked binding image after visual QA."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 14,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-vidas-secas"
+  },
+  {
+    "id": "eternal-sunshine",
+    "medium": "cinema",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "creator": "Michel Gondry",
+    "dateDisplay": "2004",
+    "dateStart": 2004,
+    "dateEnd": null,
+    "body": "In Michel Gondry’s *Eternal Sunshine of the Spotless Mind* (2004), a clinic can erase memories of a particular person. After their breakup, Clementine has her memories of Joel removed. Hurt by Clementine’s decision, he goes through the same procedure.\n\nDuring the treatment, we follow Joel inside the memories being erased. He relives the arguments near the end of their relationship, then earlier times when they were happy together. As those moments begin to disappear too, he changes his mind. He wants to stop the treatment, although the people carrying it out cannot hear his protests.\n\nIn one memory, Clementine tells him how ugly she felt as a child, and he comforts her. Faced with losing this moment of closeness, Joel calls out to the doctor:\n\n> Please let me keep this memory.\n\nForgetting Clementine would remove much more than the pain of their breakup. Joel would also lose the conversations and shared experiences through which he came to know her. Their affection does not undo the arguments or make them certain to work as a couple. Joel can regret how their relationship ended and still want to remember the time they shared. The procedure gives him no way to keep that experience while removing only the hurt.",
+    "sources": [
+      {
+        "title": "Sight and Sound: Mark Olsen review and Gondry interview",
+        "url": "https://bfidatadigipres.github.io/member%20picks/2024/12/19/eternal-sunshine/",
+        "role": "criticism and creator interview",
+        "supports": "Relationship revisited in reverse chronology, separation of Joel’s inner experience from the external procedure, emotional value and uncertainty of love. Freshly reread 24 September 2026."
+      },
+      {
+        "title": "Focus Features: After 13 Years, Eternal Sunshine Still Blows Our Minds",
+        "url": "https://www.focusfeatures.com/article/legacy_eternal-sunshine_13-year-anniversary",
+        "role": "official distributor commentary",
+        "supports": "Fictional erasure procedure and Joel’s change of mind."
+      },
+      {
+        "title": "Boxoffice Movie Scenes: Eternal Sunshine excerpt",
+        "url": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+        "role": "released-film excerpt",
+        "supports": "Released-film scene: Clementine’s childhood insecurity, Joel’s reassurance and plea at approximately 1:05. Saved caption export reread 24 September 2026; current direct video retrieval failed."
+      },
+      {
+        "title": "r/TrueFilm: competing readings of Eternal Sunshine",
+        "url": "https://www.reddit.com/r/TrueFilm/comments/1dygt96/i_think_some_people_misinterpret_the_meaning_of/",
+        "role": "public reception challenge, not factual authority",
+        "supports": "Selected replies disagree about renewed love, repeated mistakes and the distinction between valuing experience and guaranteeing a relationship. Read 24 September 2026; no representative consensus inferred; draft-screenplay claims not adopted."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-20/ROUND_11_FINAL_DRAFTS.json",
+      "baselineSection": "film.A",
+      "changes": [
+        "No prose changes. Round 11 A was called perfect. Staged for batch review; not published.",
+        "24 September 2026 remake: full rewrite after current passage comments. Used “he goes through,” deleted the medical-solution framing and doll explanation, explained the memory sequence and its practical stakes, and replaced the confusing closing paragraph. Earlier round-11 praise does not approve this revised candidate."
+      ],
+      "notionUrl": "https://app.notion.com/p/Eternal-Sunshine-of-the-Spotless-Mind-169c5450872d807f8728ca08fda0157a?pvs=25"
+    },
+    "meaningBrief": "Erasing the pain of a breakup also removes the shared experiences through which a person became important. Following Joel inside memories being erased makes that cost concrete: he changes from seeking erasure to resisting it. Affection does not settle the couple’s conflicts or prove that they should stay together. The account withholds the final outcome.",
+    "quotationNotes": [
+      {
+        "text": "Please let me keep this memory.",
+        "speaker": "Joel",
+        "sourceUrl": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+        "locator": "Approximately 1:05 in the clip",
+        "wordCount": 6,
+        "version": "Released-film excerpt. Saved English caption export reread 24 September 2026; caption authorship unspecified. Direct video retrieval failed in this pass; no fresh audio verification.",
+        "purpose": "A specific plea to keep an intimate memory makes Joel’s changed wish concrete. The doll detail is not needed to understand the exchange."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://images.contentstack.io/v3/assets/blt223a4a92692ca457/blt97c5788e2fe386e7/68a386770cb1d42d1a387b22/6874_enternal_sunshin_of_the_spotless_mind_poster.png?branch=production&width=900&format=webp",
+      "referenceUrl": "https://www.focusfeatures.com/eternal_sunshine_of_the_spotless_mind",
+      "altText": "Official poster for Eternal Sunshine of the Spotless Mind (2004).",
+      "credit": "Focus Features / Universal Pictures",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Poster URL extracted from the distributor’s current page. Review reference only. Review URL requests a 900-pixel rendition from the same official image service."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 19,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-eternal-sunshine"
+  },
+  {
+    "id": "soul",
+    "medium": "cinema",
+    "title": "Soul",
+    "creator": "Pete Docter; co-directed by Kemp Powers",
+    "dateDisplay": "2020",
+    "dateStart": 2020,
+    "dateEnd": null,
+    "body": "In *Soul* (2020), New York music teacher Joe Gardner believes his real life will begin when he becomes a professional jazz pianist. He loves playing, but years of unsuccessful auditions have made everything else feel secondary. His fear comes out in a conversation with his mother:\n\n> I’m just afraid that if I died today, that my life would have amounted to nothing.\n\nAn accident separates Joe’s soul from his body on the day he finally lands a coveted gig. His body is still alive, but his soul is heading towards the Great Beyond, the film’s afterlife. Refusing to go, he escapes into the Great Before, where souls prepare for life on Earth. There he meets 22, who has never found a reason to want to be born. Repeated failures to discover a calling have left her feeling inadequate. Joe becomes her mentor and assumes that finding a passion will solve her problem.\n\nWhen they find a way to Earth, a mix-up puts 22 in Joe’s body. She enjoys experiences he takes for granted: tasting pizza, watching a seed drift from a tree, talking with people. These encounters make her want more time on Earth before she has chosen anything to do with her life.\n\nJoe struggles to value these experiences because he still measures a life’s worth by professional success. His love of music can be part of a worthwhile life without being its only justification.",
+    "sources": [
+      {
+        "title": "Disney/Pixar: Soul production notes",
+        "url": "https://lumiere-a.akamaihd.net/v1/documents/soul_production_notes_final_10-14-20_3d1e05e6.pdf",
+        "role": "primary production documentation",
+        "supports": "Credits, premise, Joe and 22’s motivations; read relevant pages in round 16."
+      },
+      {
+        "title": "Fresh Air: Soul creators on passion, purpose and realizing you are enough",
+        "url": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+        "role": "creator interview and released-film soundbites",
+        "supports": "Accident separates soul from body; Great Beyond/Great Before transition; exact released-film soundbite with Libba; passion distinct from fame and life’s value distinct from achievement. Transcript freshly reread 24 September 2026."
+      },
+      {
+        "title": "Stephanie Zacharek: Soul review",
+        "url": "https://time.com/5923340/soul-review-pixar/",
+        "role": "criticism",
+        "supports": "22’s concrete earthly experiences; used narrowly within the source’s 100-word derivation ceiling."
+      },
+      {
+        "title": "Lou Thomas: Soul review, Sight and Sound",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/soul-pixar-disney-pete-docter-kemp-powers-jamie-foxx-jazz-musician-fantasy",
+        "role": "criticism",
+        "supports": "Ambition, 22’s reluctance and attention to ordinary experience."
+      },
+      {
+        "title": "r/movies: official Soul discussion",
+        "url": "https://www.reddit.com/r/movies/comments/kkbd5s/official_discussion_soul_spoilers/",
+        "role": "public reception clue",
+        "supports": "Prior selected threads challenge simple career-change and appreciate-small-things morals; no consensus claim."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-21/ROUND_16_FINAL_DRAFTS.json",
+      "baselineSection": "works[key=soul].A",
+      "changes": [
+        "Removed inline source links; all prose and paragraph structure preserved. Round 16 A preferred and called really good. Staged for batch review.",
+        "24 September 2026 remake: explained body–soul separation and the distinct Great Beyond/Great Before, removed the unwanted sentence about help returning to the performance, clarified the body mix-up, and tightened the ordinary-life/ambition connection. Retained the meaningful, transcript-verified Joe quotation. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/Soul-bc48c9f723434c76bf6261ae10836911?pvs=25"
+    },
+    "meaningBrief": "Joe makes professional musical achievement the condition for his life to matter. The clear body–soul transition establishes the fictional premise; 22’s first ordinary experiences then challenge his assumption that life requires a calling. The film preserves the value of music while questioning the use of a career as the sole measure of a life.",
+    "quotationNotes": [
+      {
+        "text": "I’m just afraid that if I died today, that my life would have amounted to nothing.",
+        "speaker": "Joe Gardner, speaking with his mother Libba",
+        "sourceUrl": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+        "locator": "Released-film soundbite during Joe’s conversation with Libba; transcript paragraph beginning FOXX, approximately web line 151.",
+        "wordCount": 16,
+        "version": "NPR/Fresh Air transcript of released-film audio; wording and surrounding exchange reread 24 September 2026. No separate direct audio verification.",
+        "purpose": "Makes the emotional stakes of Joe’s ambition explicit."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg?region=0%2C0%2C540%2C810",
+      "referenceUrl": "https://movies.disney.com/soul",
+      "altText": "Official Disney+ promotional poster for Soul (2020).",
+      "credit": "Disney / Pixar",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Official Disney film-page image; this is promotional artwork for the 2020 film."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 20,
+    "language": "en",
+    "revision": 3,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-soul"
+  },
+  {
+    "id": "im-still-here",
+    "medium": "cinema",
+    "title": "I’m Still Here",
+    "creator": "Walter Salles",
+    "dateDisplay": "2024",
+    "dateStart": 2024,
+    "dateEnd": null,
+    "body": "Brazil’s 1964 military coup removed an elected government and stripped congressman Rubens Paiva of his mandate. In January 1971, agents took him from his Rio de Janeiro home. He was tortured and killed in custody. The authorities concealed the crime and circulated a false account of his escape. Walter Salles’s *I’m Still Here* (2024) follows the family left behind, drawing on a memoir by Rubens’s son Marcelo.\n\nThe film centres on Rubens’s wife, Eunice, who is also imprisoned, along with their teenage daughter Eliana. After her release, she must raise five children while seeking answers from the authorities responsible. Confronting the men watching her home, she asks: “What are you looking at? What do you want? Where’s my husband?” The family cannot bury Rubens, and the government refuses to acknowledge his death.\n\nBefore the arrest, Salles shows a busy home full of music, visitors and conversation. This gives us time to know the family before fear changes how they live. Afterwards, Eunice keeps daily life going for the children while deciding how much to tell them. Her composure requires work: she has to care for them while pursuing information that officials continue to withhold.\n\nEunice’s later life extended this work beyond her own family. She entered law school in 1973, defended Indigenous rights and campaigned for official recognition of the dictatorship’s disappeared. Rubens’s death certificate was issued in 1996, twenty-five years after his arrest. Obtaining it meant forcing the state to acknowledge a death that its own agents had caused and concealed.",
+    "sources": [
+      {
+        "title": "Câmara dos Deputados: Rubens Paiva biography",
+        "url": "https://www.camara.leg.br/deputados/131119/biografia",
+        "role": "institutional historical record",
+        "supports": "Revoked mandate, arrest, torture and death, official escape account, 1996 certificate."
+      },
+      {
+        "title": "São Paulo Truth Commission: Rubens Beirodt Paiva",
+        "url": "https://comissaodaverdade.al.sp.gov.br/mortos-desaparecidos/rubens-beirodt-paiva",
+        "role": "historical investigation",
+        "supports": "Custody and concealment; Eunice and Eliana’s detention."
+      },
+      {
+        "title": "CNN: Salles and Torres interview with film clip",
+        "url": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+        "role": "creator interview and released-film excerpt",
+        "supports": "Eunice’s confrontation dialogue, composure and familial experience."
+      },
+      {
+        "title": "Letterboxd: Salles and Torres interview",
+        "url": "https://letterboxd.com/journal/im-still-here-fernanda-torres-walter-salles-interview/",
+        "role": "creator interview",
+        "supports": "Household freedom, the children’s differing knowledge and memory."
+      },
+      {
+        "title": "Memórias da Ditadura: Eunice Paiva",
+        "url": "https://memoriasdaditadura.org.br/personagens/eunice-paiva/",
+        "role": "historical biography",
+        "supports": "1973 law-school entry, Indigenous-rights work and long campaign for acknowledgment."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-21/ROUND_18_FINAL_DRAFTS.json",
+      "baselineSection": "works[key=im_still_here].A",
+      "changes": [
+        "Removed inline source links; all prose and paragraph structure preserved. Julio praised the round 18 film without naming A or B. A is selected for this batch, not inferred as his preferred variant. Staged for review.",
+        "24 September 2026 remake: made a restrained style revision after the “slightly less AI-written” note, replacing abstract transitions with concrete family actions. Preserved historical killing, official concealment, Eunice’s legal work and the delayed certificate. Retained the contextual film quotation with its broadcast-translation limitation. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/I-m-Still-Here-25dc5450872d80138d0be56c750e2a32?pvs=25"
+    },
+    "meaningBrief": "The historical killing is established; the family’s uncertainty comes from state concealment. The film follows Eunice’s practical care and pursuit of answers, while her later legal work connects her family’s experience to wider struggles for rights and recognition. Her agency, not generic endurance or an unresolved historical mystery, carries the account.",
+    "quotationNotes": [
+      {
+        "text": "What are you looking at? What do you want? Where’s my husband?",
+        "speaker": "Eunice Paiva, confronting men watching her home",
+        "sourceUrl": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+        "locator": "Film clip, web transcript line 250",
+        "wordCount": 12,
+        "version": "CNN English broadcast translation in a rush transcript, freshly reread 24 September 2026. Not independently checked against theatrical subtitles or Portuguese audio.",
+        "purpose": "Expresses her demand for information withheld by those exercising power."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://www.sonyclassics.com/assets/img/films/imstillhere/poster/imstillhere.jpg",
+      "referenceUrl": "https://www.sonyclassics.com/film/imstillhere/",
+      "altText": "Official English-language poster for I’m Still Here (2024).",
+      "credit": "Sony Pictures Classics",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Poster URL extracted from Sony’s film page; not a photograph of the historical Paiva family."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 21,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-im-still-here"
+  }
+]

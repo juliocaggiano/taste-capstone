@@ -1,0 +1,414 @@
+{
+  "batchId": "batch-003",
+  "editorialStatus": "pending_review",
+  "entries": [
+    {
+      "id": "liberty-leading-the-people",
+      "title": "Liberty Leading the People",
+      "creator": "Eugène Delacroix",
+      "dateDisplay": "1830",
+      "dateStart": 1830,
+      "dateEnd": null,
+      "place": "Paris, France",
+      "body": "The uprising in this painting took place in July 1830, not during the French Revolution of 1789. King Charles X had restricted the press and changed electoral rules, provoking three days of fighting in Paris. He was forced from power and replaced by Louis-Philippe, who ruled under a constitutional monarchy. Delacroix began the painting while those events were still recent.\n\nThe woman carrying the flag is Liberty, given a body and a place among the insurgents. Her red cap recalls the earlier Revolution, while the tricolour announces the return of a flag associated with it. She also carries a rifle and steps across the barricade. Delacroix combines the appearance of an ancient goddess with someone capable of taking part in a modern street battle.\n\nThe people following her wear clothes that suggest different positions in society: a worker’s apron, a gentleman’s top hat, a boy’s everyday clothes. Their common direction presents the uprising as a cause shared across those divisions. At their feet, however, lie people who will receive none of its benefits. The wounded and dead occupy as much physical space as the advancing crowd.\n\nThat combination helps explain the painting’s force. It gives the revolution a figure to rally around without making the barricade look clean or orderly. Liberty is an ideal, but the broken bodies beneath her belong to the kind of fighting through which Parisians tried to achieve it.",
+      "meaningBrief": "Delacroix presents a shared revolutionary ideal amid the deaths and class differences of the July 1830 uprising.",
+      "sources": [
+        {
+          "title": "Histoire par l’image — La Liberté guidant le peuple",
+          "url": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+          "role": "substantive institutional interpretation",
+          "supports": "Political trigger, July 1830, insurgents, personification and casualties. Full analysis read in French.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Musée du Louvre — The restored Liberty Leading the People",
+          "url": "https://presse.louvre.fr/retour-en-salle-de-la-liberte-guidant-le-peuple-restauree/?lang=fr",
+          "role": "museum interpretation and conservation",
+          "supports": "Revolutionary tricolour, its earlier prohibition, the importance of colour, and 2024 restoration. Full public report read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Which French revolution?",
+          "url": "https://www.reddit.com/r/HistoryMemes/comments/ibzfg9/",
+          "role": "reception check only",
+          "supports": "Comments distinguish 1830 from 1789 and note replacement by another monarchy; checked against historical account. No popularity claim.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Preferred A body retained; inline citations moved to sources. This entry and its image options await current review.",
+        "baselineFile": "docs/editorial/CALIBRATION_17_PAINTING_BOOK_FILM.md",
+        "baselineSection": "Liberty Leading the People — A",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Distinguished 1830 from 1789, explained the political trigger, and related Liberty’s symbols to the crowd’s different positions.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-liberty-leading-the-people-a.jpg",
+        "referenceUrl": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+        "altText": "Liberty raises the French tricolour above insurgents crossing a barricade and fallen bodies in Paris.",
+        "credit": "Eugène Delacroix",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "saturn-devouring-his-son",
+      "title": "Saturn Devouring His Son",
+      "creator": "Francisco Goya",
+      "dateDisplay": "1820–1823",
+      "dateStart": 1820,
+      "dateEnd": 1823,
+      "place": "Madrid, Spain",
+      "body": "In Greek mythology, Cronus overthrew his father and then learned that one of his own children would overthrow him. He tried to prevent this by swallowing his children as soon as they were born. The Romans associated him with Saturn, the name usually given to the figure in Goya’s painting.\n\nHis wife, Rhea, saved their youngest child, Zeus, by hiding him in Crete and giving Cronus a stone wrapped in baby clothes. In one ancient account, armed guardians clashed their shields to keep the hidden infant’s cries from being heard. Zeus grew up, made his father bring back the children he had swallowed, and eventually defeated him.\n\nGoya concentrates on the act of eating, making it much more physically destructive than the familiar story of children swallowed whole. This figure grips a partly consumed body and stares into the darkness. There is no throne or royal setting to identify his authority; we understand his fear of losing it through the action itself.\n\nPerhaps its most unexpected circumstance is where it originally belonged: on a wall inside Goya’s own house. Painted between 1820 and 1823, it was one of fourteen works later called the Black Paintings. Goya was elderly, deaf and recently recovered from a serious illness, living in a Spain marked by war and political repression. These private murals gave him room to explore subjects far removed from the flattering portraits and public commissions through which he had made his career.",
+      "meaningBrief": "The succession myth connects fear of replacement with Goya’s violent private mural.",
+      "sources": [
+        {
+          "title": "Museo Nacional del Prado — Saturn",
+          "url": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+          "role": "museum interpretation; indexed passages",
+          "supports": "1820–1823, Black Paintings and the suggested fear-of-losing-power interpretation. Direct page returned 403; only retrieved indexed passages used.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Fundación Goya en Aragón — Saturno devorando a un hijo",
+          "url": "https://fundaciongoyaenaragon.es/obra/saturno-devorando-a-un-hijo/660",
+          "role": "substantive catalogue interpretation",
+          "supports": "Spanish full analysis read: physical violence, dark setting, blood, ground-floor location, material transfer and competing interpretations.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Hesiod — Theogony, lines 453–506",
+          "url": "https://sacred-texts.com/cla/hesiod/theogony.htm",
+          "role": "primary myth, translated",
+          "supports": "Cronos, Roman Saturn: prophecy, swallowing his children, Rhea’s substitution of a stone and Zeus’s overthrow. Greek names rendered with their Roman equivalents in the entry.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Saturn Devouring His Son — source history and interpretation",
+          "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+          "role": "cross-check with referenced scholarship",
+          "supports": "Later naming, departure from swallowing infants whole, transfer to canvas and uncertainty of specific interpretations.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Goya’s Saturn",
+          "url": "https://www.reddit.com/r/ArtHistory/comments/1scjsyb/saturn_devouring_his_son_francisco_goya_between/",
+          "role": "reception challenge only",
+          "supports": "Conflicting political and psychological readings. Neither is promoted to proven intention.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Museo del Prado — Francisco de Goya y Lucientes",
+          "url": "https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812",
+          "role": "biographical context",
+          "supports": "Deafness, war, political repression, country house and late illness; institutional indexed passages used because direct retrieval returned 403.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Museo del Prado — Goya in Times of War",
+          "url": "https://www.museodelprado.es/en/whats-on/exhibition/goya-in-times-of-war/53c39859-eb62-4a16-9d26-063d43ddbfc0",
+          "role": "biographical context",
+          "supports": "Serious illness in late 1819; exhibition account.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Theoi — Rhea, with ancient-source excerpts",
+          "url": "https://www.theoi.com/Titan/TitanisRhea.html",
+          "role": "primary narrative in a scholarly compilation",
+          "supports": "Pseudo-Apollodorus excerpt: Rhea’s stone substitution, Zeus concealed in Crete, guardians clashing shields. Retold without quoting the translation.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Theoi — Apollodorus, Library, Book 1",
+          "url": "https://www.theoi.com/Text/Apollodorus1.html",
+          "role": "primary narrative",
+          "supports": "Book 1.2.1: recovery of the swallowed children and subsequent war. Indexed passage checked; no new direct quotation.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Howard Oakley — Francisco Goya: Black Paintings 1",
+          "url": "https://eclecticlight.co/2021/09/22/francisco-goya-black-paintings-1/",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: domestic mural setting and sequence of Goya’s late life. Object date follows the Prado record, not a conflicting caption.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "medium": "painting",
+      "revision": 4,
+      "editorialStatus": "approved",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-27T08:30:00Z",
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Additional review-only painting. Existing approvals do not apply.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "basis": "Exact passage deletions requested by Julio; surrounding prose unchanged.",
+          "evidenceFile": "qa/painting-approval-import-2026-09-27/requested-edits.json",
+          "approval": "Existing writing approval retained after exact requested deletions."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-saturn-devouring-his-son-a.jpg",
+        "referenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+        "altText": "A wide-eyed figure grips and bites a mutilated body against a dark background.",
+        "credit": "Francisco Goya",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": "julio-2026-09-27-saturn-exact-deletions",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "arnolfini-portrait",
+      "title": "The Arnolfini Portrait",
+      "creator": "Jan van Eyck",
+      "dateDisplay": "1434",
+      "dateStart": 1434,
+      "dateEnd": null,
+      "place": "Bruges, present-day Belgium",
+      "body": "Bruges was an important trading city in fifteenth-century Europe, attracting merchants from Italy as well as buyers and goods from much farther away. The man in this portrait is probably Giovanni di Nicolao Arnolfini, one of those Italian merchants. Van Eyck shows him with a woman in a room where almost every possession helps establish the household’s standing.\n\nThe oranges near the window were expensive imports, and the great red bed was valuable furniture that could be displayed in a room used to receive visitors. The woman’s dress contains enough fabric to gather into deep folds in front of her. What can look like evidence of pregnancy also belongs to the fashion for costly, generously cut clothing. Their prosperity appears through things a visitor would recognise.\n\nYet the smallest object opens the room beyond what we first see. The round mirror on the back wall reflects the couple from behind and two people arriving through the doorway. Above it, Van Eyck wrote that he had been there. The inscription gives his presence the weight of a witness, while the mirror demonstrates how much of an encounter a painting can include.\n\nFor many years, these details supported a celebrated interpretation of the picture as a marriage ceremony witnessed by the artist. Later research challenged both the identification of the couple and that conclusion. The surviving evidence leaves the exact occasion unsettled, but the portrait remains an exceptionally intimate account of how a wealthy merchant household wished to be seen.",
+      "meaningBrief": "A trading household presents its prosperity through possessions and an unusually elaborate record of an encounter.",
+      "sources": [
+        {
+          "title": "National Gallery — The Arnolfini Portrait",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+          "role": "museum interpretation and visual evidence",
+          "supports": "Household wealth, reception room, clothes, fruit, prayer beads, mirror, inscription and uncertainty about sitter identification. Overview, analysis and audio-description transcript read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Lorne Campbell — National Gallery catalogue: The Arnolfini Portrait",
+          "url": "https://www.nationalgallery.org.uk/paintings/catalogues/campbell-1998/the-arnolfini-portrait",
+          "role": "substantial scholarly challenge",
+          "supports": "Identification and marriage-theory sections: a marriage in 1447 or later contradicts the former proposed couple for a work dated 1434. Avoid presenting Panofsky’s interpretation as fact.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Responses to the Arnolfini Portrait",
+          "url": "https://www.reddit.com/r/ArtHistory/comments/1at23b4/the_arnolfini_portrait_is_considered_a/",
+          "role": "reception check only",
+          "supports": "Viewers notice uncanny figures, optical detail, wealth and the frequently repeated wedding-certificate theory; museum scholarship resolves factual claims.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "painting",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [
+        {
+          "text": "Jan van Eyck was here. 1434.",
+          "kind": "English translation of painted Latin inscription",
+          "original": "Johannes de Eyck fuit hic. 1434",
+          "sourceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+          "locator": "In-depth discussion of mirror and signature",
+          "purpose": "The wording makes presence, rather than only authorship, part of the portrait."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Additional review-only painting. Existing approvals do not apply.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Established Bruges and merchant life before explaining objects and the mirror; retained the consequential uncertainty about a wedding ceremony.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-arnolfini-portrait-a.jpg",
+        "referenceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+        "altText": "A richly dressed couple hold hands in a furnished room, with a small dog and a convex mirror behind them.",
+        "credit": "Jan van Eyck",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "school-of-athens",
+      "title": "The School of Athens",
+      "creator": "Raphael",
+      "dateDisplay": "1509–1511",
+      "dateStart": 1509,
+      "dateEnd": 1511,
+      "place": "Vatican City",
+      "body": "Pope Julius II commissioned this gathering of ancient philosophers for a room in the Vatican used as his library and private office. That setting is part of its meaning. Christian theology occupied another wall, while Raphael gave Greek philosophy an equally impressive place in the room. The Renaissance interest in ancient learning could extend into the household of the pope himself.\n\nAt the centre, Plato walks beside his former student Aristotle. Plato points upwards, expressing his concern with truths beyond the changing physical world; Aristotle holds his hand level, suggesting his closer attention to the world people can observe. Raphael makes their difference visible through a conversation. Neither needs to be defeated for both to belong in this account of knowledge.\n\nAround them, learning takes several forms. People argue, write and gather around a geometric demonstration, leaning in to follow the teacher’s compass. The scene brings together thinkers from different centuries as if they belonged to one community. Ancient philosophy becomes something active and sociable rather than a collection of names preserved in books.\n\nRaphael also gave some figures the faces of artists from his own time. The solitary man leaning on a stone block resembles Michelangelo, and Raphael himself looks out from the right-hand side. Their inclusion places painting and sculpture among the intellectual achievements celebrated in the room. For artists seeking recognition beyond skilled manual work, that was a meaningful claim to make on a pope’s wall.",
+      "meaningBrief": "Ancient philosophy and contemporary artists occupy a place of intellectual honour inside the pope’s household.",
+      "sources": [
+        {
+          "title": "Vatican Museums — The School of Athens",
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+          "role": "museum interpretation",
+          "supports": "Central philosophers, geometry group, Michelangelo likeness and Raphael self-portrait. Full account read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Vatican Museums — Room of the Segnatura",
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/stanza-della-segnatura.html",
+          "role": "setting and interpretive programme",
+          "supports": "Julius II’s library and private office, rational truth and theology, coordinated room programme. Full account read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Columbia University — Scuola di Athene",
+          "url": "https://core100.columbia.edu/article/scuola-di-athene-school-athens",
+          "role": "sourced educational interpretation",
+          "supports": "Dates, central gestures and limits on identification; the article explicitly derives from Wikipedia, not independent scholarship.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "University of Oxford, Cabinet — Raphael, School of Athens",
+          "url": "https://www.cabinet.ox.ac.uk/raphael-school-athens-1509-1510-0",
+          "role": "academic interpretation; indexed passage",
+          "supports": "Plato’s forms, Aristotle’s empirical knowledge, and unity of philosophical truth and Christian revelation. Direct page failed; indexed passage only.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Identifying the philosophers",
+          "url": "https://www.reddit.com/r/ArtHistory/comments/nd4j4n/a_couple_questions_about_the_school_of_athens/",
+          "role": "reception challenge only",
+          "supports": "Substantial discussion challenges over-neat idealist/realist divisions and confident peripheral identifications. Post and replies read.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Additional review-only painting. Existing approvals do not apply.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Explained why the Vatican setting matters, then linked the central discussion and demonstrations to the status of learning and art.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-school-of-athens-a.jpg",
+        "referenceUrl": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+        "altText": "Plato and Aristotle stand at the centre of groups of ancient thinkers beneath a vaulted classical roof.",
+        "credit": "Raphael",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "bar-at-the-folies-bergere",
+      "title": "A Bar at the Folies-Bergère",
+      "creator": "Édouard Manet",
+      "dateDisplay": "1882",
+      "dateStart": 1882,
+      "dateEnd": null,
+      "place": "Paris, France",
+      "body": "In late nineteenth-century Paris, an evening out could mean drinks, fashionable company and a succession of performers at a music hall. The Folies-Bergère offered all of these. Manet gives us a glimpse of the entertainment through the mirror behind a barmaid: a crowded balcony, bright lights, and even the green boots of a trapeze performer at the upper left.\n\nThe woman in front of that spectacle is there to work. Manet used a real barmaid named Suzon as his model, although she posed in his studio. Bottles, fruit and flowers are arranged across her counter, and she faces the customer with an expression that reveals little. The painting brings together two experiences of the same place: the freedom to enjoy an evening and the obligation to serve it.\n\nThat relationship carried particular implications for women. Contemporary observers associated the hall’s barmaids with prostitution, and a man leaning towards Suzon in the mirror gives the encounter a possible sexual meaning. The painting does not establish what she has agreed to offer. It does show a setting where a woman’s attention and appearance could be treated as part of what a customer bought.\n\nThe reflection refuses to line up neatly with the view in front of us. In it, Suzon seems engaged with the man; facing us, she appears more withdrawn. Manet leaves that difference unresolved. We can see the business around her in remarkable detail, while the person at its centre remains someone whose thoughts the customer cannot purchase or read.",
+      "meaningBrief": "Modern public entertainment gives customers pleasure while making the serving woman part of the commercial encounter.",
+      "sources": [
+        {
+          "title": "The Courtauld — A Bar at the Folies-Bergère",
+          "url": "https://courtauld.ac.uk/highlights/a-bar-at-the-folies-bergere/",
+          "role": "substantive museum interpretation",
+          "supports": "Barmaid among commodities, music hall, green boots, Suzon, studio construction and displaced reflection. Full account read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "J. Paul Getty Museum — Manet’s Bar at the Folies-Bergère",
+          "url": "https://www.getty.edu/art/exhibitions/manet_bar/",
+          "role": "substantial interpretation and challenge",
+          "supports": "Contemporary assumptions about barmaids and prostitution; unstable spectator position; limits of a straightforward narrative. Full exhibition text read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — A Bar at the Folies-Bergère",
+          "url": "https://www.reddit.com/r/museum/comments/htxhic/",
+          "role": "reception check only",
+          "supports": "Viewers notice the divide between lively reflection and isolation, mirror ambiguity and trapeze feet. Unsupported claims about private feelings and identities omitted.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "The Art Assignment / PBS — Better Know Manet’s A Bar at the Folies-Bergère",
+          "url": "https://video.wkar.org/video/better-know-manets-a-bar-at-the-folies-bergere-kuyacu/",
+          "role": "substantial interpretation",
+          "supports": "Full published transcript read: music-hall entertainment, Suzon’s work, commercial setting, reflection and limits on knowing her thoughts. Names checked against Courtauld.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Additional review-only painting. Existing approvals do not apply.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Used The Art Assignment’s social-setting approach: explain the venue and work before introducing the ambiguous reflection and sexual expectations.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-bar-at-the-folies-bergere-a.jpg",
+        "referenceUrl": "https://courtauld.ac.uk/highlights/a-bar-at-the-folies-bergere/",
+        "altText": "A barmaid faces the viewer beside bottles and fruit; the mirror behind her shows a crowded music hall and a male customer.",
+        "credit": "Édouard Manet",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    }
+  ],
+  "activeMedia": [
+    "painting"
+  ],
+  "onHoldMedia": [
+    "theater"
+  ],
+  "releasePolicy": "Import only currently approved writing with its selected image and resolved passage comments when Julio requests a prototype update. The app contains 20 works after the 27 September painting update. Pending revisions do not replace earlier approved app versions. Theater stays on hold."
+}

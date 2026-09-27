@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Floating menu study · Taste (V1.2)</title>
+    <style>
+      @font-face {
+        font-family: "PP Neue Montreal";
+        src: local("PPNeueMontrealTT-Regular"), local("PP Neue Montreal TT Regular");
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+      }
+      :root {
+        font-family: "PP Neue Montreal", "PP Neue Montreal TT", system-ui, sans-serif;
+        font-synthesis: none;
+        -webkit-font-smoothing: antialiased;
+        color: #252525;
+        background: #fff;
+        --muted: #6e6e6e;
+        --line: rgb(37 37 37 / 15%);
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; }
+      a { color: inherit; text-underline-offset: 3px; }
+      a:hover { color: var(--muted); }
+      button { font: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+      :focus-visible { outline: 2px solid #252525; outline-offset: 3px; }
+      main { width: min(100%, 1500px); margin: 0 auto; padding: 24px 32px 32px; }
+      .topline { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+      .eyebrow, .back { font-size: 12px; line-height: 16px; }
+      .eyebrow { margin: 0; color: var(--muted); }
+      .back { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; }
+      .back svg { width: 14px; height: 14px; }
+      header { margin: 28px 0 22px; }
+      h1 { margin: 0 0 10px; font-size: clamp(26px, 2.6vw, 36px); font-weight: 400; line-height: 1.1; letter-spacing: -.5px; }
+      .intro { max-width: 70ch; margin: 0; color: var(--muted); font-size: 14px; line-height: 20px; }
+      .selector { display: none; }
+      .variants { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+      .variant { min-width: 0; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: #fff; }
+      .variant-header { min-height: 137px; display: flex; flex-direction: column; padding: 16px; }
+      h2 { margin: 0; font-size: 20px; font-weight: 400; line-height: 24px; }
+      h2 span { margin-right: 8px; color: var(--muted); font-size: 12px; line-height: 16px; vertical-align: 2px; }
+      .description { margin: 8px 0 12px; color: var(--muted); font-size: 13px; line-height: 18px; }
+      .open { align-self: flex-start; margin-top: auto; color: var(--muted); font-size: 11px; line-height: 16px; text-decoration: none; }
+      .open:hover { color: #252525; text-decoration: underline; }
+      iframe { display: block; width: 100%; height: clamp(500px, calc(100dvh - 275px), 830px); border: 0; border-top: 1px solid var(--line); background: #fff; }
+      .footer { margin: 16px 0 0; color: var(--muted); font-size: 12px; line-height: 18px; }
+      @media (max-width: 1100px) {
+        main { max-width: 600px; padding: 20px 20px 28px; }
+        header { margin: 28px 0 18px; }
+        .selector { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px; margin-bottom: 12px; padding: 4px; border-radius: 6px; background: #f2f2f2; }
+        .selector button { min-height: 36px; padding: 6px 3px; border: 0; border-radius: 3px; background: transparent; color: var(--muted); font-size: 12px; line-height: 16px; }
+        .selector button[aria-pressed="true"] { background: #fff; color: #252525; box-shadow: 0 1px 2px rgb(37 37 37 / 7%); }
+        .variants { display: block; }
+        .variant[data-mobile-hidden="true"] { display: none; }
+        iframe { height: clamp(540px, calc(100dvh - 275px), 830px); }
+      }
+      @media (max-width: 400px) {
+        main { padding: 16px 12px 24px; }
+        .variant-header { padding: 16px; }
+      }
+      @media (pointer: coarse) {
+        .back, .open { min-height: 44px; display: inline-flex; align-items: center; }
+        .selector button { min-height: 44px; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="topline">
+        <p class="eyebrow">Taste (V1.2) / Menu study</p>
+        <a class="back" href="/">
+          <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M9.5 3.5 5 8l4.5 4.5" stroke="currentColor" stroke-width="1.25" /></svg>
+          Back to prototype
+        </a>
+      </div>
+      <header>
+        <h1>Three ways to float</h1>
+        <p class="intro">Light glass is the selected menu in the live prototype. The other versions remain here for comparison. Search combines browsing and search; Create remains a placeholder.</p>
+      </header>
+      <nav class="selector" aria-label="Choose a menu variation to preview">
+        <button type="button" data-show="solid" aria-controls="solid-card" aria-pressed="false">01 Solid</button>
+        <button type="button" data-show="light" aria-controls="light-card" aria-pressed="true">02 Light</button>
+        <button type="button" data-show="outline" aria-controls="outline-card" aria-pressed="false">03 Outline</button>
+      </nav>
+      <section class="variants" aria-label="Three floating menu variations">
+        <article class="variant" id="solid-card" data-variant="solid" data-mobile-hidden="true" aria-labelledby="solid-title">
+          <div class="variant-header">
+            <h2 id="solid-title"><span>01</span>Solid focus</h2>
+            <p class="description">A dark capsule with a clear moving selection.</p>
+            <a class="open" href="/?menu-study=solid" target="_blank" rel="noopener">Open full size ↗</a>
+          </div>
+          <iframe title="Solid focus interactive prototype" src="/?menu-study=solid"></iframe>
+        </article>
+        <article class="variant" id="light-card" data-variant="light" data-mobile-hidden="false" aria-labelledby="light-title">
+          <div class="variant-header">
+            <h2 id="light-title"><span>02</span>Light glass</h2>
+            <p class="description">Selected for the app: a compact, softly translucent capsule.</p>
+            <a class="open" href="/?menu-study=light" target="_blank" rel="noopener">Open full size ↗</a>
+          </div>
+          <iframe title="Light glass interactive prototype" src="/?menu-study=light"></iframe>
+        </article>
+        <article class="variant" id="outline-card" data-variant="outline" data-mobile-hidden="true" aria-labelledby="outline-title">
+          <div class="variant-header">
+            <h2 id="outline-title"><span>03</span>Fine outline</h2>
+            <p class="description">A translucent capsule with a restrained border.</p>
+            <a class="open" href="/?menu-study=outline" target="_blank" rel="noopener">Open full size ↗</a>
+          </div>
+          <iframe title="Fine outline interactive prototype" src="/?menu-study=outline"></iframe>
+        </article>
+      </section>
+      <p class="footer">Switch pages inside each phone to compare selection states and behavior.</p>
+    </main>
+    <script>
+      const buttons = [...document.querySelectorAll('[data-show]')];
+      const cards = [...document.querySelectorAll('[data-variant]')];
+      for (const button of buttons) {
+        button.addEventListener('click', () => {
+          for (const item of buttons) item.setAttribute('aria-pressed', String(item === button));
+          for (const card of cards) card.dataset.mobileHidden = String(card.dataset.variant !== button.dataset.show);
+        });
+      }
+    </script>
+  </body>
+</html>

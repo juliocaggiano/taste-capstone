@@ -1,0 +1,419 @@
+[
+  {
+    "entryId": "liberty-leading-the-people",
+    "options": [
+      {
+        "id": "A",
+        "label": "Restored painting · press reproduction",
+        "description": "Post-restoration reproduction published in 2024, with a grey lower robe and restrained blue tones.",
+        "imageUrl": "image-options/assets/painting/b003-liberty-leading-the-people-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg",
+        "museumReferenceUrl": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+        "credit": "Eugène Delacroix; https://www.leparisien.fr/culture-loisirs/expositions/au-louvre-la-liberte-guidant-le-peuple-comme-vous-ne-lavez-jamais-vu-30-04-2024-LSTD76DRHFFNLDDH6RTMWIDDEE.php",
+        "altText": "Liberty raises the French tricolour above insurgents crossing a barricade and fallen bodies in Paris.",
+        "width": 1920,
+        "height": 1536,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg/1920px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 2742 × 2194. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "450c1d9d514165891ce6b9d3c40524942e7eeedff21f1abd77031ae94fb5e906",
+        "sourceDimensions": [
+          2742,
+          2194
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Restored painting · Shonagon photograph",
+        "description": "A separate May 2024 photograph: brighter foreground highlights and cooler blue-grey tones.",
+        "imageUrl": "image-options/assets/painting/b003-liberty-leading-the-people-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+        "museumReferenceUrl": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+        "credit": "Eugène Delacroix; photo Shonagon 2024-05-02",
+        "altText": "Liberty raises the French tricolour above insurgents crossing a barricade and fallen bodies in Paris.",
+        "width": 1920,
+        "height": 1536,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/1920px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 10128 × 8103. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "bc68607b081b779c656946b32111b40199890bc0d30a9d7cab09eba40bd940af",
+        "sourceDimensions": [
+          10128,
+          8103
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Earlier reproduction · Lessing archive",
+        "description": "An earlier appearance of the painting, with warmer yellow tones before the 2024 restoration.",
+        "imageUrl": "image-options/assets/painting/b003-liberty-leading-the-people-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
+        "museumReferenceUrl": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+        "credit": "Eugène Delacroix; Erich Lessing Culture and Fine Arts Archives via artsy.net",
+        "altText": "Liberty raises the French tricolour above insurgents crossing a barricade and fallen bodies in Paris.",
+        "width": 1920,
+        "height": 1541,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/1920px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 5946 × 4771. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "12eb5a3a532200cb7d2021bd326487f46dcf923519c3c7fcef743d0e597cd626",
+        "sourceDimensions": [
+          5946,
+          4771
+        ]
+      }
+    ]
+  },
+  {
+    "entryId": "saturn-devouring-his-son",
+    "options": [
+      {
+        "id": "A",
+        "label": "Prado reproduction",
+        "description": "Warm brown tones and restrained highlights against the dark background.",
+        "imageUrl": "image-options/assets/painting/b003-saturn-devouring-his-son-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saturn_Devouring_His_Son.jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+        "credit": "Francisco de Goya y Lucientes; https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+        "altText": "A wide-eyed figure grips and bites a mutilated body against a dark background.",
+        "width": 1071,
+        "height": 1920,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "CC BY-SA 4.0",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Saturn_Devouring_His_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Saturn_Devouring_His_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 1071 × 1920. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "6c1b4c633be6a5fb9b4824d8f27d754bf80f4a0911b8378209fe32bef7a013ec",
+        "sourceDimensions": [
+          1071,
+          1920
+        ],
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      {
+        "id": "B",
+        "label": "High-resolution reproduction",
+        "description": "Cooler, near-black surroundings with stronger pale highlights on the figure.",
+        "imageUrl": "image-options/assets/painting/b003-saturn-devouring-his-son-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+        "credit": "Francisco Goya; reproduction published on Wikimedia Commons. Original source link retained on the file page.",
+        "altText": "A wide-eyed figure grips and bites a mutilated body against a dark background.",
+        "width": 1661,
+        "height": 3051,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 1661 × 3051. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "9873b1835b250cb367580ff960239ab44e90fbd5a0e1d2500f31a0ccac4cd350",
+        "sourceDimensions": [
+          1661,
+          3051
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Web Gallery of Art",
+        "description": "A warmer red-brown scan. Its 700-pixel width offers less detail when enlarged.",
+        "imageUrl": "image-options/assets/painting/b003-saturn-devouring-his-son-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Saturn_Devouring_One_of_his_Children_-_WGA10109.jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+        "credit": "Francisco Goya; Web Gallery of Art:   Image  Info about artworkwga QS:P11807,\"g/goya/9/blac633\"",
+        "altText": "A wide-eyed figure grips and bites a mutilated body against a dark background.",
+        "width": 700,
+        "height": 1287,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Francisco_de_Goya_y_Lucientes_-_Saturn_Devouring_One_of_his_Children_-_WGA10109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Francisco_de_Goya_y_Lucientes_-_Saturn_Devouring_One_of_his_Children_-_WGA10109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 700 × 1287. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "8aeaff9e52934e39556f129816b9ebb49b4ad6ae6fb15af69b3fead3333638c2",
+        "sourceDimensions": [
+          700,
+          1287
+        ]
+      }
+    ]
+  },
+  {
+    "entryId": "arnolfini-portrait",
+    "options": [
+      {
+        "id": "A",
+        "label": "National Gallery reproduction",
+        "description": "Deep green cloth, stronger contrast and crisp small details.",
+        "imageUrl": "image-options/assets/painting/b003-arnolfini-portrait-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eyck,_Jan_van_-_Arnolfini_Portrait_-_NG.jpg",
+        "museumReferenceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+        "credit": "Jan van Eyck; Web site of National Gallery, London",
+        "altText": "A richly dressed couple hold hands in a furnished room, with a small dog and a convex mirror behind them.",
+        "width": 1920,
+        "height": 2646,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Eyck%2C_Jan_van_-_Arnolfini_Portrait_-_NG.jpg/1920px-Eyck%2C_Jan_van_-_Arnolfini_Portrait_-_NG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Eyck%2C_Jan_van_-_Arnolfini_Portrait_-_NG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 4353 × 6000. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "41c576606480c8e3782aae72144b4fe35df32648c05c6d91ae6d036843f7015c",
+        "sourceDimensions": [
+          4353,
+          6000
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Yorck Project reproduction",
+        "description": "A warmer scan with redder furnishings and a softer green gown.",
+        "imageUrl": "image-options/assets/painting/b003-arnolfini-portrait-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_001.jpg",
+        "museumReferenceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+        "credit": "Jan van Eyck; The Yorck Project (2002)       10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH.  ISBN:  3936122202.",
+        "altText": "A richly dressed couple hold hands in a furnished room, with a small dog and a convex mirror behind them.",
+        "width": 1920,
+        "height": 2634,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Jan_van_Eyck_001.jpg/1920px-Jan_van_Eyck_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jan_van_Eyck_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 2024 × 2777. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "44ba0339355c4c30103c120021de8b5efe0421aa3d099e5dfbecb4842b955802",
+        "sourceDimensions": [
+          2024,
+          2777
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Gennadii Saus i Segura reproduction",
+        "description": "A brighter reproduction with clearer room details and a lighter green gown.",
+        "imageUrl": "image-options/assets/painting/b003-arnolfini-portrait-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg",
+        "museumReferenceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+        "credit": "Jan van Eyck; Gennadii Saus i Segura",
+        "altText": "A richly dressed couple hold hands in a furnished room, with a small dog and a convex mirror behind them.",
+        "width": 1920,
+        "height": 2627,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/1920px-The_Arnolfini_portrait_%281434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_Arnolfini_portrait_%281434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 8283 × 11331. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "ed68af452146805d3294904c97cb21f43175e816f9803ae00c9005c5391d7ba5",
+        "sourceDimensions": [
+          8283,
+          11331
+        ]
+      }
+    ]
+  },
+  {
+    "entryId": "school-of-athens",
+    "options": [
+      {
+        "id": "A",
+        "label": "Vatican reproduction",
+        "description": "A straight-on reproduction with pale tones, showing the fresco and part of the wall below.",
+        "imageUrl": "image-options/assets/painting/b003-school-of-athens-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+        "museumReferenceUrl": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+        "credit": "Raphael; Stitched together from vatican.va",
+        "altText": "Plato and Aristotle stand at the centre of groups of ancient thinkers beneath a vaulted classical roof.",
+        "width": 1920,
+        "height": 1490,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1920px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 3820 × 2964. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "cf21c5c5726406a681022b6147ab90e65fabe81e901c8e8dc1ede10d6e29635a",
+        "sourceDimensions": [
+          3820,
+          2964
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Complete fresco · cooler tones",
+        "description": "A closer, straight-on view with cooler blues and pinks; the full group remains visible.",
+        "imageUrl": "image-options/assets/painting/b003-school-of-athens-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino_in_Vatican.jpg",
+        "museumReferenceUrl": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+        "credit": "Raphael; photograph published as own work on Wikimedia Commons.",
+        "altText": "Plato and Aristotle stand at the centre of groups of ancient thinkers beneath a vaulted classical roof.",
+        "width": 1920,
+        "height": 1330,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino_in_Vatican.jpg/1920px-The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino_in_Vatican.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino_in_Vatican.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 20111 × 13936. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "b0b77da62ebc3cf2d86c8eeb2385f1c8e80ab0a25f1be82ebeca2a84e9633091",
+        "sourceDimensions": [
+          20111,
+          13936
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Bradley Weber photograph",
+        "description": "A warmer photograph in the room, including its decorated border. The camera angle introduces slight perspective.",
+        "imageUrl": "image-options/assets/painting/b003-school-of-athens-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raphael_in_the_Apostolic_Palace.jpg",
+        "museumReferenceUrl": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+        "credit": "Raphael; photograph by Bradley Weber, via Flickr / Wikimedia Commons.",
+        "altText": "Plato and Aristotle stand at the centre of groups of ancient thinkers beneath a vaulted classical roof.",
+        "width": 1920,
+        "height": 1280,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "CC BY 2.0",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/The_School_of_Athens_by_Raphael_in_the_Apostolic_Palace.jpg/1920px-The_School_of_Athens_by_Raphael_in_the_Apostolic_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_School_of_Athens_by_Raphael_in_the_Apostolic_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 5217 × 3479. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "d08cf3d42db701165722f2142d432e7cea8f504717cdfc02506ba19de8470e6b",
+        "sourceDimensions": [
+          5217,
+          3479
+        ],
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    ]
+  },
+  {
+    "entryId": "bar-at-the-folies-bergere",
+    "options": [
+      {
+        "id": "A",
+        "label": "Courtauld / Google Arts & Culture",
+        "description": "A detailed reproduction with cooler blue tones and visible paint texture.",
+        "imageUrl": "image-options/assets/painting/b003-bar-at-the-folies-bergere-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg",
+        "museumReferenceUrl": "https://courtauld.ac.uk/highlights/a-bar-at-the-folies-bergere/",
+        "credit": "Édouard Manet; https://artsandculture.google.com/asset/a-bar-at-the-folies-berg%C3%A8re-eduard-manet/NQE8B0Mjo2nq2g?hl=en",
+        "altText": "A barmaid faces the viewer beside bottles and fruit; the mirror behind her shows a crowded music hall and a male customer.",
+        "width": 1920,
+        "height": 1410,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg/1920px-%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 12580 × 9236. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "4397cb994ae87c69ca2fd00df5a7dde6448b9b14047e604922405de86a2e1011",
+        "sourceDimensions": [
+          12580,
+          9236
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Artists Space reproduction",
+        "description": "Brighter skin tones and green glass, with a thin edge around the painting.",
+        "imageUrl": "image-options/assets/painting/b003-bar-at-the-folies-bergere-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edouard_Manet,_A_Bar_at_the_Folies-Berg%C3%A8re.jpg",
+        "museumReferenceUrl": "https://courtauld.ac.uk/highlights/a-bar-at-the-folies-bergere/",
+        "credit": "Édouard Manet; https://images.artistsspace.org/ln8ji75r",
+        "altText": "A barmaid faces the viewer beside bottles and fruit; the mirror behind her shows a crowded music hall and a male customer.",
+        "width": 1920,
+        "height": 1434,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg/1920px-Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Edouard_Manet%2C_A_Bar_at_the_Folies-Berg%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 3419 × 2553. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "e742a4aa029ed02efcb6f99469bdf4bfadebff8257449c43f97fa0b314e97f6f",
+        "sourceDimensions": [
+          3419,
+          2553
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Yorck Project reproduction",
+        "description": "A warmer, softer scan with yellow highlights and more magenta in the dark areas.",
+        "imageUrl": "image-options/assets/painting/b003-bar-at-the-folies-bergere-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_004.jpg",
+        "museumReferenceUrl": "https://courtauld.ac.uk/highlights/a-bar-at-the-folies-bergere/",
+        "credit": "Édouard Manet; The Yorck Project (2002)       10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH.  ISBN:  3936122202.",
+        "altText": "A barmaid faces the viewer beside bottles and fruit; the mirror behind her shows a crowded music hall and a male customer.",
+        "width": 1920,
+        "height": 1407,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Public domain",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Edouard_Manet_004.jpg/1920px-Edouard_Manet_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Edouard_Manet_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "sourceNotes": "Original source dimensions: 2536 × 1858. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "7e5af973bd87859ef91d3c7c3ead832a4e0e6a82e06d7c69d8e54cab907cc5f9",
+        "sourceDimensions": [
+          2536,
+          1858
+        ]
+      }
+    ]
+  }
+]

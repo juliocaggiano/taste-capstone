@@ -1,0 +1,618 @@
+/* Paper 1UV-0: compact geometry, with app-owned content and semantic colors. */
+.discover-retained-page, .collection-retained-page { position: absolute; inset: 0; }
+.discover-retained-page[data-covered="true"], .collection-retained-page[data-covered="true"] { visibility: hidden; pointer-events: none; }
+
+.daily-culture-app:has(.discover-paper)::before {
+  height: 56px;
+}
+
+.daily-culture-app .discover-page {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  min-width: 0;
+  padding: 64px var(--app-page-gutter) 0;
+  color: var(--app-text);
+  font-family: var(--app-sans);
+  font-weight: 400;
+  letter-spacing: .01em;
+  font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.daily-culture-app .discover-page .discover-tools {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0 4px;
+  margin-bottom: -12px;
+}
+
+.daily-culture-app .discover-page .discover-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 32px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: var(--app-surface);
+  color: var(--app-muted);
+}
+
+.daily-culture-app .discover-page .discover-search > svg {
+  flex: none;
+  width: 16px;
+  height: 16px;
+}
+
+.daily-culture-app .discover-page .discover-search input {
+  flex: 1;
+  min-width: 0;
+  width: 100%;
+  height: 20px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--app-text);
+  font: 400 14px/20px var(--app-sans);
+  letter-spacing: 0;
+}
+
+.daily-culture-app .discover-page .discover-search input::placeholder {
+  color: var(--app-muted);
+  opacity: 1;
+}
+
+.daily-culture-app .discover-page .discover-search input:focus-visible {
+  outline: 0;
+}
+
+.daily-culture-app .discover-page .discover-search:focus-within {
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--app-muted) 16%, transparent);
+}
+
+.daily-culture-app .discover-page .discover-search button {
+  display: grid;
+  flex: none;
+  width: 24px;
+  height: 24px;
+  place-items: center;
+  border-radius: 50%;
+  color: var(--app-muted);
+}
+
+.daily-culture-app .discover-page .discover-featured-rail {
+  width: 100%;
+}
+
+.daily-culture-app .discover-page .discover-field-filter-track {
+  display: flex;
+  align-items: center;
+}
+
+.daily-culture-app .discover-page .discover-field-selection {
+  flex: none;
+}
+
+.daily-culture-app .discover-page .discover-field-selection .dc-selection-option {
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.daily-culture-app .discover-page .discover-medium-rail {
+  animation: discover-medium-reveal 180ms ease-out;
+}
+
+.daily-culture-app .discover-page .discover-medium-selection {
+  flex: none;
+  background: transparent;
+}
+
+.daily-culture-app .discover-page .discover-medium-selection .dc-selection-option {
+  min-height: 28px;
+  padding: 4px 10px;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.daily-culture-app .discover-page .discover-medium-selection .dc-selection-indicator {
+  background: var(--app-surface);
+}
+
+@keyframes discover-medium-reveal {
+  from { opacity: 0; transform: translateY(-3px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.daily-culture-app .discover-page .discover-section-heading,
+.daily-culture-app .discover-page .discover-gallery-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 0 4px;
+}
+
+.daily-culture-app .discover-page .discover-section-heading h2 {
+  min-width: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+.daily-culture-app .discover-page .discover-text-action {
+  flex: none;
+  color: var(--app-text);
+  font-size: 10px;
+  line-height: 16px;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.daily-culture-app .discover-page .discover-featured {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.daily-culture-app .discover-page .discover-featured-track {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.daily-culture-app .discover-page .discover-collection-card {
+  display: flex;
+  flex: 0 0 243px;
+  width: 243px;
+  flex-direction: column;
+  gap: 8px;
+  border-radius: 4px;
+}
+
+.daily-culture-app .discover-page .discover-collection-card > img {
+  width: 243px;
+  height: 182px;
+  border-radius: 4px;
+  background: var(--app-surface);
+  object-fit: cover;
+}
+
+.daily-culture-app .discover-page .discover-card-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  color: var(--app-muted);
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: .01em;
+  overflow-wrap: anywhere;
+}
+
+.daily-culture-app .discover-page .discover-card-copy strong {
+  color: var(--app-text);
+  font-size: inherit;
+  font-weight: 400;
+  line-height: inherit;
+}
+
+.daily-culture-app .discover-page .discover-new,
+.daily-culture-app .discover-page .discover-categories {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.daily-culture-app .discover-page .discover-gallery:has(.discover-show-all) + .discover-categories {
+  margin-top: -4px;
+  padding-top: 20px;
+  border-top: .5px solid var(--app-divider);
+}
+
+.daily-culture-app .discover-page .discover-tiles,
+.daily-culture-app .discover-page .discover-category-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.daily-culture-app .discover-page .discover-tile {
+  display: flex;
+  min-width: 0;
+  min-height: 72px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+  padding: 12px;
+  border-radius: 4px;
+  background: var(--app-surface);
+  color: var(--app-text);
+  text-align: left;
+  overflow-wrap: anywhere;
+  transition: box-shadow 160ms ease;
+}
+
+.daily-culture-app .discover-page .discover-tile small {
+  color: var(--app-muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.daily-culture-app .discover-page .discover-tile > span {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.daily-culture-app .discover-page .discover-tile[aria-pressed="true"] {
+  box-shadow: inset 0 0 0 1px var(--app-text);
+}
+
+.daily-culture-app .discover-page .discover-gallery {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 4px;
+  padding-top: 24px;
+  border-top: .5px solid var(--app-divider);
+  scroll-margin-top: 56px;
+}
+
+.daily-culture-app .discover-page .discover-new + .discover-gallery {
+  margin-top: -4px;
+  padding-top: 16px;
+}
+
+.daily-culture-app .discover-page[data-gallery-expanded="true"] .discover-gallery {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.daily-culture-app .discover-page .discover-gallery-heading h2 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+/* Reserve the same heading row when a scope has no gallery controls. */
+.daily-culture-app .discover-page .discover-gallery-heading { min-height: 32px; }
+
+.daily-culture-app .discover-page .discover-gallery-title {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 12px;
+}
+
+.daily-culture-app .discover-page .discover-gallery-title h2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.daily-culture-app .discover-page .discover-back {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  min-height: 32px;
+  padding: 0;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--app-muted);
+}
+
+.daily-culture-app .discover-page .discover-back:focus-visible {
+  outline: 1px solid var(--app-muted);
+  outline-offset: 3px;
+}
+
+.daily-culture-app .discover-page .discover-back:active { opacity: .65; }
+
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions {
+  display: flex;
+  flex: none;
+  align-items: center;
+  gap: 4px;
+}
+
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions button {
+  display: grid;
+  width: 24px;
+  height: 24px;
+  place-items: center;
+  border-radius: 4px;
+  color: var(--app-muted);
+}
+
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions button[aria-pressed="true"] {
+  background: var(--app-surface);
+  color: var(--app-text);
+}
+
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions svg {
+  width: 12px;
+  height: 12px;
+}
+
+/* A quiet text action beside the view controls; a dot marks applied filters. */
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter {
+  position: relative;
+  display: inline-flex;
+  width: auto;
+  height: 32px;
+  min-height: 32px;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin-right: 4px;
+  padding: 0 8px;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--app-muted);
+  font: 400 12px/16px var(--app-sans);
+  letter-spacing: 0;
+  white-space: nowrap;
+  transition: background-color 160ms ease, color 160ms ease, opacity 120ms ease;
+}
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter-chevron {
+  width: 10px;
+  height: 10px;
+  transition: transform 160ms cubic-bezier(.22, 1, .36, 1);
+}
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-sort-filter::after {
+  content: "";
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0;
+  transition: opacity 160ms ease;
+}
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter[data-active="true"] {
+  color: var(--app-text);
+}
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-sort-filter[data-active="true"]::after { opacity: 1; }
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter[aria-expanded="true"] {
+  background: color-mix(in srgb, var(--app-surface) 70%, transparent);
+  color: var(--app-text);
+}
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-sort-filter[aria-expanded="true"] .discover-sort-filter-chevron { transform: rotate(180deg); }
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-sort-filter:active { opacity: .7; }
+@media (hover: hover) {
+  .daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter:hover {
+    background: color-mix(in srgb, var(--app-surface) 70%, transparent);
+    color: var(--app-text);
+  }
+}
+
+.daily-culture-app .discover-page .discover-show-all {
+  display: inline-flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  min-height: 32px;
+  margin-top: 12px; /* The gallery's 4px gap completes the 16px separation. */
+  padding: 0 16px;
+  border-radius: 999px;
+  background: var(--app-surface);
+  color: var(--app-text);
+  font: 400 12px/16px var(--app-sans);
+  letter-spacing: 0;
+}
+
+.daily-culture-app .discover-page .discover-results-status {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 4px;
+  color: var(--app-muted);
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.daily-culture-app .discover-page .discover-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  gap: 4px;
+}
+
+.daily-culture-app .discover-page .discover-artwork-card:not(.artwork-list-row) {
+  display: flex;
+  container-type: inline-size;
+  min-width: 0;
+  width: 100%;
+  flex-direction: column;
+  gap: 2px;
+  border-radius: 2px;
+}
+
+.daily-culture-app .discover-page .discover-artwork-card:not(.artwork-list-row) > img {
+  width: 100%;
+  height: auto;
+  /* Keep natural proportions until a portrait exceeds 4:5 at this column width. */
+  max-height: 125cqw;
+  border-radius: 2px;
+  background: var(--app-bg);
+  object-fit: cover;
+}
+
+.daily-culture-app .discover-page .discover-gallery-grid[data-layout="list"] {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+}
+
+.daily-culture-app .discover-page .discover-empty {
+  padding: 20px 4px;
+}
+
+.daily-culture-app .discover-page .discover-empty h3 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.daily-culture-app .discover-page .discover-empty p {
+  margin: 4px 0 12px;
+  color: var(--app-muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.daily-culture-app .discover-page .discover-category-card {
+  position: relative;
+  min-width: 0;
+  aspect-ratio: 6 / 7;
+  overflow: hidden;
+  border-radius: 4px;
+  background: var(--app-surface);
+  color: var(--app-text);
+}
+
+.daily-culture-app .discover-page .discover-category-card > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.daily-culture-app .discover-page .discover-category-card > span {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  max-width: calc(100% - 20px);
+  padding: 5px 8px;
+  background: var(--app-bg);
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+
+.daily-culture-app .discover-page button:focus-visible {
+  outline: 2px solid var(--app-focus);
+  outline-offset: -2px;
+}
+.daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter:focus-visible {
+  outline: 1px solid var(--app-muted);
+  outline-offset: 2px;
+}
+
+/* Retain readable surfaces when the monochrome dark surface equals the canvas. */
+.daily-culture-app[data-theme="dark"] .discover-page .discover-search,
+.daily-culture-app[data-theme="dark"] .discover-page .discover-tile {
+  background: var(--app-surface);
+}
+
+/* BottomSheet is portaled into the phone, outside the app page. */
+.device-screen .discover-filter-sheet {
+  min-width: 0;
+  color: var(--app-text);
+  font-family: var(--app-sans);
+}
+
+.device-screen .discover-filter-sheet .sheet-options .dc-selection-option {
+  min-height: 32px;
+  padding: 6px 12px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.device-screen .discover-filter-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 4px;
+}
+
+.device-screen:has(.daily-culture-app) .bottom-sheet .discover-filter-footer > button {
+  display: inline-flex;
+  min-height: 32px;
+  align-items: center;
+  justify-content: center;
+  padding: 0 12px;
+  border-radius: 999px;
+  background: var(--app-surface);
+  color: var(--app-text);
+  font: 400 12px/16px var(--app-sans);
+  letter-spacing: 0;
+}
+
+.device-screen:has(.daily-culture-app) .bottom-sheet .discover-filter-footer > button:last-child {
+  background: var(--app-text);
+  color: var(--app-bg);
+}
+
+.device-screen:has(.daily-culture-app) .bottom-sheet .discover-filter-footer > button:focus-visible {
+  outline: 2px solid var(--app-focus);
+  outline-offset: 2px;
+}
+
+/* Keep the field and touch targets 44px tall, including after text entry. */
+@media (pointer: coarse) {
+  .daily-culture-app .discover-page .discover-gallery-heading { min-height: 44px; }
+  .daily-culture-app .discover-page .discover-medium-selection .dc-selection-option { min-height: 44px; }
+  .daily-culture-app .discover-page .discover-back { width: 44px; height: 44px; min-height: 44px; }
+  .daily-culture-app .discover-page .discover-search {
+    min-height: 44px;
+    padding-block: 0;
+  }
+
+  .daily-culture-app .discover-page .discover-search input {
+    min-height: 36px;
+  }
+
+  .daily-culture-app .discover-page .discover-search button,
+  .daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions button {
+    width: 44px;
+    height: 44px;
+  }
+
+  .daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter {
+    width: auto;
+    min-height: 44px;
+    height: 44px;
+  }
+
+  .device-screen .discover-filter-sheet .sheet-options .dc-selection-option { min-height: 44px; }
+
+  .daily-culture-app .discover-page .discover-show-all,
+  .device-screen:has(.daily-culture-app) .bottom-sheet .discover-filter-footer > button {
+    min-height: 44px;
+  }
+
+  .daily-culture-app .discover-page .discover-text-action {
+    display: inline-flex;
+    min-height: 44px;
+    align-items: center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter,
+  .daily-culture-app :is(.discover-page, .favourites-page) .discover-sort-filter::after,
+  .daily-culture-app :is(.discover-page, .favourites-page) .discover-gallery-actions .discover-sort-filter-chevron { transition: none; }
+  .daily-culture-app .discover-page .discover-medium-rail { animation: none; }
+  .daily-culture-app .discover-page .discover-tile {
+    transition: none;
+  }
+}

@@ -1,0 +1,33 @@
+import {chromium} from 'playwright';
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+const browser=await chromium.launch();
+try {
+ const page=await browser.newPage({viewport:{width:1100,height:1100},reducedMotion:'reduce'});
+ page.setDefaultTimeout(5000);
+ const errors=[], passed=[]; page.on('pageerror',error=>errors.push(error.message));
+ await page.goto('http://127.0.0.1:4173/');
+ assert.equal(await page.locator('.scroll-edge-viewport[data-variant=strong]').count(),1);
+ assert.equal(await page.locator('.scroll-edge-blur--top').count(),0);
+ assert.equal(await page.locator('.scroll-edge-blur--bottom').count(),1);passed.push('Normal route uses Stronger at the bottom only');
+ const storage=()=>page.evaluate(()=>JSON.stringify(Object.fromEntries(Object.entries(localStorage).sort())));
+ const baseline=await storage();
+ await page.goto('http://127.0.0.1:4173/?edge-blur-study=soft&edge-blur-page=profile');await page.waitForTimeout(500);
+ const strengths=()=>page.locator('.scroll-edge-blur').evaluateAll(elements=>elements.map(element=>Number(element.style.getPropertyValue('--edge-strength'))));
+ const command=async data=>{await page.evaluate(data=>window.postMessage({type:'taste-edge-blur-command',variant:'soft',...data},location.origin),data);await page.waitForTimeout(240)};
+ assert.deepEqual(await strengths(),[0,1]);
+ await command({action:'scroll',position:.5});assert.deepEqual(await strengths(),[1,1]);
+ await command({action:'scroll',position:1});assert.deepEqual(await strengths(),[1,0]);passed.push('Top, middle, and bottom edge states');
+ await command({action:'scroll',position:0});await page.locator('#taste-profile-tab-followers').click();await page.waitForTimeout(300);assert.deepEqual(await strengths(),[0,0]);passed.push('Empty section has no blur');
+ await command({action:'page',page:'settings'});await page.getByRole('button',{name:'Language English',exact:false}).click();await page.waitForTimeout(250);assert.deepEqual(await strengths(),[0,0]);await page.keyboard.press('Escape');passed.push('Settings sheet disables blur');
+ await command({action:'page',page:'daily'});await page.locator('.daily-slide[data-active="true"] .today-hero').click();await page.waitForTimeout(200);assert.deepEqual(await strengths(),[0,0]);await page.keyboard.press('Escape');passed.push('Image viewer disables blur');
+ await command({action:'theme',theme:'dark'});
+ await page.locator('.daily-slide[data-active="true"] .today-save-primary').click();await page.waitForTimeout(300);
+ assert.equal(await storage(),baseline);passed.push('Study saves and theme do not persist');
+ assert.ok(await page.locator('.scroll-edge-blur-layer').first().evaluate(element=>parseFloat(getComputedStyle(element).transitionDuration)<.001));passed.push('Reduced motion removes transitions');
+ await command({action:'page',page:'search'});await page.locator('.discover-search input').fill('wave');await page.waitForTimeout(300);
+ assert.equal(await page.locator('.scroll-edge-viewport').first().evaluate(element=>getComputedStyle(element).visibility),'hidden');passed.push('Keyboard hides layers');
+ assert.deepEqual(errors,[]);
+ await fs.writeFile('../qa/scroll-edge-blur-2026-09-23/behavior-check.json',JSON.stringify({passed,errors},null,2));
+ console.log(`${passed.length} focused checks passed; no page errors.`);
+} finally {await browser.close();}

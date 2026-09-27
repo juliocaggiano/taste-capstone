@@ -1,0 +1,225 @@
+[
+  {
+    "entryId": "beethoven-symphony-nine",
+    "options": [
+      {
+        "id": "A",
+        "label": "Manuscript · current artwork",
+        "description": "Black-and-white handwritten music, without association with a particular recording.",
+        "imageUrl": "image-options/assets/music/beethoven-a-manuscript.png",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Beethoven_Ninth_Symphony.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_Ninth_Symphony.png",
+        "credit": "Ludwig van Beethoven; reproduction via Wikimedia Commons.",
+        "altText": "Handwritten orchestral score on white paper.",
+        "width": 500,
+        "height": 441,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Commons identifies the reproduction as PD-Art/Public Domain Mark; all candidates remain review-only until app clearance.",
+        "edition": "Manuscript illustration, identified by Commons as the fourth movement of the Ninth Symphony.",
+        "editionNotes": "Current illustration retained. Not an album cover or a recording. Commons does not identify a holding institution, shelfmark or folio; none is asserted. Its 2007 date is upload metadata, not composition date.",
+        "verificationSources": [],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "148735bd65dc7ccccc0b23d662fedd218b17dbee6a905b2e1baea69068933e9b"
+      },
+      {
+        "id": "B",
+        "label": "Karajan · The Originals, 1995",
+        "description": "Burgundy cover with black and gold type and the yellow Deutsche Grammophon mark.",
+        "imageUrl": "image-options/assets/music/beethoven-b-karajan.jpg",
+        "originalImageUrl": "https://images.universal-music.de/img/assets/989/98960/4/2048/beethoven-symphony-no9-overture-coriolan-0028944740121.jpg",
+        "sourceUrl": "https://www.deutschegrammophon.com/en/catalogue/products/beethoven-symphony-no-9-karajan-1962-4125",
+        "credit": "Deutsche Grammophon / Universal Music; individual cover designer not identified.",
+        "altText": "Burgundy Deutsche Grammophon cover for Beethoven’s Ninth and Coriolan Overture, conducted by Herbert von Karajan.",
+        "width": 2048,
+        "height": 2048,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyrighted release artwork; no reusable image license identified.",
+        "edition": "DG The Originals; UPC 00028944740127; catalogue release 22 February 1995; Ninth recorded in 1962.",
+        "editionNotes": "Recording-specific alternative: Berliner Philharmoniker, Wiener Singverein, Herbert von Karajan, with Janowitz, Rössel-Majdan, Kmentt and Berry. The 1824 entry remains about Beethoven’s composition, not a review of Karajan’s interpretation. This is the 1995 reissue cover, not an 1824 artifact.",
+        "verificationSources": [],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "2ea367cd451bbe1dc891f5a45c27c57f07ce4a1f2b2a41ccb89e35734633d96a"
+      },
+      {
+        "id": "C",
+        "label": "Solti · Silver Jubilee recording",
+        "description": "Warm concert-hall photograph framed by white borders and large brown lettering.",
+        "imageUrl": "image-options/assets/music/beethoven-c-solti.jpg",
+        "originalImageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/60/2f/22/602f2286-0764-098b-75eb-341e72333cdb/00028948330935.rgb.jpg/1200x1200bf-60.jpg",
+        "sourceUrl": "https://music.apple.com/us/album/beethoven-symphony-no-9-choral/1452295042",
+        "credit": "Decca Music Group / Universal Music; artwork served by Apple Music. Photographer not identified.",
+        "altText": "Solti-Decca Silver Jubilee cover showing a large orchestra and chorus in an amber-lit hall.",
+        "width": 1200,
+        "height": 1200,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyrighted release artwork; no reusable image license identified.",
+        "edition": "Decca Silver Jubilee recording; Apple identifies ℗ 1972; Decca’s linked reissue catalogue is dated 1 December 2017, UPC 00028948330935.",
+        "editionNotes": "Recording-specific alternative: Georg Solti with Chicago Symphony Orchestra and Chorus; soloists Pilar Lorengar, Yvonne Minton, Stuart Burrows and Martti Talvela. Distinct from Solti’s later recording with Jessye Norman. The entry’s 1824 composition date does not change.",
+        "verificationSources": [
+          {
+            "url": "https://www.deccaclassics.com/en/catalogue/products/beethoven-symphony-9-solti-8068",
+            "supports": "Exact UPC, performers, composer and 2017 catalogue date; official image endpoint returned 404, so matching Apple release artwork was used."
+          }
+        ],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "9d249a855b4e65944fd062d566d3b2ec6bb48273114daf22e8550a7f53eb317f"
+      }
+    ]
+  },
+  {
+    "entryId": "billie-holiday-strange-fruit",
+    "options": [
+      {
+        "id": "A",
+        "label": "Commodore 526-A · 1939 release",
+        "description": "Red-and-gold record label naming Strange Fruit, Holiday and her orchestra.",
+        "imageUrl": "image-options/assets/music/holiday-a-commodore-label.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Strange-Fruit-Commodore-1939.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strange-Fruit-Commodore-1939.jpg",
+        "credit": "Commodore Records; original-record scan by Wikimedia Commons contributor WFinch.",
+        "altText": "Circular red Commodore label with gold type for Billie Holiday and Her Orchestra’s Strange Fruit, 526-A.",
+        "width": 2700,
+        "height": 2700,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Commons marks the label public domain in the United States because of publication without notice; this does not clear every jurisdiction, the song or recording.",
+        "edition": "Commodore 526-A; 1939 release.",
+        "editionNotes": "Title, performer and catalogue number are visible and agree with the Commons record. The physical pressing date of this particular copy is not independently established. This is record-label artwork, not a sleeve. No audio is included.",
+        "verificationSources": [],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "7f97b3a121e9eb80ce65787c716bdfc134ed4896b02abb57974a16127ac4eed8"
+      },
+      {
+        "id": "B",
+        "label": "Complete Commodore Recordings · 1997",
+        "description": "Orange title panel over blue and cream stripes, with a small Holiday portrait.",
+        "imageUrl": "image-options/assets/music/holiday-b-commodore-1997.jpg",
+        "originalImageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/98/86/1398860b-be52-426f-25d2-deab89595212/06UMGIM04179.rgb.jpg/1200x1200bf-60.jpg",
+        "sourceUrl": "https://music.apple.com/us/album/the-complete-commodore-recordings/1429177620",
+        "credit": "UMG Recordings / Verve Label Group; artwork served by Apple Music. Individual designer and portrait photographer not identified.",
+        "altText": "Orange and blue cover reading Billie Holiday: The Complete Commodore Recordings, with cream vertical stripes.",
+        "width": 1200,
+        "height": 1200,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyrighted release artwork; no reusable image license identified.",
+        "edition": "The Complete Commodore Recordings; 28 January 1997 compilation, 45 tracks; ℗ 1997 UMG Recordings.",
+        "editionNotes": "Apple’s embedded MusicAlbum track data lists Strange Fruit first, as well as alternate versions. This later compilation includes Holiday’s Commodore material; it is not the original 1939 single sleeve. The article still concerns the 1939 recording.",
+        "verificationSources": [],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "f898153a6e0353a7a95d9798f879325e7f179435d80b63c11d951b2ff2a7efcf"
+      },
+      {
+        "id": "C",
+        "label": "Commodore & Decca Masters · 2009",
+        "description": "Restrained olive background with a black line portrait and small blue and gray type.",
+        "imageUrl": "image-options/assets/music/holiday-c-commodore-decca-flat.jpg",
+        "originalImageUrl": "https://i.scdn.co/image/ab67616d0000b27366d8cdb1d470596a1c913a7a",
+        "sourceUrl": "https://open.spotify.com/album/1LTW62zneyklPRBYWq6ZHz",
+        "credit": "UMG / Verve, The Complete Commodore & Decca Masters; artwork served by Spotify. Individual illustrator not identified.",
+        "altText": "Olive cover with a line drawing of Billie Holiday singing and the title The Complete Commodore & Decca Masters.",
+        "width": 640,
+        "height": 640,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyrighted release artwork; no reusable image license identified.",
+        "edition": "The Complete Commodore & Decca Masters; 2009 compilation; 52-track digital edition.",
+        "editionNotes": "Strange Fruit is the first track. The artist’s official album page confirms this collection includes her early Commodore recording. The selected image is flat digital release artwork, not the physical CD-box photograph. It illustrates a later compilation, not a 1939 sleeve.",
+        "verificationSources": [
+          {
+            "url": "https://billieholiday.com/album/complete-commodore-decca-masters/",
+            "supports": "Official artist page identifies the collection and its connection to Strange Fruit."
+          },
+          {
+            "url": "https://music.apple.com/us/album/the-complete-commodore-decca-masters/1444533288",
+            "supports": "2009 release, 52 tracks, matching artwork; embedded track metadata identifies Strange Fruit."
+          }
+        ],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "8c3f10a80141c04e26a7b6d347be8db52d0a9b588a0ac4878c09f8a47f878259"
+      }
+    ]
+  },
+  {
+    "entryId": "joao-gilberto-chega-saudade",
+    "options": [
+      {
+        "id": "A",
+        "label": "Odeon album cover · 1959",
+        "description": "João Gilberto’s portrait with stacked, multicolored lettering.",
+        "imageUrl": "image-options/assets/music/joao-a-odeon-cover.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Joao_Gilberto_-_Chega_de_Saudade.jpg",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Joao_Gilberto_-_Chega_de_Saudade.jpg",
+        "credit": "Odeon Records; cover reproduction via English Wikipedia. Individual photographer and designer not established.",
+        "altText": "João Gilberto rests his chin on his hand beside the multicolored title Chega de Saudade.",
+        "width": 316,
+        "height": 316,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyrighted album cover. Wikipedia’s contextual non-free-use rationale does not authorize this app’s reuse.",
+        "edition": "Chega de Saudade LP; Odeon MOFB 3073; March 1959 album.",
+        "editionNotes": "Current illustration retained. The cover belongs to the 1959 album containing the title track, not the August 1958 single. The file is 316 × 316 pixels and may look soft at large sizes.",
+        "verificationSources": [
+          {
+            "url": "https://immub.org/album/chega-de-saudade",
+            "supports": "Odeon MOFB 3073, 1959 LP, March album release, August 1958 single distinction and title track."
+          }
+        ],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "34b3591066b588428f92d770622230a9c01be4f2de39ac99adfc3f4b87e54117"
+      },
+      {
+        "id": "B",
+        "label": "Odeon 14.360 · 1958 single",
+        "description": "Gray label with the original single’s title, catalogue number and orchestra credit.",
+        "imageUrl": "image-options/assets/music/joao-b-1958-single.webp",
+        "originalImageUrl": "https://http2.mlstatic.com/D_NQ_NP_647795-MLB48974886130_012022-O.webp",
+        "sourceUrl": "https://www.mercadolivre.com.br/78-rpm-joao-gilberto-1958-chega-de-saudade--excelente-ex/up/MLBU1320415276",
+        "credit": "Odeon Records label; seller’s photograph hosted by Mercado Livre. Photographer not identified.",
+        "altText": "Gray Odeon 78 rpm label reading Chega de Saudade, João Gilberto, Antônio Carlos Jobim e sua Orquestra, and 14.360.",
+        "width": 500,
+        "height": 463,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "No open license identified for the photographed record label or seller’s photograph.",
+        "edition": "Odeon 14.360; matrix RIO-12725; August 1958 single, recorded 10 July 1958.",
+        "editionNotes": "Catalogue number, title, performer and matrix are visible and match Instituto Moreira Salles. The exact manufacturing date of this photographed pressing is unverified. The seller page was search-indexed but direct page access failed; the image downloaded successfully. It includes a narrow area of the original record around the label.",
+        "verificationSources": [
+          {
+            "url": "https://discografiabrasileira.com.br/disco/133287/odeon-14360",
+            "supports": "Original August 1958 release and catalogue number."
+          },
+          {
+            "url": "https://discografiabrasileira.com.br/fonograma/133285/chega-de-saudade",
+            "supports": "Recording date, matrix, performer and Jobim-orchestra credit."
+          }
+        ],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "19ac4cb401d2df492b444ea27859b35763890087d792c7b4b3f066c71774fa9d"
+      },
+      {
+        "id": "C",
+        "label": "Odeon LP label · album issued 1959",
+        "description": "Blue label with the album title and six first-side tracks.",
+        "imageUrl": "image-options/assets/music/joao-c-odeon-album-label.jpg",
+        "originalImageUrl": "https://cdn.immub.org/capas/3806/thumbnails/m_3806sa.jpg",
+        "sourceUrl": "https://immub.org/album/chega-de-saudade",
+        "credit": "Odeon Records label; scan published by Instituto Memória Musical Brasileira (IMMuB). Scan contributor not identified.",
+        "altText": "Blue Odeon label for João Gilberto’s Chega de Saudade LP, MOFB 3073, listing Chega de Saudade as the first track.",
+        "width": 400,
+        "height": 400,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "No open reuse license identified for the label scan. Institutional availability is not app clearance.",
+        "edition": "Chega de Saudade LP, Odeon MOFB 3073, side A; album first issued March 1959.",
+        "editionNotes": "This is an archived album-label scan, not the 1958 single. The archive dates the album to 1959; the manufacturing date of the particular pressing shown is not established. Blue label and 33⅓ rpm format are visibly distinct from the gray 78 rpm single label.",
+        "verificationSources": [],
+        "verifiedOn": "2026-09-23",
+        "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+        "sha256": "ad03f6f40c799983c629d656bb6fbebf6ac49f49046fdf56f802c6c70d86c825"
+      }
+    ]
+  }
+]

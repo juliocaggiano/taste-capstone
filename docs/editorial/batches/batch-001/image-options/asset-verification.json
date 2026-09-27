@@ -1,0 +1,368 @@
+{
+  "activeEntries": 12,
+  "heldEntries": 9,
+  "verifiedAssets": 36,
+  "allSourceBodiesPreserved": true,
+  "assets": [
+    {
+      "entry": "stanczyk",
+      "option": "A",
+      "imageUrl": "image-options/assets/painting/stanczyk-a.jpg",
+      "dimensions": [
+        1920,
+        1428
+      ],
+      "sha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022"
+    },
+    {
+      "entry": "stanczyk",
+      "option": "B",
+      "imageUrl": "image-options/assets/painting/stanczyk-wga.jpg",
+      "dimensions": [
+        800,
+        595
+      ],
+      "sha256": "5654802077a832131c18e8598dd0d8a665b6aa53e878fd8c6736cef53b41cbd8"
+    },
+    {
+      "entry": "stanczyk",
+      "option": "C",
+      "imageUrl": "image-options/assets/painting/stanczyk-wikiart.jpg",
+      "dimensions": [
+        2464,
+        1832
+      ],
+      "sha256": "a4061e5a944f9aab732df07cbdf3ab60673e063e429c18d769c2de531b72621f"
+    },
+    {
+      "entry": "death-of-marat",
+      "option": "A",
+      "imageUrl": "image-options/assets/painting/death-of-marat-a.jpg",
+      "dimensions": [
+        1920,
+        2471
+      ],
+      "sha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
+    },
+    {
+      "entry": "death-of-marat",
+      "option": "B",
+      "imageUrl": "image-options/assets/painting/death-of-marat-b.jpg",
+      "dimensions": [
+        1920,
+        2475
+      ],
+      "sha256": "f9cde8480252b019cc55be8b5cb8f50c2a7f4eb1889939409e8a955824deac6d"
+    },
+    {
+      "entry": "death-of-marat",
+      "option": "C",
+      "imageUrl": "image-options/assets/painting/death-of-marat-c.jpg",
+      "dimensions": [
+        1620,
+        2110
+      ],
+      "sha256": "9dfe5e58aa4a3a982e4d4bcdfc9d5c7360a90965cc375bdfd6ef1968fe5113e5"
+    },
+    {
+      "entry": "the-ambassadors",
+      "option": "A",
+      "imageUrl": "image-options/assets/painting/the-ambassadors-a.jpg",
+      "dimensions": [
+        1920,
+        1925
+      ],
+      "sha256": "db400b8f08a3c9d88cfc8a080adc41543ae6d62802a41b2ecd5fbb3478ab6b78"
+    },
+    {
+      "entry": "the-ambassadors",
+      "option": "B",
+      "imageUrl": "image-options/assets/painting/the-ambassadors-b.jpg",
+      "dimensions": [
+        1920,
+        1892
+      ],
+      "sha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
+    },
+    {
+      "entry": "the-ambassadors",
+      "option": "C",
+      "imageUrl": "image-options/assets/painting/the-ambassadors-c.jpg",
+      "dimensions": [
+        1920,
+        1882
+      ],
+      "sha256": "c889a4fab267791309b7a53d7ce5a41408e5be7530f7a8f00f8e0f12e59ad29b"
+    },
+    {
+      "entry": "beethoven-symphony-nine",
+      "option": "A",
+      "imageUrl": "image-options/assets/music/beethoven-a-manuscript.png",
+      "dimensions": [
+        500,
+        441
+      ],
+      "sha256": "148735bd65dc7ccccc0b23d662fedd218b17dbee6a905b2e1baea69068933e9b"
+    },
+    {
+      "entry": "beethoven-symphony-nine",
+      "option": "B",
+      "imageUrl": "image-options/assets/music/beethoven-b-karajan.jpg",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "2ea367cd451bbe1dc891f5a45c27c57f07ce4a1f2b2a41ccb89e35734633d96a"
+    },
+    {
+      "entry": "beethoven-symphony-nine",
+      "option": "C",
+      "imageUrl": "image-options/assets/music/beethoven-c-solti.jpg",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "sha256": "9d249a855b4e65944fd062d566d3b2ec6bb48273114daf22e8550a7f53eb317f"
+    },
+    {
+      "entry": "billie-holiday-strange-fruit",
+      "option": "A",
+      "imageUrl": "image-options/assets/music/holiday-a-commodore-label.jpg",
+      "dimensions": [
+        2700,
+        2700
+      ],
+      "sha256": "7f97b3a121e9eb80ce65787c716bdfc134ed4896b02abb57974a16127ac4eed8"
+    },
+    {
+      "entry": "billie-holiday-strange-fruit",
+      "option": "B",
+      "imageUrl": "image-options/assets/music/holiday-b-commodore-1997.jpg",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "sha256": "f898153a6e0353a7a95d9798f879325e7f179435d80b63c11d951b2ff2a7efcf"
+    },
+    {
+      "entry": "billie-holiday-strange-fruit",
+      "option": "C",
+      "imageUrl": "image-options/assets/music/holiday-c-commodore-decca-flat.jpg",
+      "dimensions": [
+        640,
+        640
+      ],
+      "sha256": "8c3f10a80141c04e26a7b6d347be8db52d0a9b588a0ac4878c09f8a47f878259"
+    },
+    {
+      "entry": "joao-gilberto-chega-saudade",
+      "option": "A",
+      "imageUrl": "image-options/assets/music/joao-a-odeon-cover.jpg",
+      "dimensions": [
+        316,
+        316
+      ],
+      "sha256": "34b3591066b588428f92d770622230a9c01be4f2de39ac99adfc3f4b87e54117"
+    },
+    {
+      "entry": "joao-gilberto-chega-saudade",
+      "option": "B",
+      "imageUrl": "image-options/assets/music/joao-b-1958-single.webp",
+      "dimensions": [
+        500,
+        463
+      ],
+      "sha256": "19ac4cb401d2df492b444ea27859b35763890087d792c7b4b3f066c71774fa9d"
+    },
+    {
+      "entry": "joao-gilberto-chega-saudade",
+      "option": "C",
+      "imageUrl": "image-options/assets/music/joao-c-odeon-album-label.jpg",
+      "dimensions": [
+        400,
+        400
+      ],
+      "sha256": "ad03f6f40c799983c629d656bb6fbebf6ac49f49046fdf56f802c6c70d86c825"
+    },
+    {
+      "entry": "eternal-sunshine",
+      "option": "A",
+      "imageUrl": "image-options/assets/cinema/K6M8JXPG.jpg",
+      "dimensions": [
+        1920,
+        1040
+      ],
+      "sha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805"
+    },
+    {
+      "entry": "eternal-sunshine",
+      "option": "B",
+      "imageUrl": "image-options/assets/cinema/K21BCFH5.jpg",
+      "dimensions": [
+        1920,
+        1040
+      ],
+      "sha256": "2d0ee4125f64b198effcbc8d95fd5ff8d14ef71031765b43a82406f33966be3a"
+    },
+    {
+      "entry": "eternal-sunshine",
+      "option": "C",
+      "imageUrl": "image-options/assets/cinema/ZISGSBSJ.jpg",
+      "dimensions": [
+        1920,
+        1039
+      ],
+      "sha256": "4f6034cf88a4811c79bd1f592847be4fc2e396fc2a4c923ef6d1f7837b9260cd"
+    },
+    {
+      "entry": "soul",
+      "option": "A",
+      "imageUrl": "image-options/assets/cinema/N2M5LTVK.png",
+      "dimensions": [
+        1920,
+        804
+      ],
+      "sha256": "7b207f9a3d87e57f7b859f1cbaaddfab92853bdfa1dfaed53669a745b0392393"
+    },
+    {
+      "entry": "soul",
+      "option": "B",
+      "imageUrl": "image-options/assets/cinema/4V9T2QQ3.png",
+      "dimensions": [
+        1920,
+        804
+      ],
+      "sha256": "636f1a1f7fdd86dd5c65c8e79fccf069536e469db5b4b8954a6396af0b968c49"
+    },
+    {
+      "entry": "soul",
+      "option": "C",
+      "imageUrl": "image-options/assets/cinema/8SSQHB9V.png",
+      "dimensions": [
+        1920,
+        804
+      ],
+      "sha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439"
+    },
+    {
+      "entry": "im-still-here",
+      "option": "A",
+      "imageUrl": "image-options/assets/cinema/QC5VUQXE.jpg",
+      "dimensions": [
+        1924,
+        1040
+      ],
+      "sha256": "2375c027b079bdc6170ef5afbc87c7cb19fa4fea1f79aa05867685789c23c258"
+    },
+    {
+      "entry": "im-still-here",
+      "option": "B",
+      "imageUrl": "image-options/assets/cinema/G8HYXFT1.jpg",
+      "dimensions": [
+        1924,
+        1040
+      ],
+      "sha256": "e3c315ce331bed79356b2a8ff03cbaff1e487fb16211e1d5fb6cd8280366dd30"
+    },
+    {
+      "entry": "im-still-here",
+      "option": "C",
+      "imageUrl": "image-options/assets/cinema/PLKJE7W8.jpg",
+      "dimensions": [
+        1924,
+        1040
+      ],
+      "sha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee"
+    },
+    {
+      "entry": "animal-farm",
+      "option": "A",
+      "imageUrl": "image-options/assets/literature/animal-farm-alma-flat.jpg",
+      "dimensions": [
+        1534,
+        2339
+      ],
+      "sha256": "61b3a8f2cc6735f717eb4ad8db5976c6298e10010702913e764449223df0b720"
+    },
+    {
+      "entry": "animal-farm",
+      "option": "B",
+      "imageUrl": "image-options/assets/literature/animal-farm-b.jpg",
+      "dimensions": [
+        326,
+        500
+      ],
+      "sha256": "e2d4648e95ea09d60b73505cf05b9878f738c601220102745566b7270569ad4a"
+    },
+    {
+      "entry": "animal-farm",
+      "option": "C",
+      "imageUrl": "image-options/assets/literature/animal-farm-c.jpg",
+      "dimensions": [
+        600,
+        927
+      ],
+      "sha256": "31663db27b3a846cdc21a409d3032d8284082bf7ac699355af5eb47da4746e2a"
+    },
+    {
+      "entry": "vidas-secas",
+      "option": "A",
+      "imageUrl": "image-options/assets/literature/vidas-record-large.jpg",
+      "dimensions": [
+        972,
+        1500
+      ],
+      "sha256": "7378e7f7dae0655b1963887df84c638f0b6efd0d5d88fd5380a3b415847c1a53"
+    },
+    {
+      "entry": "vidas-secas",
+      "option": "B",
+      "imageUrl": "image-options/assets/literature/vidas-record-pocket.jpg",
+      "dimensions": [
+        1000,
+        1500
+      ],
+      "sha256": "3d0ee0c3705102354657f4542891e6bd6b0621257a20e5ff5dd5be279c8a8469"
+    },
+    {
+      "entry": "vidas-secas",
+      "option": "C",
+      "imageUrl": "image-options/assets/literature/vidas-todavia-flat.jpg",
+      "dimensions": [
+        989,
+        1500
+      ],
+      "sha256": "4d386ba93245340ac011a66112e8f92d434598d036da5968faa30bcf6cf1e901"
+    },
+    {
+      "entry": "the-great-gatsby",
+      "option": "A",
+      "imageUrl": "image-options/assets/literature/gatsby-scribner-flat.jpg",
+      "dimensions": [
+        1400,
+        2133
+      ],
+      "sha256": "96627aaff3d4af978db6b38158eab10cc1ff58363e93f45256f2d38ac12ba785"
+    },
+    {
+      "entry": "the-great-gatsby",
+      "option": "B",
+      "imageUrl": "image-options/assets/literature/gatsby-alma-flat.jpg",
+      "dimensions": [
+        1450,
+        2243
+      ],
+      "sha256": "9dc9680bbe1f5fa1ebe8522184d5950ca5b5a7fe05c1e0fb342fbb96f6ff51c9"
+    },
+    {
+      "entry": "the-great-gatsby",
+      "option": "C",
+      "imageUrl": "image-options/assets/literature/gatsby-vintage-2025-flat.jpg",
+      "dimensions": [
+        327,
+        500
+      ],
+      "sha256": "80282301e30a12aa4003280e26e7795bd85f78de4900ef700b17dbdccf19e0e7"
+    }
+  ]
+}

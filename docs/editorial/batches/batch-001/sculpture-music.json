@@ -1,0 +1,447 @@
+[
+  {
+    "id": "michelangelo-david",
+    "medium": "sculpture",
+    "title": "David",
+    "creator": "Michelangelo Buonarroti",
+    "dateDisplay": "1501–1504",
+    "dateStart": 1501,
+    "dateEnd": 1504,
+    "body": "In the biblical story, David is a young shepherd who offers to fight Goliath, the armed champion frightening Israel’s soldiers. He rejects the king’s armor and confronts him with a sling and a stone, trusting in God. His victory makes him a model of strength that does not depend on size or military equipment.\n\nMichelangelo shows David before the fight. The sling lies over his shoulder, his brow is drawn, and his head turns toward an opponent we cannot see. There is no defeated giant at his feet. The still body and concentrated gaze direct attention to his readiness for the encounter. His muscular, nude figure recalls ancient heroic sculpture, while the small weapon keeps the biblical story recognizable.\n\nThe statue’s enormous scale had a practical origin. Commissioned in 1501, it was intended for a high buttress on Florence’s cathedral, where people would see it from far below. In 1504, a committee chose a different location: beside the entrance to the city’s government palace.\n\nFlorence already used David as a symbol of its capacity to resist stronger opponents. At the palace, the religious hero became a public emblem of the republic’s independence. The change of location gave his watchful stance a political role, placing a defender outside the building where the city was governed.",
+    "sources": [
+      {
+        "title": "Galleria dell’Accademia: David",
+        "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+        "role": "holding institution",
+        "supports": "1501–1504, cathedral commission, decision to place the statue at the government palace, civic strength and independence. Indexed institutional text read; direct page timed out."
+      },
+      {
+        "title": "Robert Baldwin: Michelangelo’s David and Civic Humanism",
+        "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-David.pdf",
+        "role": "scholarly interpretation",
+        "supports": "Pre-battle reading, sling and stone, classical heroic body, biblical faith and Florentine civic identification. Later Medici chronology in this essay is unreliable and unused."
+      },
+      {
+        "title": "Opera di Santa Maria del Fiore: the David commission",
+        "url": "https://duomo.firenze.it/en/opera-magazine/post/4603/era-il-16-agosto-1501-quando-michelangelo-veniva-incaricato-di-scolpire-il-david",
+        "role": "commissioning institution",
+        "supports": "Italian article freshly read in full: 1501 commission for a high external cathedral buttress, scale intended for viewing from below, and 1504 placement before Palazzo Vecchio as a republican emblem."
+      },
+      {
+        "title": "Public discussion: David’s details",
+        "url": "https://www.reddit.com/r/interestingasfuck/comments/cz6jkt/",
+        "role": "reception clue",
+        "supports": "Sampled comments emphasize technical skill and artistic greatness; used as a prompt to explain the subject and civic role, not as factual authority."
+      },
+      {
+        "title": "Victoria and Albert Museum — The story of Michelangelo’s David",
+        "url": "https://www.vam.ac.uk/articles/the-story-of-michelangelos-david",
+        "role": "museum interpretation and object history",
+        "supports": "Cathedral-to-government-palace relocation and public symbol of Florentine liberty; relevant paragraphs retrieved. The cast’s later history is outside this entry."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+      "baselineSection": "michelangelo-david; pre-remake batch body",
+      "changes": [
+        "Introduces the biblical unequal fight and religious trust before interpreting the figure.",
+        "Removes the claim that the sculpture depicts an exact moment of deciding what to do.",
+        "Explains the cathedral’s high intended placement and the later civic relocation."
+      ],
+      "notionUrl": null,
+      "previousBaseline": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; New entry; no matching saved Notion text identified",
+        "changes": [
+          "New researched draft, pending Julio’s review. No prior approval transferred."
+        ]
+      }
+    },
+    "meaningBrief": "The biblical underdog becomes an alert, monumental defender before battle. Cathedral viewing conditions explain the scale, and relocation beside the government palace gives the inherited religious subject a specific republican role. The prose avoids assigning an unobservable decision to David.",
+    "quotationNotes": [
+      "No direct quotations. Biblical narrative paraphrased; no translation quoted."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+      "altText": "Michelangelo’s full-length marble David in the Galleria dell’Accademia.",
+      "credit": "Photograph: Jörg Bittner Unna, via Wikimedia Commons. Sculpture: Michelangelo.",
+      "license": "CC BY 3.0 (photograph); sculpture public domain.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Commons image metadata verified. Photographic license does not establish clearance of every cultural-property or commercial-use condition."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "bernini-apollo-daphne",
+    "medium": "sculpture",
+    "title": "Apollo and Daphne",
+    "creator": "Gian Lorenzo Bernini",
+    "dateDisplay": "1622–1625",
+    "dateStart": 1622,
+    "dateEnd": 1625,
+    "body": "Bernini’s sculpture shows Daphne becoming a tree while Apollo reaches for her. In Ovid’s ancient Roman telling of the myth, Cupid causes Apollo to desire the nymph and Daphne to reject him. As Apollo pursues her, she asks her father, a river god, to change the body that attracts him. Her transformation answers that request, but also takes away her human form.\n\nBernini makes both conditions visible at once. Daphne’s body remains partly human as bark covers it, her feet take root and her fingers become leaves. Apollo’s hand meets the changing surface. The differences between skin, bark and foliage are all carved from marble, allowing a fixed sculpture to suggest an event still unfolding.\n\nMade for Cardinal Scipione Borghese between 1622 and 1625, the group originally stood against a wall. Approaching from Apollo’s side, viewers encountered the pursuit before seeing the transformation fully. A verse by Cardinal Maffeo Barberini on its base gave the pagan story a moral interpretation: pursuing fleeting beauty leaves the pursuer disappointed.",
+    "sources": [
+      {
+        "title": "Galleria Borghese catalogue: Apollo and Daphne",
+        "url": "https://www.collezionegalleriaborghese.it/en/opere/apollo-and-daphne",
+        "role": "holding institution; substantive catalogue essay",
+        "supports": "Dates, Ovidian narrative, transformation details, Scipione Borghese, moral inscription, original wall placement and changing view."
+      },
+      {
+        "title": "Galleria Borghese: Room III",
+        "url": "https://galleriaborghese.cultura.gov.it/en/il-museo/la-villa/sala-3-sala-di-apollo-e-dafne/",
+        "role": "holding institution",
+        "supports": "1622–1625 and the work’s original relation to the wall; indexed text."
+      },
+      {
+        "title": "Public discussion: Apollo and Daphne",
+        "url": "https://www.reddit.com/r/ArtHistory/comments/btk4ti/",
+        "role": "reception clue",
+        "supports": "Visitors discuss leaf-like lightness and seeing multiple angles. Museum history prevents treating today’s circulation around the sculpture as the original arrangement."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+      "baselineSection": "bernini-apollo-daphne; pre-remake batch body",
+      "changes": [
+        "Reorders the entry around the visible transformation and its mythic cause.",
+        "Separates Daphne’s bodily cost from the historical inscription’s warning to the pursuer.",
+        "Names the inscription’s author and retains the original viewing arrangement without treating current display as original."
+      ],
+      "notionUrl": "https://app.notion.com/p/Apollo-and-Daphne-bb83b3c6471643618f3f47297860631b?pvs=25",
+      "previousBaseline": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; Saved reference: docs/editorial/research-2026-09-19/art-corpus.json, index 276, Apollo and Daphne",
+        "changes": [
+          "Replaces the saved entry’s incorrect 1655 date with 1622–1625.",
+          "Corrects saved Painting category to sculpture.",
+          "New prose preserves the myth and transformation while replacing extensive compiled quotations. Curation does not establish original authorship."
+        ]
+      },
+      "feedbackRevision": {
+        "date": "2026-09-25",
+        "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+        "baselineBodySha256": "011bda87d001ca9469921c13f90b026ab880138022020591bc8dfe9d69102895",
+        "change": "25 September 2026: deletes only the final sentence requested by Julio; all remaining prose unchanged.",
+        "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+      }
+    },
+    "meaningBrief": "Unwanted pursuit ends in Daphne’s bodily transformation. Marble surfaces and the original viewing sequence make escape and its physical cost legible; the patron’s circle supplied a separate moral reading directed toward Apollo’s pursuit of beauty. Neither the myth nor the historical inscription is presented as Bernini’s private confession.",
+    "quotationNotes": [
+      "No direct quotations. Ovidian plot is paraphrased from the preserved Notion narrative and the Borghese catalogue.",
+      "Barberini’s moral couplet is paraphrased; it is attributed separately from Bernini and from Daphne’s perspective."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_(Bernini)_(cropped).jpg",
+      "altText": "Bernini’s marble Apollo pursuing Daphne as her hands become branches and leaves.",
+      "credit": "Photograph: Architas, via Wikimedia Commons. Sculpture: Gian Lorenzo Bernini.",
+      "license": "CC BY-SA 4.0 (photograph); sculpture public domain.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Commons image metadata verified. Attribution/share-alike requirements and other app-use conditions remain to be reviewed."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "todaiji-great-buddha",
+    "medium": "sculpture",
+    "title": "Great Buddha at Tōdai-ji",
+    "creator": "Unknown makers; commissioned by Emperor Shōmu; later reconstruction teams",
+    "dateDisplay": "752 (first consecration; later reconstructions)",
+    "dateStart": 752,
+    "dateEnd": null,
+    "body": "The Great Buddha at Tōdai-ji in Nara represents Vairocana. In Buddhism, a Buddha is an enlightened being who has found freedom from the causes of suffering. The historical Buddha, Shakyamuni, was a human teacher who taught others a path toward that freedom. Vairocana is a cosmic Buddha, representing enlightenment beyond one human life. In the temple’s tradition, his wisdom and compassion extend throughout the universe. Worshippers honour him as a source of guidance and help for all living beings.\n\nIn the Buddhist teaching followed at the temple, no being exists in isolation. The worlds engraved on the bronze figure’s lotus pedestal express these connections. The seated body gives a visible form to a Buddha whose presence is not limited to one place or lifetime.\n\nEmperor Shōmu ordered the statue in 743. He wanted Buddhism to help protect the country and support its people. Tōdai-ji became the chief temple in a network of provincial monasteries, where monks studied and performed rituals for national peace. The Great Buddha’s dedication in 752 therefore served both religious worship and the emperor’s program of government.\n\nYet Shōmu’s proclamation did not describe the work simply as a display of imperial wealth. It invited people to contribute even a small amount of grass or soil and told officials not to force contributions. These were the ruler’s stated instructions, not proof that everyone worked freely. They show his wish to make participation in the building itself a religious act.\n\nThe statue has been repaired and partly remade after earthquakes and wartime fires. Its present reconstruction was dedicated in 1692. The object worshipped today carries that history of replacement, rather than surviving intact from the eighth century.",
+    "sources": [
+      {
+        "title": "Tōdai-ji: Daibutsuden",
+        "url": "https://www.todaiji.or.jp/en/information/daibutsuden/",
+        "role": "temple; theological interpretation",
+        "supports": "Vairocana, universal wisdom and compassion, Kegon teaching of interdependence, imagery engraved on the lotus pedestal."
+      },
+      {
+        "title": "Tōdai-ji: Historical overview",
+        "url": "https://www.todaiji.or.jp/en/history/",
+        "role": "temple; historical record",
+        "supports": "Commission in 743; first consecration 752; provincial-temple network, national peace rituals, damage and reconstruction, Buddha consecration 1692 and hall completion 1709."
+      },
+      {
+        "title": "Public discussion: Tōdai-ji",
+        "url": "https://www.reddit.com/r/ArchitecturePorn/comments/1hbmyie/",
+        "role": "reception clue",
+        "supports": "A sampled discussion connects scale and consecration but confuses reconstruction dates and asserts economic ruin without evidence. Used to identify the need for a careful chronology, not as authority."
+      },
+      {
+        "title": "Tōdai-ji — よくある質問; Great Buddha and 743 proclamation sections",
+        "url": "https://www.todaiji.or.jp/faq/",
+        "role": "temple; primary proclamation reproduced in Japanese",
+        "supports": "Question on the 743 edict reproduces instructions welcoming small offerings of grass or soil and prohibiting forced collection by officials. Used as stated instructions, not independent evidence of compliance or voluntary labor throughout."
+      },
+      {
+        "title": "Tōdai-ji — 大仏殿, Japanese explanation of Vairocana",
+        "url": "https://www.todaiji.or.jp/information/daibutsuden/",
+        "role": "temple’s own theological explanation in Japanese",
+        "supports": "Connects Shakyamuni’s enlightenment with Vairocana beyond time and space; explains universal wisdom, compassion and teachings directed toward helping all living beings. Relevant full section retrieved 25 September 2026."
+      },
+      {
+        "title": "Kathryn Selig Brown — Life of the Buddha, Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/essays/life-of-the-buddha",
+        "role": "museum scholarly explanation",
+        "supports": "Historical Shakyamuni/Siddhartha, enlightenment and his teaching of a path out of suffering. Relevant essay text read 25 September 2026; disputed traditional life dates are not adopted."
+      },
+      {
+        "title": "The Buddhist Society — The Buddha and His Teachings",
+        "url": "https://www.thebuddhistsociety.org/page/fundamental-teachings",
+        "role": "Buddhist educational organization",
+        "supports": "Awakening, suffering and the path of practice; relevant indexed teaching text retrieved 25 September 2026. Specific Kegon/Vairocana interpretation remains grounded in Tōdai-ji’s own explanation."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+      "baselineSection": "todaiji-great-buddha; pre-remake batch body",
+      "changes": [
+        "Replaces vague cosmic rhetoric with the named Buddha, belief and lotus imagery.",
+        "Adds the 743 proclamation’s small-contribution and anti-coercion instructions, expressly distinguished from actual working conditions.",
+        "Reduces rebuilding chronology to what prevents mistaking the present statue for an intact eighth-century object."
+      ],
+      "notionUrl": null,
+      "previousBaseline": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; New entry; no matching saved Notion text identified",
+        "changes": [
+          "New researched draft, pending Julio’s review. No prior approval transferred."
+        ]
+      },
+      "feedbackRevision": {
+        "date": "2026-09-25",
+        "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+        "baselineBodySha256": "0a9ee7ac4765df821c2112512d0811b4fd79f803e2d40f432aff22eac4174dfc",
+        "change": "25 September 2026: expands the introduction for readers unfamiliar with Buddhism, distinguishing historical Shakyamuni and cosmic Vairocana and explaining veneration. Existing lotus/interdependence sentences and all three later paragraphs retained verbatim.",
+        "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+      }
+    },
+    "meaningBrief": "The novice introduction distinguishes the historical teacher Shakyamuni from the cosmic Vairocana, whom the temple venerates for universal wisdom and compassion. Interdependence and lotus imagery connect that belief to the statue; the imperial temple network, contribution edict and reconstruction history remain unchanged.",
+    "quotationNotes": [
+      "No direct quotations. Japanese 743 proclamation paraphrased in English; this is not presented as wording from a published English translation.",
+      "Vairocana and interdependence are introduced as Buddhist teachings, not empirical claims."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NaraTodaijiDaibutsu0212.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:NaraTodaijiDaibutsu0212.jpg",
+      "altText": "The seated Great Buddha inside Tōdai-ji, viewed from the front right.",
+      "credit": "Photograph: Fg2, via Wikimedia Commons.",
+      "license": "Commons uploader’s public-domain dedication (PD-self).",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Commons upload history confirms Fg2 as the photographer/uploader and reproduces the public-domain dedication. Temple commercial-image conditions are separate from that dedication."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "beethoven-symphony-nine",
+    "medium": "music",
+    "title": "Symphony No. 9 in D minor, Op. 125",
+    "creator": "Ludwig van Beethoven",
+    "dateDisplay": "1824",
+    "dateStart": 1824,
+    "dateEnd": null,
+    "body": "For most of Beethoven’s Ninth Symphony, the orchestra plays without singers. In its final section, a human voice interrupts and calls for a more joyful song. Solo singers and a choir then join the instruments in words about friendship and human fellowship. The work was first performed in Vienna in 1824.\n\nThe familiar Ode to Joy melody arrives gradually. After a loud, unsettled opening to the final section, the orchestra recalls music heard earlier in the work. The lowest string instruments answer these fragments, then introduce a quiet, simple tune. Other instruments take it up. By the time the singers enter, listeners already know the melody they will sing.\n\nBeethoven wrote the singer’s opening call himself, then turned to Friedrich Schiller’s poem about joy bringing people together across their divisions. Friendship, love and the natural world give them reasons to belong to one another. The poem also gives this fellowship a religious basis, picturing a loving creator above the stars. Solo singers and the choir answer one another, turning that invitation into an exchange between people.\n\nThis ending follows music that has been restless, forceful and, at other moments, calm. The famous tune also changes as it returns, becoming a march, a prayer and a mass of overlapping voices. Across the final section, the quiet tune first heard in the low strings becomes something the orchestra and singers share.",
+    "sources": [
+      {
+        "title": "Beethoven-Haus: Symphony No. 9, Op. 125",
+        "url": "https://www.beethoven.de/de/work/view/5556714292117504/Sinfonie%20Nr.%209%20%26",
+        "role": "composer archive",
+        "supports": "Completion in February 1824, Vienna premiere 7 May 1824, Schiller text and work identity. German work-page narrative read."
+      },
+      {
+        "title": "Eastman School of Music: Symphony No. 9",
+        "url": "https://www.esm.rochester.edu/beethoven/symphony-no-9/",
+        "role": "scholarly musical analysis",
+        "supports": "Movement contrasts, finale’s recapitulations and low-string recitative, first instrumental statement of joy theme, voices, brotherhood and creator, march and contrapuntal treatment. Analysis read; no personal listening claimed."
+      },
+      {
+        "title": "ABC Classic listening guide: Beethoven Symphony No. 9",
+        "url": "https://www.abc.net.au/listen/classic/read-and-watch/listening-guide/1000-years-of-classical-music-beethoven-symphony-no-9/9931444",
+        "role": "institutional musical interpretation",
+        "supports": "Accessible formal account of the finale’s melody and variations; indexed text used as corroboration."
+      },
+      {
+        "title": "Public discussion: hearing the complete Ninth",
+        "url": "https://www.reddit.com/r/classicalmusic/comments/q1ih4b/",
+        "role": "reception clue",
+        "supports": "Listeners discuss the finale’s dependence on the whole work, alongside disagreement over preferred movements. No listener consensus or autobiographical programme inferred."
+      },
+      {
+        "title": "Oliver Condy: Beethoven Symphony No. 9, Philharmonia programme, 3 April 2022",
+        "url": "https://philharmonia-assets.s3.amazonaws.com/uploads/2022/04/03.04.22_RFH-online.pdf",
+        "role": "Substantive programme interpretation",
+        "supports": "Pages 5–6 freshly read: context of preceding sections, low-string theme before voice, Beethoven’s added opening words, Schiller, march and religious choral section. Used for the musical sequence alongside Eastman, not for its dramatic descriptive style."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New composition entry; no particular recording or performance is the subject",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "The final arrival of human voices gives explicit words to shared joy and fellowship. A simple melody grows through different instruments and voices after the earlier tensions; Schiller’s friendship and religious vision explain what this gathering celebrates. Explain the progression without requiring musical theory.",
+    "quotationNotes": [
+      "No poem or musical text quoted. Schiller’s invitation is paraphrased; the work’s public-domain German text and Eastman analysis support the account."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Beethoven_Ninth_Symphony.png",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Beethoven_Ninth_Symphony.png",
+      "altText": "A handwritten manuscript page identified as the fourth movement of Beethoven’s Ninth Symphony.",
+      "credit": "Manuscript: Ludwig van Beethoven; reproduction via Wikimedia Commons.",
+      "license": "Public domain according to Commons metadata.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Supporting manuscript illustration. Commons identifies the fourth movement, but supplies no holding-institution shelfmark; do not invent folio, passage or first-edition claims."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "billie-holiday-strange-fruit",
+    "medium": "music",
+    "title": "Strange Fruit",
+    "creator": "Billie Holiday; song by Abel Meeropol",
+    "dateDisplay": "1939 recording",
+    "dateStart": 1939,
+    "dateEnd": null,
+    "body": "Billie Holiday’s 1939 recording of Strange Fruit is a protest against the lynching of Black Americans. The song describes a Southern landscape, then reveals what hangs from its trees:\n\n> Black bodies swinging in the southern breeze\n\nThe comparison makes the bodies part of a scene usually associated with beauty and abundance. Flowers and warm air remain, but they surround people who have been murdered. The song connects the familiar beauty of the South with the racial violence taking place there.\n\nAbel Meeropol, a New York schoolteacher, wrote both the words and the music. Holiday’s contribution was her interpretation. She sings slowly and with restraint, giving the images time to register. Her delivery leaves room for listeners to follow the words and recognise what the scene describes.\n\nAt Café Society, an integrated New York nightclub, the song changed the usual conditions of entertainment. Service stopped, the room darkened, and a spotlight remained on Holiday. She sang it at the end of her set and left without returning for a bow. The audience had to listen without drinks arriving or another number immediately following.\n\nHoliday recorded the song for the small Commodore label after her usual label declined it. That recording carried an explicit account of racist murder beyond the nightclub. In a period when Congress had repeatedly failed to pass federal anti-lynching legislation, the song put the victims before an audience that might otherwise avoid the subject.",
+    "sources": [
+      {
+        "title": "Library of Congress: Strange Fruit, essay by Julia Blackburn",
+        "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/StrangeFruit_Blackburn.pdf",
+        "role": "national recording archive; critical essay",
+        "supports": "1939 Commodore recording, Meeropol authorship, Café Society context, anti-lynching subject. Conflicting photograph identification and speculative persecution causality are not used."
+      },
+      {
+        "title": "Geoffrey Himes: What Makes Billie Holiday’s Music So Powerful Today",
+        "url": "https://www.smithsonianmag.com/arts-culture/what-makes-billie-holiday-so-powerful-today-180954893/",
+        "role": "substantive music criticism",
+        "supports": "Quiet, controlled vocal approach and specific comparison of the 1939 Strange Fruit performance with later interpretation. No personal listening claimed."
+      },
+      {
+        "title": "Indiana Public Media, Night Lights: A Strange and Bitter Crop",
+        "url": "https://www.ipm.org/show/nightlights/2019-09-11/strange-bitter-crop-billie-holidays-song-century",
+        "role": "public-broadcast music history",
+        "supports": "Café Society performance rules: halted service, spotlight, departure without an encore; discusses David Margolick’s historical account. Re-read 24 September 2026: service and lighting, final song/no bow, Commodore release and Congress’s repeated failure to pass anti-lynching legislation."
+      },
+      {
+        "title": "Public discussion: Billie Holiday, Strange Fruit",
+        "url": "https://www.reddit.com/r/Music/comments/hsxi42/",
+        "role": "reception clue",
+        "supports": "Some listeners describe only later recognizing the lynching subject; others compare versions. This supports explaining the metaphor directly. Unsupported assertions about government causation and death are excluded."
+      },
+      {
+        "title": "World History Commons: Strange Fruit (1939), primary source and annotation",
+        "url": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+        "role": "educational primary-source presentation",
+        "supports": "Verified seven-word lyric selection; anti-lynching subject and refusal by usual label before Commodore recording. Read 24 September 2026."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New entry about the 1939 Commodore recording, not a later live performance",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "A pastoral landscape reveals lynched Black bodies; Holiday’s restrained interpretation and the conditions of her nightclub performances make racist killing a subject audiences must attend to. A seven-word lyric excerpt gives direct evidence, while authorship and recording context remain distinct.",
+    "quotationNotes": [
+      {
+        "quote": "Black bodies swinging in the southern breeze",
+        "wordCount": 7,
+        "source": "https://worldhistorycommons.org/strange-fruit-billie-holiday-1939",
+        "locator": "Annotation, quoted first stanza",
+        "verification": "Checked in the educational primary-source presentation. Plural bodies is the form printed there; Indiana Public Media transcribes body. No new direct audio verification claimed.",
+        "purpose": "Makes the central metaphor concrete without relying only on paraphrase. No other lyric excerpt appears."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Strange-Fruit-Commodore-1939.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Strange-Fruit-Commodore-1939.jpg",
+      "altText": "Commodore 526A label for Billie Holiday and Her Orchestra’s Strange Fruit.",
+      "credit": "Commodore Records label; original-record scan via Wikimedia Commons.",
+      "license": "Record-label image marked public domain on Commons; recording and composition rights are separate.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact 1939 release label, identified by Commons metadata. No audio download or recording-use clearance."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "joao-gilberto-chega-saudade",
+    "medium": "music",
+    "title": "Chega de Saudade",
+    "creator": "João Gilberto; music by Antônio Carlos Jobim, lyrics by Vinicius de Moraes",
+    "dateDisplay": "1958 recording",
+    "dateStart": 1958,
+    "dateEnd": null,
+    "body": "In Chega de Saudade, a man misses his lover and asks for her return. He begins in sadness, then imagines the affection they could share if she came back. The music becomes brighter as his thoughts turn toward reunion. João Gilberto’s 1958 recording makes this change feel intimate, with a quiet voice that sounds close to ordinary speech.\n\nThe guitar keeps moving while Gilberto stretches a word or starts a phrase slightly before or after its beat. Voice and instrument remain together without matching every accent. He draws on samba’s dance rhythms, fitting the work of several percussion instruments into the patterns of one guitar. The singing can therefore sound unhurried while the accompaniment stays lively.\n\nThe song was written by Antônio Carlos Jobim and Vinicius de Moraes. Elizeth Cardoso had already recorded it, with Gilberto playing guitar, before he made his own version that July. Jobim arranged the instruments accompanying him. Released as a single in August, Gilberto’s recording became a landmark of bossa nova, the emerging Brazilian style associated with this close relationship between understated singing and rhythmic guitar.\n\nCardoso’s earlier recording was already part of this experiment. Working with Gilberto, she reduced the wavering effect called vibrato in parts of her singing. The new style developed through exchanges among performers, composers and arrangers, each changing how a familiar Brazilian rhythm could accompany a voice.",
+    "sources": [
+      {
+        "title": "Instituto Moreira Salles: Chega de Saudade, recording catalogue",
+        "url": "https://discografiabrasileira.com.br/fonograma/133285/chega-de-saudade",
+        "role": "recording archive",
+        "supports": "10 July 1958 recording, August 1958 issue, Odeon 14360, matrix RIO-12725; composer/lyricist, performer and Jobim-orchestra credits."
+      },
+      {
+        "title": "Instituto Moreira Salles: Ainda bossa, ainda nova",
+        "url": "https://ims.com.br/2018/03/29/ainda-bossa-ainda-nova/",
+        "role": "institutional music criticism",
+        "supports": "Cardoso’s earlier recording with Gilberto on guitar; collaborative development and differences between singer and composer contributions."
+      },
+      {
+        "title": "Gabriel S. S. Lima Rezende: O truque do mestre",
+        "url": "https://www.scielo.br/j/rieb/a/fDvChwFkzDXLYWtDm6vnT3C/?lang=pt",
+        "role": "scholarly musical analysis",
+        "supports": "Composition’s formal change, D-major second section and hopeful lyrical turn; traditional samba resources and modern musical transformation. The author’s larger socioeconomic interpretation is not presented as settled fact."
+      },
+      {
+        "title": "Ricardo Quiñones: João Gilberto, Jazz.com Encyclopedia",
+        "url": "https://jazz.com/encyclopedia/gilberto-joo-prado-pereira-de-oliveira/",
+        "role": "substantive performance analysis",
+        "supports": "Steady guitar bass, displaced chord rhythm, intimate vocal delivery ahead of/behind the beat, and voice/guitar interaction in Chega de Saudade. Broader biographical anecdotes and absolute genre-invention claims unused."
+      },
+      {
+        "title": "Public discussion: Chega de Saudade, Music as Emotion",
+        "url": "https://www.reddit.com/r/LetsTalkMusic/comments/h0dse5/",
+        "role": "reception clue",
+        "supports": "Listener interest in longing mixed with hope; prompted clear explanation for non-Portuguese readers. Thread conflates album and single, and makes inaccurate language claims, all excluded."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New entry about the July 1958 recording and August 1958 single, not the 1959 album",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "The lyric moves from loneliness to imagined reunion. Gilberto’s soft speechlike phrasing and guitar rhythms make that longing intimate while retaining samba’s movement. Cardoso’s earlier version and Jobim’s arrangement establish collaboration rather than a lone-inventor story.",
+    "quotationNotes": [
+      "Lyrics paraphrased. No Portuguese lyric or English translation quoted. Listening descriptions follow rechecked scholarly and musician criticism, not a claimed new direct listening session."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Joao_Gilberto_-_Chega_de_Saudade.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/File:Joao_Gilberto_-_Chega_de_Saudade.jpg",
+      "altText": "Cover of João Gilberto’s 1959 album Chega de Saudade, shown as a later illustration of the 1958 recording.",
+      "credit": "Odeon Records album cover, via English Wikipedia.",
+      "license": "Copyrighted album artwork. Wikipedia’s contextual non-free-use rationale is not an app-use license.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "SUPPORTING ILLUSTRATION: 1959 album cover, not the 1958 single label. Parent authorized this explicit fallback after the exact label could not be retrieved. Entry metadata remains the 1958 recording."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  }
+]

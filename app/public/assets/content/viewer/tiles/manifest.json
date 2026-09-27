@@ -1,0 +1,5617 @@
+{
+  "generator": "app/scripts/generate-viewer-tiles.py",
+  "pillowVersion": "11.3.0",
+  "tileSize": 512,
+  "overlap": 1,
+  "previewLongEdge": 768,
+  "losslessCandidateBytes": 74319406,
+  "losslessLimitBytes": 60000000,
+  "encodingDecision": "JPEG quality 94, full 4:4:4 chroma; lossless candidate exceeded the size limit.",
+  "sourcePolicy": "Existing bundled catalog images only; source files unchanged; no upscaling.",
+  "records": [
+    {
+      "id": "death-of-socrates",
+      "url": "/assets/content/viewer/death-of-socrates.jpg",
+      "sourceSha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6",
+      "sourceBytes": 1793830,
+      "tileBytes": 2297061,
+      "previewBytes": 81901,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 1.14951,
+      "tileRgbPsnrDb": 46.921,
+      "maximumTileChannelError": 19,
+      "width": 4000,
+      "height": 2663,
+      "tileSize": 512,
+      "columns": 8,
+      "rows": 6,
+      "preview": "/assets/content/viewer/tiles/death-of-socrates/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/death-of-socrates",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "death-of-socrates/0_0.jpg",
+          "bytes": 44163,
+          "sha256": "f0c7aed4e8c610f23896bcc694bcd81e2afb98ef16804411788ffb3bf1c01145",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/1_0.jpg",
+          "bytes": 45260,
+          "sha256": "4d5a2bc3bb82d03f726df0023760e6d001a5f91152d299bff058aae8d97dda16",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/2_0.jpg",
+          "bytes": 43150,
+          "sha256": "780a61a349a79cf3f1a00c906b1eb3794f9a09cf94edbb9aca5dc4987689a441",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1537,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/3_0.jpg",
+          "bytes": 41466,
+          "sha256": "3bdb1f23273aefeb2a564b56e957c66466b69bdb65a0586466dbe62e7ec8b320",
+          "column": 3,
+          "row": 0,
+          "bounds": [
+            1535,
+            0,
+            2049,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/4_0.jpg",
+          "bytes": 39458,
+          "sha256": "01d9e29e376a646b92be3af8019635767c9f8d08d4494fe031b3321302553cc9",
+          "column": 4,
+          "row": 0,
+          "bounds": [
+            2047,
+            0,
+            2561,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/5_0.jpg",
+          "bytes": 42731,
+          "sha256": "8f4c9b32b8f51aec399419796d874e0c94d49db3ec7122200d059363c254f321",
+          "column": 5,
+          "row": 0,
+          "bounds": [
+            2559,
+            0,
+            3073,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/6_0.jpg",
+          "bytes": 44824,
+          "sha256": "049377cd044521d746de7f3261198b32524f24851309e22b894e2b87597a877e",
+          "column": 6,
+          "row": 0,
+          "bounds": [
+            3071,
+            0,
+            3585,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/7_0.jpg",
+          "bytes": 37057,
+          "sha256": "75d97d4ff90822e0c6611ac31d799e0559e549cf2ce7f8f72df929afc88867c8",
+          "column": 7,
+          "row": 0,
+          "bounds": [
+            3583,
+            0,
+            4000,
+            513
+          ],
+          "width": 417,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/0_1.jpg",
+          "bytes": 40881,
+          "sha256": "d9130668a9153522e9bc835bd088ebe6d0a87b2a96f1d410b14d109f26635005",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/1_1.jpg",
+          "bytes": 41808,
+          "sha256": "8e4382cdcc3e6150a2493fb5c5c0c904c07dcd129aafb5fdc29f42aa6ed1adb9",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/2_1.jpg",
+          "bytes": 43708,
+          "sha256": "7a2cf24839dc8ce5abbb4fd683a46dfe85b623dae85d71da106305859a1b1aef",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1537,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/3_1.jpg",
+          "bytes": 40863,
+          "sha256": "3d903f44a16e58e27787ee5257a863a3d24318978f3c5bdbba698943b18ebc64",
+          "column": 3,
+          "row": 1,
+          "bounds": [
+            1535,
+            511,
+            2049,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/4_1.jpg",
+          "bytes": 40486,
+          "sha256": "cdb25b293d10237c4a84f9766c55ec2a5b33312a446ba2aefccf71729babaa34",
+          "column": 4,
+          "row": 1,
+          "bounds": [
+            2047,
+            511,
+            2561,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/5_1.jpg",
+          "bytes": 47992,
+          "sha256": "fb921cc75e81866eba41b9008b329cef829c89deae4d731d3f550727fbb43083",
+          "column": 5,
+          "row": 1,
+          "bounds": [
+            2559,
+            511,
+            3073,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/6_1.jpg",
+          "bytes": 46016,
+          "sha256": "2b171a3621f514fef1783c0b9850ce64a73b444b538f781c44f2ad3087525283",
+          "column": 6,
+          "row": 1,
+          "bounds": [
+            3071,
+            511,
+            3585,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/7_1.jpg",
+          "bytes": 39052,
+          "sha256": "0a61a30049faea470a2c6bc7b6653dfde0eae0b21dc04d28899a74fb899d6fbf",
+          "column": 7,
+          "row": 1,
+          "bounds": [
+            3583,
+            511,
+            4000,
+            1025
+          ],
+          "width": 417,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/0_2.jpg",
+          "bytes": 41969,
+          "sha256": "e72e7a8901128b0fac1b9666cff6d6f4ee5be70c92ba4a2d594b35e6d956cfb5",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/1_2.jpg",
+          "bytes": 46479,
+          "sha256": "0e3bd43b6320754a3040b0ac0e7735d2b6e7f1b13e928a723363f6e468b97f75",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/2_2.jpg",
+          "bytes": 77010,
+          "sha256": "df9858f12b7c2412c45ffea4fb5435062d4ad76a3a5242b3aada4655039644e2",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1537,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/3_2.jpg",
+          "bytes": 77476,
+          "sha256": "2123035880eac0e3463bd7007d4caaab6e28fc7c9e63e23e54dc6c2072b08098",
+          "column": 3,
+          "row": 2,
+          "bounds": [
+            1535,
+            1023,
+            2049,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/4_2.jpg",
+          "bytes": 70948,
+          "sha256": "c104efe65e3379e6aa3509ae256720c1ced56ebf47beeb2d03986fc7dc85cc88",
+          "column": 4,
+          "row": 2,
+          "bounds": [
+            2047,
+            1023,
+            2561,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/5_2.jpg",
+          "bytes": 87968,
+          "sha256": "d8dae64a1990b7fffa74c0a7022f4ed8c60a38239d49e8fb2a71c2ed2393dc7c",
+          "column": 5,
+          "row": 2,
+          "bounds": [
+            2559,
+            1023,
+            3073,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/6_2.jpg",
+          "bytes": 91890,
+          "sha256": "aa8d6603979283cfc85fbef2927b9d1bb32e056d0316c8812d1156c7ea5caeda",
+          "column": 6,
+          "row": 2,
+          "bounds": [
+            3071,
+            1023,
+            3585,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/7_2.jpg",
+          "bytes": 49602,
+          "sha256": "c9297aed0c0279b728ab6666a6de5fd642ac2c6261fae3f3389c2fcf28b8cb47",
+          "column": 7,
+          "row": 2,
+          "bounds": [
+            3583,
+            1023,
+            4000,
+            1537
+          ],
+          "width": 417,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/0_3.jpg",
+          "bytes": 40825,
+          "sha256": "a203b1e9a9460c016a9526f1537defcc52e0bfde871034edec4eff70a809fdce",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            2049
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/1_3.jpg",
+          "bytes": 61101,
+          "sha256": "994dbed3c158f23c2f75865005fc12669408af7072289c8f0c623f66c0a99f60",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/2_3.jpg",
+          "bytes": 70210,
+          "sha256": "424d68c95927a0c84432cf1b2aa25728ffeafdebe7a85cdb40d2bb574e323caa",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1537,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/3_3.jpg",
+          "bytes": 75531,
+          "sha256": "778155e3078aeb8b3cf277cce79ed07b0407e093388f6ca295af014b49c17b2a",
+          "column": 3,
+          "row": 3,
+          "bounds": [
+            1535,
+            1535,
+            2049,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/4_3.jpg",
+          "bytes": 70810,
+          "sha256": "c4e458b3948862eb26bee91f06282da708d92bf4ddcebc1f22293268891e8d0e",
+          "column": 4,
+          "row": 3,
+          "bounds": [
+            2047,
+            1535,
+            2561,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/5_3.jpg",
+          "bytes": 74142,
+          "sha256": "8e400d42c3a7179e01ea39a01a108463454d9943b6952a70bb6a114beb4f8328",
+          "column": 5,
+          "row": 3,
+          "bounds": [
+            2559,
+            1535,
+            3073,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/6_3.jpg",
+          "bytes": 59839,
+          "sha256": "3b2de67ccd36a212aaf66efe83f0d41275dbc8c0c15b53a91c0384da591223b0",
+          "column": 6,
+          "row": 3,
+          "bounds": [
+            3071,
+            1535,
+            3585,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/7_3.jpg",
+          "bytes": 44218,
+          "sha256": "aa31dd88efd07112487051d5dc1dda45f1f9eb1dddfda49ab069c6d55527c5c4",
+          "column": 7,
+          "row": 3,
+          "bounds": [
+            3583,
+            1535,
+            4000,
+            2049
+          ],
+          "width": 417,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/0_4.jpg",
+          "bytes": 46428,
+          "sha256": "621d5f1224a8466e3d538447e7c67f87e6db6f45a7985b0a84e81b2146a4190b",
+          "column": 0,
+          "row": 4,
+          "bounds": [
+            0,
+            2047,
+            513,
+            2561
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/1_4.jpg",
+          "bytes": 54302,
+          "sha256": "8123f77af0ee3083baaf38d6ddb71d782f33288cb6feb8f350e244bcc5c1c523",
+          "column": 1,
+          "row": 4,
+          "bounds": [
+            511,
+            2047,
+            1025,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/2_4.jpg",
+          "bytes": 63039,
+          "sha256": "ff3179f5b0dd230e693272c085c422adf8e783e997da7634e946d01058c8df59",
+          "column": 2,
+          "row": 4,
+          "bounds": [
+            1023,
+            2047,
+            1537,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/3_4.jpg",
+          "bytes": 64744,
+          "sha256": "c66c7913f4a9ea8df21f01299840a871c554cf5c01bd20dd91e61a86b2efde3b",
+          "column": 3,
+          "row": 4,
+          "bounds": [
+            1535,
+            2047,
+            2049,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/4_4.jpg",
+          "bytes": 59745,
+          "sha256": "f8089da27002ee1c1f6decb555356d73fa5e2845a080cbf3f1acccdfd334a302",
+          "column": 4,
+          "row": 4,
+          "bounds": [
+            2047,
+            2047,
+            2561,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/5_4.jpg",
+          "bytes": 72725,
+          "sha256": "f9d2d81df9b588b7408e6f54859bc2edcf1e3f3be509abb2405ef303e8b7a8b5",
+          "column": 5,
+          "row": 4,
+          "bounds": [
+            2559,
+            2047,
+            3073,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/6_4.jpg",
+          "bytes": 54534,
+          "sha256": "204ab5fb0f4e8d22d274c0bd2d2752f078e4ca4824d40c9fc9a050e00c9d4dc2",
+          "column": 6,
+          "row": 4,
+          "bounds": [
+            3071,
+            2047,
+            3585,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/7_4.jpg",
+          "bytes": 47959,
+          "sha256": "21311c62d7f1b3945d7ddc503e9f9e9b289aa16ac2f492a9e76315d9915b0588",
+          "column": 7,
+          "row": 4,
+          "bounds": [
+            3583,
+            2047,
+            4000,
+            2561
+          ],
+          "width": 417,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/0_5.jpg",
+          "bytes": 13926,
+          "sha256": "aa27ddfbaff579fa1df90e2e91d927fa80d2e0d2f10598754d1dabccf5a68914",
+          "column": 0,
+          "row": 5,
+          "bounds": [
+            0,
+            2559,
+            513,
+            2663
+          ],
+          "width": 513,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/1_5.jpg",
+          "bytes": 14034,
+          "sha256": "2a605b7667e5709bc11c91fd06a8101626621cb566029cfcf274c9294f8b0d20",
+          "column": 1,
+          "row": 5,
+          "bounds": [
+            511,
+            2559,
+            1025,
+            2663
+          ],
+          "width": 514,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/2_5.jpg",
+          "bytes": 12920,
+          "sha256": "edab5d8af90188cec62570aa6d4d71694848968cb1d507665688ee478e264414",
+          "column": 2,
+          "row": 5,
+          "bounds": [
+            1023,
+            2559,
+            1537,
+            2663
+          ],
+          "width": 514,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/3_5.jpg",
+          "bytes": 13571,
+          "sha256": "acd6d585133684de0f6212d2d1c10a5ecce6577a2708d497971e7683300cdace",
+          "column": 3,
+          "row": 5,
+          "bounds": [
+            1535,
+            2559,
+            2049,
+            2663
+          ],
+          "width": 514,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/4_5.jpg",
+          "bytes": 15041,
+          "sha256": "dbe50a47e3cc0981e4bfa020654b81c74c6707765edee235a2f4fe4cac721f65",
+          "column": 4,
+          "row": 5,
+          "bounds": [
+            2047,
+            2559,
+            2561,
+            2663
+          ],
+          "width": 514,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/5_5.jpg",
+          "bytes": 16021,
+          "sha256": "6dc6de6ad70a38a49d2c0e6b4ef3da9987502873469092fb78097f295fa2840b",
+          "column": 5,
+          "row": 5,
+          "bounds": [
+            2559,
+            2559,
+            3073,
+            2663
+          ],
+          "width": 514,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/6_5.jpg",
+          "bytes": 17064,
+          "sha256": "b4ea881a54670a2d8ff80e063cc5c27491b4a4b05a4457a5130df7501586d1aa",
+          "column": 6,
+          "row": 5,
+          "bounds": [
+            3071,
+            2559,
+            3585,
+            2663
+          ],
+          "width": 514,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/7_5.jpg",
+          "bytes": 12075,
+          "sha256": "34227f76d905b2694738c97fe69587368ad32ca1efd00546fc49cdcf36db0576",
+          "column": 7,
+          "row": 5,
+          "bounds": [
+            3583,
+            2559,
+            4000,
+            2663
+          ],
+          "width": 417,
+          "height": 104,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "death-of-socrates/preview.jpg",
+          "bytes": 81901,
+          "sha256": "bbec5559d186f1ab01a3a73a1dee5e19e1d29fefcb418ebe9955b33ca64aadb4",
+          "width": 768,
+          "height": 511,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "divine-comedy",
+      "url": "/assets/content/dante-portrait.jpg",
+      "sourceSha256": "96ca7eea685ec3af18a0d75b87e394d7a8522190f87c2ceffbe65e2ea2325f5f",
+      "sourceBytes": 183393,
+      "tileBytes": 294073,
+      "previewBytes": 96819,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 0.9888,
+      "tileRgbPsnrDb": 48.229,
+      "maximumTileChannelError": 11,
+      "width": 850,
+      "height": 1296,
+      "tileSize": 512,
+      "columns": 2,
+      "rows": 3,
+      "preview": "/assets/content/viewer/tiles/divine-comedy/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/divine-comedy",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "divine-comedy/0_0.jpg",
+          "bytes": 67117,
+          "sha256": "12ef01f9a5bb74a216713afc664afde0ae67637843d19a2d8192cf1ec185b7f6",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "divine-comedy/1_0.jpg",
+          "bytes": 51288,
+          "sha256": "f56c4f4a04a536ef8f03e5090799c550afa630cb34ae6dcc2f41315d9a965d8d",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            850,
+            513
+          ],
+          "width": 339,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "divine-comedy/0_1.jpg",
+          "bytes": 63978,
+          "sha256": "4ec02a83f81736d9986a14246915dfd4fff4a7af8bf9acb7e11b66339304de44",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "divine-comedy/1_1.jpg",
+          "bytes": 51673,
+          "sha256": "04197edece1035278c4080dd5b018c892cf29a53751d270b4afc45e37cf75224",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            850,
+            1025
+          ],
+          "width": 339,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "divine-comedy/0_2.jpg",
+          "bytes": 35324,
+          "sha256": "c31f293df1273143fdb62b09ffea174cfac10da87fa35917eb93c1939a8be056",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1296
+          ],
+          "width": 513,
+          "height": 273,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "divine-comedy/1_2.jpg",
+          "bytes": 24693,
+          "sha256": "29423b720f1a472ad1e9d80e5db0d265d4dfbfa61ad2cc8b1de4c02c21f91fda",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            850,
+            1296
+          ],
+          "width": 339,
+          "height": 273,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "divine-comedy/preview.jpg",
+          "bytes": 96819,
+          "sha256": "8ccce53dea3f5953f2e7bb5457b6336c985c540da00c175b3de2318c5efb2001",
+          "width": 504,
+          "height": 768,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "chart-of-hell",
+      "url": "/assets/content/chart-of-hell.jpg",
+      "sourceSha256": "f5946c17867144c046f58d11f55593713fecf9de1a8671c84c34689ab0cbfbc7",
+      "sourceBytes": 79959,
+      "tileBytes": 179644,
+      "previewBytes": 164525,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 1.40704,
+      "tileRgbPsnrDb": 45.165,
+      "maximumTileChannelError": 13,
+      "width": 800,
+      "height": 559,
+      "tileSize": 512,
+      "columns": 2,
+      "rows": 2,
+      "preview": "/assets/content/viewer/tiles/chart-of-hell/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/chart-of-hell",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "chart-of-hell/0_0.jpg",
+          "bytes": 94641,
+          "sha256": "fe8573526b5cb934b9150cf920b2ae64d178b7f40d9e6e8acab884ac3960cec2",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "chart-of-hell/1_0.jpg",
+          "bytes": 64522,
+          "sha256": "6d91f962935aa6082bf220178d78bd819bb87715ca548d0782c988a0ad26a6f4",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            800,
+            513
+          ],
+          "width": 289,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "chart-of-hell/0_1.jpg",
+          "bytes": 12793,
+          "sha256": "d9db6fa1c2dc1f0d5e850134dba2ebe21ba2df79aa704f532c54f669d98a4d6b",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            559
+          ],
+          "width": 513,
+          "height": 48,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "chart-of-hell/1_1.jpg",
+          "bytes": 7688,
+          "sha256": "4a446b81a5fbddddf61b66a5fc331e35a4a76ac5258cec0800cf3d24b349871d",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            800,
+            559
+          ],
+          "width": 289,
+          "height": 48,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "chart-of-hell/preview.jpg",
+          "bytes": 164525,
+          "sha256": "598d150161b2f47769a3c362ded31c37639cf1625f62357d5c52a9f817b53d75",
+          "width": 768,
+          "height": 537,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "great-wave",
+      "url": "/assets/content/viewer/great-wave.jpg",
+      "sourceSha256": "f77244f1ec718cfe84640fbde2712d928214cf99cc4ed66b4310a7bcc0684a3d",
+      "sourceBytes": 4671422,
+      "tileBytes": 4508636,
+      "previewBytes": 148305,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 1.86946,
+      "tileRgbPsnrDb": 42.696,
+      "maximumTileChannelError": 21,
+      "width": 4096,
+      "height": 2888,
+      "tileSize": 512,
+      "columns": 8,
+      "rows": 6,
+      "preview": "/assets/content/viewer/tiles/great-wave/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/great-wave",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "great-wave/0_0.jpg",
+          "bytes": 87610,
+          "sha256": "223456b7623dfc3dbf3d38d249a46e44dba2b16626da48aa923d2ac2f1b6a4c1",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/1_0.jpg",
+          "bytes": 77151,
+          "sha256": "265eb93ff4b4d990c873afa7aec2aed55dfcd2e17decc4e5abed888a00babda9",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/2_0.jpg",
+          "bytes": 82138,
+          "sha256": "ed45114995edd10cfb81d80c178aaab01b7a15bd661d867108ff746e7bc94387",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1537,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/3_0.jpg",
+          "bytes": 88662,
+          "sha256": "30cffeb64f8d36478fa14f3a74a613284a930d85ed21e143e17bd243983b40ec",
+          "column": 3,
+          "row": 0,
+          "bounds": [
+            1535,
+            0,
+            2049,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/4_0.jpg",
+          "bytes": 75662,
+          "sha256": "64bd91007d1e6005650ce6ae9f0c9a966e9e12072bf40e7fac6816cfcde94f89",
+          "column": 4,
+          "row": 0,
+          "bounds": [
+            2047,
+            0,
+            2561,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/5_0.jpg",
+          "bytes": 75055,
+          "sha256": "ad6ffebf48e6cc6c150fef81d28b692f9672de3ed4c546397e4a2a5becd34086",
+          "column": 5,
+          "row": 0,
+          "bounds": [
+            2559,
+            0,
+            3073,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/6_0.jpg",
+          "bytes": 77190,
+          "sha256": "c6f75e4dca8ca46a89c7e8c06a8ae3266f436736471707743be59f448dbc31c1",
+          "column": 6,
+          "row": 0,
+          "bounds": [
+            3071,
+            0,
+            3585,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/7_0.jpg",
+          "bytes": 78062,
+          "sha256": "d46c093ac59e692661c169f458ae9bc9de0a550b7c5e613d58668efe995b27e4",
+          "column": 7,
+          "row": 0,
+          "bounds": [
+            3583,
+            0,
+            4096,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/0_1.jpg",
+          "bytes": 100307,
+          "sha256": "b5999723c576128b3d4c69fbff71b8265f48e19b88d66a8c6fcad111793d74bb",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/1_1.jpg",
+          "bytes": 87150,
+          "sha256": "ac6dc869d401a78acfdd5b66c339f34202a3b9f46cb66fe6f53d7c41c3e7b46c",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/2_1.jpg",
+          "bytes": 124978,
+          "sha256": "1f46f2df865f22aa2b2bc21dec8868e7c53e60b120f06cb10a85aa6c847e5be8",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1537,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/3_1.jpg",
+          "bytes": 129491,
+          "sha256": "7adeaa1dd01f321e11d0a21717dc64d210447bcd0515fb07fc7d13fbb7de805d",
+          "column": 3,
+          "row": 1,
+          "bounds": [
+            1535,
+            511,
+            2049,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/4_1.jpg",
+          "bytes": 98584,
+          "sha256": "866ec2b0221889f0f8677d3b41648c6fea60fd2a1cae223d04b6acf7f40bee57",
+          "column": 4,
+          "row": 1,
+          "bounds": [
+            2047,
+            511,
+            2561,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/5_1.jpg",
+          "bytes": 77675,
+          "sha256": "c3e110cdd498410fd5b1292be0706ced0089bb1e4fe756cdea6f72343e7c4da4",
+          "column": 5,
+          "row": 1,
+          "bounds": [
+            2559,
+            511,
+            3073,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/6_1.jpg",
+          "bytes": 76459,
+          "sha256": "bfbbd585db02699de9588ad28a135d6df67c8bc0414d7fd3608876f1692a20b9",
+          "column": 6,
+          "row": 1,
+          "bounds": [
+            3071,
+            511,
+            3585,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/7_1.jpg",
+          "bytes": 75815,
+          "sha256": "798f640ab45891397afc0dc4a88e0d7a718113c25167309cafabc068e9986d4c",
+          "column": 7,
+          "row": 1,
+          "bounds": [
+            3583,
+            511,
+            4096,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/0_2.jpg",
+          "bytes": 115515,
+          "sha256": "db770f78c63469f4f29b6d8906f6d012ac85ff772a0d140d1f5ba8a808433a66",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/1_2.jpg",
+          "bytes": 122969,
+          "sha256": "e42592a3f9e6c605ae5e6ebfa5e7e164c0a4c52b7b8ef1e96fe24e7c65db23d1",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/2_2.jpg",
+          "bytes": 129674,
+          "sha256": "35332db980dfd736509161e65adf0d6e1d7c5aa97835f4dbc1638f9fea6904ce",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1537,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/3_2.jpg",
+          "bytes": 99617,
+          "sha256": "7486f503d64a6493f813a857274547e34ebc1a0ec4a0e6eb649e4d280015faca",
+          "column": 3,
+          "row": 2,
+          "bounds": [
+            1535,
+            1023,
+            2049,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/4_2.jpg",
+          "bytes": 89140,
+          "sha256": "a8b850898b7c1c949f6d7b2e0724013a5a9f11a7864f7fbe362af63f2bc5f4b1",
+          "column": 4,
+          "row": 2,
+          "bounds": [
+            2047,
+            1023,
+            2561,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/5_2.jpg",
+          "bytes": 77940,
+          "sha256": "e5d12176077d38520b84f8b63b9a5a622a43722d2144788a06d8baa09f8e7095",
+          "column": 5,
+          "row": 2,
+          "bounds": [
+            2559,
+            1023,
+            3073,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/6_2.jpg",
+          "bytes": 78138,
+          "sha256": "29e22076133d7a3a0a93785c3cbcde0ed59117fc3139ace94abdf09600b5726e",
+          "column": 6,
+          "row": 2,
+          "bounds": [
+            3071,
+            1023,
+            3585,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/7_2.jpg",
+          "bytes": 84053,
+          "sha256": "2e03b5bb4abdcee0c5b288bfebeff7b7575f9051b0b47706114cd741079222db",
+          "column": 7,
+          "row": 2,
+          "bounds": [
+            3583,
+            1023,
+            4096,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/0_3.jpg",
+          "bytes": 124411,
+          "sha256": "6d69b800a2b0025245b411d24fb45377a61a77d06552e5592500c31ee30100ac",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            2049
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/1_3.jpg",
+          "bytes": 138741,
+          "sha256": "166525c626d0efd063cffddebc2d8bb42062523a063a64057c78e8a39fd158b2",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/2_3.jpg",
+          "bytes": 110463,
+          "sha256": "381f26ad751814bb71073d4b16baf233dd3163ebe803b6bbe93fb21dc70440ab",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1537,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/3_3.jpg",
+          "bytes": 100633,
+          "sha256": "418bc32f0b3ae01e4867bedd4d5782b9cfa6662d8ba83e8059d038f5e11a9d74",
+          "column": 3,
+          "row": 3,
+          "bounds": [
+            1535,
+            1535,
+            2049,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/4_3.jpg",
+          "bytes": 94404,
+          "sha256": "bee63a07d46a575dc66a3214562e442e46abc5e78d989f7e0f57d4699ae54fe1",
+          "column": 4,
+          "row": 3,
+          "bounds": [
+            2047,
+            1535,
+            2561,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/5_3.jpg",
+          "bytes": 94126,
+          "sha256": "295a214accec252d7915782df5139d2e8bac4e8537dbcd4111c2645adc554b77",
+          "column": 5,
+          "row": 3,
+          "bounds": [
+            2559,
+            1535,
+            3073,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/6_3.jpg",
+          "bytes": 106638,
+          "sha256": "8b79d5c89a2029bfca74969eebeab441ec82e49579040df87684b33e7afdfcab",
+          "column": 6,
+          "row": 3,
+          "bounds": [
+            3071,
+            1535,
+            3585,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/7_3.jpg",
+          "bytes": 103972,
+          "sha256": "56e34f07c8be9665098d6fad25567ea5247a42590110b5be125c72c54131534f",
+          "column": 7,
+          "row": 3,
+          "bounds": [
+            3583,
+            1535,
+            4096,
+            2049
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/0_4.jpg",
+          "bytes": 107662,
+          "sha256": "a59502807a7122f1146376fcfab450c89a185f5216959b81c9025decbef5d61f",
+          "column": 0,
+          "row": 4,
+          "bounds": [
+            0,
+            2047,
+            513,
+            2561
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/1_4.jpg",
+          "bytes": 113714,
+          "sha256": "c7f7240ccc52cdc0c3ff61e69fe325b94220742a1374659709a5a095e311abec",
+          "column": 1,
+          "row": 4,
+          "bounds": [
+            511,
+            2047,
+            1025,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/2_4.jpg",
+          "bytes": 115309,
+          "sha256": "5ada3c81a8ab48b496a8938375f4efd201fe0e9f1410f3d8396aa7d749ba2ca5",
+          "column": 2,
+          "row": 4,
+          "bounds": [
+            1023,
+            2047,
+            1537,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/3_4.jpg",
+          "bytes": 124813,
+          "sha256": "bc5df7660de85d51a422d313e5756ee3e34bcff3d03a28a46cfc9a3375ee59e1",
+          "column": 3,
+          "row": 4,
+          "bounds": [
+            1535,
+            2047,
+            2049,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/4_4.jpg",
+          "bytes": 121386,
+          "sha256": "b39e8b06341a1a6bcaeb20c2b65d8d560460657a17933a9554a0a981df2ebb24",
+          "column": 4,
+          "row": 4,
+          "bounds": [
+            2047,
+            2047,
+            2561,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/5_4.jpg",
+          "bytes": 117228,
+          "sha256": "e4adea44eb9a2c6816f936a7afd43acaf994f6368180e049b8f6be0e0f24c135",
+          "column": 5,
+          "row": 4,
+          "bounds": [
+            2559,
+            2047,
+            3073,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/6_4.jpg",
+          "bytes": 109103,
+          "sha256": "f55da3f7684831754c95358da78b0def871b5c116609cb7286a4c9f1355f022a",
+          "column": 6,
+          "row": 4,
+          "bounds": [
+            3071,
+            2047,
+            3585,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/7_4.jpg",
+          "bytes": 103881,
+          "sha256": "ea1d23eb9f23fe205c29e2510db42abfc98a6c7b7a3d4c833ccd85fa0504842b",
+          "column": 7,
+          "row": 4,
+          "bounds": [
+            3583,
+            2047,
+            4096,
+            2561
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/0_5.jpg",
+          "bytes": 67322,
+          "sha256": "7226dfe491181cee95fc959d5f836ddeacfabbeb438e31f9f6c5c77411a21006",
+          "column": 0,
+          "row": 5,
+          "bounds": [
+            0,
+            2559,
+            513,
+            2888
+          ],
+          "width": 513,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/1_5.jpg",
+          "bytes": 67212,
+          "sha256": "78e960907bc738f17a5e18dd2690ec74d24302cb5caa6a2daff8d699b0dd83e0",
+          "column": 1,
+          "row": 5,
+          "bounds": [
+            511,
+            2559,
+            1025,
+            2888
+          ],
+          "width": 514,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/2_5.jpg",
+          "bytes": 67025,
+          "sha256": "20a09d8073d53f1f336049d07a961a67a862435a9c32e63b7961f3d12ecb3197",
+          "column": 2,
+          "row": 5,
+          "bounds": [
+            1023,
+            2559,
+            1537,
+            2888
+          ],
+          "width": 514,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/3_5.jpg",
+          "bytes": 65227,
+          "sha256": "b10e63db78f5b8bb132fc6a1d0e2cdbae287337a356767e9d6e19e37036df2b4",
+          "column": 3,
+          "row": 5,
+          "bounds": [
+            1535,
+            2559,
+            2049,
+            2888
+          ],
+          "width": 514,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/4_5.jpg",
+          "bytes": 63243,
+          "sha256": "3645fa26b1a2b70c9790908ab2c9bbbedb3f29f7fffb9d647415e1a4c430f746",
+          "column": 4,
+          "row": 5,
+          "bounds": [
+            2047,
+            2559,
+            2561,
+            2888
+          ],
+          "width": 514,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/5_5.jpg",
+          "bytes": 60555,
+          "sha256": "2f096b60c744f7d58f654c365179f5b9a55d1290b015797d676d09e910bd7c24",
+          "column": 5,
+          "row": 5,
+          "bounds": [
+            2559,
+            2559,
+            3073,
+            2888
+          ],
+          "width": 514,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/6_5.jpg",
+          "bytes": 62801,
+          "sha256": "1c0ec3c3d54b92cab728daadb12373ca8026a18ed5d13fe31643afa889c9a504",
+          "column": 6,
+          "row": 5,
+          "bounds": [
+            3071,
+            2559,
+            3585,
+            2888
+          ],
+          "width": 514,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/7_5.jpg",
+          "bytes": 59732,
+          "sha256": "2eba96c7e34814dec50339a3cb09a2dfcc037a9c5bdca1e010017fd9e3af05f0",
+          "column": 7,
+          "row": 5,
+          "bounds": [
+            3583,
+            2559,
+            4096,
+            2888
+          ],
+          "width": 513,
+          "height": 329,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "great-wave/preview.jpg",
+          "bytes": 148305,
+          "sha256": "c267b748c9f8fa511e2f3b190fbf933f9885746ef62c1047ab5e9bc266f24b51",
+          "width": 768,
+          "height": 542,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "noh-mask",
+      "url": "/assets/content/viewer/noh-mask.jpg",
+      "sourceSha256": "ade47bc7d3e020a34ad58c8ef49b3cc30ae0323e759f384e439acd752924f5b1",
+      "sourceBytes": 1367222,
+      "tileBytes": 616636,
+      "previewBytes": 71351,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 1.20681,
+      "tileRgbPsnrDb": 46.498,
+      "maximumTileChannelError": 8,
+      "width": 1512,
+      "height": 2000,
+      "tileSize": 512,
+      "columns": 3,
+      "rows": 4,
+      "preview": "/assets/content/viewer/tiles/noh-mask/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/noh-mask",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "noh-mask/0_0.jpg",
+          "bytes": 59614,
+          "sha256": "119ec9f8f7630fedace36510934c9ab3b563c2b392369148119805fc59d79148",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/1_0.jpg",
+          "bytes": 66288,
+          "sha256": "8bc619e5da7b0b0a13904bfd0d3d64e33f283576dc3b6263d61d521dcc56076b",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/2_0.jpg",
+          "bytes": 49009,
+          "sha256": "f71b5b83ed0988330b8a9b23d96b15d50800e66ff12a70be728c7879c90b6e23",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1512,
+            513
+          ],
+          "width": 489,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/0_1.jpg",
+          "bytes": 57940,
+          "sha256": "995e72726d099584179d4a6a0e81463c5d865796a767bd722f734c49142ca01e",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/1_1.jpg",
+          "bytes": 62240,
+          "sha256": "dbcaaa25dcd0c2ec5410e3e89374f91fbabc1e7bc221693908fe37a7d2ad41e9",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/2_1.jpg",
+          "bytes": 48377,
+          "sha256": "dd6bd3a20efbe3e2c2899d078390877c0fa7d82c72fa71656ed42e2fbaad74ad",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1512,
+            1025
+          ],
+          "width": 489,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/0_2.jpg",
+          "bytes": 41023,
+          "sha256": "5b20f9d7cdaaf2d30e6a6405d57c7f8ce80dd179d67c3af78e9fdb9477e9d2ea",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/1_2.jpg",
+          "bytes": 65866,
+          "sha256": "a2d66cc1a51ed39391083cec4564b1e1d7ad5b57c7ceb4189274d23c3df97ead",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/2_2.jpg",
+          "bytes": 44129,
+          "sha256": "d0f31a62ccd1d4e6e2046539576ecf92eb0cb527645406c49e34f18077ccad25",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1512,
+            1537
+          ],
+          "width": 489,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/0_3.jpg",
+          "bytes": 34817,
+          "sha256": "7630d0ff5c9b86125331f1c58d1a73b480084ba9be929196d7d3844bc714d256",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            2000
+          ],
+          "width": 513,
+          "height": 465,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/1_3.jpg",
+          "bytes": 55505,
+          "sha256": "f52427c3ade06b441b1355b0214da86a0da1ff12bfe31871010c4722efda7208",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            2000
+          ],
+          "width": 514,
+          "height": 465,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/2_3.jpg",
+          "bytes": 31828,
+          "sha256": "4d965330c23e8f6a45bb22e4fbec06d411c9b82e7c3e41c9ff354ca3f09b9ce0",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1512,
+            2000
+          ],
+          "width": 489,
+          "height": 465,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "noh-mask/preview.jpg",
+          "bytes": 71351,
+          "sha256": "2f42f1c3336ae75a5eebeafde536fb7285e41961dd56c8f2cda840830e8c9df1",
+          "width": 581,
+          "height": 768,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "arabic-bowl",
+      "url": "/assets/content/viewer/arabic-bowl.jpg",
+      "sourceSha256": "39a0aebea3bf47b62ccae9a4435930ee17f0dba6905dc5d63ec6b09f3fa844d4",
+      "sourceBytes": 1672695,
+      "tileBytes": 2699245,
+      "previewBytes": 88650,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 0.93598,
+      "tileRgbPsnrDb": 48.705,
+      "maximumTileChannelError": 12,
+      "width": 3791,
+      "height": 3791,
+      "tileSize": 512,
+      "columns": 8,
+      "rows": 8,
+      "preview": "/assets/content/viewer/tiles/arabic-bowl/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/arabic-bowl",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "arabic-bowl/0_0.jpg",
+          "bytes": 36420,
+          "sha256": "d41f190fc99dc3bda284a2d760c7d435bc44e1e7e8f3f09d8643a2a434175e9e",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_0.jpg",
+          "bytes": 39716,
+          "sha256": "f74ae08bf1aa0dd9c33d690374a887a0740db39dc9d44a8c7870b18aafa3f4bd",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_0.jpg",
+          "bytes": 40512,
+          "sha256": "6dfc57ff8b3e585164ad85fc3dbbbb1c21aa097b4ada4aa3489d917bfd655020",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1537,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_0.jpg",
+          "bytes": 40626,
+          "sha256": "03e4a84cfe3b924e4e2e299a3bc1a0197b2c6df8dd84cf26e34fd5ed94716531",
+          "column": 3,
+          "row": 0,
+          "bounds": [
+            1535,
+            0,
+            2049,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_0.jpg",
+          "bytes": 40170,
+          "sha256": "2cc42f287395a65503df73ec52aa58db3e6705d7a3edb287cdb51a97a6217bef",
+          "column": 4,
+          "row": 0,
+          "bounds": [
+            2047,
+            0,
+            2561,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_0.jpg",
+          "bytes": 40029,
+          "sha256": "08ee0a86d6c1d9fe3f5ce999db27f560ac70be32baa181fcb91a66d569098800",
+          "column": 5,
+          "row": 0,
+          "bounds": [
+            2559,
+            0,
+            3073,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_0.jpg",
+          "bytes": 40088,
+          "sha256": "367aad236e00450dccdcf133be2c0ef7ac1a95b253ba2a5be57821f25bcf320b",
+          "column": 6,
+          "row": 0,
+          "bounds": [
+            3071,
+            0,
+            3585,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_0.jpg",
+          "bytes": 17535,
+          "sha256": "2e06726630c61cb8fb99100a96f37aa77a39231973442a0596e0d761d7c67605",
+          "column": 7,
+          "row": 0,
+          "bounds": [
+            3583,
+            0,
+            3791,
+            513
+          ],
+          "width": 208,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/0_1.jpg",
+          "bytes": 41028,
+          "sha256": "5e28c353c9edc700a42fe8aeff1ac8e2940d840dbb131933355c07a20782e7f2",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_1.jpg",
+          "bytes": 44555,
+          "sha256": "716e22dd944e43aa84c0f4aa8f6c8b92ddaceab5992ef8b5347998389f5413cc",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_1.jpg",
+          "bytes": 62091,
+          "sha256": "92474322ee9beca21b994f638edc86c16676f05fca3c54a1e170ec43c20bc47b",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1537,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_1.jpg",
+          "bytes": 62373,
+          "sha256": "c584499afdba7d5c050b241adf35972ba05dc49e90d90828f2a51891b6bb2ea0",
+          "column": 3,
+          "row": 1,
+          "bounds": [
+            1535,
+            511,
+            2049,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_1.jpg",
+          "bytes": 59904,
+          "sha256": "87ddbc79ffe3ba60ffce39aedf5329920ebb454fb0e6ae3e37410706d43a702d",
+          "column": 4,
+          "row": 1,
+          "bounds": [
+            2047,
+            511,
+            2561,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_1.jpg",
+          "bytes": 61373,
+          "sha256": "5378ec9f2b7833ebd6c1d9320d515ff8c3a49a4ddb2ce3fa1c4be0c1b89f15bd",
+          "column": 5,
+          "row": 1,
+          "bounds": [
+            2559,
+            511,
+            3073,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_1.jpg",
+          "bytes": 40545,
+          "sha256": "1f3aa44492c08a50967b477511b33e541c80e6d1dddf3db627d2f04357e41815",
+          "column": 6,
+          "row": 1,
+          "bounds": [
+            3071,
+            511,
+            3585,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_1.jpg",
+          "bytes": 17343,
+          "sha256": "2fc8308773494f369294f04671c30ef77a6108c01c02be011a6b2884f0ee910c",
+          "column": 7,
+          "row": 1,
+          "bounds": [
+            3583,
+            511,
+            3791,
+            1025
+          ],
+          "width": 208,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/0_2.jpg",
+          "bytes": 41271,
+          "sha256": "6745762a46bba511c5d12565cbe9c81e4bcca8f6c16191c0d40c1e1af8ca3673",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_2.jpg",
+          "bytes": 70290,
+          "sha256": "7737e1e820650f089058d1129f3ee9bdecd90458a06f896feddf4b1bf1a97283",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_2.jpg",
+          "bytes": 49915,
+          "sha256": "09b433cdda7f3a9beb6f58cf132a9fee15cce4406142aee5d099ef2ddd5888d4",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1537,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_2.jpg",
+          "bytes": 40185,
+          "sha256": "e04d016cec3475cfbb9274fe5e01c04311a3c4616f441fbdc0e58f66242a5aba",
+          "column": 3,
+          "row": 2,
+          "bounds": [
+            1535,
+            1023,
+            2049,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_2.jpg",
+          "bytes": 39984,
+          "sha256": "d08b1e114756376ff8383f4d9316d9ec9c477e587567390a9a261a4e4b3f3269",
+          "column": 4,
+          "row": 2,
+          "bounds": [
+            2047,
+            1023,
+            2561,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_2.jpg",
+          "bytes": 54173,
+          "sha256": "05e5f742fd6077100a5cd6c170aa85fad71b366df2dd94927b4d5a6d08fdd52f",
+          "column": 5,
+          "row": 2,
+          "bounds": [
+            2559,
+            1023,
+            3073,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_2.jpg",
+          "bytes": 52801,
+          "sha256": "0b4a0aa5bc391e2a8b27c6d15c2cc928da20292992b15389ba284920ecf7e1a3",
+          "column": 6,
+          "row": 2,
+          "bounds": [
+            3071,
+            1023,
+            3585,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_2.jpg",
+          "bytes": 17254,
+          "sha256": "25708d6e0d93ec7b5eb2ae2284c0bfac478c54667df44fd5b89cf505e4165050",
+          "column": 7,
+          "row": 2,
+          "bounds": [
+            3583,
+            1023,
+            3791,
+            1537
+          ],
+          "width": 208,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/0_3.jpg",
+          "bytes": 40780,
+          "sha256": "73cd4728aa5e03f2e978341349279b72dcd4400cf982ad82f83b7b6956af4c03",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            2049
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_3.jpg",
+          "bytes": 94738,
+          "sha256": "dc29d3aecd08b1f3873ee98b2fee5e0990ccb2197754209eeeba5426d09ffd6e",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_3.jpg",
+          "bytes": 46731,
+          "sha256": "7d6c1262e3a752a86be0a9d70464a9438cc1740c3dd2004856136739908de1ae",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1537,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_3.jpg",
+          "bytes": 42424,
+          "sha256": "643224a15032665aae2766ee94ba88a37ae362f0339ac6e87971e425cfe1e8d6",
+          "column": 3,
+          "row": 3,
+          "bounds": [
+            1535,
+            1535,
+            2049,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_3.jpg",
+          "bytes": 38295,
+          "sha256": "ba46c08ec577e57be9514ffe2f19fcbd0281796dccf1e972ba485096d2641cdc",
+          "column": 4,
+          "row": 3,
+          "bounds": [
+            2047,
+            1535,
+            2561,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_3.jpg",
+          "bytes": 47356,
+          "sha256": "1dab485804a01b901a9fe6e96751b1074016ad5fa2c65e663697a9e33beb06b5",
+          "column": 5,
+          "row": 3,
+          "bounds": [
+            2559,
+            1535,
+            3073,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_3.jpg",
+          "bytes": 59565,
+          "sha256": "4504998e1998e0997c9f0cea31eb214f068532240501e055ab0a984ffd6f3543",
+          "column": 6,
+          "row": 3,
+          "bounds": [
+            3071,
+            1535,
+            3585,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_3.jpg",
+          "bytes": 18002,
+          "sha256": "7090bac1f131b570af0e91b166f1f5f2d073390f2c23f6eca319dff495539e01",
+          "column": 7,
+          "row": 3,
+          "bounds": [
+            3583,
+            1535,
+            3791,
+            2049
+          ],
+          "width": 208,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/0_4.jpg",
+          "bytes": 42216,
+          "sha256": "2e15e0206af723c8a1bf3cdef7d0f09afd23158f81957179eec04ca6a3ea50f1",
+          "column": 0,
+          "row": 4,
+          "bounds": [
+            0,
+            2047,
+            513,
+            2561
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_4.jpg",
+          "bytes": 75822,
+          "sha256": "17ff61c0fc4f3ac5c54d562d74b006350f0d5dcbdfb98a5de3b8fdb671de5528",
+          "column": 1,
+          "row": 4,
+          "bounds": [
+            511,
+            2047,
+            1025,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_4.jpg",
+          "bytes": 52324,
+          "sha256": "7fc37116db53f5991bb4a97ac0b0893bbe68e06c4873eacbe9fa58538275d70c",
+          "column": 2,
+          "row": 4,
+          "bounds": [
+            1023,
+            2047,
+            1537,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_4.jpg",
+          "bytes": 37953,
+          "sha256": "8876858b9ddc1dcedf34a63a4451ca048fc197b711a3594ebc89856821cbc5d6",
+          "column": 3,
+          "row": 4,
+          "bounds": [
+            1535,
+            2047,
+            2049,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_4.jpg",
+          "bytes": 36637,
+          "sha256": "1076bc02957d7dad03bd60bfdde70dc07a856b8df002a05614985591b7fc2183",
+          "column": 4,
+          "row": 4,
+          "bounds": [
+            2047,
+            2047,
+            2561,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_4.jpg",
+          "bytes": 48542,
+          "sha256": "bd373f89e21b0fdbfc39c837516edb5f1da96deb1d7548c64f780f799b64e052",
+          "column": 5,
+          "row": 4,
+          "bounds": [
+            2559,
+            2047,
+            3073,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_4.jpg",
+          "bytes": 53892,
+          "sha256": "6dae70376bfe81a488e723042429bfb063ced7f8d30d043d55de4c32d9b2a641",
+          "column": 6,
+          "row": 4,
+          "bounds": [
+            3071,
+            2047,
+            3585,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_4.jpg",
+          "bytes": 17990,
+          "sha256": "8cfe5a53889961f52e1fe373c9712875033f4c70016d43cc404df803ccd8235f",
+          "column": 7,
+          "row": 4,
+          "bounds": [
+            3583,
+            2047,
+            3791,
+            2561
+          ],
+          "width": 208,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/0_5.jpg",
+          "bytes": 43088,
+          "sha256": "31e595645b5bc6b78af0970dc04017d0eba27cab37b0f97ebcac9c0ee2490a34",
+          "column": 0,
+          "row": 5,
+          "bounds": [
+            0,
+            2559,
+            513,
+            3073
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_5.jpg",
+          "bytes": 51018,
+          "sha256": "ff0b5934286436ca37bdcaaba06f2cc1a3333d9f307b5d6624d5b8ecdcd2e3f9",
+          "column": 1,
+          "row": 5,
+          "bounds": [
+            511,
+            2559,
+            1025,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_5.jpg",
+          "bytes": 73759,
+          "sha256": "baefc0ad9eea29d06b5832a5333df768b8356a2d00f2ed11fc41b7a34ceabae3",
+          "column": 2,
+          "row": 5,
+          "bounds": [
+            1023,
+            2559,
+            1537,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_5.jpg",
+          "bytes": 58995,
+          "sha256": "1bf841d807f2b08c1ba78972f25d30081c5cf5e0f47f050e16392d13c3271cb8",
+          "column": 3,
+          "row": 5,
+          "bounds": [
+            1535,
+            2559,
+            2049,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_5.jpg",
+          "bytes": 64437,
+          "sha256": "f9ef0e2190167616adc8a3046142d4ca0d731ff3f693e7d9dc149170ed01ffa0",
+          "column": 4,
+          "row": 5,
+          "bounds": [
+            2047,
+            2559,
+            2561,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_5.jpg",
+          "bytes": 69577,
+          "sha256": "91cbd60abb678632a844f4372f5a7e11d7a5bd558898ef84f728f50715a21aff",
+          "column": 5,
+          "row": 5,
+          "bounds": [
+            2559,
+            2559,
+            3073,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_5.jpg",
+          "bytes": 41093,
+          "sha256": "09b4297ed40f4f768f1b29096e84e1bbaf3b9ba011ae1d4d06c2ecf889e765a8",
+          "column": 6,
+          "row": 5,
+          "bounds": [
+            3071,
+            2559,
+            3585,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_5.jpg",
+          "bytes": 17457,
+          "sha256": "0fdaad61c06526f2e74ce188ca6c41f52369dbc7193a9a8b5af52ef651dc3900",
+          "column": 7,
+          "row": 5,
+          "bounds": [
+            3583,
+            2559,
+            3791,
+            3073
+          ],
+          "width": 208,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/0_6.jpg",
+          "bytes": 42286,
+          "sha256": "7c940bdd05aa6ce4a54593236f6562b7f8cf8d83a40639d45137e2636bca753f",
+          "column": 0,
+          "row": 6,
+          "bounds": [
+            0,
+            3071,
+            513,
+            3585
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_6.jpg",
+          "bytes": 42659,
+          "sha256": "3a0ad3bb58cdbfdb83a8eb472d99be4eced01fbc315c78d0a0b969164da6f47d",
+          "column": 1,
+          "row": 6,
+          "bounds": [
+            511,
+            3071,
+            1025,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_6.jpg",
+          "bytes": 45920,
+          "sha256": "7498952b268bbb7b7b569d2332de750172e83b8a6ba0a74c0e5081605ba26432",
+          "column": 2,
+          "row": 6,
+          "bounds": [
+            1023,
+            3071,
+            1537,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_6.jpg",
+          "bytes": 59674,
+          "sha256": "a8a1fdc808e8a58df598b9cb15f6be14e325539fce65bf8727d3b7e9ef5d53ac",
+          "column": 3,
+          "row": 6,
+          "bounds": [
+            1535,
+            3071,
+            2049,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_6.jpg",
+          "bytes": 55598,
+          "sha256": "b8a39631c577c6f6828e46ff480e6f7885f23b820c4edf3020a80489a9122c6c",
+          "column": 4,
+          "row": 6,
+          "bounds": [
+            2047,
+            3071,
+            2561,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_6.jpg",
+          "bytes": 39080,
+          "sha256": "8a9996e2af369b66789444dcfa122d9425dc64ef72a539504ade7a8f36908c6e",
+          "column": 5,
+          "row": 6,
+          "bounds": [
+            2559,
+            3071,
+            3073,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_6.jpg",
+          "bytes": 40503,
+          "sha256": "9484e29a259a6a4b361fbcc957be63d46eb8494ad47e9624debfd6bda217bd60",
+          "column": 6,
+          "row": 6,
+          "bounds": [
+            3071,
+            3071,
+            3585,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_6.jpg",
+          "bytes": 17643,
+          "sha256": "5ae7bba15508c3d0bfc0caf6fbfa7f464d1c88d0d9a0b6566bac7021e8fc0c92",
+          "column": 7,
+          "row": 6,
+          "bounds": [
+            3583,
+            3071,
+            3791,
+            3585
+          ],
+          "width": 208,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/0_7.jpg",
+          "bytes": 17058,
+          "sha256": "3730879490a438a9ee6bb0cd85ad8927350fd7ef92a7ff91466359a5991f5ec3",
+          "column": 0,
+          "row": 7,
+          "bounds": [
+            0,
+            3583,
+            513,
+            3791
+          ],
+          "width": 513,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/1_7.jpg",
+          "bytes": 17895,
+          "sha256": "d96a75258aa62da1b4181be70506441c7c24333b201a9c1e7b2022a2c8933160",
+          "column": 1,
+          "row": 7,
+          "bounds": [
+            511,
+            3583,
+            1025,
+            3791
+          ],
+          "width": 514,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/2_7.jpg",
+          "bytes": 18828,
+          "sha256": "e24269b08814b827524491ce5d98352c2568fc9f6efb0f564255e950353131c4",
+          "column": 2,
+          "row": 7,
+          "bounds": [
+            1023,
+            3583,
+            1537,
+            3791
+          ],
+          "width": 514,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/3_7.jpg",
+          "bytes": 18230,
+          "sha256": "155b9abce99e2a56e9140b824d55a7cfd6ae828b20ee46316c4ebe44341f7556",
+          "column": 3,
+          "row": 7,
+          "bounds": [
+            1535,
+            3583,
+            2049,
+            3791
+          ],
+          "width": 514,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/4_7.jpg",
+          "bytes": 17647,
+          "sha256": "e5aa7ce7300ed75faa2537c7107b853785ad3af0c3f586f984c435abb7f8c8df",
+          "column": 4,
+          "row": 7,
+          "bounds": [
+            2047,
+            3583,
+            2561,
+            3791
+          ],
+          "width": 514,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/5_7.jpg",
+          "bytes": 18467,
+          "sha256": "dfd4bdaad5044bca884cc27192021e3260e5f9974f2ce1f4582956fea2df448a",
+          "column": 5,
+          "row": 7,
+          "bounds": [
+            2559,
+            3583,
+            3073,
+            3791
+          ],
+          "width": 514,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/6_7.jpg",
+          "bytes": 17155,
+          "sha256": "cc5bb5b55886ed26d6b1f275ae0122abd5bdf26fae7e07bd8f3eca2fa391c042",
+          "column": 6,
+          "row": 7,
+          "bounds": [
+            3071,
+            3583,
+            3585,
+            3791
+          ],
+          "width": 514,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/7_7.jpg",
+          "bytes": 7730,
+          "sha256": "8fe1a695b1284909f3ad2a481650d3e815737ca5d9551dc8787fd21e8ce1f620",
+          "column": 7,
+          "row": 7,
+          "bounds": [
+            3583,
+            3583,
+            3791,
+            3791
+          ],
+          "width": 208,
+          "height": 208,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "arabic-bowl/preview.jpg",
+          "bytes": 88650,
+          "sha256": "d44d7b162cc26cc4013feedc7a8525f70e46f257c18115038d3b55340bdba01b",
+          "width": 768,
+          "height": 768,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "migrant-mother",
+      "url": "/assets/content/viewer/migrant-mother.jpg",
+      "sourceSha256": "fedc81e3dd3be817d887b4cab16e42ca33e420b44cec46492d7352792fae217c",
+      "sourceBytes": 721805,
+      "tileBytes": 1178938,
+      "previewBytes": 141212,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 1.47189,
+      "tileRgbPsnrDb": 44.773,
+      "maximumTileChannelError": 15,
+      "width": 1661,
+      "height": 2048,
+      "tileSize": 512,
+      "columns": 4,
+      "rows": 4,
+      "preview": "/assets/content/viewer/tiles/migrant-mother/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/migrant-mother",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "migrant-mother/0_0.jpg",
+          "bytes": 61652,
+          "sha256": "ec657b50709f8ce3e304ca44a55a05c40dc26acf73a6d1b339820fce47ee0516",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/1_0.jpg",
+          "bytes": 82777,
+          "sha256": "416a4c42c771d11229ccc00faa0c3ab159d6931ea53f0fbf22f9ac6d7c35d0cf",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/2_0.jpg",
+          "bytes": 90980,
+          "sha256": "fe73ba92c16c68f3e81f2505e2fdd489cc2fe3f150ac345a32169ad8d021585f",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1537,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/3_0.jpg",
+          "bytes": 19702,
+          "sha256": "29ba45559e8142454356f7d6b55ec336136886140d4632284657af47207c6423",
+          "column": 3,
+          "row": 0,
+          "bounds": [
+            1535,
+            0,
+            1661,
+            513
+          ],
+          "width": 126,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/0_1.jpg",
+          "bytes": 84566,
+          "sha256": "00b1742eb01a175193a21e6419e4d29735367fd9880097fbc2df0a94c60c65d9",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/1_1.jpg",
+          "bytes": 83515,
+          "sha256": "725ab5c5520aa2801438fbf4650db0ec7076b1ebf9c95bcf14773c0ba7053510",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/2_1.jpg",
+          "bytes": 104283,
+          "sha256": "65e397093addd2384e01e46aea508332dad384a7ebf0d9105ba20091d18a41d1",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1537,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/3_1.jpg",
+          "bytes": 22175,
+          "sha256": "1c4932171c642167a2b88bd5aaba1ef370707f7bee14cc6988b5b1d34a8fd286",
+          "column": 3,
+          "row": 1,
+          "bounds": [
+            1535,
+            511,
+            1661,
+            1025
+          ],
+          "width": 126,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/0_2.jpg",
+          "bytes": 105922,
+          "sha256": "61eeac490084c475503551848464e21d9d4e4a77f2d7b82086afc13a4bc9a112",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/1_2.jpg",
+          "bytes": 102190,
+          "sha256": "78ea2301d9041da2f476ad2cc24a7bb41a3c223a69ec1f01bbc94c17f57c681f",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/2_2.jpg",
+          "bytes": 103526,
+          "sha256": "19e4f117de32e2ae53365799b45f2902470866547f0787bf7d9f2c35dc3de37c",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1537,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/3_2.jpg",
+          "bytes": 26017,
+          "sha256": "60ba1a63a556965fff73a6826f9d2f0536390aec0c981ea07c677a4bb760a01d",
+          "column": 3,
+          "row": 2,
+          "bounds": [
+            1535,
+            1023,
+            1661,
+            1537
+          ],
+          "width": 126,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/0_3.jpg",
+          "bytes": 82156,
+          "sha256": "02ac80db5dc4e479f5fa444339d2d54c0f367dc63d396a4a81f65c4cb7f89833",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            2048
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/1_3.jpg",
+          "bytes": 88780,
+          "sha256": "9d372e5dd500acba9c41213dfa12a46372c41ebdf962b1b81f4cc9f17cc80043",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            2048
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/2_3.jpg",
+          "bytes": 101315,
+          "sha256": "fc06f9ba42ceab231a9151c23d940567ef3ef8283be2718befd7a5cf734866c5",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1537,
+            2048
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/3_3.jpg",
+          "bytes": 19382,
+          "sha256": "88980c16c0207740bc32cc0ca5eab678f637a83325c3502a4f79dbc0625ed18e",
+          "column": 3,
+          "row": 3,
+          "bounds": [
+            1535,
+            1535,
+            1661,
+            2048
+          ],
+          "width": 126,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "migrant-mother/preview.jpg",
+          "bytes": 141212,
+          "sha256": "4de08d25cd16d5cc40fbf98d9a4625f2c5c4d3824c3c4c094c3d3838f03e62f7",
+          "width": 623,
+          "height": 768,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "caligari",
+      "url": "/assets/content/caligari-poster.jpg",
+      "sourceSha256": "c0425acbf32c745bb1f4f731846367d610d5a9a9bddb8f7c22e7be137bda938a",
+      "sourceBytes": 176717,
+      "tileBytes": 623134,
+      "previewBytes": 138949,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 1.24649,
+      "tileRgbPsnrDb": 46.217,
+      "maximumTileChannelError": 14,
+      "width": 1206,
+      "height": 1800,
+      "tileSize": 512,
+      "columns": 3,
+      "rows": 4,
+      "preview": "/assets/content/viewer/tiles/caligari/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/caligari",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "caligari/0_0.jpg",
+          "bytes": 31283,
+          "sha256": "d156120ef11afe2ac7659ab1cd8d496476d2b4d1a16c485a4ae668327a88ee0f",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/1_0.jpg",
+          "bytes": 65943,
+          "sha256": "62f03dc3c6eba6109bab1c77d8c57bb16915b498c3d1057c127b3170fd06ef18",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/2_0.jpg",
+          "bytes": 31423,
+          "sha256": "26f36de3e06fc5d7b7070134e734e18cbc867f0436fddaaff368195a84c1bb00",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1206,
+            513
+          ],
+          "width": 183,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/0_1.jpg",
+          "bytes": 79661,
+          "sha256": "08acdbb9e7ef8269774c1208dced0178cda917f34950c2a58577874574967fa0",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/1_1.jpg",
+          "bytes": 102039,
+          "sha256": "26ef6f55dc05d94f10ed3dc84a64831e1bdabd2202073992422945b8baae3618",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/2_1.jpg",
+          "bytes": 30367,
+          "sha256": "e98d5107692ffc388bb2c407d662caa88d0037f3b2c15e3d9fca2f0733a62b98",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1206,
+            1025
+          ],
+          "width": 183,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/0_2.jpg",
+          "bytes": 73573,
+          "sha256": "43514477eaa245dce77d07aa78de339a5d6b04914cadf3963306c04d33c48de0",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/1_2.jpg",
+          "bytes": 86706,
+          "sha256": "52e5fc5dcb7295c2059d3f9078f951239be725b3598d7c93babf1b810243b0fc",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/2_2.jpg",
+          "bytes": 24540,
+          "sha256": "dafe40d910a4efbc705b931c2faa95c65bdd5bebe830bf86a8ec40cc751c22fa",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1206,
+            1537
+          ],
+          "width": 183,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/0_3.jpg",
+          "bytes": 37376,
+          "sha256": "ab4b796ce76941dce193c05d162ed92c81fedf4e762de1db5759788fe3e8f20e",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            1800
+          ],
+          "width": 513,
+          "height": 265,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/1_3.jpg",
+          "bytes": 45446,
+          "sha256": "25fafba4cef5f0b20bf191b8840b680340979b58a0318ab14f5c710312174bfb",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            1800
+          ],
+          "width": 514,
+          "height": 265,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/2_3.jpg",
+          "bytes": 14777,
+          "sha256": "353f6b4a93edc8da4cc8f8a09a9a456011e4cab17c97d7d69548df12b21d9515",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1206,
+            1800
+          ],
+          "width": 183,
+          "height": 265,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "caligari/preview.jpg",
+          "bytes": 138949,
+          "sha256": "460d2ff0fd134f9fd6e0eb8b1cffcde7ea93bc67be2ed8a0e98ca8748c99df23",
+          "width": 515,
+          "height": 768,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "the-kiss",
+      "url": "/assets/content/viewer/the-kiss.jpg",
+      "sourceSha256": "1dfebf24d4d99cb658f42c482989ee71c024e0073b115b0d5051052e536abfb1",
+      "sourceBytes": 7126574,
+      "tileBytes": 11479797,
+      "previewBytes": 309579,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 2.67983,
+      "tileRgbPsnrDb": 39.569,
+      "maximumTileChannelError": 29,
+      "width": 3840,
+      "height": 3853,
+      "tileSize": 512,
+      "columns": 8,
+      "rows": 8,
+      "preview": "/assets/content/viewer/tiles/the-kiss/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/the-kiss",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "the-kiss/0_0.jpg",
+          "bytes": 207920,
+          "sha256": "54de59965b48a6eac2e715318ab63d55b5da638f7d2025eb03c659f30cf3c18d",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_0.jpg",
+          "bytes": 220040,
+          "sha256": "12e8a3a5cd7c0078ee5d5a35ca14c626bffd90357dc7217804cc40bd6b47ca23",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_0.jpg",
+          "bytes": 185905,
+          "sha256": "f63b33c9847daddc4ed5be6e77588528c109162fdc8e3931284a063fafb708d8",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1537,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_0.jpg",
+          "bytes": 165537,
+          "sha256": "a863567bba4439f1fe58b3dce08231e6788b537b53f58c6472d57f77d3bec250",
+          "column": 3,
+          "row": 0,
+          "bounds": [
+            1535,
+            0,
+            2049,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_0.jpg",
+          "bytes": 176144,
+          "sha256": "6b8adfa281c00546039e3d503c8d00a33306db48d91fcb8334a65f45678ff06e",
+          "column": 4,
+          "row": 0,
+          "bounds": [
+            2047,
+            0,
+            2561,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_0.jpg",
+          "bytes": 203939,
+          "sha256": "f5717abd835cb4e10d40b35ca0d15944529830d77caae80548180cef330141ec",
+          "column": 5,
+          "row": 0,
+          "bounds": [
+            2559,
+            0,
+            3073,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_0.jpg",
+          "bytes": 209082,
+          "sha256": "199ad2cd99ccbbd2cb95e975b6bde89e9232bffa37e8d6578fcc0f7398941639",
+          "column": 6,
+          "row": 0,
+          "bounds": [
+            3071,
+            0,
+            3585,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_0.jpg",
+          "bytes": 104993,
+          "sha256": "cde60ca728455586fc5c0e9dd2963b577ec4ccdfcb23205e1f4549086d2b3229",
+          "column": 7,
+          "row": 0,
+          "bounds": [
+            3583,
+            0,
+            3840,
+            513
+          ],
+          "width": 257,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/0_1.jpg",
+          "bytes": 231512,
+          "sha256": "4d40e5b7f18999799bb503496cda0c0057f418e3d5ca2fa1690f408009fc320b",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_1.jpg",
+          "bytes": 222780,
+          "sha256": "17e54b675b9e50318024a139493a4cbc3b6b4081acc758540f67daa94069517d",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_1.jpg",
+          "bytes": 181662,
+          "sha256": "6b9388ff5644e95ead68dae20893a7cec0f1178fcceaedc60103f5b24aec2a60",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1537,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_1.jpg",
+          "bytes": 185238,
+          "sha256": "b5c85776bf1d00a4945e5d1174529985938b996a0ee81d87435537041303d5f7",
+          "column": 3,
+          "row": 1,
+          "bounds": [
+            1535,
+            511,
+            2049,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_1.jpg",
+          "bytes": 173742,
+          "sha256": "1183b81f5a22e051da7956854efb6f0339270a1dfb8dd9ed78cf05b9e4a3fffc",
+          "column": 4,
+          "row": 1,
+          "bounds": [
+            2047,
+            511,
+            2561,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_1.jpg",
+          "bytes": 213215,
+          "sha256": "865a3cca57bb6241e497bd37314b27baa0edb2cb25b30c14423c02682c7c90ea",
+          "column": 5,
+          "row": 1,
+          "bounds": [
+            2559,
+            511,
+            3073,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_1.jpg",
+          "bytes": 214481,
+          "sha256": "3e1fd5dc26e95486f41877a0a82c93804ccc3337e88a96d3c6dc3d79dc581267",
+          "column": 6,
+          "row": 1,
+          "bounds": [
+            3071,
+            511,
+            3585,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_1.jpg",
+          "bytes": 111755,
+          "sha256": "bc52be7d8a7218e620282c453ea8d08f143925a7e48562121b2a41fbe6664ef7",
+          "column": 7,
+          "row": 1,
+          "bounds": [
+            3583,
+            511,
+            3840,
+            1025
+          ],
+          "width": 257,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/0_2.jpg",
+          "bytes": 229436,
+          "sha256": "d89b81e18ec906b2bd8dfee154986e392137891b9263e67e0a27029f219f2a8c",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_2.jpg",
+          "bytes": 222148,
+          "sha256": "e1bc762ffa9c41c9e9c5a815f66e203946255b8cf509c23dc4282b1e2ea4fd34",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_2.jpg",
+          "bytes": 183269,
+          "sha256": "bac8de1b2736fa910dd7cb9928e238c4cdbd55b320230db8835472b65e1696dd",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1537,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_2.jpg",
+          "bytes": 173647,
+          "sha256": "bd565d577efc9e0d66c9ee20609286c431fabf2f57de97b68e9886463aeda222",
+          "column": 3,
+          "row": 2,
+          "bounds": [
+            1535,
+            1023,
+            2049,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_2.jpg",
+          "bytes": 194233,
+          "sha256": "8d64842dacb659b1ae830cc52b59880906fc222851a0d6254f78c3b1ffda6144",
+          "column": 4,
+          "row": 2,
+          "bounds": [
+            2047,
+            1023,
+            2561,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_2.jpg",
+          "bytes": 214914,
+          "sha256": "0f11cd33506468b719e7eefb284ef8f11d4baf89b26eca959bcf7110bc27572b",
+          "column": 5,
+          "row": 2,
+          "bounds": [
+            2559,
+            1023,
+            3073,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_2.jpg",
+          "bytes": 219003,
+          "sha256": "358013bdfc93b49b4f36702bb4d7de704c65e725964df35cdb9abf2075ab7b67",
+          "column": 6,
+          "row": 2,
+          "bounds": [
+            3071,
+            1023,
+            3585,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_2.jpg",
+          "bytes": 111549,
+          "sha256": "961d9fbdeaa507ef0971cc2998919e6661c793d8374807230f00196f7931a17e",
+          "column": 7,
+          "row": 2,
+          "bounds": [
+            3583,
+            1023,
+            3840,
+            1537
+          ],
+          "width": 257,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/0_3.jpg",
+          "bytes": 217881,
+          "sha256": "5216c496124cd97ef617a288355b20c16f82a185c9d80d1f68e3699f7347ef01",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            2049
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_3.jpg",
+          "bytes": 223482,
+          "sha256": "1201238f161ba3908b92a54b44718920a2d35272238cf82f8b31ae3842aa6838",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_3.jpg",
+          "bytes": 181457,
+          "sha256": "35276191fe86707d7248960013ebba599469e2fbbe13aa097ec9ba597a9cd7a9",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1537,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_3.jpg",
+          "bytes": 190122,
+          "sha256": "941f535cfffd441ee6ec682c06a5d50801e80495e23a0dda732659e7208bd5d3",
+          "column": 3,
+          "row": 3,
+          "bounds": [
+            1535,
+            1535,
+            2049,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_3.jpg",
+          "bytes": 185965,
+          "sha256": "551e0b9e8a6ed0a19982934114bdd842fafc3d704dec5d585d47ac77fc3c6bfd",
+          "column": 4,
+          "row": 3,
+          "bounds": [
+            2047,
+            1535,
+            2561,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_3.jpg",
+          "bytes": 209926,
+          "sha256": "9e076577fde28601fb488404b457104f490e4d9a076edc41a43589da2219f9d1",
+          "column": 5,
+          "row": 3,
+          "bounds": [
+            2559,
+            1535,
+            3073,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_3.jpg",
+          "bytes": 225624,
+          "sha256": "b5beb54aa9ed6f994e6e5ac1055fcdc6e7c68103e466af7e10878b6e8e5e263f",
+          "column": 6,
+          "row": 3,
+          "bounds": [
+            3071,
+            1535,
+            3585,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_3.jpg",
+          "bytes": 112977,
+          "sha256": "3b0c5152a8c7161f36049d6ce604354bac6916dadbea2c18c57cb258f8d94c0b",
+          "column": 7,
+          "row": 3,
+          "bounds": [
+            3583,
+            1535,
+            3840,
+            2049
+          ],
+          "width": 257,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/0_4.jpg",
+          "bytes": 213080,
+          "sha256": "d6b0e93348cadc87775045fe67ef810dd4c4d1205f81931862c826120f819035",
+          "column": 0,
+          "row": 4,
+          "bounds": [
+            0,
+            2047,
+            513,
+            2561
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_4.jpg",
+          "bytes": 215763,
+          "sha256": "c6589b4dd19c38c0e7d7baeeb019c4f07e27030307b5c23cb9ccb32ecdb8f2e1",
+          "column": 1,
+          "row": 4,
+          "bounds": [
+            511,
+            2047,
+            1025,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_4.jpg",
+          "bytes": 183366,
+          "sha256": "d35b0708b8a7045174efd66fba3899b3be28e2e26b4005c463955a710511e863",
+          "column": 2,
+          "row": 4,
+          "bounds": [
+            1023,
+            2047,
+            1537,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_4.jpg",
+          "bytes": 172825,
+          "sha256": "159beca10efed6959174ac36ea396572206394bfd8617caa0131f58075f01f08",
+          "column": 3,
+          "row": 4,
+          "bounds": [
+            1535,
+            2047,
+            2049,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_4.jpg",
+          "bytes": 189393,
+          "sha256": "a51ab63286e19558d17e1aec373c0b1b35084d7328a5264eba9cb111ae5c2d76",
+          "column": 4,
+          "row": 4,
+          "bounds": [
+            2047,
+            2047,
+            2561,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_4.jpg",
+          "bytes": 201633,
+          "sha256": "4a5c866074754698a539e4a2776c89b48acb5a79a97ee4f8afa4f386b25066db",
+          "column": 5,
+          "row": 4,
+          "bounds": [
+            2559,
+            2047,
+            3073,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_4.jpg",
+          "bytes": 223279,
+          "sha256": "94ba1256c93cc0b68bfb0ee99969376865b0f7e965249383b0647ff62e0aa338",
+          "column": 6,
+          "row": 4,
+          "bounds": [
+            3071,
+            2047,
+            3585,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_4.jpg",
+          "bytes": 111783,
+          "sha256": "5e56aebe771330ee82810f329ec6860eb42b4bdae8fc0ca8263a53778c149213",
+          "column": 7,
+          "row": 4,
+          "bounds": [
+            3583,
+            2047,
+            3840,
+            2561
+          ],
+          "width": 257,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/0_5.jpg",
+          "bytes": 203053,
+          "sha256": "ba4f7e63c5a56c2247e4181a4aa9ba60fbbd9675aa5d86f762a4b6f467cf097b",
+          "column": 0,
+          "row": 5,
+          "bounds": [
+            0,
+            2559,
+            513,
+            3073
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_5.jpg",
+          "bytes": 207971,
+          "sha256": "13ab0f9d83bc127b3544cf9d2b8a2ffa41c2d4d5d48ee0a237b039f5af3975c0",
+          "column": 1,
+          "row": 5,
+          "bounds": [
+            511,
+            2559,
+            1025,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_5.jpg",
+          "bytes": 189217,
+          "sha256": "4c9669a79e93c86e85fcb01ab633097b283cb766efefa57c865afcc124bf089d",
+          "column": 2,
+          "row": 5,
+          "bounds": [
+            1023,
+            2559,
+            1537,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_5.jpg",
+          "bytes": 178177,
+          "sha256": "a6020a0aa45012e3f0afc5d00061ee83d53267de395ca396e1e75d0df455e81c",
+          "column": 3,
+          "row": 5,
+          "bounds": [
+            1535,
+            2559,
+            2049,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_5.jpg",
+          "bytes": 200532,
+          "sha256": "507af033411a098fcc90ccaa222452849c8dff6c44f3ef6cf1c1de1b50c84723",
+          "column": 4,
+          "row": 5,
+          "bounds": [
+            2047,
+            2559,
+            2561,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_5.jpg",
+          "bytes": 193089,
+          "sha256": "855d1d01d757ee2c2568628cb08a37c10d40b8537f3fcbff3c2336eb6ad19695",
+          "column": 5,
+          "row": 5,
+          "bounds": [
+            2559,
+            2559,
+            3073,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_5.jpg",
+          "bytes": 215128,
+          "sha256": "47eaad58c7bb89d29a8fa9eba0571ccddcb21eecde083b37c515ff9b6ea25e17",
+          "column": 6,
+          "row": 5,
+          "bounds": [
+            3071,
+            2559,
+            3585,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_5.jpg",
+          "bytes": 108696,
+          "sha256": "13752017967f3461e1b045bfb0d945641ab917f8b4e86d7cbbe97b425ad62626",
+          "column": 7,
+          "row": 5,
+          "bounds": [
+            3583,
+            2559,
+            3840,
+            3073
+          ],
+          "width": 257,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/0_6.jpg",
+          "bytes": 196653,
+          "sha256": "6782c3a9eb0594e14fbcf9d69e62481607772222aa5625358b239617d947bcbe",
+          "column": 0,
+          "row": 6,
+          "bounds": [
+            0,
+            3071,
+            513,
+            3585
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_6.jpg",
+          "bytes": 202924,
+          "sha256": "cd6a16b47afdb38d083e3623427f0c000402d15e47f56e377b77c2f5648cb5d4",
+          "column": 1,
+          "row": 6,
+          "bounds": [
+            511,
+            3071,
+            1025,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_6.jpg",
+          "bytes": 201258,
+          "sha256": "4ee407da01f0524daa6346d1ed5d1f1d674e25ce2128993666df755902c95862",
+          "column": 2,
+          "row": 6,
+          "bounds": [
+            1023,
+            3071,
+            1537,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_6.jpg",
+          "bytes": 203066,
+          "sha256": "9c2436a64a4efae0ff351591a4bdef5bbb744d61afff0e489dd429a7579978fc",
+          "column": 3,
+          "row": 6,
+          "bounds": [
+            1535,
+            3071,
+            2049,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_6.jpg",
+          "bytes": 212432,
+          "sha256": "0f44ff025e2d23976f456db40d7fbe8851c478344581e4c42a900df94180ad7c",
+          "column": 4,
+          "row": 6,
+          "bounds": [
+            2047,
+            3071,
+            2561,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_6.jpg",
+          "bytes": 220807,
+          "sha256": "6d94d5cb6f4b86f48062f87d9529d2e3012bf246ced28313f58de002d785b83a",
+          "column": 5,
+          "row": 6,
+          "bounds": [
+            2559,
+            3071,
+            3073,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_6.jpg",
+          "bytes": 212144,
+          "sha256": "d6993b43c217d60ea54a5d040b33230219f211a8d9eb06c7fad51dca359a9c0e",
+          "column": 6,
+          "row": 6,
+          "bounds": [
+            3071,
+            3071,
+            3585,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_6.jpg",
+          "bytes": 107506,
+          "sha256": "7612c25d3567ecd810bc4afb052e77e1cc12e98152967d674d9a2f612129adf5",
+          "column": 7,
+          "row": 6,
+          "bounds": [
+            3583,
+            3071,
+            3840,
+            3585
+          ],
+          "width": 257,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/0_7.jpg",
+          "bytes": 101277,
+          "sha256": "a81b27bae4d866bec4660b40a88902ecd4678d12a2c9afb3e6815b601146bb79",
+          "column": 0,
+          "row": 7,
+          "bounds": [
+            0,
+            3583,
+            513,
+            3853
+          ],
+          "width": 513,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/1_7.jpg",
+          "bytes": 107613,
+          "sha256": "dc14d33c6b5d3ddde6a1f20d6e333150f70058481e6d854d18af65565552b32a",
+          "column": 1,
+          "row": 7,
+          "bounds": [
+            511,
+            3583,
+            1025,
+            3853
+          ],
+          "width": 514,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/2_7.jpg",
+          "bytes": 106330,
+          "sha256": "e509d43ac635ecd744dc43a1a1ef5ddf12dc26ff8fe9f50e19d3ead37f3448e0",
+          "column": 2,
+          "row": 7,
+          "bounds": [
+            1023,
+            3583,
+            1537,
+            3853
+          ],
+          "width": 514,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/3_7.jpg",
+          "bytes": 106099,
+          "sha256": "899215f79c3173484e56eca20ae8de054d31e2f997ab923d590326dce3fbbf11",
+          "column": 3,
+          "row": 7,
+          "bounds": [
+            1535,
+            3583,
+            2049,
+            3853
+          ],
+          "width": 514,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/4_7.jpg",
+          "bytes": 114082,
+          "sha256": "e8e7cf2d99cab4c143b37aa64d0fa6d68f6d1a9286df8089659304d51257d048",
+          "column": 4,
+          "row": 7,
+          "bounds": [
+            2047,
+            3583,
+            2561,
+            3853
+          ],
+          "width": 514,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/5_7.jpg",
+          "bytes": 115676,
+          "sha256": "21956b066ddac8b5d40b5a858f249ff20c47c8a9b98da726508093109b7712be",
+          "column": 5,
+          "row": 7,
+          "bounds": [
+            2559,
+            3583,
+            3073,
+            3853
+          ],
+          "width": 514,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/6_7.jpg",
+          "bytes": 108084,
+          "sha256": "fcd8b52708eb762b98da338225df984e270b45ef7edc00f62e70bf8e4ab54763",
+          "column": 6,
+          "row": 7,
+          "bounds": [
+            3071,
+            3583,
+            3585,
+            3853
+          ],
+          "width": 514,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/7_7.jpg",
+          "bytes": 53283,
+          "sha256": "edc480e3702f512d6f380124f2a95cedd1886ac95a686396b1eb9def949cc430",
+          "column": 7,
+          "row": 7,
+          "bounds": [
+            3583,
+            3583,
+            3840,
+            3853
+          ],
+          "width": 257,
+          "height": 270,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "the-kiss/preview.jpg",
+          "bytes": 309579,
+          "sha256": "718bc5b3516533909b88cb6c1b506165c91b6b1c7d9b81f39323348069b67768",
+          "width": 765,
+          "height": 768,
+          "kind": "preview"
+        }
+      ]
+    },
+    {
+      "id": "girl-pearl",
+      "url": "/assets/content/viewer/girl-pearl.jpg",
+      "sourceSha256": "6317f81a06372861fb94d77b09030b911187dbc530ba6c27e4dfaf01e893a0fc",
+      "sourceBytes": 7443124,
+      "tileBytes": 7525999,
+      "previewBytes": 147603,
+      "iccPreserved": true,
+      "decodedTilePixelsEqualSource": false,
+      "tileRgbRmse": 2.16835,
+      "tileRgbPsnrDb": 41.408,
+      "maximumTileChannelError": 14,
+      "width": 3458,
+      "height": 4096,
+      "tileSize": 512,
+      "columns": 7,
+      "rows": 8,
+      "preview": "/assets/content/viewer/tiles/girl-pearl/preview.jpg",
+      "basePath": "/assets/content/viewer/tiles/girl-pearl",
+      "extension": "jpg",
+      "overlap": 1,
+      "files": [
+        {
+          "file": "girl-pearl/0_0.jpg",
+          "bytes": 115747,
+          "sha256": "9abe4543c2cc32a4b1d86567b7f73bfe0172a3e062e886f9078a8b9ca7163dcf",
+          "column": 0,
+          "row": 0,
+          "bounds": [
+            0,
+            0,
+            513,
+            513
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_0.jpg",
+          "bytes": 125027,
+          "sha256": "94411e2172169d522094f6656d6612575f80be02dc31c5d20a1da095e90b5723",
+          "column": 1,
+          "row": 0,
+          "bounds": [
+            511,
+            0,
+            1025,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_0.jpg",
+          "bytes": 122600,
+          "sha256": "ede7cad1235726e67830f47fc204a8216c23abd136924a13172c46e5262236ff",
+          "column": 2,
+          "row": 0,
+          "bounds": [
+            1023,
+            0,
+            1537,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_0.jpg",
+          "bytes": 126197,
+          "sha256": "4d3405d6bf1dfee69d66335700e45c09bdde662b6e8da8119a4de8fdf1a226a7",
+          "column": 3,
+          "row": 0,
+          "bounds": [
+            1535,
+            0,
+            2049,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_0.jpg",
+          "bytes": 127455,
+          "sha256": "6b6d11d458ad5596510ba445376ad633e432bbb8eda11f58b5b1a970fe2afdcf",
+          "column": 4,
+          "row": 0,
+          "bounds": [
+            2047,
+            0,
+            2561,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_0.jpg",
+          "bytes": 129374,
+          "sha256": "530de7d9d12b9228b5e71d2a92e88918e3b4ce7892ade29f5ddd0f936543effa",
+          "column": 5,
+          "row": 0,
+          "bounds": [
+            2559,
+            0,
+            3073,
+            513
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_0.jpg",
+          "bytes": 96148,
+          "sha256": "7766d1149d99e612e40003d1465e5d8f430dd682680732f3e1bc93ddc26b6a17",
+          "column": 6,
+          "row": 0,
+          "bounds": [
+            3071,
+            0,
+            3458,
+            513
+          ],
+          "width": 387,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/0_1.jpg",
+          "bytes": 121134,
+          "sha256": "3546d1fc9d906d66faa6c4514ec24318ff72ea22dd721716d37797cdb60672ab",
+          "column": 0,
+          "row": 1,
+          "bounds": [
+            0,
+            511,
+            513,
+            1025
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_1.jpg",
+          "bytes": 121762,
+          "sha256": "3d29889fe83e196140e4a2d08739f9976c56ba728266ed6c24c15ad9e9ef68ab",
+          "column": 1,
+          "row": 1,
+          "bounds": [
+            511,
+            511,
+            1025,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_1.jpg",
+          "bytes": 131920,
+          "sha256": "6309a1b80cfeafaa5f6e5fb9ff403545f856642b1a437850c3cca344deceb4f3",
+          "column": 2,
+          "row": 1,
+          "bounds": [
+            1023,
+            511,
+            1537,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_1.jpg",
+          "bytes": 154931,
+          "sha256": "cc8d81c0c6c931dc884e39b9d10b9c4a74d51ddb25fe4836ec63d0f0e07691c4",
+          "column": 3,
+          "row": 1,
+          "bounds": [
+            1535,
+            511,
+            2049,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_1.jpg",
+          "bytes": 157147,
+          "sha256": "94e6732a70c07d52582ba2bf38d2254baec8118bc3cc5cfc77774e3dd3070705",
+          "column": 4,
+          "row": 1,
+          "bounds": [
+            2047,
+            511,
+            2561,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_1.jpg",
+          "bytes": 129454,
+          "sha256": "29c07c61738da1dae8a4a85c1f02658c0721ad48a901ec3aa03d87d118598fce",
+          "column": 5,
+          "row": 1,
+          "bounds": [
+            2559,
+            511,
+            3073,
+            1025
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_1.jpg",
+          "bytes": 90873,
+          "sha256": "a95bae9c289c4ee65e1f7f5d750c38b99b421b6700d8b3986e948489f7ae7425",
+          "column": 6,
+          "row": 1,
+          "bounds": [
+            3071,
+            511,
+            3458,
+            1025
+          ],
+          "width": 387,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/0_2.jpg",
+          "bytes": 129487,
+          "sha256": "a0b7117f8d74d987639d9da4776980ff7ccaf53daf87fd7d74d802bbc40b45f3",
+          "column": 0,
+          "row": 2,
+          "bounds": [
+            0,
+            1023,
+            513,
+            1537
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_2.jpg",
+          "bytes": 132280,
+          "sha256": "86ff3a6c9335ee5c1657fa86a8f46242fe60f06efa019d2677fa25fe071962a8",
+          "column": 1,
+          "row": 2,
+          "bounds": [
+            511,
+            1023,
+            1025,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_2.jpg",
+          "bytes": 149538,
+          "sha256": "78399a8dba4d91a3da18ec5f3073c47b02b472066afaf86c9719b65646227bc9",
+          "column": 2,
+          "row": 2,
+          "bounds": [
+            1023,
+            1023,
+            1537,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_2.jpg",
+          "bytes": 164466,
+          "sha256": "fd845316449d275d1c89e02965e6fcd173fd454b183d336a1568f31f7176144b",
+          "column": 3,
+          "row": 2,
+          "bounds": [
+            1535,
+            1023,
+            2049,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_2.jpg",
+          "bytes": 169652,
+          "sha256": "c655b9da92f75778026b375c1aaa5c60b3fe9107641596aa6c14a52a93f140e9",
+          "column": 4,
+          "row": 2,
+          "bounds": [
+            2047,
+            1023,
+            2561,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_2.jpg",
+          "bytes": 146706,
+          "sha256": "5bcac827795cacb65104938a202ea22aa658a9a6ea9ddd970854b13352f004a7",
+          "column": 5,
+          "row": 2,
+          "bounds": [
+            2559,
+            1023,
+            3073,
+            1537
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_2.jpg",
+          "bytes": 106566,
+          "sha256": "7378a0bc80782f7c7a41108154e1de9df877f8426b127ab72410dd9c6c9ed709",
+          "column": 6,
+          "row": 2,
+          "bounds": [
+            3071,
+            1023,
+            3458,
+            1537
+          ],
+          "width": 387,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/0_3.jpg",
+          "bytes": 136305,
+          "sha256": "a6189cb7cd00abe8d9f54845ba125ef5aa2f716ff3a3d0286aaa964350612468",
+          "column": 0,
+          "row": 3,
+          "bounds": [
+            0,
+            1535,
+            513,
+            2049
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_3.jpg",
+          "bytes": 136975,
+          "sha256": "b95c3f3d3e8658dd50c965825a922c5d64c61ab73179f89cd4743a3ca0a491b8",
+          "column": 1,
+          "row": 3,
+          "bounds": [
+            511,
+            1535,
+            1025,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_3.jpg",
+          "bytes": 144069,
+          "sha256": "724aa7f10f987278013bccbccd18066261252c829eb30dd40d69151451164197",
+          "column": 2,
+          "row": 3,
+          "bounds": [
+            1023,
+            1535,
+            1537,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_3.jpg",
+          "bytes": 132908,
+          "sha256": "e8802cde1b44bac00408672c699248b685dd3df7a19ea293ed8686f1a00c5a03",
+          "column": 3,
+          "row": 3,
+          "bounds": [
+            1535,
+            1535,
+            2049,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_3.jpg",
+          "bytes": 151216,
+          "sha256": "3bf964026d37e2f918d930d5e6092188954c65091cabf6cb3f1088c59dfa7d72",
+          "column": 4,
+          "row": 3,
+          "bounds": [
+            2047,
+            1535,
+            2561,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_3.jpg",
+          "bytes": 151025,
+          "sha256": "a69ef60025510c56f0dfb19a16def5fb7f6abdfd69db35334aaba2c70502378e",
+          "column": 5,
+          "row": 3,
+          "bounds": [
+            2559,
+            1535,
+            3073,
+            2049
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_3.jpg",
+          "bytes": 101115,
+          "sha256": "95e29010a6e6f526dd45b21b5861db6176fae77569e2278baa1e47da8e1569c2",
+          "column": 6,
+          "row": 3,
+          "bounds": [
+            3071,
+            1535,
+            3458,
+            2049
+          ],
+          "width": 387,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/0_4.jpg",
+          "bytes": 137743,
+          "sha256": "89202e30ec5e5d3dca696c3b034a3ea438cd4dd871d357d86be082fd1585d853",
+          "column": 0,
+          "row": 4,
+          "bounds": [
+            0,
+            2047,
+            513,
+            2561
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_4.jpg",
+          "bytes": 136735,
+          "sha256": "3881fcbedd2d8446a3339be2dbae3d4c6df0c35af723f3bec2a49405eece52bc",
+          "column": 1,
+          "row": 4,
+          "bounds": [
+            511,
+            2047,
+            1025,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_4.jpg",
+          "bytes": 141151,
+          "sha256": "e777c4fc72f0593d3906135869518a13e2c8e38f2536c5ec07736b573c811d9a",
+          "column": 2,
+          "row": 4,
+          "bounds": [
+            1023,
+            2047,
+            1537,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_4.jpg",
+          "bytes": 134813,
+          "sha256": "aeccf77a6def162a15e455fe36a1a7c39a203b53f0015a9131c064cdf17d14a3",
+          "column": 3,
+          "row": 4,
+          "bounds": [
+            1535,
+            2047,
+            2049,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_4.jpg",
+          "bytes": 139906,
+          "sha256": "d66ad37e72352910853ff1e40dafacaca93425dfac498a657b12a485eb9f374e",
+          "column": 4,
+          "row": 4,
+          "bounds": [
+            2047,
+            2047,
+            2561,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_4.jpg",
+          "bytes": 151552,
+          "sha256": "293e99143d9fe103aa4e24905486e7c4877c9d5f64f0b447a160eb00b577f002",
+          "column": 5,
+          "row": 4,
+          "bounds": [
+            2559,
+            2047,
+            3073,
+            2561
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_4.jpg",
+          "bytes": 106434,
+          "sha256": "b7310adf612120feeb7b6b081a841f5b5c30e3c358720119214d1e4f6dce1faf",
+          "column": 6,
+          "row": 4,
+          "bounds": [
+            3071,
+            2047,
+            3458,
+            2561
+          ],
+          "width": 387,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/0_5.jpg",
+          "bytes": 136303,
+          "sha256": "4d7bf5e1930a38e123690490390eeb0f547d57d3bc748542b5150e33ced09fae",
+          "column": 0,
+          "row": 5,
+          "bounds": [
+            0,
+            2559,
+            513,
+            3073
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_5.jpg",
+          "bytes": 135961,
+          "sha256": "9b8f60991f1aba4ff3e9b449d29f8534fa0b778b62a8c5bca72ceb2925d5687f",
+          "column": 1,
+          "row": 5,
+          "bounds": [
+            511,
+            2559,
+            1025,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_5.jpg",
+          "bytes": 136550,
+          "sha256": "52488fc6fe7cb837e24ede47894461321010544a6826cdf967d684f01716ed7d",
+          "column": 2,
+          "row": 5,
+          "bounds": [
+            1023,
+            2559,
+            1537,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_5.jpg",
+          "bytes": 151656,
+          "sha256": "6fccd75e423bbe9db3b2c2e402ee7396458428c3fe1f9ae24ea38f8e3cf036fd",
+          "column": 3,
+          "row": 5,
+          "bounds": [
+            1535,
+            2559,
+            2049,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_5.jpg",
+          "bytes": 141747,
+          "sha256": "25422f4bc4333a15d4adfa0c022c7fd41d64b77f8661ba3db9c96b9696b8a945",
+          "column": 4,
+          "row": 5,
+          "bounds": [
+            2047,
+            2559,
+            2561,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_5.jpg",
+          "bytes": 159215,
+          "sha256": "1a2e9aafca5696d90a737a1e03fdf80d828f0a916b36f9971127b883b2fe0311",
+          "column": 5,
+          "row": 5,
+          "bounds": [
+            2559,
+            2559,
+            3073,
+            3073
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_5.jpg",
+          "bytes": 120528,
+          "sha256": "61fbdcf19595780898af49f6653ec962448469e294423699ab791b1bca938975",
+          "column": 6,
+          "row": 5,
+          "bounds": [
+            3071,
+            2559,
+            3458,
+            3073
+          ],
+          "width": 387,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/0_6.jpg",
+          "bytes": 137660,
+          "sha256": "bef2582081ddc159e2dedd27b08c9f63b35ed8097b2e3f339cb3e87ea92e24d0",
+          "column": 0,
+          "row": 6,
+          "bounds": [
+            0,
+            3071,
+            513,
+            3585
+          ],
+          "width": 513,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_6.jpg",
+          "bytes": 136243,
+          "sha256": "6ec5e2123be1ad70022d00d4a92cd1ce6e43fd1b08af08e40d1cd03c141d8b57",
+          "column": 1,
+          "row": 6,
+          "bounds": [
+            511,
+            3071,
+            1025,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_6.jpg",
+          "bytes": 147132,
+          "sha256": "3ef2ef7e0eae65990a61ace55c771cef4ac74f633527e117962600b06d40ce85",
+          "column": 2,
+          "row": 6,
+          "bounds": [
+            1023,
+            3071,
+            1537,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_6.jpg",
+          "bytes": 140696,
+          "sha256": "1676d00136734d1830cff7a94bd8e868b32b2bfc93554c43ee0eee44a2e5f6a6",
+          "column": 3,
+          "row": 6,
+          "bounds": [
+            1535,
+            3071,
+            2049,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_6.jpg",
+          "bytes": 141257,
+          "sha256": "51ddf578f4e28a73d23f3d236ff1f5ad815e3c8132f61a48d787de7679f6cf11",
+          "column": 4,
+          "row": 6,
+          "bounds": [
+            2047,
+            3071,
+            2561,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_6.jpg",
+          "bytes": 148228,
+          "sha256": "02ec7b770d37ba88a105dd7748c359805ca4bb6d998e591a6865ca4cc5d0dce6",
+          "column": 5,
+          "row": 6,
+          "bounds": [
+            2559,
+            3071,
+            3073,
+            3585
+          ],
+          "width": 514,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_6.jpg",
+          "bytes": 99069,
+          "sha256": "82e1ab8b44121a35c2bbe7068b395798b00d87ec73a82e59f2b02185d9972c19",
+          "column": 6,
+          "row": 6,
+          "bounds": [
+            3071,
+            3071,
+            3458,
+            3585
+          ],
+          "width": 387,
+          "height": 514,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/0_7.jpg",
+          "bytes": 147338,
+          "sha256": "75111bbbeee177dde7808e024444699598fcc3cf71196d1f0ab83a665832efed",
+          "column": 0,
+          "row": 7,
+          "bounds": [
+            0,
+            3583,
+            513,
+            4096
+          ],
+          "width": 513,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/1_7.jpg",
+          "bytes": 143478,
+          "sha256": "1243aa0ac53a3c70654c0faf915c6f73eb351c4ba5f4cf446612a30bb6b017dd",
+          "column": 1,
+          "row": 7,
+          "bounds": [
+            511,
+            3583,
+            1025,
+            4096
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/2_7.jpg",
+          "bytes": 144491,
+          "sha256": "7414f16f96189bb72f9711ba57db92952181beff2e9593f9e0639db4d6018a76",
+          "column": 2,
+          "row": 7,
+          "bounds": [
+            1023,
+            3583,
+            1537,
+            4096
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/3_7.jpg",
+          "bytes": 130743,
+          "sha256": "8ab90b970106b844b7414707feeef29b8d64160bdbfc0f1d36fa4530d654c43e",
+          "column": 3,
+          "row": 7,
+          "bounds": [
+            1535,
+            3583,
+            2049,
+            4096
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/4_7.jpg",
+          "bytes": 139129,
+          "sha256": "667c9e5612c8dd145a72903c7fcf3f1cf2c2cd218f000ba59710605375385251",
+          "column": 4,
+          "row": 7,
+          "bounds": [
+            2047,
+            3583,
+            2561,
+            4096
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/5_7.jpg",
+          "bytes": 135609,
+          "sha256": "31e857b7ae228e0bce619cc3c0056dfa8ab1ecdf0a340b3eddb4ae3521a2d899",
+          "column": 5,
+          "row": 7,
+          "bounds": [
+            2559,
+            3583,
+            3073,
+            4096
+          ],
+          "width": 514,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/6_7.jpg",
+          "bytes": 102555,
+          "sha256": "18f6ed636a24fe806ac39f9f14ee597f9bbfe2b3c88ed1d0271208e570ba3047",
+          "column": 6,
+          "row": 7,
+          "bounds": [
+            3071,
+            3583,
+            3458,
+            4096
+          ],
+          "width": 387,
+          "height": 513,
+          "decodedPixelsEqualSource": false
+        },
+        {
+          "file": "girl-pearl/preview.jpg",
+          "bytes": 147603,
+          "sha256": "0d9c85269ba80a4de1f98e1a93f34593b58615646be8425be7a70fc9b2673943",
+          "width": 648,
+          "height": 768,
+          "kind": "preview"
+        }
+      ]
+    }
+  ],
+  "totalTileBytes": 31403163,
+  "totalPreviewBytes": 1388894,
+  "totalTileCount": 330,
+  "allDecodedTilePixelsEqualSources": false
+}

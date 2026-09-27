@@ -1,0 +1,14 @@
+{
+  "architecture": {
+    "entries": 3,
+    "uniqueImages": 9,
+    "dimensions": "passed",
+    "localHTTP": "passed"
+  },
+  "theater": {
+    "entries": 3,
+    "uniqueImages": 9,
+    "dimensions": "passed",
+    "localHTTP": "passed"
+  }
+}

@@ -1,0 +1,13 @@
+# Batch 001 — architecture research
+
+21 September 2026. Three new English drafts. See each record for source URLs and image credit/license fields.
+
+- **Pantheon:** Read Rome’s official tourism account and the historical/structural discussion in Wikipedia, including references to the construction-date debate and Cassius Dio. Checked public discussion of changing light and rain as a reception clue; excluded unsupported claims about imperial birthdays, doors and rituals. The draft centers the unified domed interior, geometry, daylight and religious reuse. Its original purpose remains qualified. The numeric date range is approximate, not a precise construction claim. The chosen Szilas interior photo has a verified CC0 dedication.
+- **Borobudur:** Read UNESCO’s significance statement and the Met’s educator publication, especially PDF pages 47–49. The interpretation links the pilgrim’s route, carved teachings, open upper terraces and Javanese sacred-mountain traditions. Buddhist visitor discussion helped test whether the account gives ritual movement enough weight. No European-discovery claim, invented precise building date or unsupported architect identity. A UNESCO terrace photograph was visually inspected and replaced with Gunawan Kartapranata’s complete northwest view, which better explains the whole building. The Commons source specifies CC BY-SA 3.0.
+- **SESC Pompeia:** Read Lina Bo Bardi’s published recollections on Brasil Arquitetura’s project page, the Instituto Bardi furniture/context essay and Sesc’s sports-building history. The direct architect account establishes popular use, the covered stream and the bridge solution. The entry treats leisure and social participation as the project’s purpose. It does not treat every feature as an environmental claim. Architecture writing by LUPA supplies the photograph’s explicit Nelson Kon credit. The final image shows the concrete sports blocks, bridges, water tower and retained roofs.
+
+The web tool could not fully read Smarthistory or the Ministry Pantheon page. Those pages are not represented as fully consulted sources. Brasil Arquitetura’s article was retrieved as public HTML through the local HTTP client after the search tool returned an incomplete page. No media files were downloaded.
+
+Independent editorial review found the central significance clear in all three drafts. It recommended avoiding compression of Bo Bardi’s first and second visits into one dated visit. The final opening now says “On an early visit…” without an exact year. The Pantheon’s redundant closing sentence was removed.
+
+All entries and images remain pending Julio’s review. This research pass does not establish approval or publication rights.

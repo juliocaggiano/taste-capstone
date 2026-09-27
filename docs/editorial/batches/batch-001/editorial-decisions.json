@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "batchId": "batch-001",
+  "packageId": "batch-001-2026-09-25",
+  "capturedAt": "2026-09-25T09:06:29.761159+00:00",
+  "scope": "Approved editorial submissions for later import only",
+  "futureImport": "Replace the unreviewed prototype demonstration catalog; no one-to-one replacement mapping is defined.",
+  "entries": [
+    {
+      "id": "pantheon",
+      "decisionId": "julio-2026-09-25-pantheon",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio requested targeted text additions or explanations. The revised writing requires review.",
+        "Existing image B selection retained; Julio requested writing changes only."
+      ],
+      "readyForImport": false,
+      "writingStatus": "pending",
+      "bodyHash": "9d1f6988d1ce32d4",
+      "imageOption": "B",
+      "imageHash": "862f0ff97595f836",
+      "imageStatus": "approved",
+      "disposition": "needs_review",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "B",
+      "reviewLabel": "Revised writing · awaiting review"
+    },
+    {
+      "id": "borobudur",
+      "decisionId": "julio-2026-09-25-borobudur",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio requested targeted text additions or explanations. The revised writing requires review.",
+        "Julio rejected the current images; replacement options need review."
+      ],
+      "readyForImport": false,
+      "writingStatus": "pending",
+      "bodyHash": "b4fcab424f34cdad",
+      "imageOption": null,
+      "imageHash": "03dcfc78c5a0dee7",
+      "imageStatus": "changes_requested",
+      "disposition": "needs_review",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "B",
+      "reviewLabel": "Revised writing · awaiting review"
+    },
+    {
+      "id": "sesc-pompeia",
+      "decisionId": "julio-2026-09-25-sesc-pompeia",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio asked to drop SESC Pompeia from the app batch. Files remain in the staging archive."
+      ],
+      "readyForImport": false,
+      "writingStatus": "pending",
+      "bodyHash": null,
+      "imageOption": null,
+      "imageHash": null,
+      "imageStatus": "pending",
+      "disposition": "removed",
+      "resolvedCommentIds": [],
+      "previousImageChoice": null,
+      "reviewLabel": "Removed from review queue"
+    },
+    {
+      "id": "michelangelo-david",
+      "decisionId": "julio-2026-09-25-michelangelo-david",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image A; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "408bde4382b5836a",
+      "imageOption": "A",
+      "imageHash": "005001409a2a13fe",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "A",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "bernini-apollo-daphne",
+      "decisionId": "julio-2026-09-25-bernini-apollo-daphne",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the text after deleting its final sentence. That exact deletion is applied.",
+        "Julio rejected the images; replacement choices require review."
+      ],
+      "readyForImport": false,
+      "writingStatus": "approved",
+      "bodyHash": "f7c8cebbb377b5ac",
+      "imageOption": null,
+      "imageHash": "c2929501dae8f006",
+      "imageStatus": "changes_requested",
+      "disposition": "needs_review",
+      "resolvedCommentIds": [],
+      "previousImageChoice": null,
+      "reviewLabel": "Writing approved · replacement images need review"
+    },
+    {
+      "id": "todaiji-great-buddha",
+      "decisionId": "julio-2026-09-25-todaiji-great-buddha",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio requested targeted text additions or explanations. The revised writing requires review.",
+        "Julio rejected the current images; replacement options need review."
+      ],
+      "readyForImport": false,
+      "writingStatus": "pending",
+      "bodyHash": "1bbba9ba26c177de",
+      "imageOption": null,
+      "imageHash": "e09956ff36b6c5d3",
+      "imageStatus": "changes_requested",
+      "disposition": "needs_review",
+      "resolvedCommentIds": [],
+      "previousImageChoice": null,
+      "reviewLabel": "Revised writing · images on hold because generated details differ from the original",
+      "imageReviewBlocker": "Background-generation attempts changed fine sculpture details. The three proposals are viewable studies, not selectable images."
+    },
+    {
+      "id": "stanczyk",
+      "decisionId": "julio-2026-09-25-stanczyk",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the remaining text while requesting deletion of the first paragraph’s final caveat. That exact deletion is applied.",
+        "Current review visibly selected image A; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "bdf3593f86a935f7",
+      "imageOption": "A",
+      "imageHash": "180231973a6406d2",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "A",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "death-of-marat",
+      "decisionId": "julio-2026-09-25-death-of-marat",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image A; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "510d856b75932d70",
+      "imageOption": "A",
+      "imageHash": "d55c2188d19def55",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "A",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "the-ambassadors",
+      "decisionId": "julio-2026-09-25-the-ambassadors",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image B; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "3f5636f6c20962eb",
+      "imageOption": "B",
+      "imageHash": "d382cc2e583dfed3",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "B",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "beethoven-symphony-nine",
+      "decisionId": "julio-2026-09-25-beethoven-symphony-nine",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image A; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "39046a57012c5966",
+      "imageOption": "A",
+      "imageHash": "d410faa7f2c85f05",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "A",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "billie-holiday-strange-fruit",
+      "decisionId": "julio-2026-09-25-billie-holiday-strange-fruit",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image A; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "8a9da96570e5fc06",
+      "imageOption": "A",
+      "imageHash": "59b0ec9f04894104",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "A",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "joao-gilberto-chega-saudade",
+      "decisionId": "julio-2026-09-25-joao-gilberto-chega-saudade",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image C; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "eb36fb5ac218749d",
+      "imageOption": "C",
+      "imageHash": "fb3efa4c4ac5cfe7",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "C",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "animal-farm",
+      "decisionId": "julio-2026-09-25-animal-farm",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image C; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "56aaa7598cfd43bb",
+      "imageOption": "C",
+      "imageHash": "b482c3050e4de108",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "C",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "vidas-secas",
+      "decisionId": "julio-2026-09-25-vidas-secas",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image A; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "ef4f25742236e8f3",
+      "imageOption": "A",
+      "imageHash": "31af1c06eaa9f985",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "A",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "the-great-gatsby",
+      "decisionId": "julio-2026-09-25-the-great-gatsby",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing.",
+        "Image C was only preferred among current options; Julio asked for a different cover. Replacement choices need review."
+      ],
+      "readyForImport": false,
+      "writingStatus": "approved",
+      "bodyHash": "6931273cc475e04e",
+      "imageOption": null,
+      "imageHash": "a9ac6d27c787641b",
+      "imageStatus": "changes_requested",
+      "disposition": "needs_review",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "C",
+      "reviewLabel": "Writing approved · new covers need review"
+    },
+    {
+      "id": "antigone",
+      "decisionId": "julio-2026-09-25-antigone",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio said theater pieces are not approved and must not ship."
+      ],
+      "readyForImport": false,
+      "writingStatus": "pending",
+      "bodyHash": "ccffc030e9fa6f53",
+      "imageOption": null,
+      "imageHash": "cdee3bd312cbc86b",
+      "imageStatus": "pending",
+      "disposition": "on_hold",
+      "resolvedCommentIds": [],
+      "previousImageChoice": null,
+      "reviewLabel": "On hold · not approved for submission"
+    },
+    {
+      "id": "a-dolls-house",
+      "decisionId": "julio-2026-09-25-a-dolls-house",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio said theater pieces are not approved and must not ship."
+      ],
+      "readyForImport": false,
+      "writingStatus": "pending",
+      "bodyHash": "83c8899c61d28f39",
+      "imageOption": null,
+      "imageHash": "6ed1b5a1dfb73345",
+      "imageStatus": "pending",
+      "disposition": "on_hold",
+      "resolvedCommentIds": [],
+      "previousImageChoice": null,
+      "reviewLabel": "On hold · not approved for submission"
+    },
+    {
+      "id": "auto-da-compadecida",
+      "decisionId": "julio-2026-09-25-auto-da-compadecida",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio said theater pieces are not approved and must not ship."
+      ],
+      "readyForImport": false,
+      "writingStatus": "pending",
+      "bodyHash": "30e3cc5d83a4c93e",
+      "imageOption": null,
+      "imageHash": "75ac9155c71b5526",
+      "imageStatus": "pending",
+      "disposition": "on_hold",
+      "resolvedCommentIds": [],
+      "previousImageChoice": null,
+      "reviewLabel": "On hold · not approved for submission"
+    },
+    {
+      "id": "eternal-sunshine",
+      "decisionId": "julio-2026-09-25-eternal-sunshine",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image A; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import.",
+        "Latest approval of all cinema entries supersedes four earlier passage comments addressed by the previous rewrite; original quotes and feedback remain saved."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "aaa6972e0508127d",
+      "imageOption": "A",
+      "imageHash": "bd8b2827fd7cfe51",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [
+        "ef53565c-5dd5-4f54-85ad-860d0bd2cf52",
+        "6c06b60c-43c1-4e1d-9d4c-be465c139ae1",
+        "5421e6b1-9437-464a-b8cd-838ee613df56",
+        "72fb51d4-04e3-4b70-876d-48e18002d0d0"
+      ],
+      "previousImageChoice": "A",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "soul",
+      "decisionId": "julio-2026-09-25-soul",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image C; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "01b43c5506948ca0",
+      "imageOption": "C",
+      "imageHash": "edfcc28195438482",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "C",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "im-still-here",
+      "decisionId": "julio-2026-09-25-im-still-here",
+      "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Julio approved the writing in his dictated review on 25 September 2026.",
+        "Current review visibly selected image C; no image change requested for this entry.",
+        "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "8c2d7ac3de0759b0",
+      "imageOption": "C",
+      "imageHash": "35613c213b4aec5d",
+      "imageStatus": "approved",
+      "disposition": "approved_submission",
+      "resolvedCommentIds": [],
+      "previousImageChoice": "C",
+      "reviewLabel": "Approved submission · saved for later import"
+    },
+    {
+      "id": "saturn-devouring-his-son",
+      "decisionId": "julio-2026-09-27-saturn-exact-deletions",
+      "recordedAt": "2026-09-27T08:30:00Z",
+      "reviewer": "Julio Caggiano",
+      "decisionEvidence": [
+        "Current browser has approved writing and image A selected.",
+        "Julio requested two exact sentence deletions, then authorized app update and Vercel deployment.",
+        "Only those deletions were applied; feedback archived with the previous text."
+      ],
+      "readyForImport": true,
+      "writingStatus": "approved",
+      "bodyHash": "23564f3bb2b66d6c",
+      "imageOption": "A",
+      "imageHash": "05a91a04e26640a3",
+      "imageStatus": "approved",
+      "disposition": "approved_for_import",
+      "resolvedCommentIds": [],
+      "reviewLabel": "Approved after requested sentence deletions"
+    }
+  ]
+}

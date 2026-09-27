@@ -1,0 +1,151 @@
+@import './fonts.css';
+
+.dc-work-information,
+.dc-creator-biography {
+  min-width: 0;
+  color: var(--dc-text);
+  font-family: var(--dc-font-sans);
+  font-weight: var(--dc-font-weight);
+  letter-spacing: .01em;
+}
+
+.dc-work-information .dc-work-information-heading {
+  border-bottom: 1px solid var(--dc-divider);
+}
+
+.dc-work-information .dc-work-information-heading h2 {
+  display: table;
+  margin: 0 0 -1px;
+  padding: 0 0 12px;
+  border-bottom: 1px solid var(--dc-text);
+  color: var(--dc-text);
+  font: 400 16px/20px var(--dc-font-sans);
+  letter-spacing: inherit;
+}
+
+.dc-work-information .dc-work-information-fields {
+  display: grid;
+  gap: 12px;
+  margin: 16px 0 0;
+  padding: 16px;
+  border: 1px solid var(--dc-divider);
+  background: var(--dc-background);
+}
+
+.dc-work-information .dc-work-information-field {
+  display: grid;
+  min-width: 0;
+  gap: 4px;
+  font-size: var(--artwork-information-text-size, 14px);
+  line-height: var(--artwork-information-line-height, 18px);
+}
+
+.dc-work-information .dc-work-information-field dt,
+.dc-work-information .dc-work-information-field dd {
+  margin: 0;
+  font: inherit;
+  overflow-wrap: anywhere;
+}
+
+.dc-work-information .dc-work-information-field dd {
+  color: var(--dc-muted);
+}
+
+.dc-creator-biography {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 16px 20px;
+  border: 1px solid var(--dc-divider);
+  background: var(--dc-background);
+}
+
+.dc-creator-biography .dc-creator-biography-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.dc-creator-biography .dc-creator-biography-identity {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 12px;
+}
+
+.dc-creator-biography .dc-creator-biography-avatar {
+  display: block;
+  width: 36px;
+  height: 36px;
+  flex: 0 0 36px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.dc-creator-biography .dc-creator-biography-details {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.dc-creator-biography .dc-creator-biography-details h2 {
+  margin: 0;
+  color: var(--dc-text);
+  font: 400 16px/20px var(--dc-font-sans);
+  letter-spacing: inherit;
+  overflow-wrap: anywhere;
+}
+
+.dc-creator-biography .dc-creator-biography-details p {
+  margin: 0;
+  color: var(--dc-muted);
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.dc-creator-biography .dc-creator-biography-open {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dc-creator-biography .dc-creator-biography-copy {
+  margin: 0;
+  color: var(--dc-text);
+  font-size: var(--artwork-information-text-size, 14px);
+  line-height: var(--artwork-information-line-height, 18px);
+  overflow-wrap: anywhere;
+}
+
+.dc-creator-biography .dc-creator-biography-open:focus-visible {
+  outline: 2px solid var(--dc-focus);
+  outline-offset: 3px;
+}
+
+@media (hover: hover) {
+  .dc-creator-biography .dc-creator-biography-open:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+}
+
+@media (pointer: coarse) {
+  .dc-creator-biography .dc-creator-biography-open {
+    min-height: 44px;
+  }
+
+  .dc-creator-biography .dc-creator-biography-open {
+    display: inline-flex;
+    align-items: center;
+  }
+}

@@ -1,0 +1,372 @@
+.taste-profile-scroll .mobile-scroll-content {
+  padding-bottom: max(40px, var(--device-safe-area-bottom, 34px));
+}
+
+.taste-account-profile-layer {
+  position: absolute;
+  z-index: 45;
+  inset: 0;
+  background: var(--app-bg);
+}
+
+.taste-profile-screen {
+  min-height: 100%;
+  padding: 72px 0 0;
+  background: var(--app-bg);
+  color: var(--app-text);
+  font-family: var(--app-sans);
+}
+
+.taste-profile-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px 12px;
+}
+
+.taste-profile-nav {
+  display: flex;
+  width: 100%;
+  min-height: 44px;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.daily-culture-app .taste-profile-nav button {
+  display: grid;
+  width: 44px;
+  height: 44px;
+  flex: none;
+  place-items: center;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.taste-profile-hero > .today-saver-avatar {
+  width: 56px;
+  height: 56px;
+  margin-top: -16px;
+  border-radius: 8px;
+  background: var(--app-surface);
+  color: var(--app-text);
+  font-size: 16px;
+}
+
+.taste-profile-hero h1 {
+  max-width: 100%;
+  margin: 14px 0 0;
+  overflow: hidden;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: -.35px;
+  line-height: 32px;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.taste-profile-handle {
+  max-width: 100%;
+  margin: 3px 0 0;
+  overflow: hidden;
+  color: var(--app-muted) !important;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.taste-profile-context {
+  margin-left: auto;
+  color: var(--app-muted);
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.taste-profile-actions { margin-top: 12px; }
+.daily-culture-app .taste-profile-actions > button {
+  min-width: 128px;
+  min-height: 32px;
+  border-radius: 4px;
+}
+
+.daily-culture-app .taste-profile-person-open {
+  display: flex;
+  min-width: 0;
+  min-height: 44px;
+  flex: 1;
+  align-items: center;
+  gap: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.taste-profile-person-open:focus-visible { outline: 2px solid var(--app-focus); outline-offset: 2px; }
+
+.taste-profile-stats {
+  position: relative;
+  display: grid;
+  width: 100%;
+  height: 64px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border-bottom: 1px solid var(--app-divider);
+  background: var(--app-bg);
+  color: var(--app-text);
+}
+
+.daily-culture-app .taste-profile-stats button {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  height: 64px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  color: var(--app-muted);
+  cursor: pointer;
+  text-align: center;
+  transition: color 160ms ease;
+}
+
+.daily-culture-app .taste-profile-stats button[aria-selected="true"] {
+  color: var(--app-text);
+}
+
+.taste-profile-tab-indicator {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 25%;
+  height: 1px;
+  background: var(--app-text);
+  pointer-events: none;
+  transition: transform 260ms cubic-bezier(.22, 1, .36, 1);
+}
+
+.taste-profile-stats strong {
+  max-width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-overflow: ellipsis;
+}
+
+.taste-profile-stats button span {
+  max-width: 100%;
+  overflow: hidden;
+  font-size: 11px;
+  line-height: 14px;
+  text-overflow: ellipsis;
+}
+
+.taste-profile-content {
+  min-height: 240px;
+  padding: 12px var(--app-page-gutter, 8px) 36px;
+  outline: none;
+}
+
+.taste-profile-content h2 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.taste-profile-content:focus-visible {
+  outline: 2px solid var(--app-focus);
+  outline-offset: -4px;
+}
+
+.taste-profile-empty {
+  margin: 0;
+  padding: 8px 4px;
+  color: var(--app-muted) !important;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.taste-profile-artwork-list,
+.taste-profile-people-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.taste-profile-artwork-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: 24px 8px;
+}
+
+.daily-culture-app .taste-profile-artwork {
+  display: flex;
+  width: 100%;
+  min-width: 0;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 8px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.taste-profile-artwork img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 2px;
+  background: var(--app-surface);
+}
+
+.taste-profile-artwork-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.taste-profile-artwork-copy strong {
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.taste-profile-artwork-copy span {
+  overflow: hidden;
+  color: var(--app-muted);
+  font-size: 11px;
+  line-height: 15px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.taste-profile-folder-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: 26px 8px;
+}
+
+.daily-culture-app .taste-profile-folder {
+  display: flex;
+  min-width: 0;
+  width: 100%;
+  flex-direction: column;
+  align-items: stretch;
+  color: var(--app-text);
+  cursor: pointer;
+  text-align: left;
+}
+
+.taste-profile-folder-cover {
+  display: grid;
+  width: 100%;
+  aspect-ratio: 342 / 389;
+  overflow: hidden;
+  place-items: center;
+  border-radius: 4px;
+  background: var(--app-surface);
+  color: var(--app-muted);
+}
+
+.taste-profile-folder-cover img { width: 100%; height: 100%; object-fit: cover; }
+
+.taste-profile-folder-name {
+  display: -webkit-box;
+  width: 100%;
+  margin-top: 10px;
+  overflow: hidden;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  overflow-wrap: anywhere;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.taste-profile-folder-count {
+  margin-top: 3px;
+  color: var(--app-muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.daily-culture-app .taste-profile-folder-back {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  gap: 4px;
+  color: var(--app-muted);
+  font-size: 12px;
+  line-height: 16px;
+  cursor: pointer;
+}
+
+.taste-profile-folder-title { margin-top: 10px !important; }
+.taste-profile-folder-title + .taste-profile-artwork-list { margin-top: 16px; }
+.taste-profile-folder-title + .taste-profile-empty { margin-top: 8px; }
+
+.taste-profile-sample-note {
+  margin: 0 4px 4px;
+  color: var(--app-muted) !important;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.taste-profile-people-list { display: flex; flex-direction: column; padding: 0 4px; }
+
+.taste-profile-person {
+  display: flex;
+  min-height: 64px;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 1px solid var(--app-divider);
+}
+
+.taste-profile-person-name {
+  display: flex;
+  min-width: 0;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.taste-profile-person-name strong,
+.taste-profile-person-name small {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.taste-profile-person-name strong { font-size: 13px; font-weight: 400; line-height: 18px; }
+.taste-profile-person-name small { color: var(--app-muted); font-size: 11px; line-height: 16px; }
+.taste-profile-person .dc-follow-button { min-width: 88px; min-height: 32px; }
+
+@media (hover: hover) and (pointer: fine) {
+  .daily-culture-app .taste-profile-nav button:hover { opacity: .7; }
+  .daily-culture-app .taste-profile-stats button:hover { color: var(--app-text); }
+  .daily-culture-app .taste-profile-person-open:hover { background: var(--app-surface); }
+  .daily-culture-app .taste-profile-artwork:hover .taste-profile-artwork-copy strong,
+  .daily-culture-app .taste-profile-folder:hover .taste-profile-folder-name { text-decoration: underline; text-underline-offset: 2px; }
+}
+
+@media (pointer: coarse) {
+  .taste-profile-person .dc-follow-button { min-height: 44px; }
+  .daily-culture-app .taste-profile-actions > button { min-height: 44px; }
+}
+
+@media (max-width: 360px) {
+  .taste-profile-stats strong { font-size: 18px; }
+  .taste-profile-stats button span { font-size: 10px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .daily-culture-app .taste-profile-stats button,
+  .taste-profile-tab-indicator { transition: none; }
+}

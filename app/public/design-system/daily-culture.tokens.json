@@ -1,0 +1,501 @@
+{
+  "$description": "Taste (V1.2) foundations, draft 0.5. Light mode keeps three gray primitives plus a white canvas. Dark mode uses five neutral tones from Julio's September 23 reference: charcoal canvas, surface, raised surface, muted text, and soft white. Translucency and shadows reuse those tones. Compact density follows Paper Daily/Search references. PP Neue Montreal is the shared app and library font. CSS local() uses installed faces; font files are not bundled. Exact rendering elsewhere requires matching installed fonts or authorized webfonts. General reading uses 14/20; live Today uses 14/16. General compact controls expand to 44px on coarse pointers; live Today preserves its exact controls. Artwork retains its own colors.",
+  "color": {
+    "neutral": {
+      "dark": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.1450980392156863,
+            0.1450980392156863,
+            0.1450980392156863
+          ],
+          "alpha": 1,
+          "hex": "#252525"
+        },
+        "$description": "Primary text and actions"
+      },
+      "medium": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.43137254901960786,
+            0.43137254901960786,
+            0.43137254901960786
+          ],
+          "alpha": 1,
+          "hex": "#6e6e6e"
+        },
+        "$description": "Secondary text and category labels"
+      },
+      "light": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.9490196078431372,
+            0.9490196078431372,
+            0.9490196078431372
+          ],
+          "alpha": 1,
+          "hex": "#f2f2f2"
+        },
+        "$description": "Quiet surfaces and dividers"
+      },
+      "canvas": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            1,
+            1,
+            1
+          ],
+          "alpha": 1,
+          "hex": "#ffffff"
+        },
+        "$description": "Page and reading canvas"
+      }
+    },
+    "light": {
+      "background": {
+        "$type": "color",
+        "$value": "{color.neutral.canvas}",
+        "$description": "Page and reading canvas"
+      },
+      "surface": {
+        "$type": "color",
+        "$value": "{color.neutral.light}",
+        "$description": "Quiet containers and search fields"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{color.neutral.dark}",
+        "$description": "Primary text and primary actions"
+      },
+      "muted": {
+        "$type": "color",
+        "$value": "{color.neutral.medium}",
+        "$description": "Creator names and secondary information"
+      },
+      "divider": {
+        "$type": "color",
+        "$value": "{color.neutral.light}",
+        "$description": "Hairlines and quiet boundaries"
+      },
+      "focus": {
+        "$type": "color",
+        "$value": "{color.neutral.dark}",
+        "$description": "Monochrome focus rings; distinguish states with outlines, labels, and icons"
+      },
+      "selected-surface": {
+        "$type": "color",
+        "$value": "{color.neutral.canvas}",
+        "$description": "Selected capsule and menu option"
+      },
+      "surface-raised": {
+        "$type": "color",
+        "$value": "{color.light.background}"
+      },
+      "chip": {
+        "$type": "color",
+        "$value": "{color.light.surface}"
+      },
+      "faint": {
+        "$type": "color",
+        "$value": "{color.light.muted}"
+      },
+      "nav": {
+        "$type": "color",
+        "$value": "{color.light.background}"
+      },
+      "accent": {
+        "$type": "color",
+        "$value": "{color.light.text}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.light.text}",
+        "$description": "Use a success label and icon; do not rely on color to communicate status."
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{color.light.text}",
+        "$description": "Use an error label and icon; do not rely on color to communicate status."
+      }
+    },
+    "dark": {
+      "background": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.09019607843137255,
+            0.09019607843137255,
+            0.09019607843137255
+          ],
+          "alpha": 1,
+          "hex": "#171717"
+        },
+        "$description": "Page and reading canvas"
+      },
+      "surface": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.14901960784313725,
+            0.14901960784313725,
+            0.14901960784313725
+          ],
+          "alpha": 1,
+          "hex": "#262626"
+        },
+        "$description": "Quiet containers and search fields"
+      },
+      "text": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.9490196078431372,
+            0.9490196078431372,
+            0.9490196078431372
+          ],
+          "alpha": 1,
+          "hex": "#f2f2f2"
+        },
+        "$description": "Primary text and primary actions"
+      },
+      "muted": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.6392156862745098,
+            0.6392156862745098,
+            0.6392156862745098
+          ],
+          "alpha": 1,
+          "hex": "#a3a3a3"
+        },
+        "$description": "Creator names and secondary information"
+      },
+      "divider": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.2,
+            0.2,
+            0.2
+          ],
+          "alpha": 1,
+          "hex": "#333333"
+        },
+        "$description": "Hairlines and quiet boundaries"
+      },
+      "focus": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.9490196078431372,
+            0.9490196078431372,
+            0.9490196078431372
+          ],
+          "alpha": 1,
+          "hex": "#f2f2f2"
+        },
+        "$description": "Monochrome focus rings; distinguish states with outlines, labels, and icons"
+      },
+      "selected-surface": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.09019607843137255,
+            0.09019607843137255,
+            0.09019607843137255
+          ],
+          "alpha": 1,
+          "hex": "#171717"
+        },
+        "$description": "Selected capsule and menu option"
+      },
+      "surface-raised": {
+        "$type": "color",
+        "$value": {
+          "colorSpace": "srgb",
+          "components": [
+            0.2,
+            0.2,
+            0.2
+          ],
+          "alpha": 1,
+          "hex": "#333333"
+        }
+      },
+      "chip": {
+        "$type": "color",
+        "$value": "{color.dark.surface}"
+      },
+      "faint": {
+        "$type": "color",
+        "$value": "{color.dark.muted}"
+      },
+      "nav": {
+        "$type": "color",
+        "$value": "{color.dark.surface}"
+      },
+      "accent": {
+        "$type": "color",
+        "$value": "{color.dark.text}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.dark.text}",
+        "$description": "Use a success label and icon; do not rely on color to communicate status."
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{color.dark.text}",
+        "$description": "Use an error label and icon; do not rely on color to communicate status."
+      }
+    }
+  },
+  "space": {
+    "2": {
+      "$type": "dimension",
+      "$value": {
+        "value": 2,
+        "unit": "px"
+      }
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      }
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": {
+        "value": 6,
+        "unit": "px"
+      }
+    },
+    "8": {
+      "$type": "dimension",
+      "$value": {
+        "value": 8,
+        "unit": "px"
+      }
+    },
+    "10": {
+      "$type": "dimension",
+      "$value": {
+        "value": 10,
+        "unit": "px"
+      }
+    },
+    "12": {
+      "$type": "dimension",
+      "$value": {
+        "value": 12,
+        "unit": "px"
+      }
+    },
+    "16": {
+      "$type": "dimension",
+      "$value": {
+        "value": 16,
+        "unit": "px"
+      }
+    },
+    "20": {
+      "$type": "dimension",
+      "$value": {
+        "value": 20,
+        "unit": "px"
+      }
+    },
+    "24": {
+      "$type": "dimension",
+      "$value": {
+        "value": 24,
+        "unit": "px"
+      }
+    },
+    "32": {
+      "$type": "dimension",
+      "$value": {
+        "value": 32,
+        "unit": "px"
+      }
+    },
+    "40": {
+      "$type": "dimension",
+      "$value": {
+        "value": 40,
+        "unit": "px"
+      }
+    },
+    "60": {
+      "$type": "dimension",
+      "$value": {
+        "value": 60,
+        "unit": "px"
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "$type": "fontFamily",
+      "$value": [
+        "PP Neue Montreal",
+        "PP Neue Montreal TT",
+        "system-ui",
+        "sans-serif"
+      ],
+      "$description": "Use with design-system/fonts.css for local Regular, Medium, Bold, Light, and italic faces. No font files are included."
+    },
+    "regular": {
+      "$type": "fontWeight",
+      "$value": 400
+    }
+  },
+  "typography": {
+    "caption": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family}",
+        "fontSize": {
+          "value": 10,
+          "unit": "px"
+        },
+        "fontWeight": "{font.regular}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        },
+        "lineHeight": 1.2
+      },
+      "$description": "Compact metadata, following the Paper gallery scale"
+    },
+    "label": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family}",
+        "fontSize": {
+          "value": 12,
+          "unit": "px"
+        },
+        "fontWeight": "{font.regular}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        },
+        "lineHeight": 1.3333333333333333
+      },
+      "$description": "Compact controls and secondary labels"
+    },
+    "body": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family}",
+        "fontSize": {
+          "value": 14,
+          "unit": "px"
+        },
+        "fontWeight": "{font.regular}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        },
+        "lineHeight": 1.4285714285714286
+      },
+      "$description": "General reading text. The live Today screen uses compact 14/16 reading text."
+    },
+    "section": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family}",
+        "fontSize": {
+          "value": 16,
+          "unit": "px"
+        },
+        "fontWeight": "{font.regular}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        },
+        "lineHeight": 1.25
+      },
+      "$description": "Compact collection and section headings"
+    },
+    "title": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family}",
+        "fontSize": {
+          "value": 20,
+          "unit": "px"
+        },
+        "fontWeight": "{font.regular}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        },
+        "lineHeight": 1.2
+      },
+      "$description": "Compact page headings"
+    },
+    "display": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family}",
+        "fontSize": {
+          "value": 32,
+          "unit": "px"
+        },
+        "fontWeight": "{font.regular}",
+        "letterSpacing": {
+          "value": 0,
+          "unit": "px"
+        },
+        "lineHeight": 1.25
+      },
+      "$description": "Editorial display type used sparingly"
+    }
+  },
+  "border": {
+    "width": {
+      "$type": "dimension",
+      "$value": {
+        "value": 1,
+        "unit": "px"
+      }
+    }
+  },
+  "radius": {
+    "artwork": {
+      "$type": "dimension",
+      "$value": {
+        "value": 4,
+        "unit": "px"
+      },
+      "$description": "Draft artwork radius observed in Julio's Paper references; not a global retrofit."
+    },
+    "pill": {
+      "$type": "dimension",
+      "$value": {
+        "value": 999,
+        "unit": "px"
+      }
+    }
+  }
+}

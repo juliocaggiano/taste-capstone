@@ -1,0 +1,126 @@
+.dsc-frame {
+  min-width: 0;
+  border: 1px solid var(--dc-gray-light);
+  border-radius: 4px;
+  background: var(--dc-white);
+  color: var(--dc-gray-dark);
+}
+
+.dsc-toolbar {
+  display: flex;
+  min-height: 36px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 0 12px;
+  border-bottom: 1px solid var(--dc-gray-light);
+}
+
+.dsc-tabs {
+  display: flex;
+  align-self: stretch;
+  gap: 16px;
+}
+
+.dsc-tabs button {
+  position: relative;
+  min-height: 36px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--dc-gray-medium);
+  font: inherit;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.dsc-tabs button:hover,
+.dsc-tabs button[aria-selected="true"] {
+  color: var(--dc-gray-dark);
+}
+
+.dsc-tabs button[aria-selected="true"]::after {
+  position: absolute;
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  height: 2px;
+  background: currentColor;
+  content: "";
+}
+
+.dsc-toolbar .dsc-copy {
+  min-height: 32px;
+  color: var(--dc-gray-medium);
+  font-size: 12px;
+}
+
+.dsc-toolbar .dsc-copy:hover {
+  color: var(--dc-gray-dark);
+}
+
+.dsc-frame .dsc-preview {
+  min-width: 0;
+  border: 0;
+  border-radius: 0;
+}
+
+.dsc-panel[hidden] {
+  display: none;
+}
+
+.dsc-code-panel {
+  min-width: 0;
+  background: var(--dc-gray-light);
+}
+
+.dsc-code {
+  max-width: 100%;
+  margin: 0;
+  padding: 16px;
+  overflow: auto;
+  color: var(--dc-gray-dark);
+  font: 12px/1.8 var(--dc-font-sans);
+  tab-size: 2;
+  white-space: pre;
+}
+
+.dsc-code code {
+  font: inherit;
+}
+
+.dsc-code:focus-visible {
+  outline: 2px solid var(--dc-focus);
+  outline-offset: -3px;
+}
+
+.dsc-controls {
+  padding: 0 20px;
+  border-top: 1px solid var(--dc-gray-light);
+}
+
+@media (max-width: 760px) {
+  .dsc-toolbar {
+    gap: 12px;
+    padding-inline: 14px;
+  }
+
+  .dsc-tabs {
+    gap: 20px;
+  }
+
+  .dsc-toolbar .dsc-copy {
+    font-size: 11px;
+  }
+
+  .dsc-code {
+    padding: 20px;
+    font-size: 11px;
+  }
+
+  .dsc-controls {
+    padding-inline: 16px;
+  }
+}
+
+@media (pointer: coarse) { .dsc-tabs button, .dsc-toolbar .dsc-copy { min-height: 44px; } }

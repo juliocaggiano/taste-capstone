@@ -1,0 +1,21 @@
+.daily-culture-app .explore-lenses { display: flex; flex-direction: column; gap: 24px; min-width: 0; letter-spacing: 0; }
+.daily-culture-app .explore-lenses-heading { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-inline: 4px; min-height: 32px; }
+.daily-culture-app .explore-lenses-heading h2 { margin: 0; font-size: 16px; line-height: 20px; font-weight: 400; }
+.daily-culture-app .explore-lenses-all { flex: none; min-height: 32px; padding: 0 10px; border-radius: 999px; color: var(--app-muted); font-size: 12px; line-height: 16px; }
+.daily-culture-app .explore-lenses-all[aria-pressed="true"] { color: var(--app-text); background: var(--app-surface); }
+.daily-culture-app .explore-lenses-options { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 8px; }
+.daily-culture-app .explore-lenses-option { display: flex; min-width: 0; flex-direction: column; gap: 8px; padding-bottom: 8px; border-bottom: 1px solid transparent; text-align: left; transition: border-color 160ms ease; }
+.daily-culture-app .explore-lenses-option[aria-pressed="true"] { border-color: var(--app-muted); }
+.daily-culture-app .explore-lenses-cover { display: block; width: 100%; height: 76px; border-radius: 4px; overflow: hidden; background: var(--app-surface); }
+.daily-culture-app .explore-lenses-cover img { width: 100%; height: 100%; object-fit: cover; }
+.daily-culture-app .explore-lenses-copy { display: flex; flex-direction: column; gap: 3px; padding-inline: 4px; }
+.daily-culture-app .explore-lenses-copy strong { font-size: 12px; line-height: 16px; font-weight: 400; color: var(--app-text); }
+.daily-culture-app .explore-lenses-copy > span, .daily-culture-app .explore-lenses-count { font-size: 10px; line-height: 14px; color: var(--app-muted); }
+.daily-culture-app .explore-lenses-results { display: flex; flex-direction: column; gap: 8px; }
+.daily-culture-app .explore-lenses-context { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; padding: 0 4px 8px; }
+.daily-culture-app .explore-lenses-context p { margin: 0; color: var(--app-muted); font-size: 12px; line-height: 17px; }
+.daily-culture-app .explore-lenses-context button { display: flex; gap: 6px; align-items: center; min-height: 32px; color: var(--app-text); font-size: 12px; line-height: 16px; }
+.daily-culture-app .explore-lenses-grid[data-changed="true"] { animation: explore-lenses-change 160ms ease-out; }
+@keyframes explore-lenses-change { from { opacity: .4; } to { opacity: 1; } }
+@media (pointer: coarse) { .daily-culture-app .explore-lenses-all, .daily-culture-app .explore-lenses-context button { min-height: 44px; } }
+@media (prefers-reduced-motion: reduce) { .daily-culture-app .explore-lenses-grid[data-changed="true"] { animation: none; } .daily-culture-app .explore-lenses-option { transition: none; } }

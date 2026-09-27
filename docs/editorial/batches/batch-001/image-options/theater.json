@@ -1,0 +1,254 @@
+[
+  {
+    "entryId": "antigone",
+    "options": [
+      {
+        "id": "A",
+        "label": "National Theatre · 2012",
+        "description": "Jodie Whittaker as Antigone, photographed on stage in the National Theatre production.",
+        "imageUrl": "image-options/assets/theater/antigone-a-national-theatre-2012.jpg",
+        "sourceUrl": "https://artsandculture.google.com/asset/production-image-for-antigone-2012/XgFqOEdf-o3isw",
+        "credit": "National Theatre, via Google Arts & Culture; individual photograph credit not supplied on the object page.",
+        "altText": "Jodie Whittaker as Antigone stands in a cream dress beneath a clock in a dark stage interior.",
+        "width": 800,
+        "height": 1200,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://lh3.googleusercontent.com/ci/AL18g_SMSVNOWK7qdr_0QIuUnQSc413uLzuZMQi1LZ07gexpNIaDVVqSBHyV_Rk4scW4LspXWgZv3ks=w1600",
+        "productionOrEdition": "Sophocles, Antigone; National Theatre, Olivier Theatre, 2012. New version by Don Taylor.",
+        "license": "No open image license established.",
+        "displayMode": "contain",
+        "metadataLimits": "The object record identifies the performer and production year. The production catalogue lists Johan Persson as production photographer, but this individual photograph is not explicitly attributed.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "f6d7187fadd975671722cf8eadcc01360712f7f5f005f2ff55ea11ddea6816c3",
+          "byteLength": 59333,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review",
+        "supportingSourceUrls": [
+          "https://catalogue.nationaltheatre.org.uk/calmview/Record.aspx?id=PERF8661&src=CalmView.Performance"
+        ]
+      },
+      {
+        "id": "B",
+        "label": "National Theatre poster · 1984",
+        "description": "A blue poster with a sculpted head, the play’s title, and the original production credits.",
+        "imageUrl": "image-options/assets/theater/antigone-b-national-theatre-1984.jpg",
+        "sourceUrl": "https://shop.nationaltheatre.org.uk/products/pod1033591",
+        "credit": "National Theatre Archive / National Theatre Shop. Poster designer not verified.",
+        "altText": "Light-blue Antigone poster with a stone woman’s head, black title lettering, and Cottesloe Theatre credits.",
+        "width": 1000,
+        "height": 1000,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://shop.nationaltheatre.org.uk/cdn/shop/files/si-1033591.jpg_maxdim-1000_resize-yes.jpg?v=1729176118&width=2400",
+        "productionOrEdition": "National Theatre / Cottesloe Theatre production poster, 1984. Sophocles in C. A. Trypanis’s translation; directors John Burgess and Peter Gill, as printed.",
+        "license": "No open image license established.",
+        "displayMode": "contain",
+        "metadataLimits": "Official shop reproduction of the 1984 poster, not a photograph of an original physical print. The downloaded product image includes the supplier’s white border.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "e2a20a15148384f598241b8917207fb15329d487262202721ea5f52f70e1e119",
+          "byteLength": 160346,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review"
+      },
+      {
+        "id": "C",
+        "label": "English title page · 1911",
+        "description": "A clean title-page scan from Joseph Edward Harry’s English verse translation.",
+        "imageUrl": "image-options/assets/theater/antigone-c-harry-1911.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Antigone_of_Sophocles_(1911).djvu",
+        "credit": "Sophocles; translation by Joseph Edward Harry; Robert Clarke Company, Cincinnati, 1911. Indiana University copy digitized by Google; scan via Wikimedia Commons.",
+        "altText": "Black-and-white title page for The Antigone of Sophocles, translated by Joseph Edward Harry, with a small classical emblem.",
+        "width": 1280,
+        "height": 2023,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Antigone_of_Sophocles_%281911%29.djvu/page7-1280px-The_Antigone_of_Sophocles_%281911%29.djvu.jpg",
+        "productionOrEdition": "The Antigone of Sophocles, English verse translation by Joseph Edward Harry. Cincinnati: The Robert Clarke Company, 1911. Scan page 7.",
+        "license": "Commons marks the scan public domain (PD-scan / Public Domain Mark).",
+        "displayMode": "contain",
+        "metadataLimits": "This is a 1911 translation title page, not an ancient document or an original Greek edition. Digitization marks remain unchanged.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "95ebc4c1d3bb2fe80e49d2298aba8061f068cc0a5f2e1be9c2dd198b478363d1",
+          "byteLength": 94288,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review"
+      }
+    ]
+  },
+  {
+    "entryId": "a-dolls-house",
+    "options": [
+      {
+        "id": "A",
+        "label": "First edition · 1879",
+        "description": "The museum’s photograph of the original decorated binding, with the title in gold.",
+        "imageUrl": "image-options/assets/theater/dolls-house-a-first-edition-1879.jpg",
+        "sourceUrl": "https://snl.no/Et_dukkehjem",
+        "credit": "Jon-Erik Faksvaag / Ibsenmuseet, Norsk folkemuseum, via Store norske leksikon.",
+        "altText": "An angled brown first-edition cover with gold Et Dukkehjem and Henrik Ibsen lettering and black decorative borders.",
+        "width": 1084,
+        "height": 1200,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://media.snl.no/media/37786/standard_NF.2009-0196.jpg",
+        "productionOrEdition": "Et dukkehjem, first edition, 1879; museum object NF.2009-0196.",
+        "license": "CC BY-SA 3.0, as stated beside the source photograph.",
+        "displayMode": "contain",
+        "metadataLimits": "Modern museum photograph of the 1879 book; photograph date not stated.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "fd5610cd6b389d311becb39137927cf7e968263b64b339f2a0490df11cdadd40",
+          "byteLength": 537756,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/no/"
+      },
+      {
+        "id": "B",
+        "label": "Réjane as Nora · 1894",
+        "description": "A historical role photograph of Gabrielle Réjane surrounded by three children.",
+        "imageUrl": "image-options/assets/theater/dolls-house-b-rejane-as-nora.jpg",
+        "sourceUrl": "https://digitaltmuseum.no/021016950843/gabrielle-rejane-i-et-dukkehjem",
+        "credit": "Charles Reutlinger / Oslo Museum, TM.T04662; digital image via Store norske leksikon.",
+        "altText": "Gabrielle Réjane in costume as Nora stands with three children gathered around her.",
+        "width": 730,
+        "height": 981,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://media.snl.no/media/252417/standard_TM.T04662.jpg",
+        "productionOrEdition": "Gabrielle Réjane as Nora in Et dukkehjem. Oslo Museum records the photograph as 1894. SNL associates the role with Théâtre du Vaudeville, Paris, 1894.",
+        "license": "CC BY-SA 4.0, confirmed in the museum record and SNL image caption.",
+        "displayMode": "contain",
+        "metadataLimits": "A posed role photograph, not an undocumented live-performance frame.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "2ebc3f7822777d23ad180b08c474d502e3bad8a9ec545abfb364afd141a8a02a",
+          "byteLength": 546038,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "supportingSourceUrls": [
+          "https://snl.no/Et_dukkehjem"
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Royal Theatre playbill · 1880",
+        "description": "A playbill naming the characters and actors for the January 17 performance in Copenhagen.",
+        "imageUrl": "image-options/assets/theater/dolls-house-c-premiere-playbill.jpg",
+        "sourceUrl": "https://snl.no/Et_dukkehjem",
+        "credit": "Antikvariat Bryggen, via Store norske leksikon.",
+        "altText": "Cream playbill for Et Dukkehjem at Det Kongelige Theater, with black Gothic lettering, cast names, and a January 17, 1880 date.",
+        "width": 869,
+        "height": 1200,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://media.snl.no/media/37489/standard_ET_DUKKEHJEM.jpg",
+        "productionOrEdition": "Det Kongelige Theater, Copenhagen: Et Dukkehjem, Saturday January 17, 1880, 7 p.m., as printed.",
+        "license": "SNL marks the photograph as restricted reuse.",
+        "displayMode": "contain",
+        "metadataLimits": "SNL describes the first production; the visible document is dated January 17, 1880. It is not labelled here as the December 1879 opening-night playbill. The internal download filename reflects the initial candidate description only.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "201b4e36e53d202d14e8568aa1caede6adc865d93abee93f2d1c6816228e4b6b",
+          "byteLength": 598952,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review"
+      }
+    ]
+  },
+  {
+    "entryId": "auto-da-compadecida",
+    "options": [
+      {
+        "id": "A",
+        "label": "Original Recife company",
+        "description": "The Teatro Adolescente do Recife cast appears in costume with Ariano Suassuna.",
+        "imageUrl": "image-options/assets/theater/auto-a-teatro-adolescente-recife.jpg",
+        "sourceUrl": "https://teatrojornal.com.br/2015/06/60-anos-da-peleja-de-joao-grilo-e-chico/",
+        "credit": "Acervo / Projeto Memórias da Cena Pernambucana, via Teatrojornal. Photographer not identified.",
+        "altText": "Sepia group photograph of the original Recife company, with performers in religious and rural costumes and Suassuna standing among them.",
+        "width": 960,
+        "height": 450,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://teatrojornal.com.br/wp-content/uploads/2015/06/a_compadecida_primeira-versao-1957-foto-arquivo-projeto-memorias-da-cena-pernambucana-capa-1.jpg",
+        "productionOrEdition": "Teatro Adolescente do Recife production directed by Clênio Wanderley, first performed in 1956; photograph date uncertain.",
+        "license": "No open image license established.",
+        "displayMode": "contain",
+        "metadataLimits": "Article caption identifies the 1956 production, while the image filename says 1957. Preserve that discrepancy; do not assign an exact photograph date. Existing wear and missing emulsion remain visible.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "3fa14d9f5a3530eaa902670b85f777ca456f29c62ae7f9df227a2dff6e08e4a1",
+          "byteLength": 154327,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review"
+      },
+      {
+        "id": "B",
+        "label": "Grupo Maria Cutia · 2019",
+        "description": "A wide stage photograph shows the ensemble, instruments, and colorful theatrical set.",
+        "imageUrl": "image-options/assets/theater/auto-b-maria-cutia-2019.jpg",
+        "sourceUrl": "https://www3.ufmg.br/comunicacao/noticias/grupo-maria-cutia-apresenta-espetaculo-o-auto-da-compadecida",
+        "credit": "Tati Motta / Grupo Maria Cutia, published by UFMG.",
+        "altText": "Seven performers in colorful costumes stand with drums and a guitar before an ornate stage set.",
+        "width": 3180,
+        "height": 1318,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://www3.ufmg.br/storage/c/5/3/a/c53a1127bcd70168e09084b715cdd27e_1570542432491_1903164728.jpg",
+        "productionOrEdition": "Grupo Maria Cutia, Auto da Compadecida, directed by Gabriel Villela; production premiered in 2019. Photograph published in UFMG’s October 2019 event notice.",
+        "license": "No open image license established.",
+        "displayMode": "contain",
+        "metadataLimits": "The exact performance date and venue at which the photograph was taken are not identified. The image documents the stage production, not a film adaptation.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "8a715e0e241365f34657b23eb89334a143eb714913e9654b088b51e84f71efe7",
+          "byteLength": 1295405,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review",
+        "supportingSourceUrls": [
+          "https://mariacutia.com.br/espetaculos/auto-da-compadecida/",
+          "https://mariacutia.com.br/espetaculos/"
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Anniversary edition cover",
+        "description": "The publisher’s blue cover uses a colorful image of the Virgin and gold title lettering.",
+        "imageUrl": "image-options/assets/theater/auto-c-nova-fronteira-anniversary.png",
+        "sourceUrl": "https://www.novafronteira.com.br/auto-da-compadecida-comemorativa",
+        "credit": "Editora Nova Fronteira. Cover artwork credit not verified.",
+        "altText": "Publisher product image of a blue hardcover Auto da Compadecida, with a colorful Virgin Mary figure and yellow lettering.",
+        "width": 600,
+        "height": 600,
+        "rightsStatus": "review_only_pending_clearance",
+        "remoteImageUrl": "https://cdn.awsli.com.br/600x1000/2088/2088593/produto/307865675/auto-da-compadecida_frente-zbjp32u9oe.png",
+        "productionOrEdition": "Nova Fronteira, Auto da Compadecida: edição comemorativa de 70 anos. Publisher lists 44th edition (2024), hardcover, ISBN 9786556400754.",
+        "license": "No open image license established.",
+        "displayMode": "contain",
+        "metadataLimits": "An official product image of a later edition, not the 1957 first edition. The publisher’s displayed 2024 edition date is recorded without inferring an anniversary publication year.",
+        "downloadProvenance": {
+          "method": "Unaltered public-source download for authorized local image review.",
+          "downloadedOn": "2026-09-23",
+          "sha256": "b5538a912155f5e2bdb32b5baccf236594b99302878c2a83736977e5c740ee0f",
+          "byteLength": 413427,
+          "visualInspection": "Downloaded image opened and inspected; subject and visible text checked against the source record."
+        },
+        "reviewStatus": "proposed_pending_Julio_review"
+      }
+    ]
+  }
+]

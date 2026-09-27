@@ -1,0 +1,41 @@
+# Image prompts — round 2
+
+Built-in ChatGPT image generation. One call per asset. No CLI/API fallback.
+
+Five generated treatments are displayed. The Roman portrait uses its unchanged museum source; its generated alternative is retained for reference.
+
+## Palais Garnier
+
+AI style study
+
+Use case: style-transfer. Asset: one architectural façade study for a visual comparison. Image 1 is the authoritative geometry and exact viewpoint: Palais Garnier principal façade, an orthographic exterior elevation. Image 2 is STYLE ONLY: Latrobe's White House drawing. Transform image 1 into the fine warm sepia pen-and-ink and restrained watercolor-wash style of image 2 on lightly aged cream paper. Preserve every major geometric relationship of image 1: the central arcade and column/window arrangement, identical number and placement of façade openings and levels, paired pavilion forms and domes, high central pediment and roof, sculpture silhouettes, total width-to-height proportions, and exact straight-on orthographic viewpoint. Do not borrow any White House architecture, landscaping, sky, stairway, border, or inscription. No perspective conversion, newly visible sides, restored architecture, added ornament, new doors/windows/columns, vegetation or people. Do not invent hidden detail. Keep full target building centered and large with modest paper margins in a landscape frame, not a large blank sky. The only changes are drawing medium, restrained wash tone, and paper texture. Delicate readable brown-gray contours; subdued beige-gray shadows; no dramatic lighting or heavy grunge. No text, captions, watermark, scale bar, or signature.
+
+## Edith Farnsworth House
+
+AI style study
+
+Use case: faithful architectural style transfer. Create ONE straight-on architectural exterior elevation of Edith Farnsworth House from the south elevation extracted from a HABS sheet in image 1. Image 1 is authoritative geometry; ignore all annotations. Image 2 is STYLE ONLY, Latrobe's 1817 White House drawing. Retain the exact orthographic projection of the source: long flat roof and suspended floor, four equally spaced tall visible steel columns, glass opening/mullion spacing and transparent core outlines exactly as shown, the offset lower terrace extending left, two stair flights in the same positions, low roof utility feature. Keep every footprint edge, silhouette, building-to-terrace proportion and all levels, supports, glazing divisions identical to source. Do not add visible sides, new perspective, doors, windows, furniture, landscaping, figures or architectural ornament. Do not borrow White House architecture. Transform only the drawing medium to delicate warm sepia pen-and-ink and subdued watercolor wash on lightly aged cream paper, with restrained gray-beige glazing and shadows. Entire building and terraces centered, large and clearly readable, landscape canvas with modest margins. No large empty upper paper. Omit technical labels, title block, scale bars and text. This is a style study of a measured elevation, no redesign.
+
+## Neue Nationalgalerie
+
+AI style study
+
+Use case: faithful architectural style transfer. Asset: one complete orthographic exterior EAST ELEVATION of Neue Nationalgalerie, Berlin. Image 1 is the authoritative geometry, extracted at high resolution from David Chipperfield Architects' 2021 drawing. Image 2 is STYLE ONLY, Latrobe's 1817 White House pen-and-wash drawing. Preserve image 1's exact straight-on viewpoint and complete architecture: the low wide rectangular roof with its exact fascia divisions, inset glass façade, every mullion/door division and support position, the raised long stone plinth with its slope and small steps, and the two small existing sculpture silhouettes on the left and right. Keep exactly the source's building width-to-height ratio, number of levels, roof-to-glazing projection, four visible principal vertical supports, 18 roof fascia rectangles, and 14 upper glazing bays. The source has no perspective or visible side façade; do not invent either. No new columns, openings, roof shapes, plants, people or details; no other building, no borrowed White House architecture. Render the exact source linework in delicate warm sepia ink, restrained pale gray-beige watercolor wash and lightly aged cream paper, same quiet archival drawing atmosphere as image 2. Muted dark-brown roof wash, transparent subtly shaded glass, fine readable stone joints. Keep complete source silhouette centered at large readable scale with modest margins in a landscape canvas. Do not stretch the very horizontal architecture to fill a taller frame. No text, border, labels, scale bar, signature or watermark. Only style and background paper change; geometry stays as supplied.
+
+## Bust of Nefertiti
+
+AI background study
+
+Use case: precise object photograph background edit. Image 1 is the target photograph of the Bust of Nefertiti. Image 2 is a style reference ONLY for its charcoal-black background. Edit ONLY the background of image 1. Replace the gray background with a seamless near-black upper field grading very subtly into dark charcoal gray toward the lower area, matching the quiet background of image 2. Preserve the sculpture and its pedestal as photographed: the exact right-facing profile, head and crown contour, face, ear, neck, shoulders, collar, proportions, pose, painted colors, pigment loss, chips, weathering, shadows and existing soft object lighting. Keep the original camera viewpoint, framing and aspect ratio. Do not turn the head, invent unseen surfaces, repair damage, smooth texture, recolor the sculpture, relight it dramatically or borrow any Caracalla features. No halo, visible horizon, decorative vignette, text or watermark. The sculpture should remain a faithful photograph of this specific surviving object. Output a separate PNG.
+
+## Benjamin Franklin (1706–1790)
+
+AI background study
+
+Use case: precise object photograph background edit. Image 1 is the target museum photograph of Jean Antoine Houdon's 1778 marble bust of Benjamin Franklin. Image 2 is a style reference ONLY for its charcoal-black background. Edit ONLY the background of image 1. Replace the gray background with a seamless near-black upper field grading very subtly into dark charcoal gray toward the lower area, matching the quiet background of image 2. Preserve the sculpture and socle as photographed: exact frontal face, contour, carved eyes and mouth, facial proportions, hair curls, neck, clothing, buttons, bust shape, marble color, stains, fine tool marks, surface weathering and original soft light and shadows. Keep the original camera viewpoint, framing and aspect ratio. Do not rotate or reshape the bust, invent unseen surfaces, heal damage, smooth texture, recolor the stone or borrow any Caracalla features. No dramatic new lighting, halo, visible horizon, decorative vignette, text or watermark. This must remain a faithful photograph of the specific surviving object. Output a separate PNG.
+
+## Marble portrait head of a woman
+
+Original museum photograph
+
+Use case: precise object photograph background edit. Image 1 is the target museum photograph of a Roman marble portrait head of a woman, circa 220–235 CE, Met accession X.125. Image 2 is a style reference ONLY for its charcoal-black background. Edit ONLY the background of image 1. Match the style reference's seamless near-black upper field grading very subtly into dark charcoal gray toward the lower area. Preserve the exact original sculpture and museum support: frontal camera view, head contour, proportions, hair waves, ears, cream-yellow marble color, surviving face, broken uneven nose and its ancient losses, drilled empty pupil sockets, chips on the cheek and temples, truncated neck, surface roughness, shadows and original object lighting. This sculpture is damaged: DO NOT restore the nose, fill the eye holes, complete damaged contours, clean the stone, symmetrize the face or invent unseen surfaces. Keep image 1's camera viewpoint, framing and aspect ratio. Do not borrow any Caracalla face, pose, surface or material details. No dramatic relighting, halo, visible horizon, decorative vignette, text or watermark. The result must remain a faithful photograph of this specific surviving object, with only its backdrop changed. Output a separate PNG.

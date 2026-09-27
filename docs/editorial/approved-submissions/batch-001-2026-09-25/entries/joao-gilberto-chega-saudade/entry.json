@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "joao-gilberto-chega-saudade",
+    "medium": "music",
+    "title": "Chega de Saudade",
+    "creator": "João Gilberto; music by Antônio Carlos Jobim, lyrics by Vinicius de Moraes",
+    "dateDisplay": "1958 recording",
+    "dateStart": 1958,
+    "dateEnd": null,
+    "body": "In Chega de Saudade, a man misses his lover and asks for her return. He begins in sadness, then imagines the affection they could share if she came back. The music becomes brighter as his thoughts turn toward reunion. João Gilberto’s 1958 recording makes this change feel intimate, with a quiet voice that sounds close to ordinary speech.\n\nThe guitar keeps moving while Gilberto stretches a word or starts a phrase slightly before or after its beat. Voice and instrument remain together without matching every accent. He draws on samba’s dance rhythms, fitting the work of several percussion instruments into the patterns of one guitar. The singing can therefore sound unhurried while the accompaniment stays lively.\n\nThe song was written by Antônio Carlos Jobim and Vinicius de Moraes. Elizeth Cardoso had already recorded it, with Gilberto playing guitar, before he made his own version that July. Jobim arranged the instruments accompanying him. Released as a single in August, Gilberto’s recording became a landmark of bossa nova, the emerging Brazilian style associated with this close relationship between understated singing and rhythmic guitar.\n\nCardoso’s earlier recording was already part of this experiment. Working with Gilberto, she reduced the wavering effect called vibrato in parts of her singing. The new style developed through exchanges among performers, composers and arrangers, each changing how a familiar Brazilian rhythm could accompany a voice.",
+    "sources": [
+      {
+        "title": "Instituto Moreira Salles: Chega de Saudade, recording catalogue",
+        "url": "https://discografiabrasileira.com.br/fonograma/133285/chega-de-saudade",
+        "role": "recording archive",
+        "supports": "10 July 1958 recording, August 1958 issue, Odeon 14360, matrix RIO-12725; composer/lyricist, performer and Jobim-orchestra credits."
+      },
+      {
+        "title": "Instituto Moreira Salles: Ainda bossa, ainda nova",
+        "url": "https://ims.com.br/2018/03/29/ainda-bossa-ainda-nova/",
+        "role": "institutional music criticism",
+        "supports": "Cardoso’s earlier recording with Gilberto on guitar; collaborative development and differences between singer and composer contributions."
+      },
+      {
+        "title": "Gabriel S. S. Lima Rezende: O truque do mestre",
+        "url": "https://www.scielo.br/j/rieb/a/fDvChwFkzDXLYWtDm6vnT3C/?lang=pt",
+        "role": "scholarly musical analysis",
+        "supports": "Composition’s formal change, D-major second section and hopeful lyrical turn; traditional samba resources and modern musical transformation. The author’s larger socioeconomic interpretation is not presented as settled fact."
+      },
+      {
+        "title": "Ricardo Quiñones: João Gilberto, Jazz.com Encyclopedia",
+        "url": "https://jazz.com/encyclopedia/gilberto-joo-prado-pereira-de-oliveira/",
+        "role": "substantive performance analysis",
+        "supports": "Steady guitar bass, displaced chord rhythm, intimate vocal delivery ahead of/behind the beat, and voice/guitar interaction in Chega de Saudade. Broader biographical anecdotes and absolute genre-invention claims unused."
+      },
+      {
+        "title": "Public discussion: Chega de Saudade, Music as Emotion",
+        "url": "https://www.reddit.com/r/LetsTalkMusic/comments/h0dse5/",
+        "role": "reception clue",
+        "supports": "Listener interest in longing mixed with hope; prompted clear explanation for non-Portuguese readers. Thread conflates album and single, and makes inaccurate language claims, all excluded."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+      "baselineSection": "Version 0.18; New entry about the July 1958 recording and August 1958 single, not the 1959 album",
+      "changes": [
+        "New researched draft, pending Julio’s review. No prior approval transferred.",
+        "24 September 2026: revised under VOICE_GUIDE v0.19 and current batch feedback; pending new writing review."
+      ],
+      "notionUrl": null,
+      "revisionGuide": "docs/editorial/VOICE_GUIDE.md v0.19",
+      "revisionNotesFile": "docs/editorial/research-2026-09-24/remake-21/music-notes.md"
+    },
+    "meaningBrief": "The lyric moves from loneliness to imagined reunion. Gilberto’s soft speechlike phrasing and guitar rhythms make that longing intimate while retaining samba’s movement. Cardoso’s earlier version and Jobim’s arrangement establish collaboration rather than a lone-inventor story.",
+    "quotationNotes": [
+      "Lyrics paraphrased. No Portuguese lyric or English translation quoted. Listening descriptions follow rechecked scholarly and musician criticism, not a claimed new direct listening session."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Joao_Gilberto_-_Chega_de_Saudade.jpg",
+      "referenceUrl": "https://en.wikipedia.org/wiki/File:Joao_Gilberto_-_Chega_de_Saudade.jpg",
+      "altText": "Cover of João Gilberto’s 1959 album Chega de Saudade, shown as a later illustration of the 1958 recording.",
+      "credit": "Odeon Records album cover, via English Wikipedia.",
+      "license": "Copyrighted album artwork. Wikipedia’s contextual non-free-use rationale is not an app-use license.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "SUPPORTING ILLUSTRATION: 1959 album cover, not the 1958 single label. Parent authorized this explicit fallback after the exact label could not be retrieved. Entry metadata remains the 1958 recording."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 12,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-joao-gilberto-chega-saudade"
+  },
+  "decision": {
+    "id": "joao-gilberto-chega-saudade",
+    "decisionId": "julio-2026-09-25-joao-gilberto-chega-saudade",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image C; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "eb36fb5ac218749d",
+    "imageOption": "C",
+    "imageHash": "fb3efa4c4ac5cfe7",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "C",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "C",
+      "label": "Odeon LP label · album issued 1959",
+      "description": "Blue label with the album title and six first-side tracks.",
+      "imageUrl": "image-options/assets/music/joao-c-odeon-album-label.jpg",
+      "originalImageUrl": "https://cdn.immub.org/capas/3806/thumbnails/m_3806sa.jpg",
+      "sourceUrl": "https://immub.org/album/chega-de-saudade",
+      "credit": "Odeon Records label; scan published by Instituto Memória Musical Brasileira (IMMuB). Scan contributor not identified.",
+      "altText": "Blue Odeon label for João Gilberto’s Chega de Saudade LP, MOFB 3073, listing Chega de Saudade as the first track.",
+      "width": 400,
+      "height": 400,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "No open reuse license identified for the label scan. Institutional availability is not app clearance.",
+      "edition": "Chega de Saudade LP, Odeon MOFB 3073, side A; album first issued March 1959.",
+      "editionNotes": "This is an archived album-label scan, not the 1958 single. The archive dates the album to 1959; the manufacturing date of the particular pressing shown is not established. Blue label and 33⅓ rpm format are visibly distinct from the gray 78 rpm single label.",
+      "verificationSources": [],
+      "verifiedOn": "2026-09-23",
+      "verification": "Downloaded original supplied image without cropping, recoloring, or generated changes; decoded and visually inspected. Fixed vinyl photograph and template untouched.",
+      "sha256": "ad03f6f40c799983c629d656bb6fbebf6ac49f49046fdf56f802c6c70d86c825",
+      "assetSha256": "ad03f6f40c799983c629d656bb6fbebf6ac49f49046fdf56f802c6c70d86c825"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Odeon Records label; scan published by Instituto Memória Musical Brasileira (IMMuB). Scan contributor not identified.",
+    "altText": "Blue Odeon label for João Gilberto’s Chega de Saudade LP, MOFB 3073, listing Chega de Saudade as the first track.",
+    "width": 1200,
+    "height": 1500,
+    "imageTreatment": "Existing vinyl presentation, packaged as a self-contained SVG",
+    "components": {
+      "label": "assets/label.jpg",
+      "surround": "../../assets/vinyl-reference.png",
+      "template": "../../provenance/vinyl_template.py",
+      "templateAndSurroundHashes": {
+        "visual-study/vinyl_template.py": "2792d91288b0b05f869c27a037913ad2b75ac24e87fecfb3d497cafaa3d55134",
+        "visual-study/references/vinyl-reference.png": "a5b1ac83629e349691a192b12f1bfd4971d3ff41e9dd9cf289ea19467276ea23"
+      }
+    },
+    "imageUrl": "assets/selected.svg",
+    "sha256": "d96b79e3720bf2ab5a41cd13d05c0106e968fdc3b61e1e993bd70b7a18c89320",
+    "sourceAssetSha256": "ad03f6f40c799983c629d656bb6fbebf6ac49f49046fdf56f802c6c70d86c825"
+  },
+  "frozen": {
+    "bodyHash": "eb36fb5ac218749d",
+    "bodySha256": "d89598b850be0896afd05632b398abd4a8b6352284c56d5df166b2cbccd2ffc8",
+    "imageHash": "fb3efa4c4ac5cfe7",
+    "sourceEntrySha256": "80919f0c2a11a978fb9787e3ccc1f5e3156cfbbb065f04b47047ce42c8b46b2f"
+  }
+}

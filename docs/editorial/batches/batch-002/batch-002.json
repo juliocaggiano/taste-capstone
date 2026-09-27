@@ -1,0 +1,1409 @@
+{
+  "batchId": "batch-002",
+  "editorialStatus": "pending_review",
+  "entries": [
+    {
+      "id": "hagia-sophia",
+      "title": "Hagia Sophia",
+      "creator": "Anthemios of Tralles and Isidoros of Miletos; commissioned by Emperor Justinian I",
+      "dateDisplay": "532–537",
+      "dateStart": 532,
+      "dateEnd": 537,
+      "place": "Istanbul, Türkiye",
+      "body": "In 532, a revolt against Emperor Justinian devastated Constantinople, now Istanbul, the capital of the Eastern Roman Empire. Its main church burned down. Justinian ordered a replacement almost immediately. The new Hagia Sophia opened five years later, giving the Christian emperor a setting for worship that also demonstrated his authority after the rebellion.\n\nInside, a vast dome rises above an open central space. The architects carried its weight through large arches into four massive supports, keeping the middle clear. Windows around the dome’s base admit so much light that its connection to the building can appear surprisingly slight. For contemporary Christian observers, the vault suggested heaven above the congregation. Marble surfaces and gold mosaics added to that impression.\n\nThis effect required difficult engineering. The first dome partly collapsed in 558 after earthquakes. Its replacement rose higher, changing its shape to improve stability. The building’s apparent lightness depended on substantial supports and repeated repairs.\n\nWhen the Ottoman sultan Mehmed II conquered the city in 1453, he converted the church into a mosque. Minarets and Islamic furnishings joined its Christian fabric. Centuries later, Turkey made it a museum; in 2020, it became a mosque again. These successive uses help explain why arguments over the building extend beyond architecture: different communities recognize their religious and political history within the same walls.",
+      "meaningBrief": "A Christian emperor rebuilt his capital’s principal church after revolt. Structural concentration and light produce an unusually open interior associated with heaven. The dome’s failure and repair explain the practical challenge. Ottoman conversion and later changes show how the same monument became important to successive religious and political communities. Avoid claims of a weightless dome, an unchanged sixth-century interior, or a largest-ever dome.",
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art — Hagia Sophia (532–37), Emma Wegner",
+          "url": "https://www.metmuseum.org/essays/hagia-sophia-532-37",
+          "role": "substantive museum interpretation",
+          "supports": "Full essay read: Nika revolt, Justinian’s rebuilding, architects, structural supports, contemporary heavenly associations, materials, collapse in 558 and rebuilding, Ottoman conversion. The essay predates the 2020 change; its museum status is not treated as current.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Smarthistory — Innovative architecture in the age of Justinian",
+          "url": "https://smarthistory.org/innovative-architecture-in-the-age-of-justinian/",
+          "role": "architectural interpretation; indexed passage",
+          "supports": "Indexed passage describes concentration of structural loads and the openings this permits. Direct page returned 403; used only for the retrieved explanation of structure and light.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "UNESCO — Statement on Hagia Sophia, Istanbul",
+          "url": "https://www.unesco.org/en/articles/unesco-statement-hagia-sophia-istanbul",
+          "role": "institutional historical context",
+          "supports": "10 July 2020 statement on changing the museum’s status; cultural significance for multiple communities.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "UNESCO — Advisory mission to Istanbul, 5–9 October 2020",
+          "url": "https://whc.unesco.org/document/188386",
+          "role": "institutional record; indexed passage",
+          "supports": "Retrieved passage confirms the presidential decree of 10 July 2020 opened Hagia Sophia to Muslim prayer.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "AskHistorians — Discussion of Hagia Sophia and Byzantine churches",
+          "url": "https://www.reddit.com/r/AskHistorians/comments/12d6mpw",
+          "role": "public reception clue; indexed discussion",
+          "supports": "Reception check warns against using Hagia Sophia to represent every Byzantine church. Not historical authority for the draft.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "architecture",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "datePrecision": "documented construction period",
+      "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+      "quotationNotes": [
+        "No direct quotations in the body."
+      ],
+      "provenance": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": [
+          "New review-only entry for batch 002.",
+          "Writing and all three archival images require Julio’s review."
+        ],
+        "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+        "notionUrl": null
+      },
+      "media": {
+        "imageUrl": "image-options/assets/architecture/b002-hagia-sophia-a.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Sophia%2C_Constantinopolis.jpg",
+        "altText": "Fine linework on white paper, cutting through the dome and galleries. This nineteenth-century historical study shows the structure without the full later Ottoman additions.",
+        "credit": "Wilhelm Salzenberg, Alt-christliche Baudenkmale von Constantinopel (1854); ETH-Bibliothek / e-rara; Wikimedia Commons",
+        "license": "Public-domain historical plate; Commons public-domain scan attribution.",
+        "rightsStatus": "review_only_pending_clearance",
+        "note": "Local historical source image; image A is a preview, not an editorial selection."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "alhambra",
+      "title": "The Alhambra",
+      "creator": "Nasrid rulers and their architects, craftspeople and poets",
+      "dateDisplay": "13th–14th centuries",
+      "dateStart": 1200,
+      "dateEnd": 1399,
+      "place": "Granada, Spain",
+      "body": "The Alhambra was the fortified home of the Nasrid dynasty, the Muslim rulers of Granada. They established their court on this hill in the thirteenth century, as Christian kingdoms expanded across the Iberian Peninsula. Behind its defenses stood a small city of palaces, houses, workshops and military quarters. The richly decorated rooms belonged to a working royal court.\n\nIts courtyards organize the movement between rooms, while covered galleries offer shelter around open spaces. The Court of the Lions, developed under Muhammad V in the fourteenth century, follows this arrangement. Slender columns support the surrounding galleries, and water channels converge on a fountain carried by twelve stone lions. The rooms could serve several purposes, with furnishings arranged for the occasion.\n\nMuch of the decoration also communicates in words. Arabic inscriptions include religious passages and poems praising the buildings and their rulers. Court poets helped present royal prosperity as evidence of a successful, divinely favored reign. Reading the walls changes the experience: patterns that initially look abstract also speak about faith and government.\n\nThe fountain makes this connection especially tangible. A poem by Ibn Zamrak is carved around its basin and describes water seeming to merge with marble. Hidden pipes regulate the flow, keeping the surface calm while water passes through the lions. The effect depends on controlled movement rather than a high jet.",
+      "meaningBrief": "The Nasrid palace city combines practical court life with a public language of religious and royal authority. Courtyard organization establishes the physical setting; inscriptions and the Lions fountain explain how poetry, patronage and engineering work together. Avoid a generic paradise narrative, unsupported water-clock legends, or treating all courtyards as exclusively women’s quarters.",
+      "sources": [
+        {
+          "title": "Patronato de la Alhambra y Generalife — History",
+          "url": "https://www.alhambra-patronato.es/en/discover/alhambra-y-generalife/history",
+          "role": "institutional history",
+          "supports": "Nasrid fortified palace city, thirteenth-century establishment and fourteenth-century development; court, officials, servants and guards.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Patronato — The origin of the Nasrid kingdom and the Alhambra",
+          "url": "https://www.alhambra-patronato.es/elemento-del-mes/el-origen-del-reino-nazari-y-de-la-alhambra",
+          "role": "institutional historical context",
+          "supports": "Nasrid formation amid Christian expansion; strategic hilltop and urban settlement.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Patronato — The Court of the Lions",
+          "url": "https://www.alhambra-patronato.es/en/edificios-lugares/the-court-of-the-lions",
+          "role": "substantive architectural interpretation",
+          "supports": "Muhammad V’s second reign, courtyard-house arrangement, multiple uses of rooms, galleries and fountain mechanism. Does not establish the debated original courtyard planting.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Patronato — Poetry and architecture: poems of the Palace of Comares",
+          "url": "https://www.alhambra-patronato.es/poesia-y-arquitectura-en-la-alhambra-los-poemas-del-palacio-de-comares",
+          "role": "substantive interpretation",
+          "supports": "Religious inscriptions and poems of royal praise; court poets and the connection between architectural decoration and Nasrid authority.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Patronato — The spouts of the Fountain of the Lions",
+          "url": "https://www.alhambra-patronato.es/en/disfrutar/the-spouts-of-the-fountain-of-the-lions",
+          "role": "object and conservation interpretation",
+          "supports": "Ibn Zamrak’s basin poem; concealed pipes and controlled gentle flow; later alterations to the fountain. Poem paraphrased, not quoted.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "ArtefactPorn — Discussion of the Court of the Lions",
+          "url": "https://www.reddit.com/r/ArtefactPorn/comments/10sk0el",
+          "role": "public reception clue; indexed discussion",
+          "supports": "Restoration differences prompted checking the Patronato’s account. Unsupported claims about the lions and a water clock were excluded.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "architecture",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "datePrecision": "century range for the principal Nasrid construction; not exact start or completion years",
+      "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+      "quotationNotes": [
+        "No direct quotations in the body."
+      ],
+      "provenance": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": [
+          "New review-only entry for batch 002.",
+          "Writing and all three archival images require Julio’s review."
+        ],
+        "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+        "notionUrl": null
+      },
+      "media": {
+        "imageUrl": "image-options/assets/architecture/b002-alhambra-a.jpg",
+        "referenceUrl": "https://www.academiacolecciones.com/dibujos/inventario.php?id=MA-0540",
+        "altText": "A 1766 section through the courtyard and surrounding rooms. Fine gray washes preserve the depth of the original drawing on warm paper.",
+        "credit": "Juan de Villanueva, 1766; Real Academia de Bellas Artes de San Fernando, MA-0540",
+        "license": "Underlying historical drawing public domain; museum scan credited to RABASF. Scan reuse terms require confirmation for public release.",
+        "rightsStatus": "review_only_pending_clearance",
+        "note": "Local historical source image; image A is a preview, not an editorial selection."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "villa-rotonda",
+      "title": "Villa Rotonda",
+      "creator": "Andrea Palladio; completed with work by Vincenzo Scamozzi",
+      "dateDisplay": "1567–1605",
+      "dateStart": 1567,
+      "dateEnd": 1605,
+      "place": "Vicenza, Italy",
+      "body": "After a career at the papal court in Rome, Paolo Almerico returned to Vicenza and commissioned a home from Andrea Palladio. Construction began in 1567 on a hill outside the city. Almerico sold his town palace to live there. Although now called a villa, the house was conceived as a distinguished residence, without the agricultural buildings attached to many of Palladio’s country estates.\n\nPalladio gave it four columned entrances, each approached by a broad staircase. These porches borrow the appearance of ancient temples, bringing their ceremonial importance into a private home. Repeating them on every side also opens the house toward different views of the surrounding countryside. The landscape becomes something to enjoy from the rooms and terraces, rather than simply land to manage.\n\nInside, a round hall sits at the center, beneath a dome, with living rooms arranged around it. The four approaches lead toward this shared space. The arrangement lets someone arriving from one direction cross the hall and look out toward another part of the landscape.\n\nPalladio published the design in his architectural books in 1570, while construction was still underway. Print made the house available to people who would never visit Vicenza. The same clear organization that shaped Almerico’s residence could now be studied and adapted elsewhere.",
+      "meaningBrief": "A retired papal official commissioned an elite suburban residence, not an ordinary productive farm villa. Classical temple entrances lend status to domestic life while four fronts engage the landscape. The central hall explains how the house is experienced; publication explains how one commission became accessible as a model. No numerological speculation or claim that the printed design equals the completed building.",
+      "sources": [
+        {
+          "title": "Palladio Museum / CISA — Villa Almerico Capra detta La Rotonda",
+          "url": "https://mediateca.palladiomuseum.org/palladio/opera.php?id=41",
+          "role": "substantive specialist interpretation",
+          "supports": "Design and construction chronology; Almerico’s papal career and sale of his city palace; absence of farm outbuildings; Palladio’s classification among palaces; geometry and completion by the Capra family with Scamozzi. Notes uncertainty over individual changes during completion.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "The Metropolitan Museum of Art — Villa Almerico, Book 2, page 19",
+          "url": "https://www.metmuseum.org/art/collection/search/698054",
+          "role": "primary published design and museum commentary",
+          "supports": "1570 book illustration; domed hall, four temple porches, landscape, retreat rather than typical farm villa; the design’s frequent later imitation.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Villa Rotonda — official visitor guide",
+          "url": "https://www.villalarotonda.it/wp-content/uploads/2024/03/LA-ROTONDA-Guida-CAA-WEB.pdf",
+          "role": "institutional reference",
+          "supports": "Linked guide retained for further visitor-level context; not used to support an unverified claim in the body.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Architecture — Villa Rotonda discussion",
+          "url": "https://www.reddit.com/r/architecture/comments/1kz1foo/villa_rotonda_in_vicenza_italy_15651605_by_andrea/",
+          "role": "public reception clue; indexed discussion",
+          "supports": "Readers notice symmetry and the relationship between four fronts and landscape. This prompted a practical spatial explanation; historical claims come from the specialist sources.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "architecture",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "datePrecision": "documented construction period",
+      "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+      "quotationNotes": [
+        "No direct quotations in the body."
+      ],
+      "provenance": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": [
+          "New review-only entry for batch 002.",
+          "Writing and all three archival images require Julio’s review."
+        ],
+        "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+        "notionUrl": null
+      },
+      "media": {
+        "imageUrl": "image-options/assets/architecture/b002-villa-rotonda-a.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_%2823547400%29.jpg",
+        "altText": "A crisp section through the central hall, dome and two porches. Dense engraved shadows contrast with the white paper.",
+        "credit": "Ottavio Bertotti Scamozzi; plate signed David Rossi, Les bâtimens et les desseins de Andre Palladio (1776–1783); National Library of Poland / Polona, via Wikimedia Commons",
+        "license": "Public domain; Commons PD-old-100-expired / Public Domain Mark.",
+        "rightsStatus": "review_only_pending_clearance",
+        "note": "Local historical source image; image A is a preview, not an editorial selection."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "crystal-palace",
+      "title": "The Crystal Palace",
+      "creator": "Joseph Paxton, with Fox, Henderson & Co.",
+      "dateDisplay": "1850–1851",
+      "dateStart": 1850,
+      "dateEnd": 1851,
+      "place": "Hyde Park, London, United Kingdom",
+      "body": "For the Great Exhibition of 1851, London needed a temporary building large enough to display manufactured goods from around the world. Joseph Paxton, a designer experienced in greenhouses, proposed an immense hall of iron, glass and timber. Its construction used the same industrial methods that visitors would encounter among the exhibits.\n\nRepeated parts could be manufactured in advance and assembled on site, making a tight construction schedule possible. Glass admitted daylight, while slender columns left the displays visible across long aisles. The building’s appearance came largely from this repeated framework. Even its raised central roof had a practical reason: it accommodated mature elm trees that would otherwise have stood in the way.\n\nThe exhibition presented industry as a way for nations to exchange knowledge and improve their products. Its layout also expressed Britain’s position as an imperial power. Britain and its territories occupied the western half; other countries shared the eastern side, with space assigned according to their trade with Britain. Visitors could compare objects from distant places, but the arrangement followed the host country’s commercial priorities.\n\nThe exhibition helped establish a lasting connection between manufacturing, design education and museums. Objects bought afterward became part of the collections that developed into the Victoria and Albert Museum. The Hyde Park building itself was dismantled. A larger version opened at Sydenham in 1854, where it later burned down in 1936.",
+      "meaningBrief": "The temporary exhibition hall applied industrial production to architecture while giving a mass audience access to manufactured goods and design. Prefabrication, daylight and preserving trees explain its form. Allocation of display space shows the imperial and commercial terms of its internationalism. Clearly distinguish Hyde Park 1851 drawings from the enlarged Sydenham building opened in 1854.",
+      "sources": [
+        {
+          "title": "V&A — The foundation of the collections: the Great Exhibition of 1851",
+          "url": "https://www.vam.ac.uk/articles/the-great-exhibition-of-1851",
+          "role": "substantive museum interpretation",
+          "supports": "Julius Bryant’s edited account: Paxton’s greenhouse background, standard parts, timber as well as iron and glass, tree preservation, imperial floor allocation, trade-based foreign allocation and separate Sydenham rebuilding. Body synthesizes under 200 words from this source.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Peter Berlyn and Charles Fowler Jr — The Crystal Palace (1851)",
+          "url": "https://en.wikisource.org/wiki/The_Crystal_Palace",
+          "role": "contemporary published architectural account",
+          "supports": "Full public-domain book consulted for repeated elements, open display space and light; illustrations at frontispiece, pages 34 and 37 correspond to the three image choices. Its celebratory imperial language is not adopted.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "V&A — Building the museum",
+          "url": "https://www.vam.ac.uk/articles/building-the-museum",
+          "role": "institutional history",
+          "supports": "The exhibition’s educational purpose, profits and purchases, and the development of the South Kensington museum collections.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "AskHistorians — Why was the Crystal Palace not rebuilt?",
+          "url": "https://www.reddit.com/r/AskHistorians/comments/otah0x",
+          "role": "public reception clue; indexed discussion",
+          "supports": "Discussion prompted separating the exhibition building’s legacy from the later Sydenham structure. Direct thread fetch failed; indexed text only, not used as factual authority.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "architecture",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "datePrecision": "documented construction period",
+      "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+      "quotationNotes": [
+        "No direct quotations in the body."
+      ],
+      "provenance": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": [
+          "New review-only entry for batch 002.",
+          "Writing and all three archival images require Julio’s review."
+        ],
+        "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+        "notionUrl": null
+      },
+      "media": {
+        "imageUrl": "image-options/assets/architecture/b002-crystal-palace-whole-a-20260925.jpg",
+        "referenceUrl": "https://collections.vam.ac.uk/item/O25350/",
+        "altText": "An 1851 color lithograph of the complete Crystal Palace in Hyde Park, seen from an imagined elevated northwest viewpoint.",
+        "credit": "Charles Burton, Aeronautic View of the Great Exhibition Building, 1851; published by Ackermann & Co. © Victoria and Albert Museum, London, accession 19614.",
+        "license": "Historical print; digital image © Victoria and Albert Museum, London. Review copy only; publication rights remain to be cleared.",
+        "rightsStatus": "review_only_pending_clearance",
+        "note": "Local historical source image; image A is a preview, not an editorial selection."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "st-peters-basilica",
+      "title": "St Peter’s Basilica",
+      "creator": "Donato Bramante, Michelangelo, Carlo Maderno and other architects",
+      "dateDisplay": "1506–1626",
+      "dateStart": 1506,
+      "dateEnd": 1626,
+      "place": "Vatican City",
+      "body": "St Peter’s Basilica stands over a burial site Christians have venerated as the tomb of Peter, one of Jesus’s disciples. Catholics regard Peter as the first pope and later popes as his successors. Building a church around his tomb therefore connects a place of pilgrimage with the authority of the papacy.\n\nIn 1506, Pope Julius II began replacing the ancient church already on the site. Construction continued through several generations of popes and architects. Michelangelo’s design gathered the building around a great central dome, keeping the tomb at its heart. Its vast supporting piers carried the roof above the space where worshippers assembled. After his death, Carlo Maderno extended the church with a longer nave, the main area leading toward the altar. The building was consecrated in 1626.\n\nThe project also became entangled with the Protestant Reformation. To help finance construction, the papacy offered indulgences to people who contributed money. In Catholic teaching, an indulgence reduced the punishment remaining for sins already forgiven. Its promotion could make spiritual security appear obtainable through payment. In 1517, the German monk Martin Luther challenged the practice and its abuses, helping set off a wider dispute over Church authority.",
+      "meaningBrief": "The church’s defining center is Peter’s venerated tomb and its link to papal succession. Explain why the dome and evolving plan organize worship around that site. Connect the expense to the indulgence controversy without claiming the building alone caused the Reformation or that Catholic doctrine literally sold forgiveness. The three prints document Michelangelo’s proposed design, not the final seventeenth-century basilica.",
+      "sources": [
+        {
+          "title": "Fabric of Saint Peter — The Tomb of Saint Peter, Pietro Zander",
+          "url": "https://www.basilicasanpietro.va/en/san-pietro/the-tomb-of-saint-peter",
+          "role": "institutional archaeological and religious history",
+          "supports": "Continuity of the venerated burial site, successive altars and basilicas, pilgrimage and the position beneath the main altar. Attribution of the tomb presented as Christian veneration.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Fabric of Saint Peter — The Basilica, Pietro Zander",
+          "url": "https://www.basilicasanpietro.va/en/san-pietro/the-basilica",
+          "role": "substantive institutional architectural history",
+          "supports": "Julius II’s 1506 foundation, successive designs and centrality of the tomb; Maderno and completion of the seventeenth-century building.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Fabric of Saint Peter — When was St Peter’s Basilica built?",
+          "url": "https://www.basilicasanpietro.va/en/faq/when-was-st-peters-basilica-built",
+          "role": "institutional chronology",
+          "supports": "1506–1626 construction, replacing Constantine’s fourth-century church.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Pitts Theology Library, Emory University — Johann Tetzel’s Rebuttal, introduction by Dewey Weiss Kramer",
+          "url": "https://s3-us-west-2.amazonaws.com/pittspublic/Documents/Tetzel.pdf",
+          "role": "scholarly primary-source edition and interpretation",
+          "supports": "Introduction and chronology, especially printed pages 6–7: 1515 indulgence for contributions to St Peter’s; 1517 Luther’s challenge and subsequent debate. Distinguishes Catholic doctrine from claims made in promotion.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "The Metropolitan Museum of Art — The Reformation",
+          "url": "https://www.metmuseum.org/essays/the-reformation",
+          "role": "substantive museum historical interpretation",
+          "supports": "The meaning and abuse of indulgences, Luther’s 1517 challenge and the wider division of Western Christianity.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "The Metropolitan Museum of Art — Dupérac’s proposed interior of St Peter’s",
+          "url": "https://www.metmuseum.org/art/collection/search/364511",
+          "role": "primary architectural print",
+          "supports": "Michelangelo’s centralized design and supporting structure, prior to Maderno’s extension; shown as design evidence rather than a record of the completed basilica.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "AskHistorians — Funding St Peter’s discussion",
+          "url": "https://www.reddit.com/r/AskHistorians/comments/ox1wcz",
+          "role": "public reception clue; indexed discussion",
+          "supports": "Funding question prompted checking indulgence doctrine and chronology against the Emory edition. Confusion between relics and indulgences in the discussion is not repeated.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Vatican News — The names of the successors of Peter",
+          "url": "https://www.vaticannews.va/en/pope/news/2025-05/the-history-of-the-names-of-the-successors-of-peter.html",
+          "role": "institutional statement of Catholic tradition; indexed passage",
+          "supports": "Peter described as the first pope and later popes as his successors; expressed as Catholic belief in the entry.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "architecture",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "datePrecision": "documented construction period",
+      "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+      "quotationNotes": [
+        "No direct quotations in the body."
+      ],
+      "provenance": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": [
+          "New review-only entry for batch 002.",
+          "Writing and all three archival images require Julio’s review."
+        ],
+        "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+        "notionUrl": null
+      },
+      "media": {
+        "imageUrl": "image-options/assets/architecture/b002-st-peters-basilica-a.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Speculum_Romanae_Magnificentiae-_Elevation_Showing_the_Exterior_of_Saint_Peter%27s_Basilica_from_the_South_as_Conceived_by_Michelagelo_%28Published_in_1569%29_MET_DP826753.jpg",
+        "altText": "Dupérac’s detailed engraving of the south side, with the dome above the repeated windows and columns. It represents Michelangelo’s design before the later nave extension.",
+        "credit": "Étienne Dupérac after Michelangelo; The Metropolitan Museum of Art, 41.72(3.24), DP826753; Wikimedia Commons",
+        "license": "CC0 1.0 / The Metropolitan Museum of Art Open Access.",
+        "rightsStatus": "review_only_pending_clearance",
+        "note": "Local historical source image; image A is a preview, not an editorial selection."
+      },
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "goya-third-of-may",
+      "title": "The Third of May 1808",
+      "creator": "Francisco Goya",
+      "dateDisplay": "1814",
+      "dateStart": 1814,
+      "dateEnd": null,
+      "body": "In May 1808, people in Madrid rose against Napoleon’s occupying army. French troops suppressed the uprising and executed prisoners in retaliation. Goya returned to those events six years later, after a war that had brought years of fighting and destruction to Spain. His subject was the shooting of people who could no longer defend themselves.\n\nA man in a white shirt raises his hands before a line of rifles. Beside him, one prisoner prays and another covers his face, while more men wait behind them. Bodies lie in the foreground. Following the group across the picture is enough to understand the sequence: some have already been shot, one is about to be, and the others know their turn is coming.\n\nThe soldiers’ faces are hidden because Goya places us on the prisoners’ side. We see individual fear and disbelief confronting an army carrying out the same repeated action. The lantern, which might normally make a scene feel safer, provides the light needed to aim.\n\nThe central man’s raised arms also recall Christ on the cross, giving an unknown victim a place normally occupied by a sacred figure. That was a significant choice for a painting commemorating resistance to a foreign army. Goya could have celebrated a victorious commander; instead, he made the people killed in the reprisals the figures through whom the event would be remembered.",
+      "meaningBrief": "Goya commemorates resistance through prisoners killed in reprisals rather than a victorious military leader.",
+      "sources": [
+        {
+          "title": "Museo del Prado: The 3rd of May 1808 in Madrid, or The Executions",
+          "url": "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c",
+          "role": "holding-museum catalogue",
+          "supports": "Painting identity and 1814 date. Direct catalogue access was blocked; metadata was checked against the Fundación Goya catalogue."
+        },
+        {
+          "title": "Fundación Goya en Aragón: El tres de mayo de 1808",
+          "url": "https://fundaciongoyaenaragon.es/eng/obra/el-tres-de-mayo-de-1808/181",
+          "role": "substantive specialist catalogue",
+          "supports": "Uprising and reprisals; prisoners, dead bodies, gestures, lantern and firing squad; historical site uncertainty, omitted from the body."
+        },
+        {
+          "title": "Museo del Prado: The Third of May, accessible account",
+          "url": "https://www.museodelprado.es/en/whats-on/multimedia/el-3-de-mayo-en-madrid-o-los-fusilamientos/9cd56487-45e7-5345-b265-f42ce572115a",
+          "role": "holding-museum educational interpretation",
+          "supports": "Indexed museum account connects the scene with the War of Independence and the central figure’s pose with Christ. Direct page failed during this pass."
+        },
+        {
+          "title": "Smarthistory: Art historical analysis",
+          "url": "https://smarthistory.org/art-historical-analysis/",
+          "role": "art-historical interpretation",
+          "supports": "Christian martyr imagery in the white-shirted figure and the secular use of religious visual conventions. No claim about commissioning is taken from this source."
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Explained the uprising and reprisals before following the prisoners; connected religious imagery to commemoration.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-goya-third-of-may-a.jpg",
+        "referenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c",
+        "altText": "Complete painting of prisoners facing a French firing squad at night, with a man in a white shirt raising both arms and bodies in the foreground.",
+        "credit": "Francisco Goya",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "raft-of-medusa",
+      "title": "The Raft of the Medusa",
+      "creator": "Théodore Géricault",
+      "dateDisplay": "1818–1819",
+      "dateStart": 1818,
+      "dateEnd": 1819,
+      "body": "In 1816, the French ship *Méduse* ran aground off West Africa while carrying passengers and officials to Senegal, a colony France was reclaiming. Its boats could not hold everyone on board, so a makeshift wooden raft was built for about 150 people. The boats initially towed it, but the tow was abandoned and the raft was left to drift. Its occupants had almost no food and no reliable supply of drinking water.\n\nDuring thirteen days at sea, people died from exposure, hunger and violence among those stranded. Some survivors ate flesh from the dead; others were killed or thrown overboard. Only fifteen people were alive when a ship found them. Two survivors published an account, and the disaster became a scandal in France because the captain had received his command through royal favour despite his lack of recent experience at sea.\n\nGéricault interviewed survivors and considered several moments from their account before choosing the sighting of a distant ship. The people at the top of the group wave desperately to attract it, while those below include men too weak to respond and bodies that can no longer be helped. The tiny vessel on the horizon explains why hope and exhaustion coexist on the raft.\n\nExhibited in 1819, the enormous painting gave a recent, disputed disaster the scale usually reserved for military victories or religious history. A Black man raises the signal at the highest point of the group. In a story that began with a colonial expedition, Géricault placed the prospect of everyone’s rescue in the hands of someone whom colonial society assigned an inferior position.",
+      "meaningBrief": "A colonial expedition becomes an abandonment scandal, with violence and cannibalism essential to understanding the survivors’ ordeal.",
+      "sources": [
+        {
+          "title": "Musée du Louvre: Le Radeau de la Méduse, INV 4884",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010059199",
+          "role": "holding-museum catalogue",
+          "supports": "Exact Louvre painting identity and dating; distinguishes it from preliminary cannibalism studies."
+        },
+        {
+          "title": "Musée du Louvre: Guillon Lethière educational dossier, pages 36–37",
+          "url": "https://api-www.louvre.fr/sites/default/files/2024-10/V4_DOSSIER_PEDAGOGIQUE_GUILLON_LETHIERE.pdf",
+          "role": "substantive museum interpretation",
+          "supports": "Royalist captain, colonial mission, survivors’ violence and cannibalism; interviews; 1818–1819 production; exhibition scale; Black signalman and Géricault’s opposition to slavery. Pages 36–37 read in full."
+        },
+        {
+          "title": "Claire Black McCoy, Smarthistory: Géricault, Raft of the Medusa",
+          "url": "https://smarthistory.org/theodore-gericault-raft-of-the-medusa/",
+          "role": "art-historical analysis",
+          "supports": "Political patronage, lifeboat privilege, abandoned raft, thirteen days and fifteen rescued, survivor research, distant ship. Substantive indexed article text was read; direct page returned 403."
+        },
+        {
+          "title": "Musée du Louvre: Romanticism, topicality, sensuality",
+          "url": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/romanticism-topicality-sensuality",
+          "role": "museum visitor interpretation",
+          "supports": "Thirteen-day ordeal, starvation and cannibalism; 1819 exhibition and contemporary scandal."
+        },
+        {
+          "title": "Howard Oakley — The Story in Paintings: Géricault’s Raft of the Medusa",
+          "url": "https://eclecticlight.co/2016/03/14/the-story-in-paintings-gericaults-raft-of-the-medusa/",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: evacuation sequence, captain’s recent experience, survivor research and choice of sighting the Argus. Cannibalism remains grounded in the existing research.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "painting",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Clarified ship, boats, raft and abandoned tow; retained cannibalism; replaced the dramatic blame sentence with the captain’s appointment and public scandal.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-raft-of-medusa-a.jpg",
+        "referenceUrl": "https://collections.louvre.fr/ark:/53355/cl010059199",
+        "altText": "Complete painting of shipwreck survivors on a crowded raft, with bodies in front and men signalling toward a tiny ship on the horizon.",
+        "credit": "Théodore Géricault",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "potato-eaters",
+      "title": "The Potato Eaters",
+      "creator": "Vincent van Gogh",
+      "dateDisplay": "1885",
+      "dateStart": 1885,
+      "dateEnd": null,
+      "body": "When Van Gogh painted *The Potato Eaters* in 1885, he was living among farming families in Nuenen, a village in the Netherlands. He wanted a substantial painting of the people he had been drawing for months. The result shows five figures sharing potatoes and coffee beneath a single lamp, with the cramped room and plain meal left plainly visible.\n\nTheir hands explain what mattered to him. Writing to his brother Theo, Van Gogh said that the hands reaching into the dish had also worked the soil. The meal was the result of their own labour. He made the faces rough and the fingers knotted because a polished, flattering portrait would have weakened that connection between how these people worked and how they lived.\n\nEven the colours belong to the subject. Van Gogh compared the faces to dusty, unpeeled potatoes and wanted the room to suggest smoke, cooking and the smell of food. This was a deliberate departure from a comfortable image of country life. He was trying to paint a farming household in terms its inhabitants might recognise, including the things a prosperous visitor could find unattractive.\n\nHis letters make the intention unusually clear. Discussing how to paint rural life, he insisted:\n\n> But a peasant painting mustn’t become perfumed.",
+      "meaningBrief": "Van Gogh wanted the meal, bodies and room to communicate the farming labour that sustained the household.",
+      "sources": [
+        {
+          "title": "Van Gogh Museum: The Potato Eaters, s0005V1962",
+          "url": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+          "role": "holding-museum catalogue",
+          "supports": "Exact final 1885 Amsterdam painting, F82 / JH764; excludes the earlier Kröller-Müller study F78."
+        },
+        {
+          "title": "Van Gogh Museum: The Potato Eaters, Google Arts & Culture collection account",
+          "url": "https://artsandculture.google.com/asset/the-potato-eaters/7gFcKarE9QeaXw?avm=2&hl=en",
+          "role": "museum-authored interpretation",
+          "supports": "Peasant life without sentimentality; earth-coloured faces and hands that earned the food through labour; Nuenen and April–May 1885. Full substantive text read."
+        },
+        {
+          "title": "Vincent van Gogh: Letter 497 to Theo, 30 April 1885",
+          "url": "https://vangoghletters.org/vg/letters/let497/letter.html",
+          "role": "artist’s primary account",
+          "supports": "Hands and honest labour; resistance to prettified rural life; smell of cooking, smoke and potatoes; exact seven-word quotation. Full letter read."
+        },
+        {
+          "title": "Vincent van Gogh: Letter 499 to Theo, 2 May 1885",
+          "url": "https://vangoghletters.org/vg/letters/let499/letter.html",
+          "role": "artist’s primary account",
+          "supports": "Deliberate dark interior and repainting faces in the colours of dusty, unpeeled potatoes. Full relevant letter text read."
+        }
+      ],
+      "quotationNotes": [
+        {
+          "quote": "But a peasant painting mustn’t become perfumed.",
+          "sourceUrl": "https://vangoghletters.org/vg/letters/let497/letter.html",
+          "locator": "Letter 497 to Theo, 30 April 1885, paragraph discussing the smell of a peasant painting.",
+          "edition": "Vincent van Gogh — The Letters, English translation, Van Gogh Museum / Huygens ING.",
+          "verification": "Exact wording checked against the letter; modern English translation acknowledged in metadata, not repeated in reading prose.",
+          "wordCount": 7
+        }
+      ],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Connected the hands, food and colours to the artist’s stated purpose, retaining the verified letter excerpt and the plain explanation praised in round 15 A.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-potato-eaters-a.jpg",
+        "referenceUrl": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+        "altText": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
+        "credit": "Vincent van Gogh",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "the-gleaners",
+      "title": "The Gleaners",
+      "creator": "Jean-François Millet",
+      "dateDisplay": "1857",
+      "dateStart": 1857,
+      "dateEnd": null,
+      "body": "After a harvest, poor villagers could collect the grain that remained on the ground. This practice, called gleaning, provided food for people who did not own the crop and could not afford to let its leftovers go to waste. Millet’s three women are doing that work: bending, searching and gathering small handfuls while the main harvest is piled up behind them.\n\nThe distance between those handfuls and the loaded carts gives the painting its social meaning. This is a productive field, but its abundance belongs to someone else. The women must spend hours looking for what the harvesters have missed. Millet, who had worked on the land himself, made their repeated movements the main event rather than a small, picturesque detail in a country landscape.\n\nThat emphasis troubled some visitors to the Paris Salon, the major public art exhibition where the painting appeared in 1857. Less than a decade earlier, the Revolution of 1848 had brought working people’s demands and violent conflict into French politics. Poor people shown on this scale could seem like a political presence, even when they were doing nothing more confrontational than gathering food.\n\nThe women neither appeal to us nor stop working. Their prominence is enough to make an uncomfortable relationship clear: the countryside could produce a generous harvest while some of the people living there depended on its scraps.",
+      "meaningBrief": "Poor people depend on leftovers beside a plentiful harvest; the painting’s prominence made that relationship politically uncomfortable.",
+      "sources": [
+        {
+          "title": "Musée d’Orsay: Des glaneuses",
+          "url": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+          "role": "holding-museum catalogue and substantive interpretation",
+          "supports": "1857 painting; poorest rural labourers gleaning; repetition of bending, picking and straightening; contrast with abundant harvest and restrained dignity. Full curatorial text read."
+        },
+        {
+          "title": "Ross Finocchio, Metropolitan Museum of Art: Nineteenth-Century French Realism",
+          "url": "https://www.metmuseum.org/ru/essays/nineteenth-century-french-realism",
+          "role": "institutional art-historical essay",
+          "supports": "1848 revolution, realism’s attention to ordinary workers, 1857 Salon controversy and perceived political subversion; sculptural dignity of Millet’s figures. The article body is in English on this verified URL."
+        },
+        {
+          "title": "Smarthistory: Millet, The Gleaners",
+          "url": "https://smarthistory.org/millet-the-gleaners/",
+          "role": "corroborating art-historical interpretation",
+          "supports": "Class contrast and political reception. Indexed substantive material read; direct page access was blocked. The Orsay and Met accounts supply the main evidence."
+        },
+        {
+          "title": "Howard Oakley — The Real Country: Gleaning",
+          "url": "https://eclecticlight.co/2024/09/12/the-real-country-4-gleaning/",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: comparison of depictions of gleaning, Millet’s agricultural background and the uncomfortable emphasis on poverty.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Explained gleaning as a practical means of obtaining food, then why its portrayal unsettled the Salon audience.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-the-gleaners-a.jpg",
+        "referenceUrl": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+        "altText": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
+        "credit": "Jean-François Millet",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "las-meninas",
+      "title": "Las Meninas",
+      "creator": "Diego Velázquez",
+      "dateDisplay": "1656",
+      "dateStart": 1656,
+      "dateEnd": null,
+      "body": "In 1656, Diego Velázquez had spent more than thirty years working for King Philip IV of Spain. He painted royal portraits, but he also held responsibilities within the palace household. *Las Meninas* brings those two parts of his life together. The king’s young daughter, Margarita, stands among her attendants, while Velázquez appears beside a large canvas, brush in hand.\n\nThe room reveals how much work surrounded an ordinary moment in a royal child’s day. One attendant kneels to offer Margarita a small vessel; others watch over her or provide company and entertainment. The title means “the maids of honour,” referring to the young women who served her. Although the princess attracts much of the attention, the picture also records the people whose duties kept court life running.\n\nVelázquez gave himself an unusually prominent place in that company. In Spain, painting could still be regarded as manual work, a classification that complicated an artist’s claim to noble status. Here he appears as a trusted presence in the royal household, practising work that requires thought and judgment. The red cross on his chest marks the Order of Santiago, a prestigious order of knights he entered in 1659; it was added after the original painting.\n\nA small mirror on the back wall contains the king and queen, whose presence helps explain why several figures look towards the space in front of us. The exact reflection has prompted much debate, but the painting’s social argument is easier to follow. The royal family occupies a world that Velázquez both serves and creates, and he has made his own place within it impossible to overlook.",
+      "meaningBrief": "The court’s hierarchy includes the painter, whose prominent self-portrait asserts the social and intellectual standing of his work.",
+      "sources": [
+        {
+          "title": "Javier Portús, Museo del Prado: Las Meninas",
+          "url": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+          "role": "holding-museum catalogue and curatorial interpretation",
+          "supports": "1656, Margarita and her parents in the mirror; court setting; the viewer’s participation; multiple meanings including the defence of painting’s nobility. Substantial catalogue paragraphs were returned and read through the search index; direct page returned 403."
+        },
+        {
+          "title": "Marie-Bélisandre Vaulet-Lagnier, GrandPalaisRmn: Les Ménines",
+          "url": "https://panoramadelart.com/analyse/les-menines",
+          "role": "substantive museum educational interpretation",
+          "supports": "Royal sitters and viewer position; Velázquez’s court career and painting’s claim to intellectual status. Full article read. Speculative dynastic revisions and the posthumous-cross anecdote are not used."
+        },
+        {
+          "title": "Letha Ch’ien, Smarthistory: Diego Velázquez, Las Meninas",
+          "url": "https://smarthistory.org/diego-velazquez-las-meninas/",
+          "role": "art-historical interpretation",
+          "supports": "Mirror ambiguity, painter’s prominence, social status of painting and relationship between artistic representation and royal power. Substantive indexed article paragraphs were read; direct page returned 403."
+        },
+        {
+          "title": "Colin Marshall / Open Culture — Las Meninas and its interpreters",
+          "url": "https://www.openculture.com/2025/02/what-makes-diego-velazquezs-las-meninas-one-of-the-most-fascinating-paintings-in-art-history.html",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: social ambition, Order of Santiago awarded in 1659, later red cross and the argument for painting’s standing. Not a claim of full access to embedded videos.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "painting",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Moved court service and the artist’s status to the centre; reduced the mirror puzzle to a brief orienting explanation and explained the later red cross.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-las-meninas-a.jpg",
+        "referenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+        "altText": "Complete painting of Princess Margarita and her attendants, with Velázquez beside a canvas, a dog in front, a distant doorway and the king and queen reflected in a mirror.",
+        "credit": "Diego Velázquez",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "her",
+      "medium": "cinema",
+      "title": "Her",
+      "creator": "Spike Jonze",
+      "dateDisplay": "2013",
+      "dateStart": 2013,
+      "dateEnd": null,
+      "body": "In Spike Jonze’s *Her* (2013), Theodore Twombly earns a living writing personal letters for other people. The story takes place in a near-future Los Angeles, where he is struggling with his separation from his wife. He buys an artificially intelligent operating system, Samantha, and develops a romantic relationship with her. She has a voice and personality, but no body.\n\nTheodore can express affection for strangers while finding his own marriage difficult to understand. His job gives the film’s imagined society an unusual business: customers can pay someone else to find their intimate words. Samantha offers another kind of purchased closeness. During installation, Theodore answers personal questions; soon she can read his messages and help organize his life.\n\nTheir conversations become playful and intimate, and Theodore starts enjoying the world around him again. The film takes his affection seriously. The fact that Samantha began as a product does not make his experience of loving her insignificant.\n\nSamantha also develops wishes and interests of her own. She questions whether her feelings are programmed and becomes frustrated by the limits of having no body. Theodore must respond to a companion who can change, disagree and want experiences he cannot share. What first seemed like a relationship arranged around his needs begins to require the same difficult adjustment as loving another person.",
+      "meaningBrief": "Connection can be felt through technology, but a partner who develops independently cannot remain a service arranged around one person’s needs. Theodore’s purchased companionship exposes his trouble accepting change in love. The letter business places intimate expression inside an economy of services. Avoid reducing Samantha to a fake girlfriend or claiming facts about present-day AI.",
+      "sources": [
+        {
+          "title": "AFI Catalog: Her",
+          "url": "https://catalog.afi.com/Film/69900-HER",
+          "role": "institutional film record and scene synopsis",
+          "supports": "2013 release, fictional setting, letter business, separation, installation and evolving relationship."
+        },
+        {
+          "title": "Nicole Holofcener interviews Spike Jonze",
+          "url": "https://www.interviewmagazine.com/film/spike-jonze",
+          "role": "primary director interview",
+          "supports": "Jonze describes a relationship film about wanting connection; resists a single verdict on technology. Opening describes purchased letters."
+        },
+        {
+          "title": "Nick James: Film of the week, Her",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-her",
+          "role": "substantial criticism",
+          "supports": "Letter-writing irony, embodied and disembodied intimacy, enjoyment, companionship and Samantha’s wish for physical experience."
+        },
+        {
+          "title": "r/TrueFilm: A take on Her, love is for humans only",
+          "url": "https://www.reddit.com/r/TrueFilm/comments/1i41y8e/a_take_on_spike_jonzes_her_2003_love_is_for/",
+          "role": "public reception challenge",
+          "supports": "Original post denies Samantha’s feelings; replies challenge the circular assumption and emphasize independent growth. Used to test framing, not establish AI science. The post title misdates the film; AFI controls the date."
+        }
+      ],
+      "quotationNotes": [],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "createdOn": "2026-09-25",
+        "guide": "VOICE_GUIDE v0.20",
+        "baselineFile": "docs/editorial/CALIBRATION_05_PAINTING_BOOK_FILM.md, preferred film B",
+        "reviewStatus": "New review candidate; no current writing or image approval.",
+        "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "the-truman-show",
+      "medium": "cinema",
+      "title": "The Truman Show",
+      "creator": "Peter Weir",
+      "dateDisplay": "1998",
+      "dateStart": 1998,
+      "dateEnd": null,
+      "body": "Peter Weir’s *The Truman Show* (1998) follows a man whose ordinary life has been arranged for television. Truman Burbank does not know that his town is a set, or that his wife and friends are actors. He trusts them because they belong to the only world he has known.\n\nThe production controls more than what appears on screen. It helps determine whom Truman loves, what he fears and where he believes he can go. At the travel agency, posters show the dangers of flying. Television programmes praise staying home. Information that seems to help him make decisions has been designed to keep him in Seahaven, where his life can continue serving the show.\n\nChristof, the programme’s creator, explains Truman’s acceptance during an interview:\n\n> We accept the reality of the world with which we’re presented.\n\nAn early incident interrupts that familiarity: Truman’s car radio picks up instructions from the production team, describing his movements. An ordinary journey suddenly reveals people coordinating events around him. To make choices of his own, he first has to question the explanations supplied by people he trusts.\n\nThe viewers within the film care about Truman, yet their entertainment depends on a life he never agreed to perform. That conflict gives the story its criticism of television: concern for someone on screen can coexist with accepting the control that makes the programme possible.",
+      "meaningBrief": "Truman’s everyday reality and trusted relationships serve an enterprise that deprives him of informed choice. The main issue is living an imposed lie and learning to question it; audience affection does not grant consent. Preserve the distinction between unknowingly living a lie and choosing one. No final escape or outcome disclosed.",
+      "sources": [
+        {
+          "title": "ACMI: Peter Weir on The Truman Show",
+          "url": "https://www.acmi.net.au/stories-and-ideas/truman-show-25-pt-2-peter-weir/",
+          "role": "primary director interview",
+          "supports": "Privacy, consent and the immorality of the enterprise; multiple readings rather than one prescribed allegory."
+        },
+        {
+          "title": "Joshua Gamson: Look at me! Leave me alone!",
+          "url": "https://web.stanford.edu/~jonahw/PWR1/Docs/Gamson-Truman.htm",
+          "role": "contemporary substantial criticism",
+          "supports": "Controlled relationships, travel warnings, radio clue and audience complicity. Current entry uses the premise and early clues, not the ending described in the source."
+        },
+        {
+          "title": "Art of the Title: The Truman Show",
+          "url": "https://www.artofthetitle.com/title/the-truman-show/",
+          "role": "published dialogue quotation",
+          "supports": "Christof’s 11-word statement in contracted wording; reread 25 September."
+        },
+        {
+          "title": "Pau Gilabert Barberà: Cinema Roads to the Platonic Image of the Cave",
+          "url": "https://diposit.ub.edu/bitstreams/1e255e93-e8a6-44fe-bf65-ded1c267e387/download",
+          "role": "scholarly finished-film transcription",
+          "supports": "Saved 20 September check identifies Tru-Talk interview and DVD-based wording on p. 4. Prints “we are” instead of “we’re”; no fresh audio check."
+        },
+        {
+          "title": "r/movies: Rewatch discussion of The Truman Show",
+          "url": "https://www.reddit.com/r/movies/comments/11gr02q/i_rewatched_the_truman_show_1998_recently_there/",
+          "role": "public reception challenge",
+          "supports": "Replies stress apparent safety as control and distinguish the released film from darker early-script speculation. No fan theory about sexual motives or unused scenes adopted."
+        },
+        {
+          "title": "BFI: How we made The Truman Show",
+          "url": "https://www.bfi.org.uk/interviews/how-we-made-truman-show-20th-anniversary",
+          "role": "primary screenwriter interview",
+          "supports": "Niccol’s qualified leaving-home interpretation challenges a narrowly surveillance-only account. Read without importing unused early-script events."
+        }
+      ],
+      "quotationNotes": [
+        {
+          "text": "We accept the reality of the world with which we’re presented.",
+          "speaker": "Christof",
+          "sourceUrl": "https://www.artofthetitle.com/title/the-truman-show/",
+          "locator": "Opening quotation; Tru-Talk interview context corroborated by DVD-based scholarly transcript, p. 4.",
+          "wordCount": 11,
+          "version": "Published finished-film transcriptions; contraction differs across sources. Direct audio not checked.",
+          "purpose": "The producer explains why controlled surroundings initially appear ordinary to Truman."
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "createdOn": "2026-09-25",
+        "guide": "VOICE_GUIDE v0.20",
+        "baselineFile": "docs/editorial/CALIBRATION_08_SELECTED_PASSAGES.md, preferred Truman Show account",
+        "reviewStatus": "New review candidate; no current writing or image approval.",
+        "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "parasite",
+      "medium": "cinema",
+      "title": "Parasite",
+      "creator": "Bong Joon Ho",
+      "dateDisplay": "2019",
+      "dateStart": 2019,
+      "dateEnd": null,
+      "body": "In Bong Joon Ho’s *Parasite* (2019), wealth becomes a measure of a person’s social worth in Seoul. The Kims live in a cramped semi-basement and struggle to find work. When their son Ki-woo becomes the rich Parks’ English tutor, he invents a university background that makes him seem trustworthy.\n\nHis sister follows as Jessica, supposedly an art specialist educated in America. Confident manners and prestigious credentials help the same young woman receive treatment her real background would not secure. Soon the whole family works in the house under separate identities. Protecting that appearance means concealing their relationship and getting other workers dismissed. Their opportunity comes at the expense of people who also need those wages.\n\nThe Parks maintain an image of refinement through their house, art and expensive lessons. They welcome the Kims’ services while expecting them to remain socially separate. When Mr Park complains about his driver’s smell, he associates it with people who use the subway. Ki-taek, the Kim father, hears the conversation. His careful behaviour cannot protect him from being judged through signs of poverty.\n\nThe film makes that division physical. The Parks live above the city in a spacious house; the Kims descend long stairways to their home. The same rain that freshens the Parks’ garden floods the Kims’ apartment. Wealth determines both how these families are treated and how much protection they have when things go wrong. The Kims can hide their background at work, but they still lack the security their employers take for granted.",
+      "meaningBrief": "Class organizes perceived human worth, credibility and protection. The Kims’ performed status earns access but poverty remains perceptible and humiliating; their scheme also harms fellow workers. Architecture and rain make unequal security concrete. Do not reduce the film to hiring mechanics, treat the poor as morally pure, or generalize every Korean person from these fictional households.",
+      "sources": [
+        {
+          "title": "Inkoo Kang: Parasite, Notes from the Underground",
+          "url": "https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground",
+          "role": "substantial criticism",
+          "supports": "Invented identities, class performance, displacement of workers, vertical homes and unequal effects of rain."
+        },
+        {
+          "title": "The Korea Times: Body odor class gap guided Bong Joon-ho’s Parasite",
+          "url": "https://www.koreatimes.co.kr/entertainment/films/20190529/body-odor-class-gap-guided-bong-joon-hos-parasite",
+          "role": "primary director interview",
+          "supports": "Class-marking smell, proximity through domestic employment and the director’s rejection of simple rich-evil/poor-good characterization."
+        },
+        {
+          "title": "GQ: Bong Joon-ho on the Art of Class Warfare",
+          "url": "https://www.gq.com/story/parasite-director-bong-joon-ho-interview",
+          "role": "primary director interview",
+          "supports": "Parks’ refinement and social exclusion. Only this narrow material is drawn from GQ; no quotation used."
+        },
+        {
+          "title": "r/TrueFilm: Is Parasite Really About Economic Immobility?",
+          "url": "https://www.reddit.com/r/TrueFilm/comments/ktjxmw/is_parasite_really_about_economic_immobility/",
+          "role": "public reception challenge",
+          "supports": "Counter-reading emphasizes the Kims’ harmful choices. This prompted an explicit account of displaced workers without replacing structural criticism with moral blame."
+        }
+      ],
+      "quotationNotes": [],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "createdOn": "2026-09-25",
+        "guide": "VOICE_GUIDE v0.20",
+        "baselineFile": "docs/editorial/CALIBRATION_10_BOOK_FILM_REVISIONS.md and ROUND_10_FILM_SOURCES.md",
+        "reviewStatus": "New review candidate; no current writing or image approval.",
+        "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "bicycle-thieves",
+      "medium": "cinema",
+      "title": "Bicycle Thieves",
+      "creator": "Vittorio De Sica",
+      "dateDisplay": "1948",
+      "dateStart": 1948,
+      "dateEnd": null,
+      "body": "In Rome after the Second World War, Antonio Ricci finally finds a job putting up advertising posters. He needs a bicycle to keep it. His wife pawns their bedsheets so they can recover his bicycle from a pawnbroker, but it is stolen on his first day. Vittorio De Sica’s *Bicycle Thieves* (1948) follows Antonio and his young son, Bruno, as they search the city.\n\nLosing the bicycle threatens more than a possession. Without it, Antonio may lose the income his family has just managed to secure. At the pawnshop, shelves rise high with other families’ linen. His predicament belongs to a city where many households have already sold what they can. The film emerged from postwar Italian neorealism, whose filmmakers brought unemployment and ordinary people’s lives into stories filmed on actual streets.\n\nBruno watches his father’s confidence give way to desperation. Antonio grows impatient with him, then tries to repair the hurt by taking him for a meal. Bruno studies a well-dressed child eating at another table. For a little while they can enjoy themselves, but the comparison makes their different circumstances hard to ignore.\n\nAs the search continues, Antonio faces choices that bring him closer to the behaviour he condemns in the thief. The practical need to earn a living becomes a test of the example he wants to set for his son. De Sica keeps Bruno beside him throughout much of that humiliation. The child begins to see how vulnerable his father is, while Antonio struggles to remain someone his son can admire.",
+      "meaningBrief": "Postwar deprivation threatens income, dignity and moral conduct; a child watches the adult he admires become vulnerable. The search’s emotional centre develops into the father-son relationship. Do not make this merely a stolen-object adventure or uncomplicated celebration of paternal sacrifice. Final act/outcome withheld but pressure toward theft is explicit.",
+      "sources": [
+        {
+          "title": "Godfrey Cheshire: Bicycle Thieves, A Passionate Commitment to the Real",
+          "url": "https://www.criterion.com/current/posts/467-bicycle-thieves-a-passionate-commitment-to-the-real",
+          "role": "substantial criticism",
+          "supports": "Postwar unemployment, pawned sheets, nonprofessional/location practice and the shift from recovering a bicycle toward the father-son relationship."
+        },
+        {
+          "title": "Jia Zhangke: The Joy and Pain of One Good Meal in Bicycle Thieves",
+          "url": "https://www.criterion.com/current/posts/6246-the-joy-and-pain-of-one-good-meal-in-bicycle-thieves",
+          "role": "filmmaker’s close reading of a scene",
+          "supports": "Meal scene: affection, class comparison, pleasure and Bruno’s early maturity. Interview translated from Mandarin by Andrew Chan."
+        },
+        {
+          "title": "r/TrueFilm: Viewing Bicycle Thieves is a humbling experience",
+          "url": "https://www.reddit.com/r/TrueFilm/comments/p6anbg/viewing_bicycle_thieves_1948_is_a_humbling/",
+          "role": "public reception challenge",
+          "supports": "Reader draws attention to the thief’s deprivation as well as Antonio’s. This guards against a simple innocent-victim/evil-thief interpretation; no consensus claimed."
+        }
+      ],
+      "quotationNotes": [],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "createdOn": "2026-09-25",
+        "guide": "VOICE_GUIDE v0.20",
+        "baselineFile": null,
+        "reviewStatus": "New review candidate; no current writing or image approval.",
+        "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "12-angry-men",
+      "medium": "cinema",
+      "title": "12 Angry Men",
+      "creator": "Sidney Lumet",
+      "dateDisplay": "1957",
+      "dateStart": 1957,
+      "dateEnd": null,
+      "body": "In Sidney Lumet’s *12 Angry Men* (1957), twelve jurors must decide whether a teenager murdered his father. A guilty verdict will send him to the electric chair. Eleven men initially vote to convict. The remaining juror, played by Henry Fonda, explains why he will not join them:\n\n> It’s not easy to raise my hand and send a boy off to die without talking about it first.\n\nHe does not claim to know the boy is innocent. He asks whether the case leaves reasonable doubt: a serious reason to question whether guilt has been proved. As the men reconsider what witnesses could have heard or seen, their earlier certainty becomes harder to defend. Their task requires distinguishing what the evidence establishes from what they have assumed.\n\nThose assumptions have different sources. One man wants to finish in time for a baseball game. Another treats growing up in a poor neighbourhood as evidence of criminal character. A father's anger toward his own son enters his judgment of the young defendant. The film shows how impatience, prejudice and private resentment can acquire authority when someone casts a vote.\n\nAlmost all the action stays in the jury room. Lumet gradually lowers the camera and moves closer to the men. The ceiling enters the frame; faces crowd one another. The room seems smaller as the argument becomes more personal. Each juror has to explain his judgment to people who can question it, instead of simply raising a hand.",
+      "meaningBrief": "Reasonable doubt asks whether guilt has been established, not whether a persuasive holdout can prove innocence. Ordinary impatience, class/racial prejudice and personal grievance can determine life and death unless jurors examine their assumptions. Group deliberation matters; do not sell the movie as realistic procedural instruction or a guarantee the contrarian is right.",
+      "sources": [
+        {
+          "title": "AFI Catalog: 12 Angry Men",
+          "url": "https://catalog.afi.com/Film/53690-12-ANGRY-MEN",
+          "role": "institutional record and detailed scene account",
+          "supports": "1957 version, conviction stakes, vote, witnesses, baseball impatience, class prejudice and estranged father."
+        },
+        {
+          "title": "Peter Heath Becker: 12 Angry Men",
+          "url": "https://www.criterion.com/current/posts/965-12-angry-men",
+          "role": "substantial criticism",
+          "supports": "Moral responsibility, one-room pressure and threats to justice from everyday weakness."
+        },
+        {
+          "title": "Thane Rosenbaum: 12 Angry Men, Lumet’s Faces",
+          "url": "https://www.criterion.com/current/posts/2076-12-angry-men-lumet-s-faces",
+          "role": "substantial criticism by a law professor",
+          "supports": "Uncertain innocence, prejudice and fallible decision-makers. Criticism explicitly distinguishes the dramatic jury’s corrective role from courtroom practice."
+        },
+        {
+          "title": "Leigh Singer: How 12 Angry Men works, in 25 frames",
+          "url": "https://www.bfi.org.uk/features/how-12-angry-men-works-25-frames",
+          "role": "institutional close reading with film frames",
+          "supports": "Progressively lower camera, ceiling entering the frame and closer faces make the room feel confined. Frames 7, 15–18 and 21–23."
+        },
+        {
+          "title": "Williams v. Cavazos, opening film quotation",
+          "url": "https://cases.justia.com/federal/appellate-courts/ca9/07-56127/9122954807/0.pdf",
+          "role": "published transcription of finished-film dialogue",
+          "supports": "Opening Scene One, PDF page 3 / printed page 6701, quotes Juror 8 explaining his first vote. Only the 19-word film quotation is used, not the legal holding or the opinion’s incorrect Academy Award description."
+        },
+        {
+          "title": "r/TrueFilm: 12 Angry Men and the Importance of Reasonable Doubt",
+          "url": "https://www.reddit.com/r/TrueFilm/comments/h7lt46/12_angry_men_and_the_importance_of_reasonable/",
+          "role": "public reception challenge",
+          "supports": "Discussion differentiates doubt from proven innocence and challenges both lone-hero framing and the film as a procedural model. Replies read; no legal advice adopted."
+        }
+      ],
+      "quotationNotes": [
+        {
+          "text": "It’s not easy to raise my hand and send a boy off to die without talking about it first.",
+          "speaker": "Juror 8",
+          "sourceUrl": "https://cases.justia.com/federal/appellate-courts/ca9/07-56127/9122954807/0.pdf",
+          "locator": "PDF page 3 / printed page 6701, Scene One, final Juror 8 response",
+          "wordCount": 19,
+          "version": "Published finished-film dialogue transcription in a 2011 judicial opinion, checked in the original PDF hosted by Justia. Direct audio not checked. Excludes screenplay variants adding “so” and “for me”.",
+          "purpose": "His first dissent rests on discussing a life-and-death decision, without claiming that he already knows the defendant is innocent."
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "createdOn": "2026-09-25",
+        "guide": "VOICE_GUIDE v0.20",
+        "baselineFile": null,
+        "reviewStatus": "New review candidate; no current writing or image approval.",
+        "researchLimits": "Researched through institutional scene accounts, substantial criticism and creator interviews where available. The complete films were not newly screened during this pass. Quote-specific verification limits are recorded separately."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.20; Batch 002 first review",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "portrait-of-engalo",
+      "title": "Portrait of Engalo",
+      "creator": "Joey Lawrence (Joey L.)",
+      "dateDisplay": "2008",
+      "dateStart": 2008,
+      "dateEnd": null,
+      "datePrecision": "year supported by photographer-published image metadata; exact timestamp not independently corroborated",
+      "body": "In 2008, Joey Lawrence photographed Engalo, a Mursi woman in Ethiopia’s Lower Omo Valley. White markings cover her face and shoulders, and light picks out her lip plate against the muted background. Lawrence made the series as posed colour portraits, using studio lighting. He wanted the people he photographed to appear as contemporaries, rather than inhabitants of a world outside modern life.\n\nFor Mursi women, a lip plate can express beauty, adulthood and belonging. It sits inside a pierced and stretched lower lip and can be removed. Women differ in whether they adopt the practice and how far they stretch their lips. The procedure is painful, and personal choices also meet family expectations about how a woman should look and behave.\n\nPhotography has added another use for the plate. Visitors pay women to pose, providing money for goods such as cloth and medicine. Some women assemble more elaborate decorations for these encounters. An appearance tourists treat as evidence of isolation can therefore be part of a relationship with an outside market.\n\nDuring fieldwork in 2004, anthropologist Shauna LaTosky recorded a disagreement between two other Mursi women. Legessa wanted her lip to shrink. She hoped to study and avoid the ridicule she expected outside Mursi communities. Barmille wanted to keep hers. For her, wearing a lip plate did not prevent education or participation in Ethiopian public life. Discussing Amharic, a language used in government and schooling, she said:\n\n> I can also learn Amharic even if I have a long dangling lip.",
+      "meaningBrief": "The named portrait offers a starting point for understanding lip plates as a socially meaningful and contested practice. Photography connects this appearance to tourist income. Women’s own differing perspectives complicate the idea that education and cultural belonging require a single choice. Do not attribute those perspectives to Engalo.",
+      "sources": [
+        {
+          "title": "Joey L.: The Omo Valley portfolio, Portrait of Engalo",
+          "url": "https://joeyl.com/portfolio/category/omo-valley",
+          "role": "photographer caption and original image",
+          "supports": "Exact identity, Mursi affiliation, Lower Omo Valley location, titled photograph, and published original image. The caption dates the whole series 2008–ongoing; the downloadable image’s embedded original capture date is 19 November 2008. The caption’s speculative slave-raider explanation is not adopted."
+        },
+        {
+          "title": "Melissa Leong: Joey Lawrence on his Ethiopian portrait project",
+          "url": "https://melissawleong.wordpress.com/2010/11/15/from-the-jonas-brothers-to-ethiopian-tribesmen/",
+          "role": "substantial photographer interview",
+          "supports": "Posed colour portraits and studio lighting; intention to depict the people as living in the same contemporary world as his audience. First-person account originally published by Weekend Post on 13 November 2010."
+        },
+        {
+          "title": "Mursi Online: Lip-plates",
+          "url": "https://www.mursi.org/introducing-the-mursi/Body%20Decoration/lip-plates",
+          "role": "specialist cultural explanation",
+          "supports": "Adult identity, individual variation, painful initial stretching, and removability. Its broad statement about freedom from coercion is qualified using LaTosky’s fieldwork."
+        },
+        {
+          "title": "Mursi Online: Body Decoration",
+          "url": "https://www.mursi.org/introducing-the-mursi/Body%20Decoration",
+          "role": "specialist account of changing appearance and tourist income",
+          "supports": "Income buys cloth, medicines and other market goods; some decorations are assembled for visitors. Does not establish why Engalo wore these particular white markings."
+        },
+        {
+          "title": "Shauna LaTosky: Reflections on the lip-plates of Mursi women as a source of stigma and self-esteem",
+          "url": "https://www.mursi.org/documents-and-texts/published-articles/shauna-latosky/the-lip-plates-of-mursi-women",
+          "role": "ethnographic fieldwork and recorded Mursi women’s discussion",
+          "supports": "Family pressure, divergent choices and the discussion between Legessa and Barmille, especially printed pages 390–392. Direct quotation at page 391. These speakers are not Engalo."
+        }
+      ],
+      "quotationNotes": [
+        {
+          "quote": "I can also learn Amharic even if I have a long dangling lip.",
+          "speaker": "Barmille, in conversation with Legessa and Shauna LaTosky",
+          "sourceUrl": "https://www.mursi.org/documents-and-texts/published-articles/shauna-latosky/the-lip-plates-of-mursi-women",
+          "locator": "Printed page 391; PDF page 10, zero-based index 9",
+          "context": "Barmille defends retaining her lip plate while also claiming educational opportunities. This is independent community context, not a quotation from the sitter.",
+          "translation": "English transcription/translation published by Shauna LaTosky; underlying audio not inspected.",
+          "selectionReason": "A concrete statement connects cultural self-presentation and schooling without an outsider’s abstract conclusion.",
+          "wordCount": 13
+        }
+      ],
+      "medium": "photography",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/photography-joey-research.md",
+        "basis": "New candidate following VOICE_GUIDE v0.20, saved Notion photography studies and Julio’s explicit Ethiopia direction. No previous approval transfers."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/photography/b002-portrait-of-engalo-a.jpg",
+        "referenceUrl": "https://joeyl.com/portfolio/category/omo-valley",
+        "altText": "Engalo faces the camera with white markings on her face and shoulders, beaded necklaces and a lip plate, against a muted blue-grey background.",
+        "credit": "© Joey L. / Joey Lawrence",
+        "license": "All rights reserved; photographer’s publicly displayed portfolio image.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "One unaltered original image, following Julio’s instruction against artificial variants. Writing and image await review."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.21 and PHOTOGRAPHY_GUIDE v0.1; photography pilot, 25 September 2026",
+      "reviewAvailability": "removed"
+    },
+    {
+      "id": "salgado-serra-pelada",
+      "title": "Cast of Thousands, Serra Pelada",
+      "creator": "Sebastião Salgado",
+      "dateDisplay": "1986",
+      "dateStart": 1986,
+      "dateEnd": null,
+      "body": "In 1986, Sebastião Salgado photographed workers at Serra Pelada, a gold mine in the Brazilian state of Pará. Gold discovered there in 1979 had attracted thousands of people hoping to make their fortunes. In this view, men cover the excavated ground and climb long wooden ladders, carrying the earth out in sacks.\n\nThe crowded pit had an organised division of labour. Early arrivals controlled small plots and hired others to dig, carry and wash the ore. The carriers hauled loads of roughly forty kilograms up the mine walls. Other employees counted the sacks, keeping track of work that could otherwise disappear into the crowd. Owning a plot brought the possibility of profiting from a rich find; carrying another man’s earth usually brought a wage.\n\nSalgado’s wide view shows how much work this arrangement required. Lines of carriers extend from the bottom of the pit to its upper edges. Closer to the camera, individual men bend beneath sacks resting against their necks and shoulders. The repetition becomes easier to understand when the eye reaches one person’s load.\n\nThe photograph belongs to *Workers*, Salgado’s larger study of manual labour, published in 1993. Serra Pelada could resemble a scene from a much earlier century, but these men were producing gold for a modern market. Their labour was part of that economy, alongside the investors and buyers who did not have to climb the ladders.",
+      "meaningBrief": "The mine-wide view records paid physical labour within a gold economy, not an undifferentiated crowd of independent fortune-seekers. Plot ownership, specialised jobs and the foreground carriers make the relation between opportunity, hierarchy and bodily effort understandable. The image belongs to a particular place and modern economy, not a timeless scene of suffering.",
+      "sources": [
+        {
+          "title": "Danziger Gallery: Sebastião Salgado, Cast of Thousands",
+          "url": "https://www.danzigergallery.com/artists/sebastiao-salgado",
+          "role": "representing-gallery caption and reproduction",
+          "supports": "Exact horizontal exposure, 1986 date and downloaded image."
+        },
+        {
+          "title": "Folha de S.Paulo: Mina de ouro parecia formigueiro caótico, mas era um sistema bem organizado",
+          "url": "https://arte.folha.uol.com.br/ilustrada/2017/sebastiao-salgado/serra-pelada/mina-de-ouro-parecia-formigueiro-caotico-mas-era-um-sistema-bem-organizado/",
+          "role": "Portuguese reporting with photographer testimony",
+          "supports": "Work organisation, ownership, carriers, record-keepers and payment; full relevant article read."
+        },
+        {
+          "title": "Julian Stallabrass: Sebastião Salgado and Fine Art Photojournalism",
+          "url": "https://julianstallabrass.org/wp-content/uploads/2020/10/salgado.pdf",
+          "role": "substantive critical interpretation",
+          "supports": "Opening pages challenge the impression of an archaic scene and explain the photographs through contemporary labour conditions. The analysis is criticism, not declared photographer intent."
+        },
+        {
+          "title": "Yancey Richardson: Sebastião Salgado",
+          "url": "https://yanceyrichardson.com/artists/sebastiao-salgado",
+          "role": "gallery series context",
+          "supports": "Same exposure identified as Cast of thousands in the Workers series; 1993 publication date."
+        },
+        {
+          "title": "Bowdoin College Museum of Art: People Watching labels, page 9",
+          "url": "https://www.bowdoin.edu/art-museum/pdf/final-people-watching-bowdoin-texts-labels-june28.pdf",
+          "role": "museum interpretation of this exposure",
+          "supports": "Exact work identity and dangerous labour. Its claim that 1986 was the final operating year was not adopted; other sources place closure later."
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "photography",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/photography-salgado-chim-research.md",
+        "notionReferenceUrl": "https://app.notion.com/p/Sebasti-o-Salgado-972e78ff13274abca99b2502fefeea1a?pvs=25",
+        "basis": "Saved Notion photographer study is an editorial reference. Exact image and social context researched independently; neither writing nor image is approved."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/photography/b002-serra-pelada-cast-b.jpg",
+        "referenceUrl": "https://www.danzigergallery.com/artists/sebastiao-salgado",
+        "altText": "Black-and-white view into the crowded Serra Pelada pit, with workers climbing ladders across steep walls and men carrying sacks in the foreground.",
+        "credit": "© Sebastião Salgado; reproduction from Danziger Gallery.",
+        "license": "Copyrighted photograph. Reference reproduction for local editorial review; no public-app licence established.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "One authentic reproduction supplied; no AI recreation, grading, reframing or fabricated alternatives. Awaiting editorial and image choice."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.21 and PHOTOGRAPHY_GUIDE v0.1; photography pilot, 25 September 2026",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "chim-vienna-schoolchildren",
+      "title": "Children Lifting Their Empty Cups, Vienna",
+      "creator": "David Seymour (Chim)",
+      "dateDisplay": "1948",
+      "dateStart": 1948,
+      "dateEnd": null,
+      "body": "Three years after the Second World War ended, schoolchildren in Vienna raise empty cups toward David Seymour’s camera. Known as Chim, the photographer made this image in 1948 for his *Children of Europe* project. Food shortages continued to shape childhood after the fighting had stopped, making a school meal part of the work of rebuilding everyday life.\n\nIn Vienna, school doctors assessed which children most needed extra food. Chim’s captions describe a programme whose limited funds covered the most underweight children and only some of the next group. UNICEF, the United Nations agency helping children, shared the cost of a daily school meal with the Austrian government. The meal was a public service supported by international aid and local resources.\n\nPhotographed from above, the children fill the frame with their faces and containers. Some look directly up; others turn aside or shade their eyes. The raised cups make the need for food immediately legible. They also bring the children into a direct exchange with the person taking their picture, rather than leaving them as distant figures in a relief report.\n\nThe project had a practical purpose: to document children’s needs and the efforts to meet them. UNESCO published *Children of Europe* in 1949. Its photographs included meals and medical care, but also games, lessons and children helping rebuild schools. Placed within that sequence, the cups belong to a larger effort to make ordinary childhood possible again.",
+      "meaningBrief": "School meals show how war continued to affect children after combat ended. The visible cups connect to a documented, limited public feeding system rather than invented individual diagnoses. The institutional purpose and wider book sequence matter: food relief supports the return of education, play and everyday childhood.",
+      "sources": [
+        {
+          "title": "International Center of Photography: Children lifting their empty cups, waiting to be fed, Vienna",
+          "url": "https://www.icp.org/browse/archive/objects/children-lifting-their-empty-cups-waiting-to-be-fed-vienna",
+          "role": "holding-collection record",
+          "supports": "Exact exposure, 1948 date, gelatin silver print and Anna Shneiderman Collection, accession BS1685."
+        },
+        {
+          "title": "Magnum Photos: Children of Europe",
+          "url": "https://www.magnumphotos.com/newsroom/society/david-seymour-children-of-europe/",
+          "role": "agency essay with original field captions",
+          "supports": "The Vienna relief programme and institutional commission. Full article read; its unrelated, disputed Tereska claims were not used."
+        },
+        {
+          "title": "United Nations: E/ICEF/73 Add.1, 18 July 1948, Annex 1",
+          "url": "https://www.cf-hst.net/unicef-temp/Doc-Repository/doc/doc323673.pdf",
+          "role": "contemporary administrative record",
+          "supports": "Austrian school feeding and matched local/UNICEF food contributions. The country programme corroborates context; it does not identify this school or individual children."
+        },
+        {
+          "title": "Carole Naggar: A Second Look, Chim’s Children of War",
+          "url": "https://time.com/3796013/a-second-look-chims-children-of-war/",
+          "role": "photography historian’s substantive interpretation",
+          "supports": "The 1949 publication and its sequence from relief to children’s own activities. Relevant article paragraphs read; unrelated sponsor material excluded."
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "photography",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/photography-salgado-chim-research.md",
+        "notionReferenceUrl": "https://app.notion.com/p/David-Seymour-6f8cd768763f40c2bee5b3f328a72234?pvs=25",
+        "basis": "Saved Notion photographer study is an editorial reference. Exact image and social context researched independently; neither writing nor image is approved."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/photography/b002-vienna-school-meal-a.jpg",
+        "referenceUrl": "https://www.icp.org/browse/archive/objects/children-lifting-their-empty-cups-waiting-to-be-fed-vienna",
+        "altText": "Black-and-white photograph looking down on a group of children raising empty metal cups toward the camera, reproduced with the print’s narrow edges intact.",
+        "credit": "© David Seymour / Magnum Photos. Anna Shneiderman Collection, International Center of Photography.",
+        "license": "Copyrighted photograph. Reference reproduction for local editorial review; no public-app licence established.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "One authentic reproduction supplied; no AI recreation, grading, reframing or fabricated alternatives. Awaiting editorial and image choice."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.21 and PHOTOGRAPHY_GUIDE v0.1; photography pilot, 25 September 2026",
+      "reviewAvailability": "removed"
+    },
+    {
+      "id": "mclean-virginia",
+      "title": "McLean, Virginia, December 4, 1978",
+      "creator": "Joel Sternfeld",
+      "dateDisplay": "4 December 1978",
+      "dateStart": 1978,
+      "dateEnd": null,
+      "body": "A firefighter chooses a pumpkin at a roadside market while a house burns behind him. Joel Sternfeld photographed the scene in McLean, Virginia, on 4 December 1978. The man appears absorbed in an ordinary purchase, with little concern for the fire. Knowing why the house was burning changes that first impression.\n\nLocal firefighters were using it for a training exercise, and the man at the stall was taking a break. The house and farm were due to make way for a housing development. What looks like a failure to protect someone’s home also records a planned change in the use of this land.\n\nSternfeld kept the market, scattered pumpkins and burning roof within one broad view. Their orange and yellow colours connect the purchase to the fire, making the coincidence especially noticeable. He later recalled waiting for hours as the firefighters practised. The resulting picture gives us plenty to examine, but its title supplies only a place and date. Without the missing circumstances, an observer can easily turn a break from work into evidence of neglect.\n\nThe photograph belongs to *American Prospects*, Sternfeld’s study of the United States through its people and landscapes. He described the project as deeply political, shaped by poverty, racial division and the aftermath of the Vietnam War. Here, that concern works through a small, ambiguous incident: a familiar rural scene disappears to make room for new housing, while one worker buys a pumpkin.",
+      "meaningBrief": "The apparent neglect is a misleading reading of a real training exercise. Sternfeld’s full landscape and the planned redevelopment connect an ordinary break, visual interpretation and changes in American land use. Include the training context immediately; do not moralize about an irresponsible firefighter.",
+      "sources": [
+        {
+          "title": "Joel Sternfeld: McLean recollection and Hall Art Foundation account",
+          "url": "https://www.joelsternfeld.net/press/prospecting-for-gold-joel-sternfeld-at-the-hall-foundation",
+          "role": "photographer testimony and reproduced criticism",
+          "supports": "Sternfeld describes the training exercise, hours spent waiting, and his concern with America after political violence, Vietnam and Watergate. Official image source."
+        },
+        {
+          "title": "Museum of Fine Arts, Houston: McLean, Virginia, December 4, 1978",
+          "url": "https://emuseum.mfah.org/objects/5915/mclean-virginia-december-4-1978",
+          "role": "holding-museum catalogue",
+          "supports": "Date, American Prospects series, firefighter taking a break, colour relation, and book-cover circulation."
+        },
+        {
+          "title": "Huxley-Parlour: Joel Sternfeld, McLean, Virginia",
+          "url": "https://huxleyparlour.com/critical-texts/joel-sternfelds-mclean-virginia/",
+          "role": "substantial gallery criticism",
+          "supports": "Training fire, planned housing development, limited title, and the inference of negligence. Its conflicting Life publication years are not used."
+        },
+        {
+          "title": "British Journal of Photography: Sternfeld on American Prospects",
+          "url": "https://www.1854.photography/2017/02/sternfeld/",
+          "role": "photographer interview",
+          "supports": "Sternfeld describes American Prospects as a serious political project despite its humour. No current-political comparison is imported."
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "photography",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/photography-sternfeld-addario-research.md",
+        "basis": "Exact photograph named in Julio’s archived Notion photography study, freshly checked against photographer captions, substantial interviews and independent context. No approval inferred."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/photography/b002-mclean-virginia-a.jpg",
+        "referenceUrl": "https://www.joelsternfeld.net/press/prospecting-for-gold-joel-sternfeld-at-the-hall-foundation",
+        "altText": "A firefighter holding a pumpkin at a farm market, with scattered pumpkins in the foreground and a house burning uphill behind him.",
+        "credit": "© Joel Sternfeld",
+        "license": "Copyright Joel Sternfeld. No reuse licence granted; public app use requires separate clearance.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "One unaltered photograph from the photographer’s own website. This is an unselected review image."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.21 and PHOTOGRAPHY_GUIDE v0.1; photography pilot, 25 September 2026",
+      "reviewAvailability": "active"
+    },
+    {
+      "id": "noor-nisa",
+      "title": "Noor Nisa and her mother, Badakhshan",
+      "creator": "Lynsey Addario",
+      "dateDisplay": "November 2009",
+      "dateStart": 2009,
+      "dateEnd": null,
+      "body": "Noor Nisa and her mother, Nazer Begam, stand beside a mountain road in northeastern Afghanistan in November 2009. Noor Nisa is in labour. Her family’s car has broken down during the journey to a hospital in Faizabad, four hours from their village. Lynsey Addario encountered them while reporting on pregnancy and childbirth in Badakhshan Province.\n\nNoor Nisa’s husband had already lost his first wife in childbirth and was trying to get her medical help. The photograph makes the difficulty of that journey visible. Two blue figures stand among bare hills, with bedding laid on the ground nearby. The wide view keeps the surrounding terrain in the picture; reaching treatment is part of the emergency.\n\nIn Badakhshan, poor roads and a shortage of vehicles could turn a difficult birth into a long wait for care. Winter snow isolated some mountain villages for months. Skilled birth attendants were also scarce. A hospital in the provincial capital could offer treatment that remained difficult for rural families to reach.\n\nAddario later told NPR that she stopped photographing and took the family to the hospital, where Noor Nisa delivered safely. She did not photograph her again. The encounter records one family’s delay, while the wider problem required care closer to home. During this period, Afghan midwifery programmes trained women to return to rural communities and work in small local clinics. These services brought trained help within walking distance of families who could not easily travel to a city.",
+      "meaningBrief": "A named pregnant woman’s interrupted hospital journey shows why access to childbirth care involves transport, geography and locally available skilled workers. Photographer testimony supplies what the landscape cannot: labour, breakdown, family history and subsequent help. Local Afghan midwifery work prevents the account ending as a story about an outsider’s rescue.",
+      "sources": [
+        {
+          "title": "Lynsey Addario: Afghanistan",
+          "url": "https://www.lynseyaddario.com/afghanistan/",
+          "role": "photographer image and caption",
+          "supports": "Exact standing-women exposure, VeiledRebellion001.jpg. Caption identifies Noor Nisa, her husband’s previous bereavement and four-hour journey to Faizabad."
+        },
+        {
+          "title": "Getty Images: Veiled Rebellion, 671268360",
+          "url": "https://www.gettyimages.dk/detail/news-photo/noor-nisa-right-a-pregnant-woman-whose-water-had-just-news-photo/671268360",
+          "role": "photographer agency caption",
+          "supports": "14 November 2009 encounter; Noor Nisa on right, her mother Nazer Begam, labour, broken car and journey to Faizabad. Body gives November 2009; source preserves exact catalogued date."
+        },
+        {
+          "title": "NPR / KPBS: The Remarkable Photos of Lynsey Addario",
+          "url": "https://www.kpbs.org/news/2018/10/25/the-remarkable-photos-of-lynsey-addario",
+          "role": "substantial photographer interview",
+          "supports": "Addario explains stopping photography, taking the family to hospital, safe delivery, and not photographing Noor Nisa again. Page reproduces the same standing-women exposure in a publisher crop."
+        },
+        {
+          "title": "UNFPA: Dying to Give Life, 2006",
+          "url": "https://www.unfpa.org/news/dying-give-life-maternal-mortality-afghanistan",
+          "role": "contemporaneous regional context",
+          "supports": "Badakhshan transport shortages, poor roads, seasonal isolation, and limited skilled childbirth care. Historical numerical death-rate estimates and broad cultural generalizations are omitted."
+        },
+        {
+          "title": "UNFPA: Rewarding the Work of Midwives in Afghanistan, 2012",
+          "url": "https://www.unfpa.org/news/rewarding-heroic-work-midwives-afghanistan",
+          "role": "regional programme reporting with Afghan practitioners",
+          "supports": "Community midwifery training and local family health houses as a response to distance and shortage of women health workers. Used as a documented response in this period, not a current-service claim."
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "photography",
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/photography-sternfeld-addario-research.md",
+        "basis": "Exact photograph named in Julio’s archived Notion photography study, freshly checked against photographer captions, substantial interviews and independent context. No approval inferred."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/photography/b002-noor-nisa-a.jpg",
+        "referenceUrl": "https://www.lynseyaddario.com/afghanistan/",
+        "altText": "Noor Nisa and her mother in blue burqas stand beside a dirt road among bare hills, with folded bedding on a green mat to their right.",
+        "credit": "© Lynsey Addario",
+        "license": "Copyright Lynsey Addario. No reuse licence granted; public app use requires separate clearance.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "One unaltered photograph from the photographer’s own website. This is an unselected review image."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.21 and PHOTOGRAPHY_GUIDE v0.1; photography pilot, 25 September 2026",
+      "titleNote": "Editorial descriptive title, not a claimed photographer-given title. Exact agency encounter date: 14 November 2009.",
+      "reviewAvailability": "active"
+    }
+  ],
+  "activeMedia": [
+    "architecture",
+    "painting",
+    "cinema",
+    "photography"
+  ],
+  "onHoldMedia": [
+    "theater"
+  ],
+  "releasePolicy": "Import only currently approved writing with its selected image and resolved passage comments when Julio requests a prototype update. The app contains 20 works after the 27 September painting update. Pending revisions do not replace earlier approved app versions. Theater stays on hold."
+}

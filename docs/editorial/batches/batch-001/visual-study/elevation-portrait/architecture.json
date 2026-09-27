@@ -1,0 +1,105 @@
+[
+  {
+    "id": "palais-garnier-principal-elevation",
+    "title": "Palais Garnier — Principal Façade",
+    "creator": "Charles Garnier, architect; de Garron, engraver",
+    "dateDisplay": "1880 published elevation",
+    "imageUrl": "visual-study/elevation-portrait/assets/palais-garnier-principal-elevation.jpg",
+    "description": "This engraved elevation presents the Palais Garnier’s principal façade, side pavilions, and upper roof structures.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg",
+    "credit": "Charles Garnier, architect; de Garron, engraver. Le Nouvel Opéra, folio I, plates 1–2; reproduction via Christopher Curtis Mead (1991), scanned by Robert.Allen / Wikimedia Commons.",
+    "rightsStatus": "review_only_pending_clearance",
+    "viewType": "orthographic_principal_front_elevation",
+    "sourceNotes": [
+      "This is an engraving from Garnier’s Le Nouvel Opéra, folio I, plates 1–2, identified by the Commons record as published in 1880. It is not an original autograph design drawing.",
+      "The downloaded file is a user scan of the reproduction on page 102 of Christopher Curtis Mead’s Charles Garnier’s Paris Opéra (1991), published by the Architectural History Foundation and MIT Press. That intermediary is recorded rather than represented as a direct museum scan.",
+      "1880 is the publication date of the elevation, not the building’s construction or inauguration date.",
+      "Visually inspected: the full main façade, paired pavilions, and roof structures are shown in elevation, with level horizontal lines and no converging perspective or exposed interior section. Engraved shadows describe depth; they do not make this a perspective view.",
+      "The 3841 × 2374 scan has clear façade detail but retains paper texture and softness from the printed reproduction. The original source crops the sheet near the perimeter; the principal building façade is visible.",
+      "Commons designates the historical engraving public domain. The intermediary scan and eventual app use remain subject to the separate rights review.",
+      "Downloaded source JPEG without cropping, retouching, recoloring, upscaling, or generated reconstruction."
+    ],
+    "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg",
+    "license": "Wikimedia Commons public-domain designation for the historical engraving.",
+    "width": 3841,
+    "height": 2374,
+    "sha256": "38d6dbaf6a2383ff516785818da8905678bfe259fba172e3fe5c166253ee0502",
+    "visualInspection": "verified_straight_on_exterior_elevation",
+    "accessedDate": "2026-09-23"
+  },
+  {
+    "id": "white-house-south-elevation",
+    "title": "White House — South Front",
+    "creator": "Benjamin Henry Latrobe",
+    "dateDisplay": "January 1817 drawing",
+    "imageUrl": "visual-study/elevation-portrait/assets/white-house-south-front-1817.jpg",
+    "description": "Latrobe’s elevation proposes a south portico and central stairway for the White House.",
+    "sourceUrl": "https://www.loc.gov/item/2001698953/",
+    "credit": "Benjamin Henry Latrobe; Library of Congress, Prints and Photographs Division, LC-DIG-ppmsca-09502; digital reproduction via Wikimedia Commons.",
+    "rightsStatus": "review_only_pending_clearance",
+    "viewType": "orthographic_south_front_elevation",
+    "sourceNotes": [
+      "This is a dated architectural proposal, not a photograph or an as-built survey of the present White House. The Library of Congress identifies the axial stairway as a feature later modified in construction.",
+      "January 1817 is the drawing date. The drawing inscription refers to alterations proposed in 1807. Do not present either date as the original building construction date.",
+      "Library of Congress rights advisory: No known restrictions on publication. Commons hosts a 6386 × 4893 JPEG reproduction of the Library of Congress image.",
+      "Visually inspected: the complete principal building façade is projected straight on, with horizontal floor lines and no receding building side. The sheet also includes wash shading, a landscaped foreground with converging paths, an inscription, and aged paper. It is not a pure line-only construction sheet.",
+      "Downloaded source file without cropping, retouching, recoloring, upscaling, or generated reconstruction. Preserve the proposed façade and explain its proposal status when shown.",
+      "Thumbnail presentation crops surrounding paper and foreground only. Full-size view retains the complete archive scan."
+    ],
+    "reproductionSourceUrl": "https://commons.wikimedia.org/wiki/File:The_White_House_(%22President%27s_House%22)_Washington,_D.C._South_front_elevation)_-_Jan._1817,_B_H_Latrobe_LCCN2001698953.jpg",
+    "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_White_House_%28%22President%27s_House%22%29_Washington%2C_D.C._South_front_elevation%29_-_Jan._1817%2C_B_H_Latrobe_LCCN2001698953.jpg",
+    "license": "Library of Congress: no known restrictions on publication; Commons public-domain designation.",
+    "width": 6386,
+    "height": 4893,
+    "sha256": "b138bad0e5c0c19c6040891cd14c582d94eb891141cd28dde0327e56e8c7f08c",
+    "visualInspection": "verified_straight_on_exterior_elevation",
+    "accessedDate": "2026-09-23",
+    "thumbnailWindow": [
+      0.06,
+      0.42,
+      0.87,
+      0.48
+    ],
+    "imageTreatment": "Source image unchanged. The thumbnail trims empty paper, excess sky and scan margins; the full original opens on click."
+  },
+  {
+    "id": "capitol-west-front-elevation",
+    "title": "United States Capitol — West Front",
+    "creator": "Benjamin Henry Latrobe",
+    "dateDisplay": "4 February 1811 drawing",
+    "imageUrl": "visual-study/elevation-portrait/assets/capitol-west-front-1811.jpg",
+    "width": 9084,
+    "height": 7348,
+    "description": "Latrobe’s west-front design places a columned entrance before the Capitol’s symmetrical façade.",
+    "sourceUrl": "https://www.loc.gov/item/2001697186/",
+    "credit": "Benjamin Henry Latrobe; Library of Congress, Prints and Photographs Division, LC-DIG-ppmsca-31524; reproduction via Wikimedia Commons.",
+    "rightsStatus": "review_only_pending_clearance",
+    "viewType": "orthographic_west_front_elevation",
+    "sourceNotes": [
+      "The Library of Congress identifies this as Elevation of west front with propylaea, signed and dated 4 February 1811, in ink and watercolor on paper. The date belongs to the drawing, not to construction of the present Capitol.",
+      "This is a historical design proposal with an entrance structure inspired by the propylaea, or ceremonial gateway, of the Acropolis. It must not be presented as a measured survey or the current Capitol façade.",
+      "Visually inspected at the downloaded source: full straight-on façade, columned entrance, and low dome; no floor plan or interior section. Painted shadows and foreground landscaping accompany the orthographic architecture.",
+      "The 9084 × 7348 image is a high-resolution reproduction from the Library of Congress original drawing. Compared with the rejected Cologne option, the wide façade and darker window/column outlines read more clearly at landscape thumbnail size.",
+      "The original scan includes substantial sky above the building, a border, lower paper strips, and a photographic color target. A non-destructive thumbnail crop may omit these margins while the enlargement retains the full source. No source pixels were altered.",
+      "Library of Congress rights advisory: No known restrictions on publication. Source attribution and eventual app-use rights remain recorded separately.",
+      "This replaces only the Cologne Cathedral record in the visual study. The old Cologne asset remains preserved.",
+      "Thumbnail presentation crops surrounding paper and foreground only. Full-size view retains the complete archive scan."
+    ],
+    "reproductionSourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Capitol,_Washington,_D.C._Elevation_of_west_front_with_propylaea)_-_B.H._Latrobe_Feb._4_1811_LCCN2001697186.jpg",
+    "additionalSourceUrls": [
+      "https://www.govinfo.gov/content/pkg/GPO-CDOC-106sdoc29/pdf/GPO-CDOC-106sdoc29-6-2.pdf"
+    ],
+    "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/United_States_Capitol%2C_Washington%2C_D.C._Elevation_of_west_front_with_propylaea%29_-_B.H._Latrobe_Feb._4_1811_LCCN2001697186.jpg",
+    "license": "Library of Congress: no known restrictions on publication; Commons public-domain designation.",
+    "sha256": "4a0cf0f6796c2719d55d41698a2c1c415c8f555070789b789bff74d056daf7b4",
+    "visualInspection": "verified_straight_on_exterior_elevation",
+    "accessedDate": "2026-09-23",
+    "thumbnailWindow": [
+      0.025,
+      0.3,
+      0.95,
+      0.5
+    ],
+    "imageTreatment": "Source image unchanged. The thumbnail trims empty paper, excess sky and scan margins; the full original opens on click."
+  }
+]

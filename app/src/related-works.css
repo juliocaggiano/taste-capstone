@@ -1,0 +1,96 @@
+/* Presentation studies share the same artwork records, targets, and native carousel. */
+.daily-culture-app .today-more .related-work {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 0;
+  color: var(--app-text);
+  background: transparent;
+  border: 0;
+  border-radius: 4px;
+  font-family: var(--app-sans);
+  font-weight: 400;
+  text-align: left;
+  cursor: pointer;
+}
+.related-work-image {
+  display: block;
+  flex: none;
+  overflow: hidden;
+  width: 100%;
+  border-radius: 4px;
+  background: var(--app-surface);
+}
+.related-work-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 160ms ease;
+}
+.related-work-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 8px;
+  letter-spacing: 0;
+}
+.related-work-title {
+  color: var(--app-text);
+  font-size: 14px;
+  line-height: 18px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.related-work-creator {
+  margin-top: 3px;
+  color: var(--app-muted);
+  font-size: 12px;
+  line-height: 16px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.related-work-year {
+  margin-top: 1px;
+  color: var(--app-muted);
+  font-size: 11px;
+  line-height: 14px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.daily-culture-app .today-more .related-work:focus-visible {
+  outline: 1px solid var(--app-focus);
+  outline-offset: 2px;
+}
+
+/* Gallery: open image rail with the caption sitting directly on the canvas. */
+.related-work-carousel { width: 100%; }
+.related-work-carousel-track { display: flex; align-items: flex-start; gap: 12px; padding: 0 4px 4px; }
+.daily-culture-app .today-more[data-related-variant="gallery"] .related-work { width: 208px; min-width: 208px; }
+.today-more[data-related-variant="gallery"] .related-work-image { height: 156px; }
+.today-more[data-related-variant="gallery"] .related-work-copy { padding-right: 4px; }
+
+/* Grid: two equal columns let the works be compared without horizontal navigation. */
+.related-work-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px 12px; margin: 0; padding: 0 4px; list-style: none; }
+.related-work-grid > li { min-width: 0; }
+.daily-culture-app .today-more .related-work-grid .related-work { width: 100%; }
+.related-work-grid .related-work-image { aspect-ratio: 1; }
+
+/* List: a compact catalog row with quiet separation and room for full metadata. */
+.related-work-list { margin: 0; padding: 0 4px; list-style: none; }
+.related-work-list > li + li { border-top: 1px solid var(--app-divider); }
+.daily-culture-app .today-more .related-work-list .related-work { display: grid; grid-template-columns: 72px minmax(0, 1fr) 14px; width: 100%; min-height: 96px; align-items: center; gap: 12px; padding: 12px 0; }
+.daily-culture-app .today-more .related-work-list > li:first-child .related-work { padding-top: 0; min-height: 84px; }
+.related-work-list .related-work-image { width: 72px; height: 72px; }
+.related-work-list .related-work-copy { padding: 0; }
+.related-work-list .related-work-chevron { color: var(--app-muted); }
+
+@media (hover: hover) {
+  .related-work:hover .related-work-title { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .related-work:hover .related-work-image img { opacity: .92; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .related-work-image img { transition: none; }
+}

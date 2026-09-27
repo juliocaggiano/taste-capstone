@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-23",
+  "source": "User-supplied codex-clipboard-cc5a5e2f-df3a-4928-9730-4c1a06ea3385.png",
+  "copiedWithoutModification": true,
+  "sha256": "a5b1ac83629e349691a192b12f1bfd4971d3ff41e9dd9cf289ea19467276ea23",
+  "dimensions": [
+    1200,
+    1500
+  ],
+  "presentation": "Reusable SVG layout; exact photograph with replaceable center artwork",
+  "labelMask": {
+    "cx": 600,
+    "cy": 751,
+    "rx": 357,
+    "ry": 357
+  },
+  "originalHolePreserved": {
+    "cx": 600.5,
+    "cy": 750.5,
+    "r": 27.5
+  },
+  "publicationStatus": "review_only",
+  "visualApprovalStatus": "pending_review"
+}

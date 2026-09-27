@@ -1,0 +1,86 @@
+/* Search already owns an 8px outer gutter; these 4px insets align rows at 12px. */
+.search-entity-results {
+  margin: 0;
+  padding: 0 4px;
+  list-style: none;
+  color: var(--app-text);
+  font-family: var(--app-sans);
+  letter-spacing: 0;
+}
+
+.search-entity-row {
+  display: flex;
+  min-height: 64px;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 0;
+}
+
+.daily-culture-app .search-artist-open,
+.daily-culture-app .search-account-open {
+  display: flex;
+  min-width: 0;
+  min-height: 44px;
+  flex: 1;
+  align-items: center;
+  gap: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.search-artist-avatar,
+.search-account-row .today-saver-avatar {
+  width: 44px;
+  height: 44px;
+  flex: none;
+  border-radius: 50%;
+}
+
+.search-artist-avatar { display: block; object-fit: cover; background: var(--app-surface); }
+.search-entity-identity { display: flex; min-width: 0; flex: 1; flex-direction: column; gap: 2px; }
+.search-entity-name { font-size: 12px; line-height: 16px; }
+.search-entity-details { color: var(--app-muted); font-size: 11px; line-height: 16px; }
+.search-entity-name, .search-entity-details { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.search-entity-row .dc-follow-button.dc-follow-button {
+  position: relative;
+  min-width: 76px;
+  min-height: 44px;
+  padding: 0 12px;
+  border: 0;
+  background: transparent;
+}
+
+.search-entity-row .dc-follow-button::before {
+  position: absolute;
+  inset: 6px 0;
+  border: 1px solid var(--dc-divider);
+  border-radius: var(--dc-radius-pill);
+  background: var(--dc-background);
+  content: "";
+  transition: background-color 180ms ease, border-color 180ms ease;
+}
+
+.search-entity-row .dc-follow-button[aria-pressed="true"]::before { background: var(--dc-divider); }
+.search-entity-row .dc-follow-labels { position: relative; }
+
+.search-artist-open:focus-visible,
+.search-account-open:focus-visible { outline: 2px solid var(--app-focus); outline-offset: 3px; }
+@media (hover: hover) and (pointer: fine) {
+  .daily-culture-app .search-artist-open:hover { background: var(--app-surface); }
+  .search-entity-row .dc-follow-button:not(:disabled):hover::before {
+    border-color: var(--dc-text);
+    background: var(--dc-text);
+  }
+}
+
+.search-entity-row .dc-follow-button:not(:disabled):active::before {
+  border-color: var(--dc-text);
+  background: var(--dc-text);
+}
+
+.search-entity-row .dc-follow-button.dc-follow-button:is(:hover, :active) { background: transparent; }
+
+@media (prefers-reduced-motion: reduce) {
+  .search-entity-row .dc-follow-button::before { transition: none; }
+}

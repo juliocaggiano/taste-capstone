@@ -1,0 +1,80 @@
+[
+  {
+    "id": "death-of-socrates",
+    "title": "The Death of Socrates",
+    "creator": "Jacques-Louis David",
+    "dateDisplay": "1787",
+    "dateStart": 1787,
+    "dateEnd": null,
+    "place": "Paris, France",
+    "medium": "painting",
+    "meaningBrief": "David makes philosophical conviction visible in Socrates’ calm acceptance of death: he keeps his judgment while accepting a sentence he considers unjust. The grieving company makes that choice humanly difficult; Plato’s inclusion connects it to the written account that preserved it.",
+    "body": "In 399 BCE, an Athenian court condemned the philosopher Socrates to death for corrupting the young and failing to honor the city’s gods. He had become known for questioning people who claimed to know what was right. In the account written by his pupil Plato, a friend offered to arrange his escape, but Socrates refused. He believed that breaking the laws he had lived under would be wrong, even when the court’s decision was unjust.\n\nJacques-Louis David places that decision at the center of the painting. Socrates reaches toward the cup of hemlock, the poison that will kill him, while raising his other hand to continue teaching. He is discussing his belief that the soul survives the body. This helps explain his composure: death does not mean, to him, that the person simply ceases to exist. Around him, his friends struggle to accept the loss, and the man holding the cup turns his face away. David gives them the distress that Socrates refuses to let govern his actions.\n\nCompleted in 1787, two years before the French Revolution, the painting brought this example of personal conviction to a society increasingly critical of royal authority. The bare prison and plainly dressed figures keep attention on how the men behave. Socrates remains able to judge for himself, even as he accepts the punishment imposed on him.\n\nThe elderly man seated at the foot of the bed is Plato. He was actually young when Socrates died and absent from the prison, but David includes him as the writer who preserved this conversation in the *Phaedo*. The scroll and writing tools beside him identify that role. His presence connects the teacher’s final lesson with the account through which later generations would encounter it.",
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — The Death of Socrates",
+        "url": "https://www.metmuseum.org/art/collection/search/436105",
+        "role": "museum record and interpretation",
+        "supports": "Identity, 1787 date, oil on canvas, dimensions, calm philosopher and grieving followers; Plato as the author of the Phaedo.",
+        "accessedOn": "2026-09-27"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — Prisons Real and Imagined",
+        "url": "https://www.metmuseum.org/perspectives/jacques-louis-david-death-of-socrates",
+        "role": "substantial museum interpretation",
+        "supports": "Raised hand and immortality of the soul; cupbearer; Plato’s age, absence and writing tools; ancient history and French political resonance.",
+        "accessedOn": "2026-09-27"
+      },
+      {
+        "title": "Nerdwriter — The Death of Socrates: How To Read A Painting",
+        "url": "https://www.youtube.com/watch?v=rKhfFBbVtFg",
+        "role": "video essay; full English auto-generated transcript read",
+        "supports": "0:48–2:23 on conviction and the last lesson; 2:23–4:16 on political setting and visual emphasis; 5:01–6:28 on Plato. Interpretation checked against museum and ancient texts; speculative closing not adopted.",
+        "accessedOn": "2026-09-27"
+      },
+      {
+        "title": "Plato — Apology",
+        "url": "https://classics.mit.edu/Plato/apology.html",
+        "role": "primary literary account; Benjamin Jowett translation",
+        "supports": "Questioning presumed wisdom, accusations and conviction. Read the defense’s discussion of questioning politicians, poets and artisans.",
+        "accessedOn": "2026-09-27"
+      },
+      {
+        "title": "Plato — Crito",
+        "url": "https://classics.mit.edu/Plato/crito.html",
+        "role": "primary literary account; Benjamin Jowett translation",
+        "supports": "Escape proposal and Socrates’ argument that he must not respond to injustice by breaking his obligations to Athens. Relevant discussion read; distinguished from the Phaedo scene.",
+        "accessedOn": "2026-09-27"
+      },
+      {
+        "title": "Plato — Phaedo",
+        "url": "https://classics.mit.edu/Plato/phaedo.html",
+        "role": "primary literary account; Benjamin Jowett translation",
+        "supports": "Plato’s absence (59b), prison setting and the conversation about the soul. Claims are framed as Plato’s account and Socrates’ belief, not independent proof.",
+        "accessedOn": "2026-09-27"
+      }
+    ],
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "editorialDecisionId": null,
+    "sourceBatchId": "batch-007",
+    "revisionGuide": "VOICE_GUIDE v0.23; Notion favorite, complete relevant video transcript, primary-text checks and connected explanations.",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-27",
+      "researchFile": "docs/editorial/batches/batch-007/research.md",
+      "basis": "A new researched review draft. Full Nerdwriter transcript read; checked against the Met, Plato and Julio’s saved Notion example. No prior sample prose reused. Writing and image choice require review."
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b007-death-of-socrates-a.jpg",
+      "referenceUrl": "https://www.metmuseum.org/art/collection/search/436105",
+      "altText": "Socrates sits upright on a bed, raising one hand while reaching for a cup of poison with the other, surrounded by grieving companions; Plato sits at the foot of the bed.",
+      "credit": "Jacques-Louis David; The Metropolitan Museum of Art",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    }
+  }
+]

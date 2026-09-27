@@ -1,0 +1,17 @@
+/* The same Discover controls and content, retained over Home for an uninterrupted return. */
+.home-search-surface { position: absolute; inset: 0; z-index: 15; background: var(--app-bg); }
+.home-search-surface[data-covered="true"] { visibility: hidden; pointer-events: none; }
+.home-search-surface > .app-scroll { top: var(--home-search-top); }
+.home-search-surface .mobile-scroll { bottom: calc(var(--mobile-safe-area-height, 0px) + var(--keyboard-height)); }
+.daily-culture-app .home-search-surface .discover-page { padding-top: 4px; }
+.home-search-surface .app-scroll .mobile-scroll-content { padding-bottom: 24px; }
+.daily-culture-app .home-search-surface .discover-tools { position: sticky; top: 0; z-index: 2; padding-block: 0 16px; margin-bottom: -28px; background: var(--app-bg); }
+.daily-culture-app .home-search-surface .discover-search { position: relative; }
+.home-search-surface .discover-search > input::-webkit-search-cancel-button { display: none; }
+.home-search-surface .discover-gallery { scroll-margin-top: 88px; }
+.home-search-surface:has(.discover-medium-rail) .discover-gallery { scroll-margin-top: 132px; }
+.daily-culture-app .home-search-surface .discover-search .home-search-clear { width: auto; padding-inline: 4px; border-radius: 4px; font-size: 12px; line-height: 16px; }
+@media (pointer: coarse) { .daily-culture-app .home-search-surface .discover-search .home-search-clear { min-width: 44px; } }
+.home-search-surface .discover-gallery { animation: home-search-results-in 200ms ease-out both; animation-delay: 100ms; }
+@keyframes home-search-results-in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .home-search-surface .discover-gallery { animation: none; } }

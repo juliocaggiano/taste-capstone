@@ -1,0 +1,30 @@
+{
+  "previousFingerprintsUnchanged": true,
+  "editorialHashesUnchanged": true,
+  "activeEntries": 12,
+  "heldEntries": 9,
+  "imageChoices": 36,
+  "verifiedAssetResponses": 12,
+  "assets": [
+    "visual-study/elevation-portrait/round-02/assets/nefertiti-profile.png",
+    "visual-study/elevation-portrait/round-02/assets/palais-garnier-sepia-study.png",
+    "visual-study/elevation-portrait/round-02/originals/farnsworth-south-elevation-region.png",
+    "visual-study/elevation-portrait/round-02/originals/houdon-benjamin-franklin.jpg",
+    "visual-study/elevation-portrait/round-02/originals/nefertiti-profile.png",
+    "visual-study/elevation-portrait/round-02/originals/neue-nationalgalerie-east-elevation-region.png",
+    "visual-study/elevation-portrait/round-02/originals/palais-garnier-elevation.jpg",
+    "visual-study/elevation-portrait/round-02/originals/roman-woman-head.jpg",
+    "visual-study/elevation-portrait/round-03/assets/houdon-franklin-closeup.png",
+    "visual-study/elevation-portrait/round-03/assets/neue-nationalgalerie-gray-crosshatch-v2.png"
+  ],
+  "browserChecks": {
+    "allSixNewImagesLoaded": true,
+    "twelveEditorialDecisionsAndNotesUnchanged": true,
+    "priorStudyChoicesUnchanged": true,
+    "priorStudyNotesUnchanged": true,
+    "franklinEnlargementShowsNewAsset": true,
+    "entryApprovalControlHiddenInStudyViewer": true,
+    "desktopArchitectureAndSculptureInspected": true,
+    "viewportOverrideUsed": false
+  }
+}

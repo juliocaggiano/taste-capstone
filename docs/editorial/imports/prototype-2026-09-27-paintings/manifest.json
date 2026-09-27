@@ -1,0 +1,23 @@
+{
+  "importId": "prototype-2026-09-27-paintings",
+  "capturedAt": "2026-09-27T08:30:37.682Z",
+  "reviewUrl": "http://127.0.0.1:4184/REVIEW.html#to-review/painting",
+  "entryIds": [
+    "liberty-leading-the-people",
+    "saturn-devouring-his-son",
+    "death-of-socrates"
+  ],
+  "addedIds": [
+    "saturn-devouring-his-son",
+    "death-of-socrates"
+  ],
+  "updatedIds": [
+    "liberty-leading-the-people"
+  ],
+  "catalogCount": 20,
+  "publicationStatus": "published",
+  "authorization": "Julio requested the exact small painting edits, approved-painting app update and Vercel deployment on 2026-09-27.",
+  "publicUrl": "https://taste-capstone.vercel.app/",
+  "deploymentId": "dpl_CFyrE4NyfPzvBeoobrc7kdpb2VF5",
+  "verifiedOn": "2026-09-27"
+}

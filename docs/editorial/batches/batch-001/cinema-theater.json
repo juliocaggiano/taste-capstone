@@ -1,0 +1,436 @@
+[
+  {
+    "id": "eternal-sunshine",
+    "medium": "cinema",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "creator": "Michel Gondry",
+    "dateDisplay": "2004",
+    "dateStart": 2004,
+    "dateEnd": null,
+    "body": "In Michel Gondry’s *Eternal Sunshine of the Spotless Mind* (2004), a clinic can erase memories of a particular person. After their breakup, Clementine has her memories of Joel removed. Hurt by Clementine’s decision, he goes through the same procedure.\n\nDuring the treatment, we follow Joel inside the memories being erased. He relives the arguments near the end of their relationship, then earlier times when they were happy together. As those moments begin to disappear too, he changes his mind. He wants to stop the treatment, although the people carrying it out cannot hear his protests.\n\nIn one memory, Clementine tells him how ugly she felt as a child, and he comforts her. Faced with losing this moment of closeness, Joel calls out to the doctor:\n\n> Please let me keep this memory.\n\nForgetting Clementine would remove much more than the pain of their breakup. Joel would also lose the conversations and shared experiences through which he came to know her. Their affection does not undo the arguments or make them certain to work as a couple. Joel can regret how their relationship ended and still want to remember the time they shared. The procedure gives him no way to keep that experience while removing only the hurt.",
+    "sources": [
+      {
+        "title": "Sight and Sound: Mark Olsen review and Gondry interview",
+        "url": "https://bfidatadigipres.github.io/member%20picks/2024/12/19/eternal-sunshine/",
+        "role": "criticism and creator interview",
+        "supports": "Relationship revisited in reverse chronology, separation of Joel’s inner experience from the external procedure, emotional value and uncertainty of love. Freshly reread 24 September 2026."
+      },
+      {
+        "title": "Focus Features: After 13 Years, Eternal Sunshine Still Blows Our Minds",
+        "url": "https://www.focusfeatures.com/article/legacy_eternal-sunshine_13-year-anniversary",
+        "role": "official distributor commentary",
+        "supports": "Fictional erasure procedure and Joel’s change of mind."
+      },
+      {
+        "title": "Boxoffice Movie Scenes: Eternal Sunshine excerpt",
+        "url": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+        "role": "released-film excerpt",
+        "supports": "Released-film scene: Clementine’s childhood insecurity, Joel’s reassurance and plea at approximately 1:05. Saved caption export reread 24 September 2026; current direct video retrieval failed."
+      },
+      {
+        "title": "r/TrueFilm: competing readings of Eternal Sunshine",
+        "url": "https://www.reddit.com/r/TrueFilm/comments/1dygt96/i_think_some_people_misinterpret_the_meaning_of/",
+        "role": "public reception challenge, not factual authority",
+        "supports": "Selected replies disagree about renewed love, repeated mistakes and the distinction between valuing experience and guaranteeing a relationship. Read 24 September 2026; no representative consensus inferred; draft-screenplay claims not adopted."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-20/ROUND_11_FINAL_DRAFTS.json",
+      "baselineSection": "film.A",
+      "changes": [
+        "No prose changes. Round 11 A was called perfect. Staged for batch review; not published.",
+        "24 September 2026 remake: full rewrite after current passage comments. Used “he goes through,” deleted the medical-solution framing and doll explanation, explained the memory sequence and its practical stakes, and replaced the confusing closing paragraph. Earlier round-11 praise does not approve this revised candidate."
+      ],
+      "notionUrl": "https://app.notion.com/p/Eternal-Sunshine-of-the-Spotless-Mind-169c5450872d807f8728ca08fda0157a?pvs=25"
+    },
+    "meaningBrief": "Erasing the pain of a breakup also removes the shared experiences through which a person became important. Following Joel inside memories being erased makes that cost concrete: he changes from seeking erasure to resisting it. Affection does not settle the couple’s conflicts or prove that they should stay together. The account withholds the final outcome.",
+    "quotationNotes": [
+      {
+        "text": "Please let me keep this memory.",
+        "speaker": "Joel",
+        "sourceUrl": "https://www.youtube.com/watch?v=pKMZh7T_vB0",
+        "locator": "Approximately 1:05 in the clip",
+        "wordCount": 6,
+        "version": "Released-film excerpt. Saved English caption export reread 24 September 2026; caption authorship unspecified. Direct video retrieval failed in this pass; no fresh audio verification.",
+        "purpose": "A specific plea to keep an intimate memory makes Joel’s changed wish concrete. The doll detail is not needed to understand the exchange."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://images.contentstack.io/v3/assets/blt223a4a92692ca457/blt97c5788e2fe386e7/68a386770cb1d42d1a387b22/6874_enternal_sunshin_of_the_spotless_mind_poster.png?branch=production&width=900&format=webp",
+      "referenceUrl": "https://www.focusfeatures.com/eternal_sunshine_of_the_spotless_mind",
+      "altText": "Official poster for Eternal Sunshine of the Spotless Mind (2004).",
+      "credit": "Focus Features / Universal Pictures",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Poster URL extracted from the distributor’s current page. Review reference only. Review URL requests a 900-pixel rendition from the same official image service."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "soul",
+    "medium": "cinema",
+    "title": "Soul",
+    "creator": "Pete Docter; co-directed by Kemp Powers",
+    "dateDisplay": "2020",
+    "dateStart": 2020,
+    "dateEnd": null,
+    "body": "In *Soul* (2020), New York music teacher Joe Gardner believes his real life will begin when he becomes a professional jazz pianist. He loves playing, but years of unsuccessful auditions have made everything else feel secondary. His fear comes out in a conversation with his mother:\n\n> I’m just afraid that if I died today, that my life would have amounted to nothing.\n\nAn accident separates Joe’s soul from his body on the day he finally lands a coveted gig. His body is still alive, but his soul is heading towards the Great Beyond, the film’s afterlife. Refusing to go, he escapes into the Great Before, where souls prepare for life on Earth. There he meets 22, who has never found a reason to want to be born. Repeated failures to discover a calling have left her feeling inadequate. Joe becomes her mentor and assumes that finding a passion will solve her problem.\n\nWhen they find a way to Earth, a mix-up puts 22 in Joe’s body. She enjoys experiences he takes for granted: tasting pizza, watching a seed drift from a tree, talking with people. These encounters make her want more time on Earth before she has chosen anything to do with her life.\n\nJoe struggles to value these experiences because he still measures a life’s worth by professional success. His love of music can be part of a worthwhile life without being its only justification.",
+    "sources": [
+      {
+        "title": "Disney/Pixar: Soul production notes",
+        "url": "https://lumiere-a.akamaihd.net/v1/documents/soul_production_notes_final_10-14-20_3d1e05e6.pdf",
+        "role": "primary production documentation",
+        "supports": "Credits, premise, Joe and 22’s motivations; read relevant pages in round 16."
+      },
+      {
+        "title": "Fresh Air: Soul creators on passion, purpose and realizing you are enough",
+        "url": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+        "role": "creator interview and released-film soundbites",
+        "supports": "Accident separates soul from body; Great Beyond/Great Before transition; exact released-film soundbite with Libba; passion distinct from fame and life’s value distinct from achievement. Transcript freshly reread 24 September 2026."
+      },
+      {
+        "title": "Stephanie Zacharek: Soul review",
+        "url": "https://time.com/5923340/soul-review-pixar/",
+        "role": "criticism",
+        "supports": "22’s concrete earthly experiences; used narrowly within the source’s 100-word derivation ceiling."
+      },
+      {
+        "title": "Lou Thomas: Soul review, Sight and Sound",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/soul-pixar-disney-pete-docter-kemp-powers-jamie-foxx-jazz-musician-fantasy",
+        "role": "criticism",
+        "supports": "Ambition, 22’s reluctance and attention to ordinary experience."
+      },
+      {
+        "title": "r/movies: official Soul discussion",
+        "url": "https://www.reddit.com/r/movies/comments/kkbd5s/official_discussion_soul_spoilers/",
+        "role": "public reception clue",
+        "supports": "Prior selected threads challenge simple career-change and appreciate-small-things morals; no consensus claim."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-21/ROUND_16_FINAL_DRAFTS.json",
+      "baselineSection": "works[key=soul].A",
+      "changes": [
+        "Removed inline source links; all prose and paragraph structure preserved. Round 16 A preferred and called really good. Staged for batch review.",
+        "24 September 2026 remake: explained body–soul separation and the distinct Great Beyond/Great Before, removed the unwanted sentence about help returning to the performance, clarified the body mix-up, and tightened the ordinary-life/ambition connection. Retained the meaningful, transcript-verified Joe quotation. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/Soul-bc48c9f723434c76bf6261ae10836911?pvs=25"
+    },
+    "meaningBrief": "Joe makes professional musical achievement the condition for his life to matter. The clear body–soul transition establishes the fictional premise; 22’s first ordinary experiences then challenge his assumption that life requires a calling. The film preserves the value of music while questioning the use of a career as the sole measure of a life.",
+    "quotationNotes": [
+      {
+        "text": "I’m just afraid that if I died today, that my life would have amounted to nothing.",
+        "speaker": "Joe Gardner, speaking with his mother Libba",
+        "sourceUrl": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+        "locator": "Released-film soundbite during Joe’s conversation with Libba; transcript paragraph beginning FOXX, approximately web line 151.",
+        "wordCount": 16,
+        "version": "NPR/Fresh Air transcript of released-film audio; wording and surrounding exchange reread 24 September 2026. No separate direct audio verification.",
+        "purpose": "Makes the emotional stakes of Joe’s ambition explicit."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg?region=0%2C0%2C540%2C810",
+      "referenceUrl": "https://movies.disney.com/soul",
+      "altText": "Official Disney+ promotional poster for Soul (2020).",
+      "credit": "Disney / Pixar",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Official Disney film-page image; this is promotional artwork for the 2020 film."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "im-still-here",
+    "medium": "cinema",
+    "title": "I’m Still Here",
+    "creator": "Walter Salles",
+    "dateDisplay": "2024",
+    "dateStart": 2024,
+    "dateEnd": null,
+    "body": "Brazil’s 1964 military coup removed an elected government and stripped congressman Rubens Paiva of his mandate. In January 1971, agents took him from his Rio de Janeiro home. He was tortured and killed in custody. The authorities concealed the crime and circulated a false account of his escape. Walter Salles’s *I’m Still Here* (2024) follows the family left behind, drawing on a memoir by Rubens’s son Marcelo.\n\nThe film centres on Rubens’s wife, Eunice, who is also imprisoned, along with their teenage daughter Eliana. After her release, she must raise five children while seeking answers from the authorities responsible. Confronting the men watching her home, she asks: “What are you looking at? What do you want? Where’s my husband?” The family cannot bury Rubens, and the government refuses to acknowledge his death.\n\nBefore the arrest, Salles shows a busy home full of music, visitors and conversation. This gives us time to know the family before fear changes how they live. Afterwards, Eunice keeps daily life going for the children while deciding how much to tell them. Her composure requires work: she has to care for them while pursuing information that officials continue to withhold.\n\nEunice’s later life extended this work beyond her own family. She entered law school in 1973, defended Indigenous rights and campaigned for official recognition of the dictatorship’s disappeared. Rubens’s death certificate was issued in 1996, twenty-five years after his arrest. Obtaining it meant forcing the state to acknowledge a death that its own agents had caused and concealed.",
+    "sources": [
+      {
+        "title": "Câmara dos Deputados: Rubens Paiva biography",
+        "url": "https://www.camara.leg.br/deputados/131119/biografia",
+        "role": "institutional historical record",
+        "supports": "Revoked mandate, arrest, torture and death, official escape account, 1996 certificate."
+      },
+      {
+        "title": "São Paulo Truth Commission: Rubens Beirodt Paiva",
+        "url": "https://comissaodaverdade.al.sp.gov.br/mortos-desaparecidos/rubens-beirodt-paiva",
+        "role": "historical investigation",
+        "supports": "Custody and concealment; Eunice and Eliana’s detention."
+      },
+      {
+        "title": "CNN: Salles and Torres interview with film clip",
+        "url": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+        "role": "creator interview and released-film excerpt",
+        "supports": "Eunice’s confrontation dialogue, composure and familial experience."
+      },
+      {
+        "title": "Letterboxd: Salles and Torres interview",
+        "url": "https://letterboxd.com/journal/im-still-here-fernanda-torres-walter-salles-interview/",
+        "role": "creator interview",
+        "supports": "Household freedom, the children’s differing knowledge and memory."
+      },
+      {
+        "title": "Memórias da Ditadura: Eunice Paiva",
+        "url": "https://memoriasdaditadura.org.br/personagens/eunice-paiva/",
+        "role": "historical biography",
+        "supports": "1973 law-school entry, Indigenous-rights work and long campaign for acknowledgment."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-21/ROUND_18_FINAL_DRAFTS.json",
+      "baselineSection": "works[key=im_still_here].A",
+      "changes": [
+        "Removed inline source links; all prose and paragraph structure preserved. Julio praised the round 18 film without naming A or B. A is selected for this batch, not inferred as his preferred variant. Staged for review.",
+        "24 September 2026 remake: made a restrained style revision after the “slightly less AI-written” note, replacing abstract transitions with concrete family actions. Preserved historical killing, official concealment, Eunice’s legal work and the delayed certificate. Retained the contextual film quotation with its broadcast-translation limitation. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/I-m-Still-Here-25dc5450872d80138d0be56c750e2a32?pvs=25"
+    },
+    "meaningBrief": "The historical killing is established; the family’s uncertainty comes from state concealment. The film follows Eunice’s practical care and pursuit of answers, while her later legal work connects her family’s experience to wider struggles for rights and recognition. Her agency, not generic endurance or an unresolved historical mystery, carries the account.",
+    "quotationNotes": [
+      {
+        "text": "What are you looking at? What do you want? Where’s my husband?",
+        "speaker": "Eunice Paiva, confronting men watching her home",
+        "sourceUrl": "https://transcripts.cnn.com/show/ampr/date/2025-02-14/segment/01",
+        "locator": "Film clip, web transcript line 250",
+        "wordCount": 12,
+        "version": "CNN English broadcast translation in a rush transcript, freshly reread 24 September 2026. Not independently checked against theatrical subtitles or Portuguese audio.",
+        "purpose": "Expresses her demand for information withheld by those exercising power."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://www.sonyclassics.com/assets/img/films/imstillhere/poster/imstillhere.jpg",
+      "referenceUrl": "https://www.sonyclassics.com/film/imstillhere/",
+      "altText": "Official English-language poster for I’m Still Here (2024).",
+      "credit": "Sony Pictures Classics",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Poster URL extracted from Sony’s film page; not a photograph of the historical Paiva family."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "antigone",
+    "medium": "theater",
+    "title": "Antigone",
+    "creator": "Sophocles",
+    "dateDisplay": "circa 441 BCE",
+    "dateStart": -441,
+    "dateEnd": null,
+    "body": "In Sophocles’s *Antigone*, two brothers have killed each other in a struggle for the mythical city of Thebes. Creon, the new ruler, honours Eteocles for defending it. He forbids the burial of Polyneices, who attacked with a foreign army. Their sister Antigone covers the forbidden body with earth, knowing that the punishment is death.\n\nFor Antigone, leaving her brother exposed would betray both someone she loves and the duties owed to the dead. In ancient Greek life, burial joined family responsibility to religious obligation. Cities could also use funeral honours, or their refusal, to distinguish loyal citizens from enemies. Creon’s decree therefore reaches into an obligation that Antigone believes no ruler can cancel.\n\nHer sister Ismene fears resisting men who hold power over them. Antigone treats that fear as disloyalty. When Ismene later offers to share her punishment, Antigone refuses. Her resolve protects her brother’s claim to burial, but also makes her harsh toward someone who loves her.\n\nCreon believes obedience will restore order after civil war. He increasingly treats disagreement as an attack on his own authority. His son Haemon, who is engaged to Antigone, tries to persuade him to listen to the citizens who pity her. He risks his father’s anger while trying to protect the woman he is to marry. When Creon insists on ruling as he chooses, Haemon replies:\n\n> That is no city which belongs to one man.\n\nPerformed in Athens around 441 BCE, the tragedy placed this royal family’s conflict before a city governed by its citizens. Grief, loyalty and the fear of losing authority shape what each character can hear. Creon’s refusal to reconsider turns advice from his own family into another offence against his rule.",
+    "sources": [
+      {
+        "title": "Antigone, translated by R. C. Jebb",
+        "url": "https://classics.mit.edu/Sophocles/antigone.html",
+        "role": "primary dramatic text in translation",
+        "supports": "Opening conflict, burial argument and Creon–Haemon exchange; exact selected line. Haemon’s betrothal, Ismene’s fear and Antigone’s refusal to share responsibility with her."
+      },
+      {
+        "title": "UCL: Antigone Study Guide",
+        "url": "https://www.ucl.ac.uk/arts-humanities/classics/events/classical-play/past-productions/antigone-study-guide",
+        "role": "substantial scholarly interpretation",
+        "supports": "Civic and religious burial duties, limits of authority, gender, divided loyalties and character complexity."
+      },
+      {
+        "title": "r/AYearOfMythology: Antigone part one discussion",
+        "url": "https://www.reddit.com/r/AYearOfMythology/comments/1bxcbxf/antigone_part_one_lines_1_700_reading_discussion/",
+        "role": "public reception clue",
+        "supports": "Readers debate Creon’s public-order claim and refusal to hear dissent. Claims were checked against the play; no consensus claim."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/cinema-theater.json",
+      "baselineSection": "antigone",
+      "changes": [
+        "Added Haemon’s engagement to Antigone and the personal stakes of his appeal to Creon.",
+        "Moved burial’s social and religious meaning beside the disputed act; clarified Ismene’s fear and Antigone’s harshness without balancing away Creon’s responsibility.",
+        "Distinguished mythical setting from Athenian performance context."
+      ],
+      "notionUrl": null,
+      "previousBaselineFile": null,
+      "previousBaselineSection": null,
+      "previousChanges": [
+        "New staged entry under guide v0.18; no prior approval. Discusses Sophocles’s play, not Anouilh’s adaptation or a particular production."
+      ],
+      "baselineBodySha256": "46124d82215aad875050427c3678472e69ada9d4f7d5b3a52f82c4455e392d67",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "The city’s definition of loyalty collides with burial duties to family and gods. Bereavement, fear, Antigone’s harsh resolve, Creon’s need for obedience and Haemon’s divided loyalties give the conflict human stakes. Haemon’s betrothal is explicit. Mythical Thebes remains distinct from the democratic Athens where the play was staged; the account does not treat all positions as equally justified.",
+    "quotationNotes": [
+      {
+        "text": "That is no city which belongs to one man.",
+        "speaker": "Haemon to Creon",
+        "sourceUrl": "https://classics.mit.edu/Sophocles/antigone.html",
+        "locator": "Creon–Haemon exchange; web line 768",
+        "wordCount": 9,
+        "version": "R. C. Jebb English translation; wording verified directly.",
+        "purpose": "Exposes the shift from protecting the city to identifying it with the ruler. The surrounding burial conflict remains explicit."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Antigone_of_Sophocles_%281911%29.djvu/page7-1280px-The_Antigone_of_Sophocles_%281911%29.djvu.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:The_Antigone_of_Sophocles_(1911).djvu",
+      "altText": "Title page of Joseph Edward Harry’s 1911 English edition of The Antigone of Sophocles.",
+      "credit": "The Robert Clarke Company, 1911; HathiTrust scan via Wikimedia Commons",
+      "license": "Public Domain Mark / PD-scan as recorded by Commons.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Historical edition reference, not the first ancient performance or the Jebb translation quoted in the entry. Page 7 image URL extracted from Wikisource. App media review still pending."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "a-dolls-house",
+    "medium": "theater",
+    "title": "A Doll’s House",
+    "creator": "Henrik Ibsen",
+    "dateDisplay": "1879",
+    "dateStart": 1879,
+    "dateEnd": null,
+    "body": "In Henrik Ibsen’s *A Doll’s House* (1879), Nora Helmer appears to have a comfortable marriage. Her husband, Torvald, is becoming a bank manager. He gives her money and affectionate pet names, while treating her judgment as less serious than his own.\n\nNora has secretly carried a responsibility he knows nothing about. When he was ill, she borrowed money for a restorative trip to Italy and forged her father’s signature. She has since saved from her allowance and taken copying work to repay the loan. Telling her friend Mrs Linde about those late nights, she recalls the pleasure of earning:\n\n> It was like being a man.\n\nThe comparison makes the inequality within their household clear. Torvald takes paid work and financial authority for granted. Nora enjoys discovering that she can provide for someone, yet hides that achievement because she believes owing his recovery to her would humiliate him. She helps maintain his image as protector, even while secretly doing the protecting herself.\n\nWhen the lender threatens to reveal the forgery, Nora expects Torvald to take the blame upon himself. She imagines him prepared to make a sacrifice comparable to hers. His reaction centres instead on the danger to his reputation. The crisis exposes how differently they understand the love they have been relying on.\n\nSet in a nineteenth-century Norwegian household, the play connects that disappointment to a marriage organised around male authority and female dependence. Nora’s affection and concealed competence have existed alongside her performance as a carefree wife. She begins to question whether being cherished on those terms has allowed her to form her own judgment. Her uncertainty concerns the whole relationship, including who makes decisions and whose sacrifices can be acknowledged.",
+    "sources": [
+      {
+        "title": "A Doll’s House, translated by R. Farquharson Sharp",
+        "url": "https://www.gutenberg.org/cache/epub/2542/pg2542-images.html",
+        "role": "primary dramatic text in translation",
+        "supports": "Nora’s loan, forged signature, concealed copying work, pleasure in earning, and fear of Torvald’s reaction. Act III: Nora’s expectation that Torvald would take blame; his stated limit on sacrificing honour and her description of his fear for himself."
+      },
+      {
+        "title": "AQA: A Doll’s House text overview",
+        "url": "https://filestore.aqa.org.uk/resources/english/AQA-7716-7717-TO-PROTEST-DOLL.PDF",
+        "role": "substantial educational interpretation",
+        "supports": "Money, respectability, Nora’s existing competence and the unequal marriage; all six pages read."
+      },
+      {
+        "title": "Erik Bjerck Hagen: Et dukkehjem, Store norske leksikon",
+        "url": "https://snl.no/Et_dukkehjem",
+        "role": "scholarly reference and historical reception",
+        "supports": "1879 publication/premiere, play’s development and the tension between outward childishness and concealed responsibility."
+      },
+      {
+        "title": "r/classicliterature: A Doll’s House discussion",
+        "url": "https://www.reddit.com/r/classicliterature/comments/1fy68oy/a_dolls_house/",
+        "role": "public reception clue",
+        "supports": "Readers identify pet names, marital roles and the uncertainty of independence; no representative audience claim."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/cinema-theater.json",
+      "baselineSection": "a-dolls-house",
+      "changes": [
+        "Developed the omitted causal hinge: Nora expects reciprocal sacrifice; Torvald’s reaction centres on his reputation.",
+        "Retained the earning passage because it explains concealed competence and financial independence; final decision withheld."
+      ],
+      "notionUrl": null,
+      "previousBaselineFile": null,
+      "previousBaselineSection": null,
+      "previousChanges": [
+        "New staged entry under guide v0.18; no prior approval. Discusses the original play rather than a film or modern staging."
+      ],
+      "baselineBodySha256": "5e0b326ced4a8bad7d82de4f1a5386891b7bc6d822dcc93122ed92d70b29e4f7",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "Nora’s hidden loan and paid work contradict the role Torvald assigns her. She expects reciprocal sacrifice because love has justified her own risk; his concern for reputation exposes an unequal understanding of care. The account retains her existing agency and affection, connects financial authority to marital dependence, and withholds her final decision.",
+    "quotationNotes": [
+      {
+        "text": "It was like being a man.",
+        "speaker": "Nora to Mrs Linde",
+        "sourceUrl": "https://www.gutenberg.org/cache/epub/2542/pg2542-images.html",
+        "locator": "Act I, account of copying work; web line 625",
+        "wordCount": 6,
+        "version": "R. Farquharson Sharp English translation; wording and surrounding speech verified.",
+        "purpose": "Makes the gendered experience of earning and independence audible without disclosing her final decision."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://media.snl.no/media/37786/standard_compressed_NF.2009-0196.jpg",
+      "referenceUrl": "https://snl.no/Et_dukkehjem",
+      "altText": "Cover of the 1879 first edition of Henrik Ibsen’s Et dukkehjem.",
+      "credit": "Jon-Erik Faksvaag / Ibsenmuseet, Norsk Folkemuseum",
+      "license": "CC BY-SA 3.0, as stated beside the first-edition image on SNL.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Specific historical edition photograph; not a contemporary production. App media review remains pending."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "auto-da-compadecida",
+    "medium": "theater",
+    "title": "Auto da Compadecida",
+    "creator": "Ariano Suassuna",
+    "dateDisplay": "1955; first performed 1956",
+    "dateStart": 1955,
+    "dateEnd": 1956,
+    "body": "In Ariano Suassuna’s *Auto da Compadecida*, João Grilo and Chicó have little money or influence in a town in northeastern Brazil. João survives partly by deceiving people who can usually order him around. He understands their vanity and greed well enough to turn those weaknesses to his advantage.\n\nWhen their employers’ dog dies, João persuades the local clergy to give it a religious burial by inventing a generous bequest. The promise of money changes their objections into willingness to help. The joke exposes a practical inequality: people with money can obtain exceptions from authorities who claim to apply the same rules to everyone.\n\nWritten in 1955 and first staged in 1956, the play draws on circus performance and *cordel*, stories circulated in inexpensive verse booklets. Its clown speaks directly to the audience and announces the religious judgment that will frame the action. The word *auto* refers here to a play organised around religious and moral questions. The characters’ conduct will be examined before Jesus, with the Virgin Mary speaking in their defence.\n\nMary is the *Compadecida*, the compassionate figure named in the title. She asks Jesus: “I plead for these poor people who have no one on their side, my son.” Her defence asks what fear, weakness and hardship have done to each person. For João, survival under people with greater power helps explain the habit of lying. It does not make every deception harmless.\n\nThe judgment also examines people who held authority over him. Their positions cannot settle the question of their goodness, and his poverty cannot settle it either. Within the play’s popular Catholic world, mercy depends on attending to lives that a list of offences leaves unexplained. The comedy’s criticism of corrupt clergy develops alongside its faith in a more understanding judgment.",
+    "sources": [
+      {
+        "title": "Mateus Araújo: 60 anos da peleja de João Grilo e Chicó, Teatrojornal",
+        "url": "https://teatrojornal.com.br/2015/06/60-anos-da-peleja-de-joao-grilo-e-chico/",
+        "role": "theatre history and criticism with creator statements",
+        "supports": "1955 writing, 1956 premiere, cordel and circus sources, survival through cunning, institutional criticism and Black Jesus."
+      },
+      {
+        "title": "Tereza Aline Pereira de Queiroz: Mimetismo e Recriação do Imaginário Medieval, Revista Brasileira de História",
+        "url": "https://www.scielo.br/j/rbh/a/kJbTyp3MKNwzzK6j7BJQfBC/?lang=pt",
+        "role": "scholarly interpretation with quoted primary passages",
+        "supports": "Clown’s announcement, dog’s burial, corruption, fear, mercy and the play’s Catholic dramatic framework; cited play edition 1981."
+      },
+      {
+        "title": "Jonas Nogueira da Costa: As questões teológicas presentes na Compadecida",
+        "url": "https://www.vidapastoral.com.br/artigos/temas-teologicos/as-questoes-teologicas-presentes-na-compadecida-da-obra-de-ariano-suassuna/",
+        "role": "theological critical perspective",
+        "supports": "Freshly read complete substantive article and bibliography: Mary’s advocacy, her exact first sentence cited to Suassuna 2005 p.148, Jesus’s role, attention to lived circumstances and the distinction from treating Jesus as tyrannical. Theological perspective, not universal religious fact."
+      },
+      {
+        "title": "Li Sobre Isso: Auto da Compadecida, with reader response",
+        "url": "https://lisobreisso.wordpress.com/2011/11/28/o-auto-da-compadecida/",
+        "role": "public reception clue",
+        "supports": "Humour and comparison with adaptations; the visible response corrects version confusion, reinforcing the need to keep play and screen versions distinct."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/cinema-theater.json",
+      "baselineSection": "auto-da-compadecida",
+      "changes": [
+        "Explained the clown’s announced judgment, Jesus’s role and Mary’s advocacy before discussing mercy; defined auto and cordel.",
+        "Added a short translated Mary passage verified in a scholarly theological article quoting the 2005 play edition.",
+        "Removed the undeveloped Black Jesus mention; the entry does not deny that important racial challenge, but avoids a disconnected theme marker.",
+        "Kept the judgment’s compassion toward powerful as well as poor characters; no individual outcome disclosed."
+      ],
+      "notionUrl": null,
+      "previousBaselineFile": null,
+      "previousBaselineSection": null,
+      "previousChanges": "['New staged entry under guide v0.18; no prior approval. Refers to Suassuna’s play, not the Guel Arraes adaptation.'] Root clarified cordel as inexpensive verse booklets.",
+      "baselineBodySha256": "f862ec51cdd400f88c5526600e6de84316122cb63866aad880549b880b4f8f2d",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "João’s cunning exposes privileges that money buys, while the announced Christian judgment examines both his wrongs and those of powerful people. Mary asks that conduct be understood through concrete fear and hardship. Cordel, circus and the auto form explain how comedy and religious mercy coexist. Poverty explains pressures without automatically proving innocence; Jesus is not portrayed as an unmerciful adversary.",
+    "quotationNotes": [
+      {
+        "text": "I plead for these poor people who have no one on their side, my son.",
+        "speaker": "The Compadecida, Mary, to Jesus",
+        "sourceUrl": "https://www.vidapastoral.com.br/artigos/temas-teologicos/as-questoes-teologicas-presentes-na-compadecida-da-obra-de-ariano-suassuna/",
+        "locator": "Article section 2, citing Suassuna, Agir 2005, p. 148; first sentence of the quoted passage",
+        "wordCount": 15,
+        "version": "Our English translation of Portuguese play dialogue quoted in Jonas Nogueira da Costa’s article; not an authorised English edition or a film subtitle.",
+        "purpose": "Gives Mary’s compassionate advocacy a voice, followed by an explanation of circumstances rather than an unsupported general moral. No character’s sentence or fate is revealed.",
+        "verificationLimit": "The cited printed edition itself was not newly obtained; wording is verified against the visible Portuguese quotation in the scholarly article. The first complete sentence is translated; the following sentence is omitted. Original Portuguese is not reproduced again in this candidate packet."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://teatrojornal.com.br/wp-content/uploads/2015/06/a_compadecida_primeira-versao-1957-foto-arquivo-projeto-memorias-da-cena-pernambucana-capa-1.jpg",
+      "referenceUrl": "https://teatrojornal.com.br/2015/06/60-anos-da-peleja-de-joao-grilo-e-chico/",
+      "altText": "Ariano Suassuna with the Teatro Adolescente do Recife company associated with the first production of Auto da Compadecida.",
+      "credit": "Acervo Memórias da Cena Pernambucana, via Teatrojornal",
+      "license": "Archive photograph; no open reuse license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "The article identifies Clênio Wanderley’s original production and dates its caption 1956; the image filename says 1957. Use the company/production identification without asserting an exact photograph year. This is not a film still."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  }
+]

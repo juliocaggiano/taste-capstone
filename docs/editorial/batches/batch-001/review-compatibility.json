@@ -1,0 +1,10 @@
+[
+  {
+    "entryId": "animal-farm",
+    "bodyHash": "91e145932524908a",
+    "previousImageHash": "9fdf0abbad532b11",
+    "optionId": "C",
+    "optionFingerprint": "b369c9b7eb0621fc",
+    "reason": "The user selected C and named it as the framing reference. Its file, edition, label and description remain unchanged; only another candidate and technical review notes changed."
+  }
+]

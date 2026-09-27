@@ -1,0 +1,57 @@
+/* These layouts are opt-in studies. Search, gallery cards, and categories keep their shared styles. */
+.daily-culture-app .discover-page :is(.explore-editorial, .explore-rooms, .explore-index, .explore-switchboard, .explore-lenses, .explore-stream) :is(button, summary, [role="tabpanel"]):focus-visible {
+  outline: 2px solid var(--app-muted) !important;
+  outline-offset: 2px !important;
+}
+.daily-culture-app .discover-page[data-explore-variant] .explore-collection-card {
+  min-width: 0;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  transition: opacity 160ms ease;
+}
+
+.daily-culture-app .discover-page[data-explore-variant] .explore-collection-card:hover { opacity: .82; }
+.daily-culture-app .discover-page[data-explore-variant] .explore-collection-card:active { opacity: .65; }
+.daily-culture-app .discover-page[data-explore-variant] .explore-collection-card .discover-card-copy { gap: 3px; font-size: 11px; line-height: 16px; }
+.daily-culture-app .discover-page[data-explore-variant] .explore-collection-card strong { font-size: 14px; line-height: 18px; letter-spacing: 0; }
+.daily-culture-app .discover-page[data-explore-variant] .explore-collection-images { position: relative; display: flex; min-width: 0; }
+.daily-culture-app .discover-page[data-explore-variant] .explore-collection-images img { display: block; min-width: 0; object-fit: cover; border-radius: 4px; background: var(--app-surface); }
+
+/* 01: Compact rows let the artwork grid lead the page. */
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-layout { display: grid; }
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-card {
+  display: grid;
+  grid-template-columns: 86px minmax(0, 1fr) 14px;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 4px;
+  border-radius: 0;
+  border-bottom: 1px solid var(--app-divider);
+}
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-card:first-child { padding-top: 0; }
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-card:last-child { padding-bottom: 0; border-bottom: 0; }
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-images { height: 64px; align-items: center; }
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-images img { width: 48px; height: 60px; }
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-images img + img { margin-left: -12px; border: 2px solid var(--app-bg); height: 64px; }
+.daily-culture-app .discover-page[data-explore-variant="gallery-first"] .explore-collection-arrow { color: var(--app-muted); }
+
+/* 02: Two images explain the collection before its title, in a horizontal rail. */
+.daily-culture-app .discover-page[data-explore-variant="collections-first"] .explore-collection-track { display: flex; gap: 12px; align-items: flex-start; }
+.daily-culture-app .discover-page[data-explore-variant="collections-first"] .explore-collection-card { display: flex; flex: 0 0 264px; width: 264px; flex-direction: column; gap: 8px; }
+.daily-culture-app .discover-page[data-explore-variant="collections-first"] .explore-collection-images { display: grid; grid-template-columns: 1.35fr 1fr; gap: 4px; width: 100%; height: 156px; }
+.daily-culture-app .discover-page[data-explore-variant="collections-first"] .explore-collection-images img { width: 100%; height: 156px; }
+.daily-culture-app .discover-page[data-explore-variant="collections-first"] .explore-collection-card .discover-card-copy { padding: 0 4px; }
+
+/* 03: A compact shelf gives all three collections equal space. */
+.daily-culture-app .discover-page[data-explore-variant="compact-browse"] .explore-collection-layout { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.daily-culture-app .discover-page[data-explore-variant="compact-browse"] .explore-collection-card { display: flex; flex-direction: column; gap: 8px; }
+.daily-culture-app .discover-page[data-explore-variant="compact-browse"] .explore-collection-images { width: 100%; aspect-ratio: 4 / 5; padding: 0 6px 4px 0; }
+.daily-culture-app .discover-page[data-explore-variant="compact-browse"] .explore-collection-images img { position: absolute; inset: 0 6px 4px 0; width: calc(100% - 6px); height: calc(100% - 4px); z-index: 1; }
+.daily-culture-app .discover-page[data-explore-variant="compact-browse"] .explore-collection-images img + img { inset: 4px 0 0 6px; z-index: 0; opacity: .55; }
+.daily-culture-app .discover-page[data-explore-variant="compact-browse"] .explore-collection-card strong { font-size: 12px; line-height: 16px; }
+.daily-culture-app .discover-page[data-explore-variant="compact-browse"] .explore-collection-card .discover-card-copy { font-size: 10px; line-height: 14px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .daily-culture-app .discover-page[data-explore-variant] .explore-collection-card { transition: none; }
+}

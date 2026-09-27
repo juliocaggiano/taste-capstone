@@ -1,0 +1,65 @@
+/* Search's compact row is shared by every active artwork list. */
+.daily-culture-app button.artwork-list-row {
+  display: grid;
+  width: 100%;
+  min-width: 0;
+  grid-template-columns: 64px minmax(0, 1fr);
+  align-items: start;
+  column-gap: 16px;
+  row-gap: 0;
+  min-height: 60px;
+  margin: 0;
+  padding: 8px 4px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--app-text);
+  text-align: left;
+  font: 400 13px/16px var(--app-sans);
+  letter-spacing: 0;
+}
+
+.daily-culture-app button.artwork-list-row + button.artwork-list-row {
+  border-top: .5px solid color-mix(in srgb, var(--app-muted) 22%, transparent);
+}
+
+.daily-culture-app button.artwork-list-row .artwork-list-image {
+  width: 64px;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  max-height: none;
+  border-radius: 2px;
+  object-fit: cover;
+  background: var(--app-bg);
+}
+
+.daily-culture-app button.artwork-list-row .artwork-list-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+  font: inherit;
+  letter-spacing: 0;
+  overflow-wrap: anywhere;
+}
+
+.daily-culture-app button.artwork-list-row .artwork-list-copy strong {
+  color: var(--app-text);
+  font: inherit;
+  font-weight: 500;
+}
+
+.daily-culture-app button.artwork-list-row .artwork-list-author {
+  color: var(--app-muted);
+  font: inherit;
+}
+
+.daily-culture-app button.artwork-list-row:focus-visible {
+  outline: 1px solid var(--app-muted);
+  outline-offset: -1px;
+}
+
+.daily-culture-app[data-text-size="large"] button.artwork-list-row {
+  font-size: 14px;
+  line-height: 18px;
+}

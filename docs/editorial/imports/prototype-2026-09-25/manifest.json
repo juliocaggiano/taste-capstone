@@ -1,0 +1,29 @@
+{
+  "importId": "prototype-2026-09-25",
+  "authorization": "User requested launching the current approved artworks with their images on the local prototype.",
+  "capturedAt": "2026-09-25T20:56:19.124Z",
+  "reviewUrl": "http://127.0.0.1:4184/REVIEW.html#approved",
+  "appUrl": "http://127.0.0.1:4173/",
+  "entryIds": [
+    "michelangelo-david",
+    "stanczyk",
+    "death-of-marat",
+    "the-ambassadors",
+    "goya-third-of-may",
+    "potato-eaters",
+    "the-gleaners",
+    "liberty-leading-the-people",
+    "school-of-athens",
+    "beethoven-symphony-nine",
+    "billie-holiday-strange-fruit",
+    "joao-gilberto-chega-saudade",
+    "animal-farm",
+    "vidas-secas",
+    "the-great-gatsby",
+    "eternal-sunshine",
+    "soul",
+    "im-still-here"
+  ],
+  "entryCount": 18,
+  "publicationStatus": "not_published"
+}

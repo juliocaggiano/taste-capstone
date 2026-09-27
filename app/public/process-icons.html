@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Icon variations · Taste (V1.2)</title>
+    <style>
+      @font-face {
+        font-family: "PP Neue Montreal";
+        src: local("PPNeueMontrealTT-Regular"), local("PP Neue Montreal TT Regular");
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+      }
+      :root {
+        font-family: "PP Neue Montreal", "PP Neue Montreal TT", system-ui, sans-serif;
+        font-synthesis: none;
+        -webkit-font-smoothing: antialiased;
+        color: #252525;
+        background: #fff;
+        --muted: #6e6e6e;
+        --surface: #f2f2f2;
+        --line: rgb(37 37 37 / 14%);
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; }
+      a { color: inherit; text-decoration: none; }
+      a:focus-visible { outline: 2px solid #252525; outline-offset: 4px; }
+      main { width: min(100%, 1080px); margin: 0 auto; padding: 28px 32px 48px; }
+      .topbar { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+      .brand { font-size: 14px; line-height: 20px; white-space: nowrap; }
+      .back { display: inline-flex; align-items: center; gap: 8px; min-height: 36px; border-radius: 4px; color: var(--muted); font-size: 12px; line-height: 16px; }
+      .back:hover { color: #252525; text-decoration: underline; text-underline-offset: 3px; }
+      .page-heading { margin: 52px 0 24px; }
+      h1 { margin: 0; font-size: 32px; line-height: 40px; letter-spacing: -.5px; font-weight: 400; }
+      .variants { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+      .variant { min-width: 0; padding: 20px; border: 1px solid var(--line); border-radius: 8px; }
+      .variant-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+      h2 { margin: 0; font-size: 20px; line-height: 24px; font-weight: 400; }
+      .number { color: var(--muted); font-size: 11px; line-height: 16px; font-variant-numeric: tabular-nums; }
+      .samples { list-style: none; margin: 0; padding: 8px 12px; border-radius: 6px; background: var(--surface); }
+      .samples li { display: flex; align-items: center; gap: 12px; min-height: 44px; font-size: 14px; line-height: 20px; }
+      .samples svg { display: block; flex: 0 0 16px; width: 16px; height: 16px; fill: currentColor; }
+      .variant-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 20px; }
+      .size { color: var(--muted); font-size: 11px; line-height: 16px; }
+      .preview { display: inline-flex; align-items: center; justify-content: center; min-height: 32px; padding: 6px 14px; border: 1px solid var(--line); border-radius: 4px; font-size: 12px; line-height: 18px; transition: background-color 150ms ease; }
+      .preview:hover { background: var(--surface); }
+      @media (max-width: 700px) {
+        main { max-width: 480px; padding: 20px 20px 32px; }
+        .topbar { align-items: flex-start; gap: 12px; flex-direction: column; }
+        .page-heading { margin: 28px 0 20px; }
+        h1 { font-size: 28px; line-height: 36px; }
+        .variants { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+      }
+      @media (pointer: coarse) { .back, .preview { min-height: 44px; } }
+      @media (prefers-reduced-motion: reduce) { .preview { transition: none; } }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="topbar">
+        <div class="brand">Taste</div>
+        <a class="back" href="/?view=scrum"><span aria-hidden="true">←</span>Back to Process documentation</a>
+      </div>
+      <header class="page-heading"><h1>Icon variations</h1></header>
+      <section class="variants" aria-label="Filled icon variations">
+        <article class="variant" aria-labelledby="panels-title">
+          <div class="variant-heading"><h2 id="panels-title">Panels</h2><span class="number">01</span></div>
+          <ul class="samples">
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#panels-board" /></svg>Board</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#panels-list" /></svg>List</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#panels-plan" /></svg>Sprint plan</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#panels-backlog" /></svg>Product backlog</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#panels-about" /></svg>About</li>
+          </ul>
+          <div class="variant-footer"><span class="size">16px</span><a class="preview" href="/?view=scrum&amp;process-icons=panels" target="_blank" rel="noopener" aria-label="Preview Panels icons in a new tab">Preview</a></div>
+        </article>
+        <article class="variant" aria-labelledby="tiles-title">
+          <div class="variant-heading"><h2 id="tiles-title">Tiles</h2><span class="number">02</span></div>
+          <ul class="samples">
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#tiles-board" /></svg>Board</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#tiles-list" /></svg>List</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#tiles-plan" /></svg>Sprint plan</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#tiles-backlog" /></svg>Product backlog</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#tiles-about" /></svg>About</li>
+          </ul>
+          <div class="variant-footer"><span class="size">16px</span><a class="preview" href="/?view=scrum&amp;process-icons=tiles" target="_blank" rel="noopener" aria-label="Preview Tiles icons in a new tab">Preview</a></div>
+        </article>
+        <article class="variant" aria-labelledby="minimal-title">
+          <div class="variant-heading"><h2 id="minimal-title">Minimal</h2><span class="number">03</span></div>
+          <ul class="samples">
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#minimal-board" /></svg>Board</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#minimal-list" /></svg>List</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#minimal-plan" /></svg>Sprint plan</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#minimal-backlog" /></svg>Product backlog</li>
+            <li><svg viewBox="0 0 16 16" aria-hidden="true" focusable="false"><use href="/assets/process-icons/variants.svg#minimal-about" /></svg>About</li>
+          </ul>
+          <div class="variant-footer"><span class="size">16px</span><a class="preview" href="/?view=scrum&amp;process-icons=minimal" target="_blank" rel="noopener" aria-label="Preview Minimal icons in a new tab">Preview</a></div>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>

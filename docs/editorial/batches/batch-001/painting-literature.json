@@ -1,0 +1,444 @@
+[
+  {
+    "id": "stanczyk",
+    "medium": "painting",
+    "title": "Stańczyk",
+    "creator": "Jan Matejko",
+    "dateDisplay": "1862",
+    "dateStart": 1862,
+    "dateEnd": null,
+    "body": "A court jester sits alone in a red costume while a royal ball continues in the next room. His hands are clasped, his face is serious, and he seems to have lost all interest in entertaining anyone. The title of Jan Matejko’s painting connects his concern to the loss of Smolensk, a fortress captured by Muscovite forces in 1514. A setback for the country has scarcely interrupted the party.\n\nStańczyk served Poland’s Renaissance rulers and became remembered as a jester whose wit included political judgment. That reputation gives the scene its irony: the man paid to make the court laugh understands the seriousness of its situation, while the people with greater authority carry on enjoying themselves. Matejko lets the contrast between the two rooms make the criticism.\n\nHe painted this in 1862, long after the defeat, when Poland itself had been divided among Russia, Prussia and Austria. For his audience, the failures of earlier rulers belonged to a history whose consequences they still lived with. Matejko also gave the jester his own face. Placing himself in that uncomfortable role suggests what he wanted historical painting to do: bring neglected questions about the country’s past back into public view.",
+    "sources": [
+      {
+        "title": "National Museum in Warsaw: Stańczyk, object 446753",
+        "url": "https://cyfrowe.mnw.art.pl/pl/zbiory/446753",
+        "role": "holding-museum catalogue",
+        "supports": "Artist, date, title, collection and historical interpretation; current catalogue cautions against a literal reconstruction of the court event."
+      },
+      {
+        "title": "National Museum in Warsaw: public catalogue record",
+        "url": "https://cyfrowe-api.mnw.art.pl/api/object/446753",
+        "role": "primary catalogue metadata",
+        "supports": "Machine-readable museum record, public curatorial description, 1862 creation date and museum public-domain label."
+      },
+      {
+        "title": "Anna Cymer: Stańczyk — Jan Matejko",
+        "url": "https://culture.pl/en/work/stanczyk-jan-matejko",
+        "role": "institutional interpretation",
+        "supports": "Jester and court contrast, national concern under partition, Matejko’s self-likeness and his understanding of historical painting."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_16_PAINTING_BOOK_FILM.md",
+      "baselineSection": "Stańczyk / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: tightened the role inversion, brought the constructed-history caveat into the prose, and connected partition and self-likeness to the painting’s political account. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/Sta-czyk-197c5450872d8057a498e8437e945765?pvs=25",
+      "feedbackRevision": {
+        "date": "2026-09-25",
+        "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+        "baselineBodySha256": "16bf58e4082ca097e487fb2e6e55f02a3959bd37fa5ac5663f33163ac0bcb0a4",
+        "change": "25 September 2026: deletes only the first paragraph’s final historicity warning requested by Julio; all remaining prose unchanged. The warning is not relocated into the reading text.",
+        "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+      },
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Restored the scene-to-history movement of preferred round 16 A; explained the court role and the later loss of independence.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "meaningBrief": "The jester takes public responsibility seriously while the court celebrates; Matejko relates that failure to a partitioned Poland.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/1280px-Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+      "altText": "A court jester dressed in red sits alone while a royal ball continues through an open doorway.",
+      "credit": "Jan Matejko / National Museum in Warsaw; photograph credited in file metadata to Krzysztof Wilczyński / Muzeum Narodowe w Warszawie.",
+      "license": "Commons marks the reproduction PD-Art/Public Domain Mark; museum catalogue marks the work public domain. The file also retains a photographer copyright field.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact painting, 1862. Remote review reference only. Conflicting reproduction metadata and app reuse remain to be reviewed."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "revision": 4,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "editorialDecisionId": null
+  },
+  {
+    "id": "death-of-marat",
+    "medium": "painting",
+    "title": "The Death of Marat",
+    "creator": "Jacques-Louis David",
+    "dateDisplay": "1793",
+    "dateStart": 1793,
+    "dateEnd": null,
+    "body": "Jean-Paul Marat spent much of his final day working in a bath, where the water relieved a painful skin condition. He was a journalist and politician during the French Revolution, known for demanding harsh action against its enemies. In July 1793, Charlotte Corday, who opposed his politics, gained access to him and stabbed him. His friend and political ally Jacques-Louis David was asked to paint the murdered man.\n\nDavid’s Marat looks very different from the combative figure his opponents knew. His face is peaceful, his diseased skin appears unmarked, and a plain wooden box serves as his desk. He still holds a letter, as if death had interrupted his work for someone seeking help. Together, these details present a modest public servant whose concern for others continued until his last moments.\n\nThe hanging arm and lowered head would also have looked familiar to people accustomed to Christian paintings of the dead Christ. David drew on that visual tradition to give a political death the dignity of religious sacrifice. A viewer did not need to know Marat’s speeches or journalism to understand the kind of person the painting asked them to mourn.\n\nThat account had a public purpose. David was a member of the National Convention, the assembly governing France, and the painting hung where its deputies met. Marat’s role in revolutionary violence is absent from the image. What the assembly saw instead was an example of devotion to the Revolution, shaped by an artist who shared the cause.",
+    "sources": [
+      {
+        "title": "Royal Museums of Fine Arts of Belgium: Marat assassiné",
+        "url": "https://fine-arts-museum.be/fr/la-collection/jacques-louis-david-marat-assassine",
+        "role": "holding-museum catalogue",
+        "supports": "1793 original, David, inventory 3260; holding-museum identity reference."
+      },
+      {
+        "title": "Musée du Louvre: Une icône de la Révolution",
+        "url": "https://www.louvre.fr/expositions-et-evenements/expositions/jacques-louis-david/oeuvres-en-lumiere/une-icone-de-la-revolution",
+        "role": "curatorial analysis",
+        "supports": "Convention commission and David’s deputy status; idealized body, Christian martyr imagery, Caravaggio comparison, simple living and paired Convention display. French page freshly reread 24 September 2026; local reproduction visually inspected."
+      },
+      {
+        "title": "Stanford: The life and radicalization of Jean-Paul Marat",
+        "url": "https://news.stanford.edu/stories/2025/11/jean-paul-marat-biography-history-prophet-terror-book",
+        "role": "historian’s account and authorized biography excerpt",
+        "supports": "Marat’s advocacy of executing perceived revolutionary enemies; Corday’s killing; skin illness and medicinal baths. Freshly reread 24 September 2026; no specific medical diagnosis asserted."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_09_PAINTING_BOOK_FILM.md",
+      "baselineSection": "The Death of Marat / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: added Marat’s advocacy of executions to distinguish the historical politician from David’s martyr image; connected directly inspected body and desk details to idealization; retained commission and political display. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/The-Death-of-Marat-a7d07117ffee4ce58dba61a3846b0908?pvs=25",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Joined Marat’s death, David’s choices and the painting’s public use in one chronological account, following preferred round 9 A.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "meaningBrief": "David uses a religious language of sacrifice to shape a political ally into a revolutionary martyr.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "altText": "The full painting of Marat lying in his bath, with a letter in his hand, his other arm hanging down, and a wooden box beside him.",
+      "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium; Google Art Project reproduction, derivative file uploaded by Wikimedia Commons user Pixel8tor.",
+      "license": "Commons identifies this faithful reproduction as PD-Art/Public Domain Mark 1.0; app reuse is not yet cleared.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Full Brussels original, inventory 3260. Selected preview is 1920 × 2471 pixels, from the 3885 × 5000 Commons file. Replaces the 295-pixel museum image after visual QA. This is a derivative Google Art Project reproduction, not a new photograph by the museum photographer credited for the previous image."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "revision": 3,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "editorialDecisionId": null
+  },
+  {
+    "id": "the-ambassadors",
+    "medium": "painting",
+    "title": "The Ambassadors",
+    "creator": "Hans Holbein the Younger",
+    "dateDisplay": "1533",
+    "dateStart": 1533,
+    "dateEnd": null,
+    "body": "The strange shape at these men’s feet is a skull. Seen from directly in front, it looks stretched almost beyond recognition; viewed from a sharp angle on the right, it falls into proportion. Holbein placed this optical surprise beneath a portrait of two French diplomats whose clothes and possessions advertise almost everything a successful man could want in 1533: wealth, education and influence.\n\nThe objects between them include books, a globe and instruments for measuring the heavens. These were signs of learning as well as expensive possessions. Yet the skull adds something their accomplishments cannot secure. It belongs to the tradition of *memento mori*, a Latin phrase meaning “remember that you must die.” European artists often included reminders of death in portraits, placing a person’s status beside the knowledge that it would not last forever.\n\nHolbein makes that familiar reminder require an actual change of position. The distortion, called anamorphosis, lets the skull become clear as the impressive portrait slips out of its usual view. Its Christian context appears in a second, easily missed detail: a crucifix partly hidden behind the curtain at the upper left. For the painting’s original audience, death was bound up with questions of salvation and life after death. The diplomats’ achievements fill most of the picture, but those beliefs give it another measure of a human life.",
+    "sources": [
+      {
+        "title": "National Gallery: The Ambassadors",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+        "role": "holding-museum catalogue and interpretation",
+        "supports": "1533 identity; diplomats Jean de Dinteville and Georges de Selve; wealth and learning; distorted skull seen from the right; crucifix and Christian salvation."
+      },
+      {
+        "title": "Susan Foister: The Ambassadors, National Gallery catalogue, 2024",
+        "url": "https://www.nationalgallery.org.uk/paintings/catalogues/foister-2024/the-ambassadors",
+        "role": "substantive catalogue research",
+        "supports": "Mortality and Christian redemption alongside the portrait’s worldly accomplishments; interpretive complexities and historical context."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_07_PAINTING_BOOK_FILM.md",
+      "baselineSection": "The Ambassadors / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: made the viewing action and memento mori tradition easier to follow, then connected mortality directly to the crucifix’s Christian promise. Preserved the central account without adding an instrument inventory or speculative viewing-position thesis. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/The-Ambassadors-a5a7e834adf345e9a472402b73767bc7?pvs=25",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Led with the defining skull and explained the objects, memento mori and crucifix together, following round 7 A.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "meaningBrief": "The distorted skull places worldly accomplishments within a Christian meditation on death and salvation.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+      "altText": "Two richly dressed diplomats stand beside shelves of instruments and books, with a distorted skull across the foreground.",
+      "credit": "Hans Holbein the Younger; collection: National Gallery, London; digital reproduction via Wikimedia Commons. Photographer not identified.",
+      "license": "Commons marks this faithful reproduction PD-Art/Public Domain Mark.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact work matched to the National Gallery catalogue. Commons lists a third-party reproduction source; retain provenance and review image quality and app rights separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "revision": 3,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "editorialDecisionId": null
+  },
+  {
+    "id": "animal-farm",
+    "medium": "literature",
+    "title": "Animal Farm",
+    "creator": "George Orwell",
+    "dateDisplay": "1945",
+    "dateStart": 1945,
+    "dateEnd": null,
+    "body": "In George Orwell’s *Animal Farm* (1945), farm animals overthrow an owner who takes the produce of their labour. They want enough food, an end to beatings, and a share in what their work creates. Their rebellion begins with a practical hope: life should improve when those doing the work control the farm.\n\nThe pigs soon reserve the milk and apples for themselves. Their spokesman, Squealer, says their intellectual work requires better food. He presents this privilege as necessary for everyone’s welfare, then warns that the old farmer could return. The animals’ fear of losing their freedom helps the pigs secure advantages over them.\n\nBoxer, the cart-horse, responds to each difficulty with the promise, “I will work harder!” His strength and loyalty help keep the farm running. But he answers failures of leadership by demanding more of himself. His willingness to serve the others makes him especially useful to rulers who take an increasing share of their labour.\n\nNapoleon, the pigs’ leader, ends public debate and uses dogs to enforce obedience. The pigs change the rules to permit conduct once forbidden to everyone. The farm’s principle of equality eventually becomes: “All animals are equal, but some animals are more equal than others.” The words still promise equality, while authorising unequal treatment.\n\nOrwell wrote the fable in response to Stalin’s Soviet Union. He regarded its ruling hierarchy as a betrayal of the revolution’s promise of liberation. He supported socialism and objected to defending Soviet repression in its name. The animals’ wish for a fairer society has good reasons behind it. Their leaders exploit that hope, along with their fear of returning to the old life.",
+    "sources": [
+      {
+        "title": "George Orwell: Animal Farm, English text",
+        "url": "https://gutenberg.net.au/ebooks01/0100011h.html",
+        "role": "primary work",
+        "supports": "Early equality and hope; milk and apples; Boxer’s recurring promise; Napoleon’s dogs, rule changes and coercion; the altered equality maxim."
+      },
+      {
+        "title": "George Orwell: Preface to the Ukrainian Edition of Animal Farm",
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/animal-farm/preface-to-the-ukrainian-edition-of-animal-farm-by-george-orwell/",
+        "role": "author’s historical explanation",
+        "supports": "Orwell’s socialism and criticism of Soviet class hierarchy. English text is a back-translation of a shortened Ukrainian translation, not the lost original English preface."
+      },
+      {
+        "title": "John Molyneux: Animal Farm revisited, 1989",
+        "url": "https://www.marxists.org/history/etol/writers/molyneux/1989/xx/orwell.html",
+        "role": "substantive literary and political criticism",
+        "supports": "Freshly read literary and political criticism: self-serving justification of pig privileges, justifiable hopes for equality, Boxer’s labour, and the distinction between Orwell’s stated politics and possible readings of the fable. The critic disputes a wholly socialist reading; his interpretation is not treated as the author’s intent."
+      },
+      {
+        "title": "Penguin: Animal Farm",
+        "url": "https://www.penguin.co.uk/books/433229/animal-farm-by-orwell-george/9781787302525",
+        "role": "publisher publication history",
+        "supports": "First publication in 1945; this linked product is a later edition, not the edition used for the article’s quotations."
+      },
+      {
+        "title": "r/books: deleted post, surviving Animal Farm discussion",
+        "url": "https://www.reddit.com/r/books/comments/1mag52w/deleted_by_user/",
+        "role": "public reception clue only",
+        "supports": "Freshly read surviving comments show emotional response to Boxer and disagreement over reducing the fable to an anti-communist slogan. No votes exposed; deleted post and contemporary political analogies are not used as authority."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+      "baselineSection": "animal-farm",
+      "changes": [
+        "Retained Boxer’s requested meaningful motto and the altered equality maxim; linked Boxer’s self-demand explicitly to the failure of leadership.",
+        "Clarified the animals’ material hopes, fear of restoration, and Orwell’s socialist objection to Soviet hierarchy. Removed the isolated repetition about rulers and equality."
+      ],
+      "notionUrl": "https://app.notion.com/p/Animal-Farm-A-revolu-o-dos-bichos-45aa8ff8110f4474bc4a76d3bcf1cccc?pvs=25",
+      "previousBaselineFile": "docs/editorial/research-2026-09-21/ROUND_16_ANIMAL_FARM_BOXER_ADDITION.json",
+      "previousBaselineSection": "A_with_Boxer",
+      "previousChanges": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "Uses the separately requested Boxer addition; that addition has not received separate approval.",
+        "Block quotation converted to an inline quotation. No factual rewrite."
+      ],
+      "baselineBodySha256": "645843ebb7fc5856348b525f9d89fef7b5f8ddda1e4a25d4b13763608f0abf27",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "A justified desire for relief from exploitation becomes vulnerable to leaders who claim privilege in the name of collective welfare. Fear, loyalty, changed rules and force explain the loss of control. Boxer supplies the emotional cost without disclosing his fate. Orwell’s socialist critique distinguishes betrayed equality from an assertion that equality itself is futile.",
+    "quotationNotes": [
+      {
+        "text": "I will work harder!",
+        "wordCount": 4,
+        "sourceUrl": "https://gutenberg.net.au/ebooks01/0100011h.html",
+        "locator": "Chapter III",
+        "language": "English original",
+        "translator": null,
+        "note": "Boxer’s personal motto in response to each problem and setback. Exact wording."
+      },
+      {
+        "text": "All animals are equal, but some animals are more equal than others.",
+        "wordCount": 12,
+        "sourceUrl": "https://gutenberg.net.au/ebooks01/0100011h.html",
+        "locator": "Chapter X",
+        "language": "English original",
+        "translator": null,
+        "note": "Exact lexical wording; baseline normalizes the source’s two uppercase lines to sentence case and supplies a comma and final period. Later thematic revelation, with no character fate disclosed."
+      },
+      {
+        "note": "Total quoted words in this entry: 16. Gutenberg Australia transcription by Colin Choat, first posted 2001 and updated 2008; the underlying printed copy is not specified. No claim of a particular first-edition text. App text and quotation clearance remain separate from public-domain status in the source’s jurisdiction."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://img1.bonhams.com/image?src=Images%2Flive%2F2024-02%2F20%2F60125380-1-1.jpg",
+      "referenceUrl": "https://www.bonhams.com/auction/29869/lot/112/orwell-george-animal-farm-a-fairy-story-first-edition-first-issue-with-may-1945-on-copyright-page-secker-and-warburg-1945/",
+      "altText": "Green and grey first-edition dust jacket of Animal Farm: A Fairy Story by George Orwell.",
+      "credit": "Bonhams auction photograph; Secker & Warburg first edition, 1945. Jacket designer not established.",
+      "license": "No open reuse license identified for the auction photograph or jacket design.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Catalogued as first edition, first issue, with May 1945 on the copyright page. This is not a claim that the novel was publicly released in May. Image URL is live; page metadata was available through search, while direct web-page retrieval returned 403. Review reference only."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "vidas-secas",
+    "medium": "literature",
+    "title": "Vidas Secas",
+    "creator": "Graciliano Ramos",
+    "dateDisplay": "1938",
+    "dateStart": 1938,
+    "dateEnd": null,
+    "body": "Graciliano Ramos’s *Vidas Secas* (1938) follows a fictional family of *retirantes*: people driven from their homes by drought and poverty. Fabiano, Sinha Vitória, their two boys and their dog, Baleia, cross Brazil’s northeastern interior looking for food and work. A farm where they can stay offers relief, but little security.\n\nFabiano works as a cattle herder on land he does not own. His employer pays him less than he is owed. When Fabiano complains, the man tells him to look for work elsewhere. Losing the job would also mean losing the family’s home. This dependence helps explain why their poverty continues even when the drought ends.\n\nFabiano struggles to put his thoughts into words before people who can punish or dismiss him. Their authority makes him doubt his own worth. “You’re an animal, Fabiano,” he tells himself, while also taking pride in his endurance. The narration lets us follow thoughts that he cannot easily express aloud. Sinha Vitória’s calculations, the boys’ curiosity and Baleia’s affection give each a life beyond the struggle for food.\n\nRamos had been imprisoned without formal charges under Getúlio Vargas in 1936. He later connected living alongside poor prisoners with his ability to write about their lives. The novel gives sustained attention to people whose limited speech and low social standing make it easy for others to disregard them.\n\nThe parents imagine a city where their boys could attend school. Their imagined city remains unnamed. The search connects their story to Brazil’s wider history of internal migration. From 1935, São Paulo subsidised migrants’ journeys to supply its coffee and cotton farms with workers. That history helps explain the uncertainty surrounding the family’s hope: leaving the drought could bring new work without ending their dependence on employers.",
+    "sources": [
+      {
+        "title": "Vidas seccas, first edition, 1938 — Biblioteca Brasiliana Guita e José Mindlin",
+        "url": "https://brasiliana.usp.br/handle/bbm/8399",
+        "role": "primary edition catalogue",
+        "supports": "1938 first-edition identity and scan provenance."
+      },
+      {
+        "title": "Vidas seccas, 1938 first-edition scan",
+        "url": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+        "role": "primary work",
+        "supports": "Fabiano’s self-description on printed page 23; household and work dependence; closing family hopes and narrator’s anticipated confinement on printed pages 196–197."
+      },
+      {
+        "title": "João Roberto Maia: Vidas secas and land/labor relations",
+        "url": "https://www.scielo.br/j/alea/a/rNBYPktCKPyMkZTp875f7Gj/",
+        "role": "substantive literary criticism",
+        "supports": "Poverty outside drought, dependence on landowners, wage cheating, and migration into broader labor relations."
+      },
+      {
+        "title": "Casa Museu Graciliano Ramos: 1936",
+        "url": "https://www.casagracilianoramos.com.br/sala-6-memorias-do-carcere/1936-",
+        "role": "author museum chronology",
+        "supports": "Arrest on 3 March 1936 and release on 13 January 1937, without a formal accusation, under Vargas."
+      },
+      {
+        "title": "Zenir Campos Reis: Tempos futuros — Vidas secas, de Graciliano Ramos",
+        "url": "https://www.scielo.br/j/ea/a/4P76p7GKXFft33XjbtKdLqk/?format=html&lang=pt",
+        "role": "substantive criticism and documented author statements",
+        "supports": "Prison experience, poor people’s inner lives, self-description and endurance, individual family perspectives, and the cyclic ending."
+      },
+      {
+        "title": "Museu da Imigração: Brasileiros na Hospedaria — Percursos, ocupação e trabalho",
+        "url": "https://www.museudaimigracao.org.br/en/blog/conhecendo-o-acervo/brasileiros-na-hospedaria-percursos-ocupacao-e-trabalho",
+        "role": "historical museum research",
+        "supports": "São Paulo’s 1935 policy subsidizing internal migrants’ journeys for cotton and coffee cultivation; real context distinguished from the fictional family’s trajectory."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+      "baselineSection": "vidas-secas",
+      "changes": [
+        "Preserved the praised employer/pay/housing paragraph verbatim.",
+        "Moved the family’s interior lives ahead of author biography; clarified the contribution of narration and the link between speech, authority and shame.",
+        "Replaced the vague anticipated trap in a city with a qualified account of migration; explicitly distinguishes real São Paulo policy from the fictional family’s destination."
+      ],
+      "notionUrl": "https://app.notion.com/p/Vidas-Secas-5f85462daca6485081a8fea9d7409455?pvs=25",
+      "previousBaselineFile": "docs/editorial/CALIBRATION_18_PARAGRAPH_REVISION.md",
+      "previousBaselineSection": "Complete A with only that paragraph changed",
+      "previousChanges": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "Retains the paragraph-two repair preferred by Julio; that preference does not imply approval of the whole entry. No factual rewrite."
+      ],
+      "baselineBodySha256": "fb2389c77c17d3bac90cd077993de319d71d7b53bd0deccd84dd8ce3e9575489",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "Drought drives the family out, but land and job dependence sustain poverty during relief. Limited speech and imposed inferiority coexist with thought, skill, affection and hopes for schooling. The preserved employer paragraph explains the practical trap. Author imprisonment and real migration policy supply bounded historical context, without asserting that the fictional family reaches São Paulo.",
+    "quotationNotes": [
+      {
+        "text": "You’re an animal, Fabiano",
+        "wordCount": 4,
+        "originalText": "Você é um bicho, Fabiano.",
+        "sourceUrl": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+        "locator": "1938 first edition, printed p. 23; one-based PDF p. 35",
+        "language": "Our English translation from Portuguese",
+        "translator": "Editorial translation prepared in this task; not a published English translator’s wording",
+        "note": "Fabiano speaks to himself. Context joins socially imposed low status with pride in his capacity to endure. Four quoted English words. Source ending punctuation is adapted to the surrounding attribution. The original first edition spells the title Vidas seccas; the display title uses the established modern spelling."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://www.editoradobrasil.com.br/wp-content/uploads/2024/06/capa_VIDAS-SECAS-scaled-e1719249807948.jpg",
+      "referenceUrl": "https://www.editoradobrasil.com.br/vidas-secas/",
+      "altText": "Title-bearing cover of Vidas secas by Graciliano Ramos, Editora do Brasil’s 2024 edition.",
+      "credit": "Editora do Brasil, 2024 edition of Graciliano Ramos’s Vidas secas. Individual cover artist not established from the publisher page.",
+      "license": "Publisher page states all rights reserved; no open reuse license identified for this cover image.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Later edition used as a recognizable review image, not the 1938 first edition. Publisher identifies this edition as 2024, ISBN 9788510096683, and provides this URL under “Imagem em alta”. Article quotations remain sourced to the 1938 USP scan. Replaces its unmarked binding image after visual QA."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "the-great-gatsby",
+    "medium": "literature",
+    "title": "The Great Gatsby",
+    "creator": "F. Scott Fitzgerald",
+    "dateDisplay": "1925",
+    "dateStart": 1925,
+    "dateEnd": null,
+    "body": "F. Scott Fitzgerald’s *The Great Gatsby* (1925) follows a society in which wealth brings admiration and protects people from consequences. Its narrator, Nick Carraway, enters this world during the summer of 1922, when he moves near wealthy neighbours on Long Island.\n\nHis neighbour Gatsby has risen from poverty and wants to recover his former relationship with Daisy Buchanan. She represents both someone he loves and the wealthy life he has imagined for himself. His fortune, made through criminal dealings, pays for the mansion and parties intended to attract her. Yet Daisy’s husband, Tom, still regards him as an inferior. Money buys Gatsby possessions and attention, while inherited status remains harder to acquire.\n\nTom’s own position requires no comparable effort. He is unfaithful to Daisy and violent toward his mistress, while continuing to claim social superiority. His conduct exposes the distance between being respected for wealth and deserving respect. Nick describes how Tom and Daisy “smashed up things and creatures and then retreated back into their money”. Their protection lets them leave others to bear the consequences of their choices.\n\nGatsby’s ambition draws on the American promise that a person can rise beyond the circumstances of their birth. He invests that hope in Daisy and in the social world she belongs to. Recovering their relationship also means trying to make the past fit the future he has imagined.\n\nNick nevertheless admires Gatsby’s capacity to hope, even while disapproving of his conduct. Gatsby’s desire for a better life becomes tied to gaining acceptance among people whose behaviour gives him little reason to admire them.",
+    "sources": [
+      {
+        "title": "F. Scott Fitzgerald: The Great Gatsby, original English text",
+        "url": "https://www.gutenberg.org/files/64317/64317-h/64317-h.htm",
+        "role": "primary work",
+        "supports": "1922 story setting, Gatsby’s origins and criminal wealth, Tom’s conduct, class exclusion, Nick’s simultaneous disapproval and admiration, and the chapter IX quotation."
+      },
+      {
+        "title": "Daniel Shaviro: Bonfires of the American Dream in American Rhetoric, Literature, and Film",
+        "url": "https://www.law.nyu.edu/sites/default/files/Shaviro%20-%20Bonfires%20of%20the%20American%20Dream.pdf",
+        "role": "substantive literary and social analysis",
+        "supports": "Gatsby discussion, especially PDF pages 18–20: inherited standing, moral worth, protection from consequences, and contradictory aspiration. Previously read for the approved repair."
+      },
+      {
+        "title": "American Dreaming: Really Reading The Great Gatsby",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7467143/",
+        "role": "substantive literary criticism",
+        "supports": "Money, indifference, inherited privilege and Tom’s violence. Previously read for the approved repair; fresh access returned a browser challenge."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+      "baselineSection": "the-great-gatsby",
+      "changes": [
+        "Preserved the approved central relation between wealth, moral worth, social exclusion and Nick’s divided admiration.",
+        "Fixed quotation grammar; explained the American promise of advancement and Gatsby’s wish to recover the past through Daisy."
+      ],
+      "notionUrl": "https://app.notion.com/p/The-Great-Gatsby-217c5450872d804da0b4da43b5ebb66d?pvs=25",
+      "previousBaselineFile": "docs/editorial/research-2026-09-21/ROUND_14_FINAL_DRAFT.json",
+      "previousBaselineSection": "body",
+      "previousChanges": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "Approved round-14 prose retained. Block quotation converted to an inline quotation, with terminal punctuation for the resulting sentence. No factual rewrite."
+      ],
+      "baselineBodySha256": "526783357d690c2ef11e6e8a9b6538f642ccfd538bc7c070cc5674e8e2cd66d6",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "Gatsby’s longing joins love, self-invention and acceptance into inherited privilege. Nick sees both Gatsby’s hope and his compromised means. Tom’s violence and wealth-protected carelessness show why social standing does not establish moral worth. The American promise of advancement is explained through a specific desire rather than an abstract slogan.",
+    "quotationNotes": [
+      {
+        "text": "smashed up things and creatures and then retreated back into their money",
+        "wordCount": 12,
+        "sourceUrl": "https://www.gutenberg.org/files/64317/64317-h/64317-h.htm",
+        "locator": "Chapter IX, Nick’s retrospective description of Tom and Daisy",
+        "language": "English original",
+        "translator": null,
+        "note": "Exact continuous twelve-word excerpt from within a longer sentence; surrounding prose supplies speaker and referents. The quote does not disclose the late plot events. Project Gutenberg ebook 64317; do not claim a particular first-edition page number."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Gatsby_Cover_1925_Retouched.jpg",
+      "altText": "Blue first-edition dust jacket with floating eyes and red lips above a brightly lit city.",
+      "credit": "Francis Cugat, 1925 dust-jacket illustration; Charles Scribner’s Sons; digital restoration by Wikimedia Commons user Flask.",
+      "license": "Commons marks the image public domain in the United States because of publication date; this is not worldwide rights clearance.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "A digitally restored reproduction of the 1925 first-edition jacket, including scratch removal and color adjustments. Not an untouched scan. Review reference only."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  }
+]

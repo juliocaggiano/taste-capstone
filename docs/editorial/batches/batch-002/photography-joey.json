@@ -1,0 +1,79 @@
+[
+  {
+    "id": "portrait-of-engalo",
+    "title": "Portrait of Engalo",
+    "creator": "Joey Lawrence (Joey L.)",
+    "dateDisplay": "2008",
+    "dateStart": 2008,
+    "dateEnd": null,
+    "datePrecision": "year supported by photographer-published image metadata; exact timestamp not independently corroborated",
+    "body": "In 2008, Joey Lawrence photographed Engalo, a Mursi woman in Ethiopia’s Lower Omo Valley. White markings cover her face and shoulders, and light picks out her lip plate against the muted background. Lawrence made the series as posed colour portraits, using studio lighting. He wanted the people he photographed to appear as contemporaries, rather than inhabitants of a world outside modern life.\n\nFor Mursi women, a lip plate can express beauty, adulthood and belonging. It sits inside a pierced and stretched lower lip and can be removed. Women differ in whether they adopt the practice and how far they stretch their lips. The procedure is painful, and personal choices also meet family expectations about how a woman should look and behave.\n\nPhotography has added another use for the plate. Visitors pay women to pose, providing money for goods such as cloth and medicine. Some women assemble more elaborate decorations for these encounters. An appearance tourists treat as evidence of isolation can therefore be part of a relationship with an outside market.\n\nDuring fieldwork in 2004, anthropologist Shauna LaTosky recorded a disagreement between two other Mursi women. Legessa wanted her lip to shrink. She hoped to study and avoid the ridicule she expected outside Mursi communities. Barmille wanted to keep hers. For her, wearing a lip plate did not prevent education or participation in Ethiopian public life. Discussing Amharic, a language used in government and schooling, she said:\n\n> I can also learn Amharic even if I have a long dangling lip.",
+    "meaningBrief": "The named portrait offers a starting point for understanding lip plates as a socially meaningful and contested practice. Photography connects this appearance to tourist income. Women’s own differing perspectives complicate the idea that education and cultural belonging require a single choice. Do not attribute those perspectives to Engalo.",
+    "sources": [
+      {
+        "title": "Joey L.: The Omo Valley portfolio, Portrait of Engalo",
+        "url": "https://joeyl.com/portfolio/category/omo-valley",
+        "role": "photographer caption and original image",
+        "supports": "Exact identity, Mursi affiliation, Lower Omo Valley location, titled photograph, and published original image. The caption dates the whole series 2008–ongoing; the downloadable image’s embedded original capture date is 19 November 2008. The caption’s speculative slave-raider explanation is not adopted."
+      },
+      {
+        "title": "Melissa Leong: Joey Lawrence on his Ethiopian portrait project",
+        "url": "https://melissawleong.wordpress.com/2010/11/15/from-the-jonas-brothers-to-ethiopian-tribesmen/",
+        "role": "substantial photographer interview",
+        "supports": "Posed colour portraits and studio lighting; intention to depict the people as living in the same contemporary world as his audience. First-person account originally published by Weekend Post on 13 November 2010."
+      },
+      {
+        "title": "Mursi Online: Lip-plates",
+        "url": "https://www.mursi.org/introducing-the-mursi/Body%20Decoration/lip-plates",
+        "role": "specialist cultural explanation",
+        "supports": "Adult identity, individual variation, painful initial stretching, and removability. Its broad statement about freedom from coercion is qualified using LaTosky’s fieldwork."
+      },
+      {
+        "title": "Mursi Online: Body Decoration",
+        "url": "https://www.mursi.org/introducing-the-mursi/Body%20Decoration",
+        "role": "specialist account of changing appearance and tourist income",
+        "supports": "Income buys cloth, medicines and other market goods; some decorations are assembled for visitors. Does not establish why Engalo wore these particular white markings."
+      },
+      {
+        "title": "Shauna LaTosky: Reflections on the lip-plates of Mursi women as a source of stigma and self-esteem",
+        "url": "https://www.mursi.org/documents-and-texts/published-articles/shauna-latosky/the-lip-plates-of-mursi-women",
+        "role": "ethnographic fieldwork and recorded Mursi women’s discussion",
+        "supports": "Family pressure, divergent choices and the discussion between Legessa and Barmille, especially printed pages 390–392. Direct quotation at page 391. These speakers are not Engalo."
+      }
+    ],
+    "quotationNotes": [
+      {
+        "quote": "I can also learn Amharic even if I have a long dangling lip.",
+        "speaker": "Barmille, in conversation with Legessa and Shauna LaTosky",
+        "sourceUrl": "https://www.mursi.org/documents-and-texts/published-articles/shauna-latosky/the-lip-plates-of-mursi-women",
+        "locator": "Printed page 391; PDF page 10, zero-based index 9",
+        "context": "Barmille defends retaining her lip plate while also claiming educational opportunities. This is independent community context, not a quotation from the sitter.",
+        "translation": "English transcription/translation published by Shauna LaTosky; underlying audio not inspected.",
+        "selectionReason": "A concrete statement connects cultural self-presentation and schooling without an outsider’s abstract conclusion.",
+        "wordCount": 13
+      }
+    ],
+    "medium": "photography",
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "draftedOn": "2026-09-25",
+      "sourceBatchId": "batch-002",
+      "researchFile": "docs/editorial/batches/batch-002/photography-joey-research.md",
+      "basis": "New candidate following VOICE_GUIDE v0.20, saved Notion photography studies and Julio’s explicit Ethiopia direction. No previous approval transfers."
+    },
+    "media": {
+      "imageUrl": "image-options/assets/photography/b002-portrait-of-engalo-a.jpg",
+      "referenceUrl": "https://joeyl.com/portfolio/category/omo-valley",
+      "altText": "Engalo faces the camera with white markings on her face and shoulders, beaded necklaces and a lip plate, against a muted blue-grey background.",
+      "credit": "© Joey L. / Joey Lawrence",
+      "license": "All rights reserved; photographer’s publicly displayed portfolio image.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "One unaltered original image, following Julio’s instruction against artificial variants. Writing and image await review."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.21 and PHOTOGRAPHY_GUIDE v0.1; photography pilot, 25 September 2026"
+  }
+]

@@ -1,0 +1,236 @@
+.switch-accounts-flow {
+  position: absolute;
+  z-index: 80;
+  inset: 0;
+  overflow: hidden;
+  background: var(--app-bg);
+  color: var(--app-text);
+  isolation: isolate;
+}
+
+.device-screen:has(.switch-accounts-flow) .status-bar,
+.device-screen:has(.switch-accounts-flow) .home-indicator-svg { z-index: 85; }
+
+.switch-accounts-page {
+  position: absolute;
+  inset: 0;
+  background: var(--app-bg);
+}
+
+.switch-accounts-page[aria-hidden="true"] { pointer-events: none; }
+.switch-accounts-page .mobile-scroll { background: var(--app-bg); }
+.switch-accounts-page .mobile-scroll-content { min-height: 100%; }
+
+.switch-accounts-content {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  padding: var(--switch-accounts-top, 72px) 20px calc(var(--device-safe-area-bottom, 34px) + 20px);
+}
+
+.switch-accounts-nav {
+  display: grid;
+  min-height: 44px;
+  grid-template-columns: 44px minmax(0, 1fr) 44px;
+  align-items: center;
+  gap: 4px;
+}
+
+.switch-accounts-nav--chooser { display: flex; justify-content: flex-end; }
+.switch-accounts-nav--add { display: flex; justify-content: space-between; }
+
+.switch-accounts-nav h1 {
+  min-width: 0;
+  margin: 0;
+  overflow: hidden;
+  font: 400 16px/20px var(--app-sans);
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.switch-accounts-nav h1:focus { outline: none; }
+
+.daily-culture-app .switch-accounts-nav-button {
+  position: relative;
+  display: grid;
+  width: 44px;
+  height: 44px;
+  place-items: center;
+  border-radius: 4px;
+  color: var(--app-muted);
+  cursor: pointer;
+}
+
+.switch-accounts-nav-button::before {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  background: var(--app-surface);
+  content: "";
+}
+
+.switch-accounts-back-button::before,
+.switch-accounts-back-button:hover::before { content: none; }
+
+.switch-accounts-nav-button svg { position: relative; }
+.switch-accounts-nav-button:hover::before { background: var(--app-surface-raised); }
+
+.switch-accounts-intro { margin-top: 16px; }
+
+.switch-accounts-intro h2 {
+  margin: 0;
+  font: 400 20px/24px var(--app-sans);
+  letter-spacing: -.02em;
+}
+
+.switch-accounts-intro h2:focus { outline: none; }
+
+.switch-accounts-list {
+  display: grid;
+  gap: 8px;
+  margin: 24px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.daily-culture-app .switch-accounts-account {
+  display: grid;
+  width: 100%;
+  min-height: 82px;
+  grid-template-columns: 56px minmax(0, 1fr) 20px;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--app-divider);
+  border-radius: 8px;
+  background: var(--app-surface);
+  color: var(--app-text);
+  cursor: pointer;
+}
+
+.daily-culture-app .switch-accounts-account:hover { background: var(--app-surface-raised); }
+.daily-culture-app .switch-accounts-account[data-active="true"] { border-color: var(--app-text); }
+
+.switch-accounts-account .today-saver-avatar {
+  width: 56px;
+  height: 56px;
+  flex: none;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.switch-accounts-identity { display: flex; min-width: 0; flex-direction: column; gap: 1px; }
+.switch-accounts-identity strong { overflow: hidden; font: 400 15px/20px var(--app-sans); text-overflow: ellipsis; white-space: nowrap; }
+.switch-accounts-identity > span { overflow: hidden; color: var(--app-muted); font: 400 12px/16px var(--app-sans); text-overflow: ellipsis; white-space: nowrap; }
+.switch-accounts-identity small { color: var(--app-muted); font: 400 11px/14px var(--app-sans); }
+.switch-accounts-status { display: grid; width: 20px; height: 20px; place-items: center; color: var(--app-muted); }
+.switch-accounts-account[data-active="true"] .switch-accounts-status { color: var(--app-text); }
+.switch-accounts-empty { margin: 24px 0 0; color: var(--app-muted); font: 400 14px/20px var(--app-sans); }
+
+.daily-culture-app .switch-accounts-add-row {
+  display: grid;
+  width: 100%;
+  min-height: 60px;
+  grid-template-columns: 32px minmax(0, 1fr) 20px;
+  align-items: center;
+  gap: 12px;
+  margin-top: 14px;
+  padding: 6px 2px;
+  border-bottom: 1px solid var(--app-divider);
+  color: var(--app-text);
+  font: 400 14px/20px var(--app-sans);
+  cursor: pointer;
+}
+
+.switch-accounts-add-row > svg { justify-self: end; color: var(--app-muted); }
+.switch-accounts-add-icon { display: grid; width: 32px; height: 32px; place-items: center; border-radius: 4px; background: var(--app-surface); }
+.switch-accounts-add-row:hover .switch-accounts-add-icon { background: var(--app-surface-raised); }
+
+.switch-accounts-note {
+  max-width: 350px;
+  margin: auto 0 0;
+  padding-top: 36px;
+  color: var(--app-muted);
+  font: 400 12px/18px var(--app-sans);
+}
+
+.switch-accounts-email-form { display: flex; flex-direction: column; margin-top: 16px; }
+.switch-accounts-email-form label { margin-bottom: 8px; font: 400 14px/20px var(--app-sans); }
+
+.switch-accounts-email-form input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--app-divider);
+  border-radius: 4px;
+  outline: none;
+  background: var(--app-bg);
+  color: var(--app-text);
+  font: 400 14px/20px var(--app-sans);
+  user-select: text;
+}
+
+.switch-accounts-email-form input:focus { box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--app-muted) 24%, transparent); }
+.switch-accounts-email-form input[aria-invalid="true"] { border-color: var(--app-text); }
+.switch-accounts-error { margin: 6px 0 0; color: var(--app-text); font: 400 12px/16px var(--app-sans); }
+
+.daily-culture-app .switch-accounts-email-continue {
+  display: flex;
+  width: 100%;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  margin-top: 12px;
+  padding: 10px 16px;
+  border-radius: 4px;
+  background: var(--app-text);
+  color: var(--app-bg);
+  font: 400 14px/20px var(--app-sans);
+  text-align: center;
+  cursor: pointer;
+}
+
+.switch-accounts-or { margin: 24px 0 10px; color: var(--app-muted); font: 400 12px/16px var(--app-sans); text-align: center; }
+.switch-accounts-providers { display: grid; gap: 8px; }
+
+.daily-culture-app .switch-accounts-providers button {
+  display: flex;
+  width: 100%;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--app-divider);
+  border-radius: 4px;
+  background: var(--app-surface);
+  color: var(--app-text);
+  font: 400 14px/20px var(--app-sans);
+  cursor: pointer;
+}
+
+.switch-accounts-providers button:hover { background: var(--app-surface-raised); }
+.switch-accounts-provider-icon { display: grid; width: 24px; height: 24px; place-items: center; border-radius: 50%; background: #fff; color: #000; }
+.switch-accounts-provider-icon svg,
+.switch-accounts-provider-icon img { width: 20px; height: 20px; }
+.switch-accounts-provider-icon .onboarding-google-mark { filter: grayscale(1) brightness(0); transform: scale(.88); }
+.switch-accounts-provider-icon .onboarding-facebook-mark { transform: scale(.98); }
+.switch-accounts-add-note { padding-top: 24px; }
+
+.daily-culture-app .switch-accounts-flow :is(button, input):focus-visible {
+  outline: 2px solid var(--app-text) !important;
+  outline-offset: 2px;
+}
+
+@media (pointer: coarse) {
+  .daily-culture-app .switch-accounts-add-row { min-height: 64px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .switch-accounts-flow *,
+  .switch-accounts-flow *::before,
+  .switch-accounts-flow *::after { scroll-behavior: auto !important; transition-duration: 0ms !important; animation-duration: 0ms !important; }
+}

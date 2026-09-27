@@ -1,0 +1,75 @@
+/* Specificity keeps the shared control above app-owned generic button resets. */
+.dc-follow-button.dc-follow-button {
+  display: inline-grid;
+  min-width: 76px;
+  min-height: 28px;
+  flex: 0 0 auto;
+  place-items: center;
+  margin: 0;
+  padding: 5px 12px;
+  border: 1px solid var(--dc-divider);
+  border-radius: var(--dc-radius-pill);
+  background: var(--dc-background);
+  color: var(--dc-text);
+  font: 400 12px/16px var(--dc-font-sans);
+  letter-spacing: 0;
+  text-align: center;
+  cursor: pointer;
+  transform: scale(1);
+  opacity: 1;
+  transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease, transform 220ms cubic-bezier(.22, 1, .36, 1);
+}
+
+.dc-follow-button[aria-pressed='true'] {
+  background: var(--dc-divider);
+}
+
+.dc-follow-labels {
+  display: grid;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.dc-follow-label {
+  display: inline-flex;
+  grid-area: 1 / 1;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  white-space: nowrap;
+}
+
+.dc-follow-check { flex: 0 0 12px; }
+
+@media (hover: hover) and (pointer: fine) {
+  .dc-follow-button:not(:disabled):hover {
+    border-color: var(--dc-text);
+    background: var(--dc-text);
+    color: var(--dc-background);
+  }
+}
+
+.dc-follow-button:not(:disabled):active {
+  border-color: var(--dc-text);
+  background: var(--dc-text);
+  color: var(--dc-background);
+  transform: scale(.965);
+  opacity: 1;
+  transition-duration: 80ms;
+}
+
+.dc-follow-button:focus-visible {
+  outline: 2px solid var(--dc-focus);
+  outline-offset: 3px;
+}
+
+.dc-follow-button:disabled { opacity: .45; cursor: default; }
+
+@media (pointer: coarse) {
+  .dc-follow-button.dc-follow-button { min-height: 44px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dc-follow-button.dc-follow-button { transition: none; }
+  .dc-follow-button:not(:disabled):active { transform: none; }
+}

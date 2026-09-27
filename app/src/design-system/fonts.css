@@ -1,0 +1,43 @@
+/* Local-only faces. Exact rendering requires these installed fonts or authorized webfonts. */
+@font-face {
+  font-family: "PP Neue Montreal";
+  src: local("PPNeueMontrealTT-Light"), local("PP Neue Montreal TT Light");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+@font-face {
+  font-family: "PP Neue Montreal";
+  src: local("PPNeueMontrealTT-Regular"), local("PP Neue Montreal TT Regular");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "PP Neue Montreal";
+  src: local("PPNeueMontrealTT-Medium"), local("PP Neue Montreal TT Medium");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: "PP Neue Montreal";
+  src: local("PPNeueMontrealTT-Bold"), local("PP Neue Montreal TT Bold");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "PP Neue Montreal";
+  src: local("PPNeueMontrealTT-Italic"), local("PP Neue Montreal TT Italic");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "PP Neue Montreal";
+  src: local("PPNeueMontrealTT-BoldItalic"), local("PP Neue Montreal TT Bold Italic");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}

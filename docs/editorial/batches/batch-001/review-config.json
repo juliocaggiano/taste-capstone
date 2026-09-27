@@ -1,0 +1,221 @@
+{
+  "activeMedia": [
+    "architecture",
+    "sculpture",
+    "painting",
+    "music",
+    "literature",
+    "theater",
+    "cinema",
+    "photography"
+  ],
+  "onHoldMedia": [
+    "theater"
+  ],
+  "optionsPerEntry": 3,
+  "imageChoiceDoesNotApproveWriting": true,
+  "releasePolicy": "Import only currently approved writing with its selected image and resolved passage comments when Julio requests a prototype update. The app contains 20 works after the 27 September painting update. Pending revisions do not replace earlier approved app versions. Theater stays on hold.",
+  "updatedAt": "2026-09-27",
+  "reason": "76 active works across eight media, including 29 paintings. Batch 007 adds The Death of Socrates as a new writing draft with three authentic reproductions. Previous decisions, feedback and versions remain intact; theater remains on hold.",
+  "expectedEntryIds": [
+    "pantheon",
+    "borobudur",
+    "michelangelo-david",
+    "bernini-apollo-daphne",
+    "todaiji-great-buddha",
+    "stanczyk",
+    "death-of-marat",
+    "the-ambassadors",
+    "beethoven-symphony-nine",
+    "billie-holiday-strange-fruit",
+    "joao-gilberto-chega-saudade",
+    "animal-farm",
+    "vidas-secas",
+    "the-great-gatsby",
+    "antigone",
+    "a-dolls-house",
+    "auto-da-compadecida",
+    "eternal-sunshine",
+    "soul",
+    "im-still-here",
+    "hagia-sophia",
+    "alhambra",
+    "villa-rotonda",
+    "crystal-palace",
+    "st-peters-basilica",
+    "goya-third-of-may",
+    "raft-of-medusa",
+    "potato-eaters",
+    "the-gleaners",
+    "las-meninas",
+    "her",
+    "the-truman-show",
+    "parasite",
+    "bicycle-thieves",
+    "12-angry-men",
+    "salgado-serra-pelada",
+    "mclean-virginia",
+    "noor-nisa",
+    "liberty-leading-the-people",
+    "saturn-devouring-his-son",
+    "arnolfini-portrait",
+    "school-of-athens",
+    "bar-at-the-folies-bergere",
+    "nighthawks",
+    "gulf-stream",
+    "floor-scrapers",
+    "lady-jane-grey",
+    "hunters-snow",
+    "good-will-hunting",
+    "perfect-days",
+    "cinema-paradiso",
+    "spirited-away",
+    "modern-times",
+    "migrant-mother-sequence",
+    "parr-last-resort",
+    "milkmaid",
+    "night-watch",
+    "judith-holofernes",
+    "calling-matthew",
+    "surrender-breda",
+    "american-gothic",
+    "abaporu",
+    "broken-column",
+    "grande-jatte",
+    "birth-venus",
+    "frankenstein",
+    "dorian-gray",
+    "metamorphosis",
+    "nineteen-eighty-four",
+    "all-quiet-western-front",
+    "remains-of-the-day",
+    "crime-and-punishment",
+    "blindness",
+    "things-fall-apart",
+    "hour-of-the-star",
+    "death-of-socrates"
+  ],
+  "removedEntryIds": [
+    "sesc-pompeia",
+    "portrait-of-engalo",
+    "chim-vienna-schoolchildren"
+  ],
+  "releaseMode": "approved_submissions_for_later_import",
+  "additionalBatches": [
+    {
+      "id": "batch-002",
+      "label": "Batch 002",
+      "archive": "../batch-002/batch-002.json",
+      "contentSources": [
+        "../batch-002/architecture.json",
+        "../batch-002/paintings.json",
+        "../batch-002/cinema.json",
+        "../batch-002/photography-joey.json",
+        "../batch-002/photography-salgado-chim.json",
+        "../batch-002/photography-sternfeld-addario.json"
+      ],
+      "imageSources": [
+        "../batch-002/architecture-images.json",
+        "../batch-002/paintings-images.json",
+        "../batch-002/cinema-images.json",
+        "../batch-002/photography-joey-images.json",
+        "../batch-002/photography-salgado-chim-images.json",
+        "../batch-002/photography-sternfeld-addario-images.json"
+      ]
+    },
+    {
+      "id": "batch-003",
+      "label": "Batch 003",
+      "archive": "../batch-003/batch-003.json",
+      "contentSources": [
+        "../batch-003/paintings.json"
+      ],
+      "imageSources": [
+        "../batch-003/paintings-images.json"
+      ]
+    },
+    {
+      "id": "batch-004",
+      "label": "Batch 004",
+      "archive": "../batch-004/batch-004.json",
+      "contentSources": [
+        "../batch-004/paintings.json",
+        "../batch-004/cinema.json",
+        "../batch-004/photography.json"
+      ],
+      "imageSources": [
+        "../batch-004/paintings-images.json",
+        "../batch-004/cinema-images.json",
+        "../batch-004/photography-images.json"
+      ]
+    },
+    {
+      "id": "batch-005",
+      "label": "Batch 005",
+      "archive": "../batch-005/batch-005.json",
+      "contentSources": [
+        "../batch-005/paintings.json"
+      ],
+      "imageSources": [
+        "../batch-005/paintings-images.json"
+      ]
+    },
+    {
+      "id": "batch-006",
+      "label": "Batch 006",
+      "archive": "../batch-006/batch-006.json",
+      "contentSources": [
+        "../batch-006/literature.json"
+      ],
+      "imageSources": [
+        "../batch-006/literature-images.json"
+      ]
+    },
+    {
+      "id": "batch-007",
+      "label": "Batch 007",
+      "archive": "../batch-007/batch-007.json",
+      "contentSources": [
+        "../batch-007/paintings.json"
+      ],
+      "imageSources": [
+        "../batch-007/paintings-images.json"
+      ]
+    }
+  ],
+  "awaitingImageEntryIds": [],
+  "imageOptionsByMedium": {
+    "photography": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  "prototypeImport": {
+    "importId": "prototype-2026-09-27-paintings",
+    "entryIds": [
+      "michelangelo-david",
+      "stanczyk",
+      "death-of-marat",
+      "the-ambassadors",
+      "goya-third-of-may",
+      "potato-eaters",
+      "the-gleaners",
+      "liberty-leading-the-people",
+      "school-of-athens",
+      "beethoven-symphony-nine",
+      "billie-holiday-strange-fruit",
+      "joao-gilberto-chega-saudade",
+      "animal-farm",
+      "vidas-secas",
+      "the-great-gatsby",
+      "eternal-sunshine",
+      "soul",
+      "im-still-here",
+      "saturn-devouring-his-son",
+      "death-of-socrates"
+    ],
+    "entryCount": 20,
+    "url": "http://127.0.0.1:4173/",
+    "capturedAt": "2026-09-27T08:30:37.682Z"
+  }
+}

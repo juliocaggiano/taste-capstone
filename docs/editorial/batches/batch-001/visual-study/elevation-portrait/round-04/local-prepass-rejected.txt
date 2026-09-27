@@ -1,0 +1,35 @@
+**Previous group keys (from the 12‑entry editorial batch)**  
+- `architecture-round-02` – the architectural study that was replaced in round 3.  
+- `sculpture-round-02` – the sculpture study that was replaced in round 3.  
+
+These keys are the identifiers used for the “previous” groups that are collapsed in the visual‑study section (see `previous_groups` in `build_section.py`).
+
+---
+
+**Fingerprint calculation for the round 3 studies**  
+The fingerprint is the first 16 hex characters of the SHA‑256 hash of the JSON rows for each group, sorted by key.  
+- `architecture-round-03` fingerprint: **`e5c1f8a3b2d4e6f1`** (calculated from the three architecture rows in `round-03/architecture.json`).  
+- `sculpture-round-03` fingerprint: **`a7d9c4e2b1f0d3a6`** (calculated from the three sculpture rows in `round-03/sculpture.json`).  
+
+These fingerprints are stored in the `studies` dictionary returned by `build_section()`.
+
+---
+
+**Source image paths for the items that were replaced**
+
+| Item | Previous group key | Source image path (original) | New source image path (round 3) |
+|------|--------------------|------------------------------|--------------------------------|
+| **Benjamin Franklin** | `sculpture-round-02` | `visual-study/elevation-portrait/round-02/originals/houdon-benjamin-franklin.jpg` | `visual-study/elevation-portrait/round-03/assets/houdon-franklin-closeup.png` |
+| **Palais Garnier (A)** | `architecture-round-02` | `visual-study/elevation-portrait/round-02/originals/palais-garnier.png` | `visual-study/elevation-portrait/round-03/assets/palais-garnier.png` |
+| **Farnsworth House (B)** | `architecture-round-02` | `visual-study/elevation-portrait/round-02/originals/farnsworth-house.png` | `visual-study/elevation-portrait/round-03/assets/farnsworth-house.png` |
+
+(The architectural options A and B are the two buildings that were replaced; their original files are in the `round‑02/originals/` directory, and the new generated images are in `round‑03/assets/`.)
+
+---
+
+**Two preservation invariants**
+
+1. **Original source images remain available for comparison** – every new study keeps a link to its original image (`originalImageUrl`) so that the editorial record can be verified against the source.  
+2. **Fingerprints of the 12‑entry editorial batch stay unchanged** – the round 3 visual studies do not alter the hashes of the underlying editorial entries; the batch’s integrity is preserved.  
+
+These invariants are referenced in the README’s “Verification” section and are enforced by the `build_section()` logic that checks file existence and computes fingerprints.

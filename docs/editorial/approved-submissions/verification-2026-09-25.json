@@ -1,0 +1,113 @@
+{
+  "verifiedAt": "2026-09-25T09:22:20.537123+00:00",
+  "package": "/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/approved-submissions/batch-001-2026-09-25",
+  "entryCount": 12,
+  "fileCount": 53,
+  "checksummedFiles": 52,
+  "checksumFileExcludesItself": true,
+  "integrityTestsPassed": 11,
+  "manifestSha256": "88f63a28380fe4cdca9a39672fe652e6f05ed828beadbb36be0832d6de86e4ff",
+  "checksumsFileSha256": "4aaea4f21adeefde03b8ae158dbead7865fe2db8f8cb6c9d622ff588673051ba",
+  "entries": [
+    {
+      "id": "michelangelo-david",
+      "imageOption": "A",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "unchanged_source_image"
+    },
+    {
+      "id": "stanczyk",
+      "imageOption": "A",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "unchanged_source_image"
+    },
+    {
+      "id": "death-of-marat",
+      "imageOption": "A",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "unchanged_source_image"
+    },
+    {
+      "id": "the-ambassadors",
+      "imageOption": "B",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "unchanged_source_image"
+    },
+    {
+      "id": "beethoven-symphony-nine",
+      "imageOption": "A",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "music"
+    },
+    {
+      "id": "billie-holiday-strange-fruit",
+      "imageOption": "A",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "music"
+    },
+    {
+      "id": "joao-gilberto-chega-saudade",
+      "imageOption": "C",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "music"
+    },
+    {
+      "id": "animal-farm",
+      "imageOption": "C",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "literature"
+    },
+    {
+      "id": "vidas-secas",
+      "imageOption": "A",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "literature"
+    },
+    {
+      "id": "eternal-sunshine",
+      "imageOption": "A",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "unchanged_source_image"
+    },
+    {
+      "id": "soul",
+      "imageOption": "C",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "unchanged_source_image"
+    },
+    {
+      "id": "im-still-here",
+      "imageOption": "C",
+      "bodyExact": true,
+      "sourceRecordExact": true,
+      "selectedSourceBytesExact": true,
+      "presentation": "unchanged_source_image"
+    }
+  ],
+  "visualVerification": "Root agent visually verified the live SUBMISSIONS page. Packaged SVGs verified structurally and byte-for-byte against original covers, labels and surround. Direct standalone browser preview was blocked because file URLs are not allowed; no workaround attempted.",
+  "appChangedByExport": false,
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published"
+}

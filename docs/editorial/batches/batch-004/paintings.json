@@ -1,0 +1,366 @@
+[
+  {
+    "id": "nighthawks",
+    "title": "Nighthawks",
+    "creator": "Edward Hopper",
+    "dateDisplay": "1942",
+    "dateStart": 1942,
+    "dateEnd": null,
+    "place": "New York, United States",
+    "medium": "painting",
+    "meaningBrief": "Urban public spaces offer proximity and temporary company without making strangers knowable to one another.",
+    "body": "A diner is still open when the surrounding street has emptied. Three customers sit at the counter, and a waiter leans towards them under the electric lights. It is the kind of place where strangers can spend time together without needing an introduction. Hopper gives us enough to recognise the situation, but little to establish whether these people feel lonely, comfortable or simply tired.\n\nHe based the setting on a restaurant in his New York neighbourhood, then altered it for the painting. The long window exposes almost the entire interior, while no door offers an obvious way in. We look from the dark pavement into a room whose brightness can feel welcoming, even though the glass keeps us apart from it.\n\nThat arrangement connects the painting to a particular experience of city life. Restaurants, apartments and streets put people close to one another without necessarily giving them a shared history. A late-night diner offers company on limited terms: a seat, a drink, someone behind the counter. The two customers sitting together may know each other, but their relationship is as inaccessible to us as that of strangers seen through a window.\n\nHopper resisted having a fixed story assigned to his pictures. He nevertheless acknowledged that, in *Nighthawks*, he had probably been painting the loneliness of a large city. The uncertainty about the people is part of that account. We can recognise the social situation without being told what each person feels.",
+    "sources": [
+      {
+        "title": "Art Institute of Chicago — Nighthawks",
+        "url": "https://archive.artic.edu/hopper/nighthawks/",
+        "role": "interpretation and factual context",
+        "supports": "Diner source, simplified design, absent entrance and Hopper’s retrospective observation. Institutional indexed text and reproduced collection description read.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Viewers discuss loneliness and comfort",
+        "url": "https://www.reddit.com/r/TheNightFeeling/comments/1vjl3in/i_always_disagreed_with_the_idea_that_nighthawks/",
+        "role": "reception challenge",
+        "supports": "Contrasting comfort and isolation readings. Reception clue only; no claim of consensus.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Tamar Avishai / The Lonely Palette — Episode 13: Hopper",
+        "url": "https://www.thelonelypalette.com/episode-13-hopper",
+        "role": "substantial interpretation",
+        "supports": "Published transcript read: Room in Brooklyn is the main work; its later discussion of Nighthawks relates diners and urban proximity while distinguishing solitude from assumed distress.",
+        "accessedOn": "2026-09-27"
+      },
+      {
+        "title": "Colin Marshall / Open Culture — Nighthawks and Great Art Explained",
+        "url": "https://www.openculture.com/2021/07/what-makes-edward-hoppers-nighthawks-a-great-painting-a-video-essay.html",
+        "role": "substantial interpretation",
+        "supports": "Full essay read: constructed diner and narrative openness. Unverified biographical explanations of mood not adopted.",
+        "accessedOn": "2026-09-27"
+      }
+    ],
+    "revision": 3,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-004",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-004/research.md",
+      "basis": "New source-based draft. No writing or image approval inferred.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Used the Lonely Palette discussion to distinguish solitude from assumed unhappiness; developed the diner as a social setting without inventing relationships.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b004-nighthawks-a.jpg",
+      "referenceUrl": "https://archive.artic.edu/hopper/nighthawks/",
+      "altText": "Three customers and a waiter inside a brightly lit diner on an empty city corner.",
+      "credit": "Edward Hopper",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "gulf-stream",
+    "title": "The Gulf Stream",
+    "creator": "Winslow Homer",
+    "dateDisplay": "1899–1906",
+    "dateStart": 1899,
+    "dateEnd": 1906,
+    "place": "Caribbean / United States",
+    "medium": "painting",
+    "meaningBrief": "Natural danger and Atlantic history meet around a Black protagonist; a colonial reading should not be confused with a proved political intention.",
+    "body": "Winslow Homer’s boat has lost its mast, leaving the man aboard with no apparent way to steer through the rough water. Sharks circle nearby and a waterspout rises in the distance, yet the man lies across the deck without the gestures of panic we might expect. Homer lets his stillness hold our attention while the sea supplies almost all the movement.\n\nThe painting grew out of the artist’s visits to the Caribbean, where he encountered a different coastline and society from those of his better-known New England scenes. Its title names the current carrying warm water northwards through the Atlantic. That ocean also carried the trade in sugar and enslaved people that had enriched European empires and shaped Caribbean life.\n\nThe stalks of sugarcane in the boat give that history a concrete presence. The Metropolitan Museum has used them, together with the Black protagonist, to read the painting through race and colonial trade. It is a persuasive connection, although critic Morgan Falconer questions whether those allusions establish a definite political argument.\n\nA sailing ship appears far away on the horizon. It offers the possibility of rescue, but Homer leaves the distance between it and the damaged boat unresolved. What we are shown is the interval before any outcome, when the man has little control over either the sea around him or the people who might help.",
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — The Gulf Stream",
+        "url": "https://www.metmuseum.org/art/collection/search/11122",
+        "role": "interpretation and factual context",
+        "supports": "Object record and curatorial audio: date, Black subject, sugarcane, ocean current, slavery and US imperial context.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "The Gulf Stream — source and interpretation history",
+        "url": "https://en.wikipedia.org/wiki/The_Gulf_Stream_(painting)",
+        "role": "interpretation and factual context",
+        "supports": "Homer’s Caribbean travels, revisions, distant ship and varied interpretations.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Reader discussion of Homer’s seascape",
+        "url": "https://www.reddit.com/r/blackmen/comments/1ts3kdk/the_gulf_stream_by_winslow_homer/",
+        "role": "reception challenge",
+        "supports": "Race and empire recur alongside the human/nature reading; checked against the museum.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Morgan Falconer / Apollo — Winslow Homer: Crosscurrents",
+        "url": "https://apollo-magazine.com/winslow-homer-the-met-reviewed/",
+        "role": "substantial interpretation",
+        "supports": "Full review read: Atlantic history, sugarcane and a specific challenge to treating allusion as proof of political argument.",
+        "accessedOn": "2026-09-27"
+      }
+    ],
+    "revision": 4,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-004",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-004/research.md",
+      "basis": "New source-based draft. No writing or image approval inferred.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "basis": "Exact passage deletions requested by Julio; surrounding prose unchanged.",
+        "evidenceFile": "qa/painting-approval-import-2026-09-27/requested-edits.json",
+        "approval": "Revised text awaits approval."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b004-gulf-stream-a.jpg",
+      "referenceUrl": "https://www.metmuseum.org/art/collection/search/11122",
+      "altText": "A Black man on a damaged sailboat surrounded by sharks, rough waves and a distant waterspout.",
+      "credit": "Winslow Homer",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "floor-scrapers",
+    "title": "The Floor Scrapers",
+    "creator": "Gustave Caillebotte",
+    "dateDisplay": "1875",
+    "dateStart": 1875,
+    "dateEnd": null,
+    "place": "Paris, France",
+    "medium": "painting",
+    "meaningBrief": "Caillebotte gives urban manual work sustained attention from the social position of a wealthy employer’s son.",
+    "body": "Gustave Caillebotte grew up in a wealthy family whose business supplied textiles to the French army. That position gave him both an interest in working life and the financial freedom to become a painter. In *The Floor Scrapers*, completed in 1875, he turned to a trade practised inside homes like his own: men restoring a wooden floor by scraping it by hand.\n\nThe setting is generally identified as his Paris studio. Decorative walls, a tall window and an iron balcony surround three men working on their knees, with curls of wood gathering around them. Two turn towards each other while continuing the job. The painting allows their tools, coordination and physical effort to explain an activity that a finished, polished room would normally conceal.\n\nRural workers already had a place in French painting through artists such as Millet and Courbet. Caillebotte brought comparable attention to labour within the city, without adding an accident or confrontation to make it worthy of a picture. The work itself supplied the subject.\n\nHe exhibited the painting with the Impressionists in 1876 and went on to help organise their exhibitions and buy their work. His inherited wealth made him an important supporter of artists whose paintings often struggled to sell. That history gives this scene a useful social context: its attention to manual work came from an employer’s son who could afford to spend his own time painting.",
+    "sources": [
+      {
+        "title": "Musée d’Orsay — Raboteurs de parquets",
+        "url": "https://www.musee-orsay.fr/fr/oeuvres/raboteurs-de-parquets-105",
+        "role": "interpretation and factual context",
+        "supports": "Urban workers, academic drawing, labor and reception; no explicit revolutionary message.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Musée d’Orsay — Caillebotte Painting Men",
+        "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/presentation/caillebotte-painting-men",
+        "role": "interpretation and factual context",
+        "supports": "Class, representations of male labor and Caillebotte’s social position.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "National Gallery of Art — Caillebotte exhibition brochure",
+        "url": "https://www.nga.gov/sites/default/files/2025-06/caillebotte-brochure.pdf",
+        "role": "interpretation and factual context",
+        "supports": "1875 rejection, 1876 exhibition and contemporary critical objections.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Public discussion — The Floor Scrapers",
+        "url": "https://www.reddit.com/r/oilpaintings/comments/1l41rgk",
+        "role": "reception challenge",
+        "supports": "Spatial viewpoint and labor foregrounded; reception check, not independent historical authority.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-004",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-004/research.md",
+      "basis": "New source-based draft. No writing or image approval inferred.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Returned to the family and labour sequence preferred in round 2 B; removed the rejected gods-and-bodies framing and an overstated class verdict.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b004-floor-scrapers-a.jpg",
+      "referenceUrl": "https://www.musee-orsay.fr/fr/oeuvres/raboteurs-de-parquets-105",
+      "altText": "Three shirtless workers kneeling to scrape the wooden floor of a Paris apartment.",
+      "credit": "Gustave Caillebotte",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "lady-jane-grey",
+    "title": "The Execution of Lady Jane Grey",
+    "creator": "Paul Delaroche",
+    "dateDisplay": "1833",
+    "dateStart": 1833,
+    "dateEnd": null,
+    "place": "France; depicts England",
+    "medium": "painting",
+    "meaningBrief": "A contested royal succession becomes an image of innocent suffering, with consequences for how Jane herself is remembered.",
+    "body": "Lady Jane Grey became queen of England in 1553, while still a teenager, because the dying Edward VI wanted a Protestant successor. His Catholic half-sister Mary had the stronger hereditary claim, however, and won enough support to take the throne. Jane’s reign lasted nine days. She was imprisoned while Mary began restoring Catholic rule.\n\nMary initially spared her, regarding her as a young woman used by more powerful people. The situation changed when a rebellion opposed Mary’s planned marriage to Philip of Spain and Jane’s father joined it. Although Jane remained in prison, her claim to the crown still offered Mary’s opponents an alternative monarch. She and her husband were executed in February 1554.\n\nAlmost three centuries later, Paul Delaroche painted the moment when Jane, blindfolded, struggles to find the block on which she must place her head. A man guides her hands, an attendant has collapsed, and the executioner waits. The white dress brings the young woman into the light, concentrating a complicated dispute over religion and succession into one easily understood action.\n\nThe painting was a public success in Paris in 1834, where the execution of royalty still belonged to recent history after the French Revolution. Its account of Jane is affecting, but selective. Historian and novelist Philippa Gregory has criticised the helpless image for obscuring her learning and firm religious convictions. Delaroche made her innocence immediately legible; understanding the person also means remembering the beliefs she held.",
+    "sources": [
+      {
+        "title": "National Gallery — The Execution of Lady Jane Grey",
+        "url": "https://www.nationalgallery.org.uk/paintings/paul-delaroche-the-execution-of-lady-jane-grey",
+        "role": "interpretation and factual context",
+        "supports": "Composition, execution, 1833 production/1834 Salon and French royal-execution context.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Associated Press — Research into a possible lifetime portrait",
+        "url": "https://apnews.com/article/760d15fa05a579e1e8f5c7836df41d4a",
+        "role": "interpretation and factual context",
+        "supports": "Edward’s Protestant succession plan, Mary’s claim and Jane’s age; fewer than 100 words derived.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Philippa Gregory on Jane Grey’s representation",
+        "url": "https://www.countrylife.co.uk/culture/art-exhibitions/there-is-more-to-lady-jane-grey-our-shortest-reigning-monarch-than-this-the-most-famous-painting-of-her",
+        "role": "interpretation and factual context",
+        "supports": "Counter-reading: intellectual and religious agency obscured by the image of weakness; fewer than 100 words derived.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Public discussion — Delaroche’s execution scene",
+        "url": "https://www.reddit.com/r/ArtHistory/comments/1uz3ldf/betrayal_and_blind_innocence_the_tragic_weight_of/",
+        "role": "reception challenge",
+        "supports": "Theatrical sympathy and political use of Jane; not evidence that the subject secretly is Marie Antoinette.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Historic Royal Palaces — Lady Jane Grey",
+        "url": "https://www.hrp.org.uk/tower-of-london/history-and-stories/lady-jane-grey/",
+        "role": "historical sequence",
+        "supports": "Succession, initial reprieve, father’s involvement in Wyatt’s rebellion, execution order and Catholic/Protestant stakes.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 3,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-004",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-004/research.md",
+      "basis": "New source-based draft. No writing or image approval inferred.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Connected succession, religion and the later rebellion clearly; retained Gregory’s consequential challenge to the image of helplessness.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b004-lady-jane-grey-a.jpg",
+      "referenceUrl": "https://www.nationalgallery.org.uk/paintings/paul-delaroche-the-execution-of-lady-jane-grey",
+      "altText": "Blindfolded Lady Jane Grey reaches for the execution block while her attendants and executioner stand nearby.",
+      "credit": "Paul Delaroche",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  },
+  {
+    "id": "hunters-snow",
+    "title": "Hunters in the Snow",
+    "creator": "Pieter Bruegel the Elder",
+    "dateDisplay": "1565",
+    "dateStart": 1565,
+    "dateEnd": null,
+    "place": "Antwerp, present-day Belgium",
+    "medium": "painting",
+    "meaningBrief": "Winter changes work and leisure across an entire community, whose experience is larger than one unsuccessful hunt.",
+    "body": "The hunters have returned with very little. One carries a fox, and the dogs follow with lowered heads as the group makes its way towards the village. Below them, people skate and play on frozen ponds. Bruegel gives the same winter two different effects: it makes obtaining food harder while creating a place for recreation.\n\nPainted in 1565, *Hunters in the Snow* belonged to a series commissioned by Nicolaes Jonghelinck, a wealthy Antwerp merchant. Its six pictures followed the year through changes in weather and work. Displayed in a dining room, they brought the routines of the countryside into a prosperous urban household. This scene represents December and January, when keeping warm and finding food required particular effort.\n\nSmall activities explain how the village adapts. Beside the inn on the left, a fire is used to singe the hair from a slaughtered pig. Farther away, the frozen watermill can no longer turn, while people use the ice for games and transport. The weather rearranges what is possible, affecting work and pleasure at the same time.\n\nThe hunters are our way into the scene, but Bruegel lets our attention travel beyond them, through roads, roofs and ponds. Their disappointing outing belongs to a much larger account of the season. One household’s difficult day can take place while other villagers are enjoying themselves a short walk away.",
+    "sources": [
+      {
+        "title": "Kunsthistorisches Museum — The seasons à la Bruegel",
+        "url": "https://zeitendernatur.khm.at/en/chapter-ii-the-seasons-a-la-bruegel/",
+        "role": "interpretation and factual context",
+        "supports": "Six seasons, merchant commission, nature’s organizing role, labor and leisure.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Bruegel exhibition — Hunters in the Snow",
+        "url": "https://www.bruegel2018.at/en/the-hunters-in-the-snow/",
+        "role": "interpretation and factual context",
+        "supports": "1565 object, commission and landscape interpretation.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Smarthistory — Hunters in the Snow",
+        "url": "https://smarthistory.org/pieter-bruegel-the-elder-hunters-in-the-snow-winter/",
+        "role": "interpretation and factual context",
+        "supports": "Indexed excerpt only; full page returned 403. Secondary research lead, not sole support for any draft claim.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Viewers discuss winter and village routines",
+        "url": "https://www.reddit.com/r/ArtHistory/comments/1fkvbfj/hunters_in_the_snow/",
+        "role": "reception challenge",
+        "supports": "Specific details, chill and ordinary village life; checked against museum interpretation.",
+        "accessedOn": "2026-09-26"
+      },
+      {
+        "title": "Kunsthistorisches Museum — Hunters in the Snow collection commentary",
+        "url": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg?hl=en-GB",
+        "role": "museum collection commentary",
+        "supports": "Six seasonal paintings; patron; small catch; pig-singeing fire, skaters and frozen mill; winter color and composition. Full collection description read.",
+        "accessedOn": "2026-09-26"
+      }
+    ],
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-004",
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "quotationNotes": [],
+    "provenance": {
+      "draftedOn": "2026-09-26",
+      "researchFile": "docs/editorial/batches/batch-004/research.md",
+      "basis": "New source-based draft. No writing or image approval inferred.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Connected the hunters with seasonal routines and the merchant’s commission instead of offering an inventory of village details.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b004-hunters-snow-a.jpg",
+      "referenceUrl": "https://zeitendernatur.khm.at/en/chapter-ii-the-seasons-a-la-bruegel/",
+      "altText": "Hunters and dogs return down a snowy slope above a village and frozen ponds filled with skaters.",
+      "credit": "Pieter Bruegel the Elder",
+      "license": "See source-specific image options.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Initial preview only; image choice and writing approval remain separate."
+    },
+    "editorialDecisionId": null
+  }
+]

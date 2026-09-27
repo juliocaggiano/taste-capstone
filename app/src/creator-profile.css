@@ -1,0 +1,382 @@
+/* Reference proportions, with Julio's full-width hero and compact action refinements. */
+.daily-culture-app:has(.creator-reference)::before {
+  height: 56px;
+}
+
+.daily-culture-app .creator-reference {
+  --creator-heading-size: 28px;
+  --creator-heading-leading: 32px;
+  --creator-body-size: 16px;
+  --creator-body-leading: 26px;
+  --creator-caption-size: 13px;
+  --creator-caption-leading: 20px;
+  min-width: 0;
+  min-height: 100%;
+  padding: 56px 0 calc(var(--device-safe-area-bottom, 34px) + 24px);
+  background: var(--app-bg);
+  color: var(--app-text);
+  font-family: var(--app-sans);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+.daily-culture-app .creator-reference .creator-reference-hero {
+  position: relative;
+  height: 275px;
+  padding: 0;
+  background: var(--app-surface);
+}
+
+.daily-culture-app .creator-reference .creator-reference-hero > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.daily-culture-app .creator-reference .creator-reference-back {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  display: grid;
+  width: 44px;
+  height: 44px;
+  place-items: center;
+  background: transparent;
+  color: #fff;
+}
+
+.daily-culture-app .creator-reference .creator-reference-back::before {
+  content: none;
+}
+
+.daily-culture-app .creator-reference .creator-reference-back > svg {
+  position: relative;
+  filter: drop-shadow(0 1px 2px #000);
+}
+
+.daily-culture-app .creator-reference .creator-reference-identity {
+  padding: 22px 20px 12px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-identity h1,
+.daily-culture-app .creator-reference .creator-reference-meta {
+  margin: 0;
+  font-size: var(--creator-heading-size);
+  font-weight: 400;
+  line-height: var(--creator-heading-leading);
+  letter-spacing: -.4px;
+  overflow-wrap: anywhere;
+}
+
+.daily-culture-app .creator-reference .creator-reference-meta {
+  margin-top: 2px;
+  color: var(--app-muted);
+}
+
+.daily-culture-app .creator-reference .creator-reference-actions {
+  display: flex;
+  min-height: 44px;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-actions .dc-follow-button {
+  min-width: 104px;
+  min-height: 32px;
+  padding: 5px 14px;
+  border-radius: 4px;
+  border-color: var(--app-text);
+  background: var(--app-text);
+  color: var(--app-bg);
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-actions .dc-follow-button[aria-pressed="true"] {
+  border-color: var(--app-divider);
+  background: transparent;
+  color: var(--app-text);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .daily-culture-app .creator-reference .creator-reference-actions .dc-follow-button:hover {
+    border-color: var(--app-muted);
+    background: var(--app-surface);
+    color: var(--app-text);
+  }
+}
+
+.daily-culture-app .creator-reference .creator-reference-tabs {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-bottom: 1px solid var(--app-divider);
+}
+
+.daily-culture-app .creator-reference .creator-reference-tabs > button {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 4px;
+  color: var(--app-muted);
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  overflow-wrap: anywhere;
+  transition: color 160ms ease;
+}
+
+.daily-culture-app .creator-reference .creator-reference-tab-indicator {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: calc(100% / 3);
+  height: 1px;
+  background: var(--app-text);
+  pointer-events: none;
+  transition: transform 260ms cubic-bezier(.22, 1, .36, 1);
+}
+
+.daily-culture-app .creator-reference .creator-reference-tabs > button[aria-selected="true"] {
+  color: var(--app-text);
+}
+
+.daily-culture-app .creator-reference .creator-reference-panel {
+  min-width: 0;
+}
+
+.daily-culture-app .creator-reference .creator-reference-panel:focus-visible {
+  outline: 2px solid var(--app-focus);
+  outline-offset: -2px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-overview,
+.daily-culture-app .creator-reference .creator-reference-biography {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--app-divider);
+}
+
+.daily-culture-app .creator-reference .creator-reference-overview > p,
+.daily-culture-app .creator-reference .creator-reference-biography > p {
+  margin: 0;
+  font-size: var(--creator-body-size);
+  line-height: var(--creator-body-leading);
+}
+
+.daily-culture-app .creator-reference .creator-reference-biography > p + p {
+  margin-top: 16px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-biography > h2 {
+  margin: 0 0 12px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-more {
+  display: inline-flex;
+  min-height: 36px;
+  align-items: center;
+  gap: 4px;
+  margin-top: 8px;
+  font-size: var(--creator-body-size);
+  line-height: 20px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-more > svg,
+.daily-culture-app .creator-reference .creator-reference-sort > svg {
+  flex: none;
+}
+
+.daily-culture-app .creator-reference .creator-reference-facts {
+  display: grid;
+  gap: 16px;
+  margin: 24px 0 0;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-facts > div {
+  display: grid;
+  grid-template-columns: minmax(72px, 1fr) minmax(0, 2fr);
+  gap: 16px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-facts dt {
+  color: var(--app-muted);
+}
+
+.daily-culture-app .creator-reference .creator-reference-facts dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.daily-culture-app .creator-reference .creator-reference-artworks {
+  min-width: 0;
+}
+
+.daily-culture-app .creator-reference .creator-reference-works-heading {
+  display: flex;
+  min-height: 54px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 20px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-works-heading > p {
+  min-width: 0;
+  margin: 0;
+  color: var(--app-muted);
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-sort {
+  display: inline-flex;
+  min-height: 34px;
+  flex: none;
+  align-items: center;
+  gap: 4px;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-rail {
+  width: calc(100% - 16px);
+  margin-left: 16px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-track {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 0 16px 4px 0;
+}
+
+.daily-culture-app .creator-reference .creator-reference-artwork {
+  display: flex;
+  width: 214px;
+  min-width: 0;
+  flex: 0 0 214px;
+  flex-direction: column;
+  color: var(--app-text);
+}
+
+.daily-culture-app .creator-reference .creator-reference-artwork > img {
+  width: 214px;
+  height: 214px;
+  background: var(--app-surface);
+  object-fit: cover;
+}
+
+.daily-culture-app .creator-reference .creator-reference-artwork-copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+  margin-top: 10px;
+  color: var(--app-muted);
+  font-size: var(--creator-caption-size);
+  line-height: var(--creator-caption-leading);
+  overflow-wrap: anywhere;
+}
+
+.daily-culture-app .creator-reference .creator-reference-artwork-copy > strong {
+  color: var(--app-text);
+  font-size: inherit;
+  font-weight: 400;
+  line-height: inherit;
+  text-transform: none;
+}
+
+.daily-culture-app .creator-reference .creator-reference-empty {
+  padding: 8px 20px 24px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-empty > p {
+  margin: 0 0 8px;
+  color: var(--app-muted);
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-empty > button {
+  min-height: 44px;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* BottomSheet uses the phone portal, outside the article and app container. */
+.device-screen .creator-reference-filter-group {
+  min-width: 0;
+  margin: 0 0 20px;
+  color: var(--app-text);
+  font-family: var(--app-sans);
+}
+
+.device-screen .creator-reference-filter-group > h3 {
+  margin: 0 0 8px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.device-screen .creator-reference-filter-group > .dc-selection-pill {
+  display: flex;
+  width: 100%;
+}
+
+.device-screen .creator-reference-filter-group .dc-selection-option {
+  flex: 1;
+}
+
+.daily-culture-app .creator-reference button:focus-visible {
+  outline: 2px solid var(--app-focus);
+  outline-offset: 3px;
+}
+
+.daily-culture-app .creator-reference .creator-reference-tabs > button:focus-visible,
+.daily-culture-app .creator-reference .creator-reference-artwork:focus-visible {
+  outline-offset: -2px;
+}
+
+.daily-culture-app[data-text-size="large"] .creator-reference {
+  --creator-heading-size: 32px;
+  --creator-heading-leading: 38px;
+  --creator-body-size: 20px;
+  --creator-body-leading: 30px;
+  --creator-caption-size: 16px;
+  --creator-caption-leading: 24px;
+}
+
+.daily-culture-app[data-text-size="system"] .creator-reference {
+  --creator-heading-size: 1.75rem;
+  --creator-heading-leading: 1.15;
+  --creator-body-size: 1rem;
+  --creator-body-leading: 1.625;
+  --creator-caption-size: .8125rem;
+  --creator-caption-leading: 1.54;
+}
+
+@media (pointer: coarse) {
+  .daily-culture-app .creator-reference .creator-reference-actions .dc-follow-button,
+  .daily-culture-app .creator-reference .creator-reference-more,
+  .daily-culture-app .creator-reference .creator-reference-sort {
+    min-height: 44px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .daily-culture-app .creator-reference .creator-reference-tabs > button,
+  .daily-culture-app .creator-reference .creator-reference-tab-indicator {
+    transition: none;
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": "AI style study",
+    "accessedDate": "2026-09-23",
+    "generationTool": "Built-in image_gen__imagegen",
+    "generationDate": "2026-09-23",
+    "styleReferenceUrl": "visual-study/elevation-portrait/round-02/originals/style-b-white-house-1817.jpg",
+    "styleReferenceSourceUrl": "https://www.loc.gov/item/2001698953/",
+    "visualInspection": "source_and_generated_image_compared",
+    "id": "r4-palais-garnier-sepia",
+    "title": "Palais Garnier",
+    "creator": "Charles Garnier, architect; de Garron, source engraver",
+    "dateDisplay": "Source elevation published 1880",
+    "imageUrl": "visual-study/elevation-portrait/round-02/assets/palais-garnier-sepia-study.png",
+    "originalImageUrl": "visual-study/elevation-portrait/round-02/originals/palais-garnier-elevation.jpg",
+    "width": 1596,
+    "height": 986,
+    "description": "The principal façade and paired pavilions receive a sepia ink-and-wash treatment based on an engraved elevation.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg",
+    "credit": "Source: Charles Garnier / de Garron, Le Nouvel Opéra, folio I, plates 1–2; reproduction in Christopher Curtis Mead (1991), p. 102, scanned by Robert.Allen / Wikimedia Commons. Generated style study, 2026.",
+    "viewType": "style_treatment_of_orthographic_principal_front_elevation",
+    "license": "Source engraving: Commons public-domain designation; generated treatment and any eventual app use require separate review.",
+    "remoteOriginalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg",
+    "generationPrompt": "Use case: style-transfer. Asset: one architectural façade study for a visual comparison. Image 1 is the authoritative geometry and exact viewpoint: Palais Garnier principal façade, an orthographic exterior elevation. Image 2 is STYLE ONLY: Latrobe's White House drawing. Transform image 1 into the fine warm sepia pen-and-ink and restrained watercolor-wash style of image 2 on lightly aged cream paper. Preserve every major geometric relationship of image 1: the central arcade and column/window arrangement, identical number and placement of façade openings and levels, paired pavilion forms and domes, high central pediment and roof, sculpture silhouettes, total width-to-height proportions, and exact straight-on orthographic viewpoint. Do not borrow any White House architecture, landscaping, sky, stairway, border, or inscription. No perspective conversion, newly visible sides, restored architecture, added ornament, new doors/windows/columns, vegetation or people. Do not invent hidden detail. Keep full target building centered and large with modest paper margins in a landscape frame, not a large blank sky. The only changes are drawing medium, restrained wash tone, and paper texture. Delicate readable brown-gray contours; subdued beige-gray shadows; no dramatic lighting or heavy grunge. No text, captions, watermark, scale bar, or signature.",
+    "sourceNotes": [
+      "The source is a published historical engraving, not an autograph design drawing or a photograph of the building today.",
+      "1880 describes the source elevation's publication date, not the building's construction date. The style treatment was generated on 23 September 2026.",
+      "The scan's intermediary publication and uploader are retained. The original file was copied unchanged into this study.",
+      "Latrobe's 1817 White House drawing was supplied for medium, wash and paper style only; its architecture was excluded.",
+      "One generation attempt. Original source and built-in output are preserved.",
+      "Round 03 reuses the same generated round-02 asset unchanged.",
+      "Round 04 retains the identical Palais Garnier image used in rounds 02 and 03."
+    ],
+    "fidelityNotes": [
+      "Compared source and result: seven central ground-floor arch openings and seven upper central window bays remain. Paired domed pavilions, high central pediment, curved central roof, three upper sculptural groups and two lower winged sculpture silhouettes retain their positions.",
+      "The full frontal projection and principal building proportions remain recognizable; no side façade or new building volume was introduced.",
+      "Fine ornament, sculptural anatomy and minor mouldings have been redrawn and simplified. They are not a reliable documentary transcription.",
+      "The generated paper is warmer and more visibly mottled than the source engraving. Wash and sky texture are interpretive additions; this is a style study, not an archival original."
+    ],
+    "drawingStyle": "Sepia ink and wash",
+    "assetSha256": "9a6db968b83bb9604a1193769dacf1cc614b56b53595e1978ba256c46df2d9fc"
+  },
+  {
+    "id": "r4-st-peters-duperac-elevation",
+    "title": "St Peter’s Basilica",
+    "creator": "Étienne Dupérac, after Michelangelo",
+    "dateDisplay": "Historical design · engraving published 1569",
+    "imageUrl": "visual-study/elevation-portrait/round-04/assets/st-peters-duperac.jpg",
+    "originalImageUrl": "visual-study/elevation-portrait/round-04/assets/st-peters-duperac.jpg",
+    "width": 3724,
+    "height": 2745,
+    "description": "A richly engraved south elevation presents Michelangelo’s design for the basilica.",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/364513",
+    "reproductionSourceUrl": "https://commons.wikimedia.org/wiki/File:Speculum_Romanae_Magnificentiae-_Elevation_Showing_the_Exterior_of_Saint_Peter%27s_Basilica_from_the_South_as_Conceived_by_Michelagelo_(Published_in_1569)_MET_DP826753.jpg",
+    "remoteOriginalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Speculum_Romanae_Magnificentiae-_Elevation_Showing_the_Exterior_of_Saint_Peter%27s_Basilica_from_the_South_as_Conceived_by_Michelagelo_%28Published_in_1569%29_MET_DP826753.jpg",
+    "credit": "Étienne Dupérac, after Michelangelo; The Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1941, 41.72(3.24). Met Open Access image via Wikimedia Commons.",
+    "rightsStatus": "review_only_pending_clearance",
+    "license": "Met Open Access; museum identifies the image as Public Domain. Commons records CC0 for the donated museum image.",
+    "imageTreatment": "Historical engraving",
+    "drawingStyle": "Etching and engraving",
+    "viewType": "orthographic_south_elevation_historical_design",
+    "accessedDate": "2026-09-23",
+    "visualInspection": "downloaded_source_visually_inspected",
+    "altText": "Historical engraved south elevation of Michelangelo’s design for St Peter’s Basilica, with a large central dome, two smaller domes, pilasters and niches.",
+    "sourceNotes": [
+      "The Met identifies this print as the south elevation of Saint Peter’s as conceived by Michelangelo. It depicts a historical design, not the basilica’s present principal façade.",
+      "The museum title explicitly says published in 1569; its separate date field says 1558–61. This record retains that catalog distinction without resolving it into a new dating claim.",
+      "The medium is engraving with etching. The current museum credit is Harris Brisbane Dick Fund, 1941; older Commons metadata uses a different historical credit.",
+      "The complete 3724 × 2745 source JPEG is displayed unchanged. Its original cream paper, folds, inscriptions and scale remain. No AI, recoloring, restoration or perspective conversion was applied."
+    ],
+    "fidelityNotes": [
+      "The image is the archival reproduction itself. The flat elevation, ornate upper and lower levels, dome, paired smaller domes and right-hand portico remain complete.",
+      "The original full-sheet composition fits the landscape thumbnail without a document crop."
+    ],
+    "assetSha256": "ea4000f9292f23630fd881d32e3bf08945650340d887f392ad862352d64c81c4"
+  },
+  {
+    "id": "r4-st-pauls-rooker-section",
+    "title": "St Paul’s Cathedral",
+    "creator": "Edward Rooker, after Samuel Wale and J. Gwynn",
+    "dateDisplay": "Engraving published 27 May 1755",
+    "imageUrl": "visual-study/elevation-portrait/round-04/assets/st-pauls-rooker-1755.jpg",
+    "originalImageUrl": "visual-study/elevation-portrait/round-04/assets/st-pauls-rooker-1755.jpg",
+    "width": 1281,
+    "height": 1920,
+    "description": "A detailed section reveals the dome structure and a proposed scheme of interior decoration.",
+    "sourceUrl": "https://www.londonmuseum.org.uk/collections/v/object-101691/section-of-st-pauls-cathedral/",
+    "reproductionSourceUrl": "https://www.londonmuseum.org.uk/collections/v/object-101691/section-of-st-pauls-cathedral/",
+    "additionalSourceUrls": [
+      "https://archive.org/details/cu31924015419991",
+      "https://www.britishmuseum.org/collection/object/P_G-11-48"
+    ],
+    "remoteOriginalImageUrl": "https://collections.londonmuseum.net/download/583/343/download_2018_03_08_12_00_0007.jpg",
+    "credit": "Edward Rooker, after Samuel Wale and J. Gwynn, 1755. London Museum, object A4883. Digital image © London Museum.",
+    "rightsStatus": "review_only_pending_clearance",
+    "license": "Digital image © London Museum, CC BY-NC 4.0. Local noncommercial review only; commercial app use requires separate permission.",
+    "imageTreatment": "Historical engraving",
+    "drawingStyle": "Detailed engraved section",
+    "viewType": "orthographic_transverse_section_with_proposed_decoration",
+    "accessedDate": "2026-09-23",
+    "visualInspection": "downloaded_source_visually_inspected",
+    "altText": "Engraved section through St Paul’s Cathedral on aged cream paper, showing the layered dome, timber structure, columns and proposed painted and sculpted decoration.",
+    "thumbnailWindow": [
+      0.025,
+      0.076,
+      0.95,
+      0.76
+    ],
+    "sourceNotes": [
+      "The London Museum identifies a north–south section through the dome, dated 27 May 1755. The print presents decoration claimed to follow Christopher Wren’s original intention; it is not a documentary record of all decoration actually installed.",
+      "The London Museum credits Gwyn, Jonathan; Wale, Samuel; and Rooker, Edward. The 1912 reproduction caption credits S. Wale for architecture, J. Gwynn for decoration and E. Rooker for engraving. The creator line retains J. Gwynn without silently reconciling the name discrepancy.",
+      "The complete 1281 × 1920 museum JPEG is retained unchanged. Its aged paper, folds, print caption and photographic registration marks remain in the full image. No AI, color adjustment, sharpening or restoration was applied.",
+      "The non-destructive thumbnail window excludes the photographic targets and bottom dedication. It retains the full architectural section from lantern to ground level. Opening the image shows the full source.",
+      "The museum’s CC BY-NC 4.0 license permits noncommercial review with attribution. This does not clear commercial app use.",
+      "A public-domain black-and-white reproduction in Reginald Blomfield’s 1912 Architectural Drawing and Draughtsmen was inspected. Its scan loses fine lines and fills shadows with solid black. It is preserved as a rejected comparison, not displayed."
+    ],
+    "fidelityNotes": [
+      "The image is the historical print’s museum reproduction. The cutaway dome structure, interior ornament, columns and full transverse section are preserved.",
+      "This is a two-dimensional section rather than a perspective interior view. Curved surfaces and mouldings have the source engraving’s own shading.",
+      "The portrait-shaped section remains narrower than the landscape B elevation in the 4:3 frame. No stretching or trimming of the architecture was applied."
+    ],
+    "assetSha256": "46e5dbf6ec1789119a86f6e411942c1aec897dbf023435c35ddb8f7c6d5601d3"
+  }
+]

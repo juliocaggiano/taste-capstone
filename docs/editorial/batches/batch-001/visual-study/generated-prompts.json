@@ -1,0 +1,17 @@
+{
+  "tool": "image_gen.imagegen",
+  "createdAt": "2026-09-21",
+  "status": "visual_study_pending_review",
+  "prompts": [
+    {
+      "key": "borobudur",
+      "path": "/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/references/borobudur-reference.jpg",
+      "prompt": "Use case: style-transfer. Create a refined museum-object illustration of the real Borobudur monument for the Daily Culture app, using the attached photograph as the structural reference. The result should feel like a carefully made architectural scale model rendered in a quiet design catalog. Isolate the complete temple, removing all people, trees, grass, sky, railings and surrounding landscape. Preserve its recognizable stepped square terraces, relief-lined galleries, stairways, upper circular tiers, bell stupas and central stupa; do not redesign the monument. Camera: slightly elevated three-quarter view, natural perspective without wide-angle distortion, enough elevation to read the sequence of terraces. Materials: faithful subdued charcoal-gray volcanic stone, simplified only in surface noise, crisp architectural edges, softly visible relief texture; no white clay, plastic, gold, glossy finish or toy-like rounding. Lighting: broad soft studio light from upper left, gentle shading, no hard dramatic shadows. Composition: square PNG canvas, complete object centrally placed, 10-14 percent breathing room, a very small soft grounding shadow. Genuinely transparent background with real alpha, no white rectangle, gray matte, checkerboard drawn into the image, horizon line, landscape base, text, labels or watermark. This is an illustrative design study rather than a survey reconstruction. Render only one object image, not a UI or a contact sheet."
+    },
+    {
+      "key": "buddha",
+      "path": "/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/references/buddha-reference.jpg",
+      "prompt": "Use case: style-transfer. Create a clean museum-object illustration of the Great Buddha at Todai-ji, Nara, using the attached photograph as the identity and material reference. Preserve the distinctive seated figure, broad rounded face, curled hair, elongated earlobes, draped robes, raised right palm and lower left hand. Keep the sculpture recognizable and unmirrored. Isolate the statue and its integral lotus seat; remove the temple building, pillars, beams, railings and background gold halo so the figure reads as one sculptural object. Preserve subdued aged bronze with green-gray patina, broad gentle surfaces and authentic robe folds. The result should feel like a carefully lit object from a museum catalog rendered as a refined 3D illustration, not a tourist photograph, cartoon or glossy toy. Use a calm front three-quarter view with natural proportions, soft studio light from upper left and gentle form shading. Show the whole seated figure with 12 percent breathing room on a square PNG canvas. Genuinely transparent background with actual alpha, no painted checkerboard, solid backdrop, horizon, room, text or watermark. Small soft contact shadow only. This is a proposed editorial illustration, not a claim to be a scan or measured reconstruction. Render only the isolated asset."
+    }
+  ]
+}

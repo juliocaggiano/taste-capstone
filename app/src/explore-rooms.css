@@ -1,0 +1,77 @@
+/* An exhibition room: choose a collection, then enter its composed artwork wall. */
+.daily-culture-app .discover-page .explore-rooms.discover-featured {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  min-width: 0;
+  padding: 0 4px;
+  color: var(--app-text);
+  font-family: var(--app-sans);
+  letter-spacing: 0;
+}
+
+.daily-culture-app .explore-rooms-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; padding: 8px 0 20px; }
+.daily-culture-app .discover-page .explore-rooms-heading { max-width: 210px; margin: 0; font-size: 28px; line-height: 29px; font-weight: 400; letter-spacing: -.7px; }
+.daily-culture-app .explore-rooms-navigation { display: flex; flex: none; flex-direction: column; align-items: flex-end; gap: 8px; }
+.daily-culture-app .explore-rooms-counter { display: flex; gap: 5px; color: var(--app-muted); font-size: 11px; line-height: 14px; font-variant-numeric: tabular-nums; }
+.daily-culture-app .explore-rooms-counter > :first-child { color: var(--app-text); }
+.daily-culture-app .explore-rooms-arrows { display: flex; gap: 4px; }
+.daily-culture-app .explore-rooms-arrows button { display: grid; width: 32px; height: 32px; place-items: center; border-radius: 50%; background: var(--app-surface); }
+.daily-culture-app .explore-rooms-arrows button:disabled { opacity: .3; cursor: default; }
+
+.daily-culture-app .explore-rooms-selector { width: 100%; }
+.daily-culture-app .explore-rooms-selector-track { display: flex; align-items: stretch; gap: 12px; }
+.daily-culture-app .explore-rooms-room { display: flex; flex: 0 0 calc((100% - 24px) / 3); min-width: 92px; flex-direction: column; gap: 8px; padding: 0 0 10px; border-bottom: 1px solid var(--app-divider); color: var(--app-muted); transition: border-color 180ms ease; }
+.daily-culture-app .explore-rooms-room .explore-rooms-thumbnail { opacity: .6; transition: opacity 180ms ease; }
+.daily-culture-app .explore-rooms-room[aria-pressed="true"] .explore-rooms-thumbnail, .daily-culture-app .explore-rooms-room:hover .explore-rooms-thumbnail { opacity: 1; }
+.daily-culture-app .explore-rooms-room[aria-pressed="true"] { border-color: var(--app-text); color: var(--app-text); opacity: 1; }
+.daily-culture-app .explore-rooms-room:hover { opacity: 1; }
+.daily-culture-app .explore-rooms-thumbnail { position: relative; display: block; width: 100%; height: 54px; overflow: hidden; border-radius: 2px; background: var(--app-surface); }
+.daily-culture-app .explore-rooms-thumbnail img { width: 100%; height: 100%; object-fit: cover; }
+.daily-culture-app .explore-rooms-thumbnail > span { position: absolute; bottom: 0; left: 0; min-width: 22px; padding: 3px 5px; background: var(--app-bg); color: var(--app-text); font-size: 10px; line-height: 12px; }
+.daily-culture-app .explore-rooms-room-title { max-width: 100%; font-size: 12px; line-height: 15px; }
+
+.daily-culture-app .explore-rooms-exhibition { min-width: 0; margin-top: 24px; }
+.daily-culture-app .explore-rooms-arrival { animation: explore-room-enter 280ms cubic-bezier(.2,.7,.2,1) both; }
+.daily-culture-app .explore-rooms-wall { display: grid; grid-template-columns: minmax(0, 1.24fr) minmax(0, 1fr); grid-template-rows: 152px 120px; gap: 16px 24px; min-height: 320px; padding: 20px 10px 12px; }
+.daily-culture-app .explore-rooms-work { display: flex; min-width: 0; height: 100%; flex-direction: column; gap: 8px; align-self: start; transition: opacity 160ms ease; }
+.daily-culture-app .explore-rooms-work:first-child { grid-area: 1 / 1; }
+.daily-culture-app .explore-rooms-work:nth-child(2) { grid-area: 1 / 2 / 3 / 3; margin-top: 56px; height: 218px; }
+.daily-culture-app .explore-rooms-work:nth-child(3) { grid-area: 2 / 1; width: 74%; justify-self: end; }
+.daily-culture-app .explore-rooms-work:hover { opacity: .8; }
+.daily-culture-app .explore-rooms-work-image { display: flex; min-height: 0; flex: 1; width: 100%; align-items: flex-end; justify-content: center; }
+.daily-culture-app .explore-rooms-work-image img { width: 100%; height: 100%; object-fit: contain; }
+.daily-culture-app .explore-rooms-work-label { display: flex; flex: none; align-items: baseline; gap: 7px; width: 100%; color: var(--app-muted); font-size: 10px; line-height: 13px; }
+.daily-culture-app .explore-rooms-work-label > :first-child { font-size: 8px; }
+.daily-culture-app .explore-rooms-work-label > :last-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.daily-culture-app .explore-rooms-wall[data-works="2"] .explore-rooms-work:first-child { grid-row: 1 / 3; height: 236px; }
+.daily-culture-app .explore-rooms-wall[data-works="2"] .explore-rooms-work:nth-child(2) { margin-top: 80px; height: 190px; }
+.daily-culture-app .explore-rooms-wall[data-works="1"] .explore-rooms-work { grid-area: 1 / 1 / 3 / 3; width: 80%; justify-self: center; }
+
+.daily-culture-app .explore-rooms-caption { padding: 20px 0 24px; border-top: 1px solid var(--app-divider); }
+.daily-culture-app .explore-rooms-metadata { display: flex; gap: 7px; color: var(--app-muted); font-size: 10px; line-height: 14px; }
+.daily-culture-app .explore-rooms-caption h3 { margin: 8px 0 10px; max-width: 300px; color: var(--app-text); font-size: 24px; line-height: 27px; letter-spacing: -.5px; font-weight: 400; }
+.daily-culture-app .explore-rooms-caption p { margin: 0; max-width: 330px; color: var(--app-muted); font-size: 13px; line-height: 19px; }
+.daily-culture-app .explore-rooms-enter { display: inline-flex; align-items: center; justify-content: space-between; gap: 24px; min-height: 34px; margin-top: 16px; padding: 0 14px; border-radius: 999px; background: var(--app-text); color: var(--app-bg); font-size: 12px; line-height: 16px; }
+
+.daily-culture-app .explore-rooms-gallery { border-top: 1px solid var(--app-divider); }
+.daily-culture-app .explore-rooms-gallery summary { display: flex; min-height: 52px; align-items: center; justify-content: space-between; gap: 12px; cursor: pointer; list-style: none; font-size: 16px; line-height: 20px; }
+.daily-culture-app .explore-rooms-gallery summary::-webkit-details-marker { display: none; }
+.daily-culture-app .explore-rooms-gallery summary > span { display: inline-flex; align-items: baseline; gap: 8px; }
+.daily-culture-app .explore-rooms-gallery-count { color: var(--app-muted); font-size: 11px; }
+.daily-culture-app .explore-rooms-gallery summary > svg { flex: none; transition: transform 180ms ease; }
+.daily-culture-app .explore-rooms-gallery[open] summary > svg { transform: rotate(180deg); }
+.daily-culture-app .explore-rooms-gallery-content { margin: 0 -4px; padding: 12px 0 0; }
+.daily-culture-app .explore-rooms :is(button, summary):focus-visible { outline: 2px solid var(--app-focus); outline-offset: 3px; }
+
+@keyframes explore-room-enter { from { opacity: .25; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+@media (pointer: coarse) {
+  .daily-culture-app .explore-rooms-arrows button { width: 44px; height: 44px; }
+  .daily-culture-app .explore-rooms-enter { min-height: 44px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .daily-culture-app .explore-rooms-arrival { animation: none; }
+  .daily-culture-app .explore-rooms :is(button, summary > svg, .explore-rooms-thumbnail) { transition: none; }
+}

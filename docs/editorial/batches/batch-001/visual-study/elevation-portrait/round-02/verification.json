@@ -1,0 +1,32 @@
+{
+  "checkedOn": "2026-09-23",
+  "displayedCandidates": [
+    "r2-palais-garnier-sepia",
+    "r2-farnsworth-house-sepia",
+    "r2-neue-nationalgalerie-sepia",
+    "nefertiti-profile-round-02",
+    "houdon-franklin-round-02",
+    "roman-woman-head-round-02"
+  ],
+  "sourceFilesAndDimensionsVerified": true,
+  "localImageResponsesVerified": true,
+  "editorialManifestAndArchiveUnchanged": true,
+  "roundOneFingerprintsUnchanged": true,
+  "browserChecks": {
+    "desktopWidth": 1280,
+    "mobileWidth": 390,
+    "mobilePageWidth": 390,
+    "singleColumnMobile": true,
+    "fiveOriginalComparisons": true,
+    "sourceViewer": true,
+    "temporaryPreferencesIndependentOfBatch": true,
+    "existingTwelveReviewsPreservedAfterReload": true,
+    "previousVisualPreferencesAndNotesPreserved": true,
+    "newChoicesUnselected": true,
+    "viewportReset": true
+  },
+  "displayedGeneratedTreatments": 5,
+  "displayedUnchangedMuseumPhotographs": 1,
+  "fidelityLimit": "Generated fine details are interpretive. Original sources and per-work fidelity notes are available.",
+  "approval": "Pending user review; no import"
+}

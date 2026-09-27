@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "soul",
+    "medium": "cinema",
+    "title": "Soul",
+    "creator": "Pete Docter; co-directed by Kemp Powers",
+    "dateDisplay": "2020",
+    "dateStart": 2020,
+    "dateEnd": null,
+    "body": "In *Soul* (2020), New York music teacher Joe Gardner believes his real life will begin when he becomes a professional jazz pianist. He loves playing, but years of unsuccessful auditions have made everything else feel secondary. His fear comes out in a conversation with his mother:\n\n> I’m just afraid that if I died today, that my life would have amounted to nothing.\n\nAn accident separates Joe’s soul from his body on the day he finally lands a coveted gig. His body is still alive, but his soul is heading towards the Great Beyond, the film’s afterlife. Refusing to go, he escapes into the Great Before, where souls prepare for life on Earth. There he meets 22, who has never found a reason to want to be born. Repeated failures to discover a calling have left her feeling inadequate. Joe becomes her mentor and assumes that finding a passion will solve her problem.\n\nWhen they find a way to Earth, a mix-up puts 22 in Joe’s body. She enjoys experiences he takes for granted: tasting pizza, watching a seed drift from a tree, talking with people. These encounters make her want more time on Earth before she has chosen anything to do with her life.\n\nJoe struggles to value these experiences because he still measures a life’s worth by professional success. His love of music can be part of a worthwhile life without being its only justification.",
+    "sources": [
+      {
+        "title": "Disney/Pixar: Soul production notes",
+        "url": "https://lumiere-a.akamaihd.net/v1/documents/soul_production_notes_final_10-14-20_3d1e05e6.pdf",
+        "role": "primary production documentation",
+        "supports": "Credits, premise, Joe and 22’s motivations; read relevant pages in round 16."
+      },
+      {
+        "title": "Fresh Air: Soul creators on passion, purpose and realizing you are enough",
+        "url": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+        "role": "creator interview and released-film soundbites",
+        "supports": "Accident separates soul from body; Great Beyond/Great Before transition; exact released-film soundbite with Libba; passion distinct from fame and life’s value distinct from achievement. Transcript freshly reread 24 September 2026."
+      },
+      {
+        "title": "Stephanie Zacharek: Soul review",
+        "url": "https://time.com/5923340/soul-review-pixar/",
+        "role": "criticism",
+        "supports": "22’s concrete earthly experiences; used narrowly within the source’s 100-word derivation ceiling."
+      },
+      {
+        "title": "Lou Thomas: Soul review, Sight and Sound",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/soul-pixar-disney-pete-docter-kemp-powers-jamie-foxx-jazz-musician-fantasy",
+        "role": "criticism",
+        "supports": "Ambition, 22’s reluctance and attention to ordinary experience."
+      },
+      {
+        "title": "r/movies: official Soul discussion",
+        "url": "https://www.reddit.com/r/movies/comments/kkbd5s/official_discussion_soul_spoilers/",
+        "role": "public reception clue",
+        "supports": "Prior selected threads challenge simple career-change and appreciate-small-things morals; no consensus claim."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/research-2026-09-21/ROUND_16_FINAL_DRAFTS.json",
+      "baselineSection": "works[key=soul].A",
+      "changes": [
+        "Removed inline source links; all prose and paragraph structure preserved. Round 16 A preferred and called really good. Staged for batch review.",
+        "24 September 2026 remake: explained body–soul separation and the distinct Great Beyond/Great Before, removed the unwanted sentence about help returning to the performance, clarified the body mix-up, and tightened the ordinary-life/ambition connection. Retained the meaningful, transcript-verified Joe quotation. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/Soul-bc48c9f723434c76bf6261ae10836911?pvs=25"
+    },
+    "meaningBrief": "Joe makes professional musical achievement the condition for his life to matter. The clear body–soul transition establishes the fictional premise; 22’s first ordinary experiences then challenge his assumption that life requires a calling. The film preserves the value of music while questioning the use of a career as the sole measure of a life.",
+    "quotationNotes": [
+      {
+        "text": "I’m just afraid that if I died today, that my life would have amounted to nothing.",
+        "speaker": "Joe Gardner, speaking with his mother Libba",
+        "sourceUrl": "https://freshairarchive.org/segments/soul-creators-passion-purpose-and-realizing-youre-enough-0",
+        "locator": "Released-film soundbite during Joe’s conversation with Libba; transcript paragraph beginning FOXX, approximately web line 151.",
+        "wordCount": 16,
+        "version": "NPR/Fresh Air transcript of released-film audio; wording and surrounding exchange reread 24 September 2026. No separate direct audio verification.",
+        "purpose": "Makes the emotional stakes of Joe’s ambition explicit."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg?region=0%2C0%2C540%2C810",
+      "referenceUrl": "https://movies.disney.com/soul",
+      "altText": "Official Disney+ promotional poster for Soul (2020).",
+      "credit": "Disney / Pixar",
+      "license": "Copyrighted promotional artwork; no app-use license established.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Official Disney film-page image; this is promotional artwork for the 2020 film."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 20,
+    "language": "en",
+    "revision": 3,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-soul"
+  },
+  "decision": {
+    "id": "soul",
+    "decisionId": "julio-2026-09-25-soul",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image C; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "01b43c5506948ca0",
+    "imageOption": "C",
+    "imageHash": "edfcc28195438482",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "C",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "C",
+      "label": "Absorbed in music",
+      "description": "Joe closes his eyes amid blue and purple light. This intimate portrait emphasizes his absorption in music.",
+      "imageUrl": "image-options/assets/cinema/8SSQHB9V.png",
+      "sourceUrl": "https://shotdeck.com/browse/recordviewajax/image/8SSQHB9V/viewtype/full-size/show/1",
+      "credit": "Film frame from Disney and Pixar's Soul (2020), directed by Pete Docter and co-directed by Kemp Powers. Reference accessed through ShotDeck.",
+      "altText": "Joe Gardner appears in close-up with his eyes closed, surrounded by glowing blue and purple light.",
+      "width": 1920,
+      "height": 804,
+      "rightsStatus": "review_only_pending_clearance",
+      "shotId": "8SSQHB9V",
+      "shotTime": "00:07:42",
+      "filmTitle": "Soul",
+      "filmYear": 2020,
+      "filmVersion": "2020 Pixar animated feature identified by title and year in ShotDeck. Transfer or edition not specified. ShotDeck displays Pete Docter; the co-director credit is retained from the existing researched batch record.",
+      "catalogUrl": "https://shotdeck.com/browse/stills#/movie/3748~Soul",
+      "remoteImageUrl": "https://shotdeck.com/assets/images/stills/8SSQHB9V.png",
+      "displayMode": "contain",
+      "notes": "Close-up single; low angle; left-heavy composition; saturated blue and purple. Early audition sequence; the image represents the film’s visual treatment of musical absorption.",
+      "metadataLimits": "Shot time and descriptive metadata come from ShotDeck. The exact transfer is unspecified. Actual raster dimensions govern display; retain the entire frame without stretching.",
+      "downloadProvenance": {
+        "method": "Signed-in Chrome; visible official full-size image; documented tab.playwright.getByRole('img').downloadMedia() action, followed by unaltered local copy.",
+        "sourceFile": "/Users/juliocaggiano/Downloads/8SSQHB9V.png",
+        "copiedOn": "2026-09-23",
+        "sha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439",
+        "byteLength": 2289713,
+        "unalteredCopyVerified": true
+      },
+      "reviewStatus": "proposed_pending_Julio_review",
+      "assetSha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Film frame from Disney and Pixar's Soul (2020), directed by Pete Docter and co-directed by Kemp Powers. Reference accessed through ShotDeck.",
+    "altText": "Joe Gardner appears in close-up with his eyes closed, surrounded by glowing blue and purple light.",
+    "width": 1920,
+    "height": 804,
+    "imageUrl": "assets/selected.png",
+    "sha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439",
+    "sourceAssetSha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439"
+  },
+  "frozen": {
+    "bodyHash": "01b43c5506948ca0",
+    "bodySha256": "fa6a7707c1985cea9f7c56aac7e72498db27964cbbd095b7979f889515c5bfd6",
+    "imageHash": "edfcc28195438482",
+    "sourceEntrySha256": "0a2f90fcfefb275d00a10fd7e85a3050deaf0a0aa183a6aaa44121d880603096"
+  }
+}

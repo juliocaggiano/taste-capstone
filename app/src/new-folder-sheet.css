@@ -1,0 +1,62 @@
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.new-folder-form) { height: 93%; border-radius: 24px 24px 0 0; background: var(--app-bg); }
+.device-screen:has(.new-folder-form) .keyboard-dock { z-index: 82; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.new-folder-form) .sheet-header { min-height: 60px; padding: 4px 116px 24px 20px; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.new-folder-form) .sheet-title { font-size: 18px; font-weight: 400; line-height: 24px; letter-spacing: 0; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.new-folder-form) .sheet-content { padding: 0 20px max(24px, var(--device-safe-area-bottom, 34px)); overscroll-behavior: contain; touch-action: pan-y; }
+.new-folder-form { display: flex; flex-direction: column; gap: 28px; color: var(--app-text); font-family: var(--app-sans); }
+.new-folder-form *, .new-folder-form *::before, .new-folder-form *::after { box-sizing: border-box; }
+.device-screen .bottom-sheet .new-folder-form .new-folder-submit { position: absolute; z-index: 2; top: 31px; right: 20px; display: inline-flex; min-width: 78px; min-height: 36px; align-items: center; justify-content: center; padding: 8px 17px; border-radius: 999px; background: var(--app-text); color: var(--app-bg); font-size: 14px; font-weight: 400; line-height: 20px; text-align: center; }
+.device-screen .bottom-sheet .new-folder-form .new-folder-submit:disabled { background: var(--app-surface); color: var(--app-muted); cursor: default; }
+.new-folder-cover-section { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
+.device-screen .bottom-sheet .new-folder-form .new-folder-cover { position: relative; display: grid; width: 110px; height: 110px; flex: none; place-items: center; overflow: hidden; border-radius: 8px; background: var(--app-surface-raised); color: var(--app-muted); }
+.new-folder-cover > img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.new-folder-cover-edit { position: absolute; right: 6px; bottom: 6px; display: grid; width: 24px; height: 24px; place-items: center; border-radius: 50%; background: var(--app-bg); color: var(--app-text); }
+.new-folder-cover-empty { color: var(--app-muted); font-size: 12px; line-height: 16px; }
+.new-folder-cover-picker { width: 100%; margin: 0; padding: 0; border: 0; }
+.new-folder-cover-picker legend { margin: 0 0 10px; padding: 0; font-size: 14px; line-height: 20px; }
+.new-folder-cover-options { display: grid; max-height: 230px; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; overflow-y: auto; padding: 3px; margin: -3px; }
+.device-screen .bottom-sheet .new-folder-form .new-folder-cover-options button { position: relative; aspect-ratio: 1; overflow: hidden; border-radius: 4px; background: var(--app-bg); }
+.new-folder-cover-options img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.new-folder-cover-options button[aria-pressed="true"] { outline: 2px solid var(--app-text); outline-offset: 1px; }
+.new-folder-cover-options button > span { position: absolute; right: 4px; bottom: 4px; display: grid; width: 20px; height: 20px; place-items: center; border-radius: 50%; background: var(--app-text); color: var(--app-bg); }
+.new-folder-name-field { display: flex; flex-direction: column; gap: 10px; }
+.new-folder-field-label { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; color: var(--app-muted); font-size: 14px; line-height: 20px; }
+.new-folder-field-label > span { color: var(--app-muted); font-size: 12px; line-height: 16px; font-variant-numeric: tabular-nums; }
+.new-folder-form input { width: 100%; height: 50px; min-width: 0; padding: 0 14px; border: 1px solid color-mix(in srgb, var(--app-muted) 35%, transparent); border-radius: 8px; outline: 0; background: transparent; color: var(--app-text); font: inherit; font-size: 16px; line-height: 22px; }
+.new-folder-form input::placeholder { color: var(--app-muted); opacity: 1; }
+.new-folder-preferences { display: flex; flex-direction: column; gap: 26px; }
+.new-folder-preference { display: flex; align-items: flex-start; justify-content: space-between; gap: 28px; }
+.new-folder-preference > div { min-width: 0; }
+.new-folder-preference > div > span { display: block; font-size: 16px; line-height: 22px; }
+.new-folder-preference p { margin: 7px 0 0; color: var(--app-muted); font-size: 14px; line-height: 20px; }
+.device-screen .bottom-sheet .new-folder-form .dc-toggle { flex: 0 0 45px; margin-top: 1px; }
+.device-screen:has(.daily-culture-app[data-theme="dark"]) .new-folder-form .dc-toggle[data-checked="false"] span { background: var(--app-text); }
+.new-folder-collaborators { display: flex; flex-direction: column; gap: 14px; }
+.new-folder-collaborators-heading h3 { margin: 0; color: var(--app-muted); font-size: 14px; font-weight: 400; line-height: 20px; }
+.new-folder-collaborators-heading p { margin: 4px 0 0; color: var(--app-muted); font-size: 12px; line-height: 16px; }
+.new-folder-people-search { position: relative; display: flex; align-items: center; }
+.new-folder-people-search > svg { position: absolute; left: 13px; flex: none; color: var(--app-muted); pointer-events: none; }
+.new-folder-people-search input { padding-left: 41px; }
+.new-folder-selected, .new-folder-people-results { margin: 0; padding: 0; list-style: none; }
+.new-folder-selected { display: flex; flex-wrap: wrap; gap: 8px; }
+.device-screen .bottom-sheet .new-folder-form .new-folder-selected button { display: inline-flex; min-height: 36px; align-items: center; gap: 7px; padding: 5px 9px 5px 5px; border-radius: 999px; background: var(--app-surface); font-size: 12px; line-height: 16px; }
+.new-folder-selected .today-saver-avatar { width: 26px; height: 26px; flex: none; font-size: 10px; }
+.new-folder-selected svg { flex: none; }
+.device-screen .bottom-sheet .new-folder-form .new-folder-people-results button { display: flex; width: 100%; min-height: 56px; align-items: center; gap: 11px; padding: 7px 0; }
+.new-folder-people-results .today-saver-avatar { width: 36px; height: 36px; flex: none; font-size: 12px; }
+.new-folder-person-name { display: flex; min-width: 0; flex: 1; flex-direction: column; gap: 2px; font-size: 14px; line-height: 18px; }
+.new-folder-person-name small { color: var(--app-muted); font-size: 12px; line-height: 16px; }
+.new-folder-people-results button > svg { flex: none; }
+.new-folder-people-results button:disabled { opacity: .45; }
+.new-folder-people-empty { padding: 4px 0 12px; color: var(--app-muted); font-size: 14px; line-height: 20px; }
+@media (pointer: coarse) {
+  .device-screen .bottom-sheet .new-folder-form .new-folder-submit { top: 27px; min-height: 44px; }
+  .device-screen .bottom-sheet .new-folder-form .new-folder-selected button { min-height: 44px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .device-screen .bottom-sheet:has(.new-folder-form) { transform: none !important; transition: none !important; }
+  .device-screen .bottom-sheet[data-state="closed"]:has(.new-folder-form) { opacity: 0 !important; pointer-events: none; }
+  .device-screen .sheet-overlay:has(+ .bottom-sheet:has(.new-folder-form)) { opacity: 1 !important; transition: none !important; }
+  .device-screen .sheet-overlay[data-state="closed"]:has(+ .bottom-sheet:has(.new-folder-form)) { opacity: 0 !important; }
+  .new-folder-form .dc-toggle, .new-folder-form .dc-toggle span { transition: none !important; }
+}

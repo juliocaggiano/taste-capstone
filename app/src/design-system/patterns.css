@@ -1,0 +1,336 @@
+.ds-daily-pattern,
+.ds-search-pattern {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 393px;
+  min-width: 0;
+  margin-inline: auto;
+  padding: 4px 4px 16px;
+  background: var(--dc-background);
+  color: var(--dc-text);
+  font-family: var(--dc-font-sans);
+}
+
+.ds-daily-pattern :is(h3, p),
+.ds-search-pattern :is(h3, p) {
+  margin: 0;
+  font-weight: 400;
+}
+
+.ds-daily-pattern :is(button, a):focus-visible,
+.ds-search-pattern :is(button, a):focus-visible,
+.ds-search-pattern .ds-pattern-gallery:focus-visible {
+  outline: 1px solid currentColor;
+  outline-offset: 2px;
+}
+
+.ds-daily-pattern .ds-story-art {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.ds-daily-pattern .ds-story-meta {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 12px 4px 0;
+}
+
+.ds-daily-pattern .ds-story-meta > div {
+  min-width: 0;
+}
+
+.ds-daily-pattern .ds-story-meta h3 {
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: .01em;
+}
+
+.ds-daily-pattern .ds-story-meta p {
+  margin-top: 2px;
+  color: var(--dc-muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.ds-daily-pattern .ds-save {
+  display: grid;
+  flex: none;
+  width: 32px;
+  height: 32px;
+  min-height: 32px;
+  padding: 0;
+  place-items: center;
+  border: 0;
+  border-radius: 999px;
+  background: var(--dc-surface);
+  color: var(--dc-text);
+}
+
+.ds-daily-pattern .ds-inline-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+  padding-inline: 4px;
+}
+
+.ds-daily-pattern .ds-inline-tags span {
+  padding: 2px 6px;
+  border-radius: 2px;
+  background: var(--dc-surface);
+  color: var(--dc-muted);
+  font-size: 9px;
+  line-height: 12px;
+}
+
+.ds-daily-pattern .ds-pattern-story {
+  margin-top: 16px;
+  padding: 16px 4px 0;
+  border-top: 1px solid var(--dc-divider);
+}
+
+.ds-daily-pattern .ds-pattern-story p {
+  margin: 0 0 12px;
+  color: var(--dc-text);
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: .01em;
+}
+
+.ds-daily-pattern .ds-pattern-story small {
+  display: block;
+  margin-top: 16px;
+  color: var(--dc-muted);
+  font-size: 9px;
+  line-height: 13px;
+}
+
+.ds-search-pattern .ds-pattern-search-tools {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-inline: 4px;
+}
+
+.ds-search-pattern .ds-search-placeholder {
+  display: flex;
+  min-height: 28px;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--dc-surface);
+  color: var(--dc-muted);
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.ds-search-pattern .ds-pattern-filter-rail {
+  width: 100%;
+  min-width: 0;
+}
+
+.ds-search-pattern .ds-pattern-filter-track {
+  display: flex;
+  gap: 4px;
+  padding: 2px;
+}
+
+.ds-search-pattern .ds-pattern-filter-track .dc-chip {
+  flex: none;
+}
+
+.ds-search-pattern .ds-pattern-featured,
+.ds-search-pattern .ds-pattern-discovery,
+.ds-search-pattern .ds-pattern-gallery {
+  min-width: 0;
+  margin-top: 16px;
+}
+
+.ds-search-pattern .ds-pattern-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 0 0 8px;
+  padding-inline: 4px;
+}
+
+.ds-search-pattern .ds-pattern-section-heading h3,
+.ds-search-pattern .ds-discovery-heading {
+  margin: 0;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: .01em;
+}
+
+.ds-search-pattern .ds-pattern-section-heading > button {
+  min-height: 24px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--dc-text);
+  font: inherit;
+  font-size: 10px;
+  line-height: 16px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.ds-search-pattern .ds-pattern-section-heading > span {
+  color: var(--dc-muted);
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.ds-search-pattern .ds-pattern-featured-rail {
+  width: 100%;
+  min-width: 0;
+}
+
+.ds-search-pattern .ds-pattern-featured-track {
+  display: flex;
+  gap: 4px;
+}
+
+.ds-search-pattern .ds-pattern-featured-track .dc-artwork-card {
+  flex: 0 0 243px;
+  width: 243px;
+  min-width: 0;
+  margin: 0;
+}
+
+.ds-search-pattern .ds-pattern-featured-track .dc-artwork-card img {
+  display: block;
+  width: 243px;
+  height: 182px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+.ds-search-pattern .ds-pattern-featured-track .dc-artwork-card strong {
+  font-size: 11px;
+  line-height: 14px;
+}
+
+.ds-search-pattern .ds-pattern-featured-track .dc-artwork-card small,
+.ds-search-pattern .ds-pattern-featured-track .piece-card-meta {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.ds-search-pattern .ds-discovery-heading {
+  margin-top: 0 !important;
+  padding-inline: 4px;
+}
+
+.ds-search-pattern .ds-discovery-tiles {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.ds-search-pattern .ds-discovery-tiles button {
+  display: flex;
+  min-width: 0;
+  min-height: 54px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2px;
+  padding: 12px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background: var(--dc-surface);
+  color: var(--dc-text);
+  text-align: left;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.ds-search-pattern .ds-discovery-tiles button[aria-pressed="true"] {
+  border-color: var(--dc-text);
+}
+
+.ds-search-pattern .ds-discovery-tiles small {
+  margin: 0;
+  color: var(--dc-muted);
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.ds-search-pattern .ds-pattern-gallery {
+  padding-top: 16px;
+  border-top: 1px solid var(--dc-divider);
+  scroll-margin-top: 16px;
+}
+
+.ds-search-pattern .ds-pattern-gallery .ds-pattern-section-heading {
+  margin-bottom: 4px;
+  padding-inline: 0;
+}
+
+.ds-search-pattern .ds-pattern-gallery .ds-pattern-section-heading h3 {
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.ds-search-pattern .ds-pattern-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  align-items: start;
+  gap: 8px 4px;
+}
+
+.ds-search-pattern .ds-pattern-gallery-grid .dc-artwork-card {
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+}
+
+.ds-search-pattern .ds-pattern-gallery-grid .dc-artwork-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 124px;
+  object-fit: contain;
+  border-radius: 2px;
+}
+
+.ds-search-pattern .ds-pattern-gallery-grid .dc-artwork-card strong {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.ds-search-pattern .ds-pattern-gallery-grid .dc-artwork-card small {
+  color: var(--dc-muted);
+  font-size: 9px;
+  line-height: 12px;
+}
+
+.ds-search-pattern .ds-pattern-gallery-grid .dc-artwork-card .dc-artwork-card-copy {
+  gap: 1px;
+  margin-top: 2px;
+}
+
+.ds-search-pattern .ds-pattern-gallery-grid .piece-card-meta {
+  display: none;
+}
+
+@media (pointer: coarse) {
+  .ds-daily-pattern .ds-save {
+    width: 44px;
+    height: 44px;
+    min-height: 44px;
+  }
+
+  .ds-search-pattern .ds-pattern-section-heading > button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}

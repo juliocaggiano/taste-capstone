@@ -1,0 +1,19 @@
+{
+  "capturedAt": "2026-09-23T12:01:28.768Z",
+  "source": "Current review page controls and note fields, read before interface changes",
+  "entries": [
+    {"id":"stanczyk","imageOption":null,"writingStatus":"pending","notes":""},
+    {"id":"death-of-marat","imageOption":null,"writingStatus":"pending","notes":""},
+    {"id":"the-ambassadors","imageOption":null,"writingStatus":"pending","notes":""},
+    {"id":"beethoven-symphony-nine","imageOption":"A","writingStatus":"changes_requested","notes":"too jargony. as someone who knows nothing about music this is very hard to read and interpret"},
+    {"id":"billie-holiday-strange-fruit","imageOption":"A","writingStatus":"changes_requested","notes":"We need short exceprts of the lyrics, otherwise this makes no sense"},
+    {"id":"joao-gilberto-chega-saudade","imageOption":"C","writingStatus":"pending","notes":""},
+    {"id":"eternal-sunshine","imageOption":"A","writingStatus":"changes_requested","notes":"I don't really like the phrase \"the film invents a medical solution to a familiar wish.\" That sentence reads too AI. You should rewrite it. In general, I don't really like the way this is written. Can you try again? "},
+    {"id":"soul","imageOption":"C","writingStatus":"changes_requested","notes":"You forgot to say that after the accident, he dies, and then he meets 22 in the afterlife. And I'll get rid of the phrase \"he needs her help to return to his performance.\" "},
+    {"id":"im-still-here","imageOption":"C","writingStatus":"approved","notes":"I would like to see it slightly less AI-written, but in general, it's okay. It's somewhat good. "},
+    {"id":"animal-farm","imageOption":"C","writingStatus":"pending","notes":""},
+    {"id":"vidas-secas","imageOption":null,"writingStatus":"pending","notes":""},
+    {"id":"the-great-gatsby","imageOption":null,"writingStatus":"pending","notes":""}
+  ],
+  "verbalFeedback": {"rejectedImageSets":["vidas-secas","the-great-gatsby"],"releaseRule":"Hold the entire batch until all 12 versions are approved."}
+}

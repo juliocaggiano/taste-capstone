@@ -1,0 +1,522 @@
+{
+  "updatedOn": "2026-09-27",
+  "language": "en",
+  "status": "Factual supplements requested by Julio; separate from approved story text.",
+  "works": {
+    "michelangelo-david": {
+      "medium": "White marble",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Galleria dell’Accademia, Florence"
+        },
+        {
+          "label": "measurementNote",
+          "value": "Height includes the carved base"
+        }
+      ],
+      "sources": [
+        "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/"
+      ],
+      "dimensions": {
+        "heightCm": 517
+      }
+    },
+    "stanczyk": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "National Museum in Warsaw"
+        }
+      ],
+      "sources": [
+        "https://cyfrowe.mnw.art.pl/pl/katalog/500563"
+      ],
+      "dimensions": {
+        "heightCm": 88,
+        "widthCm": 120
+      }
+    },
+    "death-of-marat": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Royal Museums of Fine Arts of Belgium, Brussels"
+        }
+      ],
+      "sources": [
+        "https://fine-arts-museum.be/fr/la-collection/jacques-louis-david-marat-assassine"
+      ],
+      "dimensions": {
+        "heightCm": 165,
+        "widthCm": 128
+      }
+    },
+    "the-ambassadors": {
+      "medium": "Oil on oak",
+      "details": [
+        {
+          "label": "collection",
+          "value": "National Gallery, London"
+        }
+      ],
+      "sources": [
+        "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors"
+      ],
+      "dimensions": {
+        "heightCm": 207,
+        "widthCm": 209.5
+      }
+    },
+    "goya-third-of-may": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Museo Nacional del Prado, Madrid"
+        }
+      ],
+      "sources": [
+        "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c"
+      ],
+      "dimensions": {
+        "heightCm": 268,
+        "widthCm": 347
+      }
+    },
+    "potato-eaters": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Van Gogh Museum, Amsterdam"
+        }
+      ],
+      "sources": [
+        "https://www.vangoghmuseum.nl/en/collection/s0005V1962"
+      ],
+      "dimensions": {
+        "heightCm": 82,
+        "widthCm": 114
+      }
+    },
+    "the-gleaners": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Musée d’Orsay, Paris"
+        }
+      ],
+      "sources": [
+        "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342"
+      ],
+      "dimensions": {
+        "heightCm": 83.5,
+        "widthCm": 110
+      }
+    },
+    "liberty-leading-the-people": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Musée du Louvre, Paris"
+        }
+      ],
+      "sources": [
+        "https://collections.louvre.fr/en/ark:/53355/cl010065872"
+      ],
+      "dimensions": {
+        "heightCm": 260,
+        "widthCm": 325
+      }
+    },
+    "school-of-athens": {
+      "medium": "Fresco",
+      "details": [
+        {
+          "label": "location",
+          "value": "Room of the Segnatura, Vatican Museums"
+        }
+      ],
+      "sources": [
+        "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html"
+      ]
+    },
+    "beethoven-symphony-nine": {
+      "medium": "Choral symphony",
+      "details": [
+        {
+          "label": "catalogue",
+          "value": "Symphony No. 9 in D minor, Op. 125"
+        },
+        {
+          "label": "premiere",
+          "value": "7 May 1824, Vienna"
+        },
+        {
+          "label": "text",
+          "value": "Friedrich Schiller’s Ode to Joy; German"
+        }
+      ],
+      "sources": [
+        "https://www.esm.rochester.edu/beethoven/symphony-no-9/",
+        "https://www.beethoven.de/en/press/view/5715431570538496/BTHVN2024%2B%E2%80%93%2B%2B200%2BJahre%2BBeethovens%2BNeunte"
+      ]
+    },
+    "billie-holiday-strange-fruit": {
+      "medium": "Song recording",
+      "details": [
+        {
+          "label": "songwriter",
+          "value": "Abel Meeropol, under the name Lewis Allan"
+        },
+        {
+          "label": "label",
+          "value": "Commodore"
+        },
+        {
+          "label": "language",
+          "value": "English"
+        }
+      ],
+      "sources": [
+        "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/StrangeFruit_Blackburn.pdf"
+      ]
+    },
+    "joao-gilberto-chega-saudade": {
+      "medium": "Song recording",
+      "details": [
+        {
+          "label": "music",
+          "value": "Antônio Carlos Jobim"
+        },
+        {
+          "label": "lyrics",
+          "value": "Vinicius de Moraes"
+        },
+        {
+          "label": "recorded",
+          "value": "10 July 1958"
+        },
+        {
+          "label": "label",
+          "value": "Odeon, record 14.360"
+        },
+        {
+          "label": "language",
+          "value": "Portuguese"
+        }
+      ],
+      "sources": [
+        "https://discografiabrasileira.com.br/fonograma/133285/chega-de-saudade"
+      ]
+    },
+    "animal-farm": {
+      "medium": "Political fable",
+      "details": [
+        {
+          "label": "language",
+          "value": "English"
+        },
+        {
+          "label": "firstPublished",
+          "value": "1945"
+        }
+      ],
+      "sources": [
+        "https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/animal-farm/"
+      ]
+    },
+    "vidas-secas": {
+      "medium": "Novel",
+      "details": [
+        {
+          "label": "language",
+          "value": "Portuguese"
+        },
+        {
+          "label": "firstPublished",
+          "value": "1938"
+        }
+      ],
+      "sources": [
+        "https://graciliano.com.br/vida/biografia/"
+      ]
+    },
+    "the-great-gatsby": {
+      "medium": "Novel",
+      "details": [
+        {
+          "label": "language",
+          "value": "English"
+        },
+        {
+          "label": "firstPublished",
+          "value": "1925"
+        }
+      ],
+      "sources": [
+        "https://sc.edu/about/offices_and_divisions/university_libraries/browse/irvin_dept_special_collections/collections/matthew_arlyn_bruccoli_collection_of_f_scott_fitzgerald/life_of_fitzgerald/index.php"
+      ]
+    },
+    "eternal-sunshine": {
+      "medium": "Live-action feature film",
+      "details": [
+        {
+          "label": "runtime",
+          "value": "108 minutes"
+        },
+        {
+          "label": "language",
+          "value": "English"
+        },
+        {
+          "label": "screenplay",
+          "value": "Charlie Kaufman"
+        },
+        {
+          "label": "cinematography",
+          "value": "Ellen Kuras"
+        }
+      ],
+      "sources": [
+        "https://www.bfi.org.uk/film/6565d21a-c62c-5ffe-aac9-ffce265edbba/eternal-sunshine-of-the-spotless-mind",
+        "https://www.focusfeatures.com/article/legacy_eternal-sunshine_13-year-anniversary"
+      ]
+    },
+    "soul": {
+      "medium": "Computer-animated feature film",
+      "details": [
+        {
+          "label": "runtime",
+          "value": "100 minutes"
+        },
+        {
+          "label": "language",
+          "value": "English"
+        },
+        {
+          "label": "screenplay",
+          "value": "Pete Docter, Mike Jones and Kemp Powers"
+        },
+        {
+          "label": "score",
+          "value": "Trent Reznor and Atticus Ross"
+        },
+        {
+          "label": "jazz",
+          "value": "Jon Batiste"
+        }
+      ],
+      "sources": [
+        "https://lumiere-a.akamaihd.net/v1/documents/soul_production_notes_final_10-14-20_3d1e05e6.pdf",
+        "https://movies.disney.com/soul"
+      ]
+    },
+    "im-still-here": {
+      "medium": "Live-action feature film",
+      "details": [
+        {
+          "label": "language",
+          "value": "Portuguese"
+        },
+        {
+          "label": "screenplay",
+          "value": "Murilo Hauser and Heitor Lorega"
+        },
+        {
+          "label": "adaptedFrom",
+          "value": "Marcelo Rubens Paiva’s memoir Ainda Estou Aqui"
+        }
+      ],
+      "sources": [
+        "https://www.sonyclassics.com/film/imstillhere"
+      ]
+    },
+    "saturn-devouring-his-son": {
+      "medium": "Oil on plaster, transferred to canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Museo Nacional del Prado, Madrid"
+        }
+      ],
+      "dimensions": {
+        "heightCm": 143.5,
+        "widthCm": 81.5
+      },
+      "sources": [
+        "https://fundaciongoyaenaragon.es/obra/saturno-devorando-a-un-hijo/660"
+      ]
+    },
+    "death-of-socrates": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "The Metropolitan Museum of Art, New York"
+        }
+      ],
+      "dimensions": {
+        "heightCm": 129.5,
+        "widthCm": 196.2
+      },
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/436105"
+      ]
+    }
+  },
+  "creators": {
+    "michelangelo-buonarroti": {
+      "country": "Italy",
+      "dates": "1475–1564",
+      "biography": "Michelangelo was an Italian sculptor, painter, architect and poet. He trained in Florence and worked for popes in Rome. Alongside David and the Pietà, he made the Sistine Chapel ceiling and helped design St Peter’s Basilica.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/michelangelo"
+      ]
+    },
+    "jan-matejko": {
+      "country": "Poland",
+      "dates": "1838–1893",
+      "biography": "Jan Matejko painted scenes from Polish history while the country was divided among neighboring powers. Working in Kraków, he used familiar historical figures to examine political responsibility, national achievements and the decisions behind Poland’s decline.",
+      "sources": [
+        "https://culture.pl/en/artist/jan-matejko"
+      ]
+    },
+    "jacques-louis-david": {
+      "country": "France",
+      "dates": "1748–1825",
+      "biography": "Jacques-Louis David was a French painter whose work helped define Neoclassicism. He painted ancient history and contemporary politics, supporting the French Revolution before becoming Napoleon’s official painter.",
+      "sources": [
+        "https://fine-arts-museum.be/fr/la-collection/jacques-louis-david-marat-assassine"
+      ]
+    },
+    "hans-holbein-the-younger": {
+      "country": "Germany",
+      "dates": "c. 1497–1543",
+      "biography": "Hans Holbein the Younger trained as a painter in Augsburg and worked in Basel before moving to England. His portraits recorded the merchants and courtiers of Tudor society. He also designed jewelry, metalwork and book illustrations.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/hans-holbein-the-younger"
+      ]
+    },
+    "francisco-goya": {
+      "country": "Spain",
+      "dates": "1746–1828",
+      "biography": "Francisco Goya was a Spanish painter and printmaker who worked for the royal court. Alongside portraits and scenes of daily life, he depicted war, repression and superstition. His prints often addressed subjects that were difficult to confront in official commissions.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/francisco-de-goya"
+      ]
+    },
+    "vincent-van-gogh": {
+      "country": "Netherlands",
+      "dates": "1853–1890",
+      "biography": "Vincent van Gogh was a Dutch painter who began his artistic career as an adult. His early work focused on rural labor. In France, his palette became brighter and his brushwork more pronounced, shaping the portraits and landscapes for which he is best known.",
+      "sources": [
+        "https://www.vangoghmuseum.nl/en/art-and-stories/art/vincent-van-gogh"
+      ]
+    },
+    "jean-francois-millet": {
+      "country": "France",
+      "dates": "1814–1875",
+      "biography": "Jean-François Millet grew up in rural Normandy and made agricultural work a major subject of his painting. His farm workers occupy the foreground rather than serving as background decoration. He settled in Barbizon, near the forest of Fontainebleau.",
+      "sources": [
+        "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342"
+      ]
+    },
+    "eugene-delacroix": {
+      "country": "France",
+      "dates": "1798–1863",
+      "biography": "Eugène Delacroix was a French painter associated with Romanticism. He drew subjects from literature, contemporary events and his travels in North Africa. Strong color and animated figures distinguish his paintings, which include large public murals as well as easel works.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/eugene-delacroix"
+      ]
+    },
+    "raphael": {
+      "country": "Italy",
+      "dates": "1483–1520",
+      "biography": "Raphael trained in central Italy before working in Florence and Rome. Pope Julius II commissioned him to decorate rooms in the Vatican. Known for carefully organized figures and clear compositions, Raphael also worked as an architect, including at St Peter’s Basilica.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/raphael"
+      ]
+    },
+    "ludwig-van-beethoven": {
+      "country": "Germany",
+      "dates": "1770–1827",
+      "biography": "Ludwig van Beethoven was born in Bonn and built his career as a pianist and composer in Vienna. His work expanded the scale and expressive range of the symphony, sonata and string quartet. He continued composing as his hearing deteriorated.",
+      "sources": [
+        "https://www.beethoven.de/en/beethoven"
+      ]
+    },
+    "billie-holiday": {
+      "country": "United States",
+      "dates": "1915–1959",
+      "biography": "Billie Holiday was an American jazz singer known for her phrasing and sense of timing. She could reshape a familiar melody through small changes in rhythm and emphasis. Her repertoire included love songs as well as Strange Fruit, a protest against lynching.",
+      "sources": [
+        "https://www.loc.gov/item/today-in-history/april-07",
+        "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/StrangeFruit.pdf"
+      ]
+    },
+    "joao-gilberto": {
+      "country": "Brazil",
+      "dates": "",
+      "biography": "João Gilberto was a Brazilian singer and guitarist central to the emergence of bossa nova. His quiet singing and guitar rhythm brought a new intimacy to samba. His 1958 recording of Chega de Saudade helped establish the style.",
+      "sources": [
+        "https://ims.com.br/2018/03/29/ainda-bossa-ainda-nova/"
+      ]
+    },
+    "george-orwell": {
+      "country": "United Kingdom",
+      "dates": "1903–1950",
+      "biography": "George Orwell was the pen name of Eric Arthur Blair, a British novelist, essayist and journalist. Experiences of poverty, imperial rule and the Spanish Civil War informed his writing. Animal Farm and Nineteen Eighty-Four examine political power and the manipulation of language.",
+      "sources": [
+        "https://www.orwellfoundation.com/the-orwell-foundation/orwell/biography/"
+      ]
+    },
+    "graciliano-ramos": {
+      "country": "Brazil",
+      "dates": "1892–1953",
+      "biography": "Graciliano Ramos was a Brazilian novelist from Alagoas. His spare prose follows people constrained by poverty, authority and their difficulty expressing themselves. He also served as a mayor and wrote about his imprisonment under Getúlio Vargas in Memórias do Cárcere.",
+      "sources": [
+        "https://graciliano.com.br/vida/biografia/"
+      ]
+    },
+    "f-scott-fitzgerald": {
+      "country": "United States",
+      "dates": "1896–1940",
+      "biography": "F. Scott Fitzgerald was an American novelist and short-story writer closely associated with the 1920s. He wrote about ambition, wealth and the gap between public success and private disappointment. The Great Gatsby became his best-known novel.",
+      "sources": [
+        "https://sc.edu/about/offices_and_divisions/university_libraries/browse/irvin_dept_special_collections/collections/matthew_arlyn_bruccoli_collection_of_f_scott_fitzgerald/life_of_fitzgerald/index.php"
+      ]
+    },
+    "michel-gondry": {
+      "country": "France",
+      "dates": "",
+      "biography": "Michel Gondry is a French filmmaker who began making music videos for his band Oui Oui. His films often use handmade sets, camera tricks and practical effects to represent imagination and memory. He directed Eternal Sunshine of the Spotless Mind from Charlie Kaufman’s screenplay.",
+      "sources": [
+        "https://www.focusfeatures.com/article/bastille-day_french-talents_desplat_gondry",
+        "https://www.focusfeatures.com/article/legacy_eternal-sunshine_13-year-anniversary"
+      ]
+    },
+    "pete-docter-kemp-powers": {
+      "country": "United States",
+      "dates": "",
+      "biography": "Pete Docter is a Pixar director whose films include Monsters, Inc., Up and Inside Out. Kemp Powers is a playwright and screenwriter whose work includes One Night in Miami. They co-wrote Soul, with Docter directing and Powers co-directing.",
+      "sources": [
+        "https://lumiere-a.akamaihd.net/v1/documents/soul_production_notes_final_10-14-20_3d1e05e6.pdf"
+      ]
+    },
+    "walter-salles": {
+      "country": "Brazil",
+      "dates": "",
+      "biography": "Walter Salles is a Brazilian filmmaker whose work often follows people through journeys and social change. He directed Central Station and The Motorcycle Diaries. In I’m Still Here, he returned to Brazil’s military dictatorship through the experience of the Paiva family.",
+      "sources": [
+        "https://www.sonypictures.com/movies/imstillhere",
+        "https://www.sonyclassics.com/film/imstillhere"
+      ]
+    }
+  }
+}

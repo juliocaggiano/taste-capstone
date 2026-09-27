@@ -1,0 +1,413 @@
+[
+  {
+    "entryId": "goya-third-of-may",
+    "options": [
+      {
+        "id": "A",
+        "label": "Prado / Google Earth",
+        "description": "Detailed reproduction with muted earth colours and a very thin dark edge.",
+        "imageUrl": "image-options/assets/painting/b002-goya-third-of-may-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c",
+        "credit": "Francisco Goya / Museo Nacional del Prado; Google Earth reproduction, existing Commons derivative.",
+        "altText": "Complete painting of prisoners facing a French firing squad at night, with a man in a white shirt raising both arms and bodies in the foreground.",
+        "width": 1920,
+        "height": 1483,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg/1920px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
+        "sourceNotes": "29,294 × 22,626 published original. The Commons derivative thins the black border around the full painted composition. No project-created changes. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "01cfb78e2e13a3dbc40f073e6615f3ba945481ad29d362e61a6dd5b123f8c28d",
+        "sourceDimensions": [
+          29294,
+          22626
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Earlier Prado reproduction",
+        "description": "Brighter yellow-green ground and more saturated clothing than A.",
+        "imageUrl": "image-options/assets/painting/b002-goya-third-of-may-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_tres_de_mayo_de_1808_en_Madrid_%282008%29.jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c",
+        "credit": "Francisco Goya / Museo Nacional del Prado; older published reproduction, via Wikimedia Commons.",
+        "altText": "Complete painting of prisoners facing a French firing squad at night, with a man in a white shirt raising both arms and bodies in the foreground.",
+        "width": 1920,
+        "height": 1476,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/El_tres_de_mayo_de_1808_en_Madrid_%282008%29.jpg/1920px-El_tres_de_mayo_de_1808_en_Madrid_%282008%29.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/El_tres_de_mayo_de_1808_en_Madrid_%282008%29.jpg",
+        "sourceNotes": "Existing Commons file labelled 2008, identified as the same 1814 Prado painting. Its existing colours differ from A; colour accuracy is not ranked. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "468cafafb80dfb69e293b1b9b125afabc2dc054b758f8592b97ce9eba6671f2a",
+        "sourceDimensions": [
+          5903,
+          4539
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Yorck reproduction",
+        "description": "Darker surroundings and stronger light-dark contrast. Limited to 960 pixels wide.",
+        "imageUrl": "image-options/assets/painting/b002-goya-third-of-may-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tres_de_Mayo_by_Goya.jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c",
+        "credit": "Francisco Goya / The Yorck Project, 2002, via Wikimedia Commons.",
+        "altText": "Complete painting of prisoners facing a French firing squad at night, with a man in a white shirt raising both arms and bodies in the foreground.",
+        "width": 960,
+        "height": 744,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Commons marks the artwork and reproduction public domain. Its Yorck collection notice separately identifies compilation copyright under the GNU Free Documentation License.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tres_de_Mayo_by_Goya.jpg/960px-Tres_de_Mayo_by_Goya.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tres_de_Mayo_by_Goya.jpg",
+        "sourceNotes": "Published Yorck reproduction, downloaded as a 960-pixel preview. Entire composition retained. Lower zoom detail than A and B. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "ba1dfeb27e9a619eeaa7fce12c31d33a98fbbf7275901a8bd5fda439bda9b29a",
+        "sourceDimensions": [
+          1161,
+          900
+        ]
+      }
+    ]
+  },
+  {
+    "entryId": "raft-of-medusa",
+    "options": [
+      {
+        "id": "A",
+        "label": "Louvre reproduction",
+        "description": "Subdued olive tones and softer golden light in the sky.",
+        "imageUrl": "image-options/assets/painting/b002-raft-of-medusa-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg",
+        "museumReferenceUrl": "https://collections.louvre.fr/ark:/53355/cl010059199",
+        "credit": "Théodore Géricault / Musée du Louvre; collection reproduction via Wikimedia Commons.",
+        "altText": "Complete painting of shipwreck survivors on a crowded raft, with bodies in front and men signalling toward a tiny ship on the horizon.",
+        "width": 1280,
+        "height": 872,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg/1280px-G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg",
+        "sourceNotes": "Louvre original INV 4884 / C 51. The source file is 1500 pixels wide; this downloaded preview is 1280 pixels. Photographer is not individually identified in this file record. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "690759d752a781f97c4625fde40fc7d0d229ebab4ab358ec78f43cdf02d7fdb2",
+        "sourceDimensions": [
+          1500,
+          1022
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Art-book reproduction",
+        "description": "Stronger gold and orange in the sky, with deeper contrast around the figures.",
+        "imageUrl": "image-options/assets/painting/b002-raft-of-medusa-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raft_of_the_Medusa.jpg",
+        "museumReferenceUrl": "https://collections.louvre.fr/ark:/53355/cl010059199",
+        "credit": "Théodore Géricault / scan by Vitold Muratov of A–Z of ART, Carlton Books Ltd, 1996; via Wikimedia Commons.",
+        "altText": "Complete painting of shipwreck survivors on a crowded raft, with bodies in front and men signalling toward a tiny ship on the horizon.",
+        "width": 1920,
+        "height": 1298,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Raft_of_the_Medusa.jpg/1920px-Raft_of_the_Medusa.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Raft_of_the_Medusa.jpg",
+        "sourceNotes": "Distinct published book reproduction of the Louvre original, with its existing saturated colour rendering. No claim that the book scan is more faithful to the physical painting. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "6a2401c99dbe716596995c306723c011b107e0941c6e1b1184193aaac54bf9c0",
+        "sourceDimensions": [
+          2659,
+          1797
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Web Gallery of Art",
+        "description": "Warmer brown tones and a lighter foreground than A. Limited to 960 pixels wide.",
+        "imageUrl": "image-options/assets/painting/b002-raft-of-medusa-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Th%C3%A9odore_G%C3%A9ricault_-_The_Raft_of_the_Medusa_-_WGA08630.jpg",
+        "museumReferenceUrl": "https://collections.louvre.fr/ark:/53355/cl010059199",
+        "credit": "Théodore Géricault / Web Gallery of Art, via Wikimedia Commons.",
+        "altText": "Complete painting of shipwreck survivors on a crowded raft, with bodies in front and men signalling toward a tiny ship on the horizon.",
+        "width": 960,
+        "height": 652,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Th%C3%A9odore_G%C3%A9ricault_-_The_Raft_of_the_Medusa_-_WGA08630.jpg/960px-Th%C3%A9odore_G%C3%A9ricault_-_The_Raft_of_the_Medusa_-_WGA08630.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Th%C3%A9odore_G%C3%A9ricault_-_The_Raft_of_the_Medusa_-_WGA08630.jpg",
+        "sourceNotes": "Existing WGA08630 reproduction of the complete Louvre painting. Downloaded preview is sufficient for card comparison but has limited detail when enlarged. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "12016abaaa7a8f06b9a1c3d813a8bebe0f33e328a8e7a20170f2798924be8a8e"
+      }
+    ]
+  },
+  {
+    "entryId": "potato-eaters",
+    "options": [
+      {
+        "id": "A",
+        "label": "Museum reproduction",
+        "description": "Dark olive interior with restrained highlights around the lamp and faces.",
+        "imageUrl": "image-options/assets/painting/b002-potato-eaters-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg",
+        "museumReferenceUrl": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+        "credit": "Vincent van Gogh / Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation); reproduction via Wikimedia Commons.",
+        "altText": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
+        "width": 1920,
+        "height": 1354,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg/1920px-Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg",
+        "sourceNotes": "Final Amsterdam painting F82 / JH764 / s0005V1962. Source Commons file records the Van Gogh Museum and a 7698 × 5428 version. This is not the earlier Kröller-Müller composition. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "4cf2f76e7e852678bda932c1d48bc29b2cc15d31461989946809377d035843bf",
+        "sourceDimensions": [
+          7698,
+          5428
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Museum / Google Art",
+        "description": "Brighter yellow highlights on the faces and meal, with clear painted detail.",
+        "imageUrl": "image-options/assets/painting/b002-potato-eaters-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg",
+        "museumReferenceUrl": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+        "credit": "Vincent van Gogh / Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation); Google Art Project, via Wikimedia Commons.",
+        "altText": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
+        "width": 1920,
+        "height": 1361,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg/1920px-Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg",
+        "sourceNotes": "Exact final Amsterdam painting. File suffix (5776925) is essential: a different Commons file with an otherwise similar Google Art Project name depicts the earlier Kröller-Müller study F78, which was rejected. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "5bcd0c1b930e04565f174aebd8e15bd83a69747cbda6fdc5ecfec30e9140c3a8",
+        "sourceDimensions": [
+          3500,
+          2481
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Printed-book reproduction",
+        "description": "Lighter warm browns and a more visible printed texture than the museum options.",
+        "imageUrl": "image-options/assets/painting/b002-potato-eaters-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Die_Kartoffelesser.jpeg",
+        "museumReferenceUrl": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+        "credit": "Vincent van Gogh / book scan uploaded by Commons user Mefusbren69.",
+        "altText": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
+        "width": 1920,
+        "height": 1380,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Van_Gogh_-_Die_Kartoffelesser.jpeg/1920px-Van_Gogh_-_Die_Kartoffelesser.jpeg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Van_Gogh_-_Die_Kartoffelesser.jpeg",
+        "sourceNotes": "Commons identifies the Van Gogh Museum final painting and an art-book scan. The book title is not supplied in the file record. Existing scan colours and texture retained; not claimed to be a museum photograph. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "5f89824ef7508edc526fade34db06800c421514c72df17abff8116289a9d1956",
+        "sourceDimensions": [
+          3858,
+          2772
+        ]
+      }
+    ]
+  },
+  {
+    "entryId": "the-gleaners",
+    "options": [
+      {
+        "id": "A",
+        "label": "Orsay / Google Art",
+        "description": "Soft grey-green tones, with clear detail in the women and distant harvest.",
+        "imageUrl": "image-options/assets/painting/b002-the-gleaners-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+        "museumReferenceUrl": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+        "credit": "Jean-François Millet / Musée d’Orsay; Google Art Project, via Wikimedia Commons.",
+        "altText": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
+        "width": 1920,
+        "height": 1437,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1920px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+        "sourceNotes": "Complete Musée d’Orsay painting RF 592, published Google Art Project reproduction. Existing rendering downloaded unchanged. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "d4edfbbbb3396687ab2a1e7294e95a5ce02f971a9328add7b728e7a34804b635",
+        "sourceDimensions": [
+          5354,
+          4006
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Web Gallery of Art",
+        "description": "Warmer golden ground and stronger green tones than A.",
+        "imageUrl": "image-options/assets/painting/b002-the-gleaners-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_%28II%29_-_The_Gleaners_-_WGA15691.jpg",
+        "museumReferenceUrl": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+        "credit": "Jean-François Millet / Web Gallery of Art, via Wikimedia Commons.",
+        "altText": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
+        "width": 1280,
+        "height": 964,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Jean-Fran%C3%A7ois_Millet_%28II%29_-_The_Gleaners_-_WGA15691.jpg/1280px-Jean-Fran%C3%A7ois_Millet_%28II%29_-_The_Gleaners_-_WGA15691.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Jean-Fran%C3%A7ois_Millet_%28II%29_-_The_Gleaners_-_WGA15691.jpg",
+        "sourceNotes": "WGA15691 reproduction of the complete Musée d’Orsay painting. Published source is 1328 × 1000 pixels; downloaded preview is 1280 pixels wide. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "18907ade47bc2a105add4845fcf3af5843f6915a81d15befd5b365606b12c316",
+        "sourceDimensions": [
+          1328,
+          1000
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Yorck reproduction",
+        "description": "Pinker sky and stronger brown, red and blue tones than A.",
+        "imageUrl": "image-options/assets/painting/b002-the-gleaners-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_%28II%29_002.jpg",
+        "museumReferenceUrl": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+        "credit": "Jean-François Millet / The Yorck Project, 2002; existing Commons derivative by Lantus.",
+        "altText": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
+        "width": 1920,
+        "height": 1452,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Commons marks the artwork and reproduction public domain. Its Yorck collection notice separately identifies compilation copyright under the GNU Free Documentation License.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Jean-Fran%C3%A7ois_Millet_%28II%29_002.jpg/1920px-Jean-Fran%C3%A7ois_Millet_%28II%29_002.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jean-Fran%C3%A7ois_Millet_%28II%29_002.jpg",
+        "sourceNotes": "The source is the Yorck reproduction. Its current published Commons version, dated 11 September 2026, records a contributor colour adjustment (“little less color”). This existing rendering is shown for comparison; it is not a new photograph or a project-created colour grade. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "4fad32d0198bc68ec8d99c2f5c48d19c8d2f7e78d476ebd743b2893c1bf35ff7",
+        "sourceDimensions": [
+          2050,
+          1550
+        ]
+      }
+    ]
+  },
+  {
+    "entryId": "las-meninas",
+    "options": [
+      {
+        "id": "A",
+        "label": "Prado / Google Earth",
+        "description": "Darker amber light and deep shadows around the figures.",
+        "imageUrl": "image-options/assets/painting/b002-las-meninas-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Las_Meninas_%281656%29%2C_by_Velazquez.jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+        "credit": "Diego Velázquez / Museo Nacional del Prado; Google Earth reproduction via Wikimedia Commons.",
+        "altText": "Complete painting of Princess Margarita and her attendants, with Velázquez beside a canvas, a dog in front, a distant doorway and the king and queen reflected in a mirror.",
+        "width": 1920,
+        "height": 2210,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Las_Meninas_%281656%29%2C_by_Velazquez.jpg/1920px-Las_Meninas_%281656%29%2C_by_Velazquez.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Las_Meninas_%281656%29%2C_by_Velazquez.jpg",
+        "sourceNotes": "Existing 2013 Commons rendering derived from the Prado / Google Earth image. Entire composition retained. No claim of an independent photograph from the other Prado reproduction. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "4bcf0d1dbd544f31c1c22302a357c96542c3b71cfa21d160eae575057a24c085",
+        "sourceDimensions": [
+          3475,
+          4000
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Yorck reproduction",
+        "description": "Lighter, cooler colours and flatter contrast than A.",
+        "imageUrl": "image-options/assets/painting/b002-las-meninas-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_021.jpg",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+        "credit": "Diego Velázquez / The Yorck Project, 2002, via Wikimedia Commons.",
+        "altText": "Complete painting of Princess Margarita and her attendants, with Velázquez beside a canvas, a dog in front, a distant doorway and the king and queen reflected in a mirror.",
+        "width": 1920,
+        "height": 2225,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Commons marks the artwork and reproduction public domain. Its Yorck collection notice separately identifies compilation copyright under the GNU Free Documentation License.",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Diego_Vel%C3%A1zquez_021.jpg/1920px-Diego_Vel%C3%A1zquez_021.jpg",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Diego_Vel%C3%A1zquez_021.jpg",
+        "sourceNotes": "Distinct published Yorck reproduction of the complete Prado painting. Existing tonal differences are retained; no project-created adjustment. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "8665c4e7c6d4588bc475ce61ad0a201901db759d97b733aff6c27253d36a4bd1",
+        "sourceDimensions": [
+          2024,
+          2346
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Grand Palais / Prado",
+        "description": "Brighter room and warmer floor, with clearer detail in the dresses and mirror.",
+        "imageUrl": "image-options/assets/painting/b002-las-meninas-c.jpg",
+        "sourceUrl": "https://panoramadelart.com/analyse/les-menines",
+        "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+        "credit": "Diego Velázquez / Museo Nacional del Prado; published by GrandPalaisRmn, Panorama de l’art.",
+        "altText": "Complete painting of Princess Margarita and her attendants, with Velázquez beside a canvas, a dog in front, a distant doorway and the king and queen reflected in a mirror.",
+        "width": 1700,
+        "height": 1934,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "GrandPalaisRmn publishes the credit “Domaine Public, CC0 Museo Nacional del Prado.” Public app-use clearance remains pending.",
+        "remoteImageUrl": "https://panoramadelart.com/sites/default/files/2025-07/a-menines-velazquez_0.jpg",
+        "originalImageUrl": "https://panoramadelart.com/sites/default/files/2025-07/a-menines-velazquez_0.jpg",
+        "sourceNotes": "Downloaded directly from the Grand Palais educational article. It credits the image “Domaine Public, CC0 Museo Nacional del Prado.” Complete composition; current published rendition, not claimed to be an independently photographed capture. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "cbe6787b28c5157c51ead751055011ee77f0cec07510b1a21585207db51c3e8c",
+        "sourceDimensions": [
+          1700,
+          1934
+        ]
+      }
+    ]
+  }
+]

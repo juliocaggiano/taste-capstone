@@ -1,0 +1,33 @@
+[
+  {
+    "entryId": "portrait-of-engalo",
+    "options": [
+      {
+        "id": "A",
+        "label": "Photographer’s original",
+        "description": "Full portrait from Joey L.’s own portfolio, preserving its original framing and colour.",
+        "imageUrl": "image-options/assets/photography/b002-portrait-of-engalo-a.jpg",
+        "sourceUrl": "https://joeyl.com/portfolio/category/omo-valley",
+        "credit": "© Joey L. / Joey Lawrence",
+        "altText": "Engalo faces the camera with white markings on her face and shoulders, beaded necklaces and a lip plate, against a muted blue-grey background.",
+        "width": 1152,
+        "height": 1536,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "© Joey L. All rights reserved. Public display does not grant app-use rights.",
+        "remoteImageUrl": "https://joeyl.com/uploads/portfolio/Omo_Valley_Ethiopia_Tribes_041.jpg",
+        "originalImageUrl": "https://joeyl.com/uploads/portfolio/Omo_Valley_Ethiopia_Tribes_041.jpg",
+        "sourceNotes": "Downloaded without changes. EXIF DateTimeOriginal: 2008:11:19 14:51:28. Portfolio gives series date 2008–ongoing. EXIF editing date 2014:12:21 is not the creation date. No local crop, grading, retouch, recreation or artificial alternate.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_complete_image_identity",
+        "reviewedOn": "2026-09-25",
+        "sha256": "fe1e256bdba152ca96731ea308e673fe85582ba8df5dc56cc05fe6a6e01f5349",
+        "sourceDimensions": [
+          1152,
+          1536
+        ]
+      }
+    ],
+    "optionCountReason": "Julio requested one original where no distinct faithful reproduction is available; no artificial variations."
+  }
+]

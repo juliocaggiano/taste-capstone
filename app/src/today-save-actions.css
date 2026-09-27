@@ -1,0 +1,133 @@
+.today-save-actions {
+  --today-action-surface: #f7f7f7;
+  --today-action-ink: var(--today-counter, var(--app-muted));
+  position: relative;
+  z-index: 2;
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--app-sans);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: .01em;
+}
+.daily-culture-app[data-theme="dark"] .today-save-actions {
+  --today-action-surface: var(--app-surface);
+  --today-action-ink: var(--app-text);
+}
+
+.daily-culture-app .today-save-actions .today-save-count {
+  display: inline-flex;
+  height: 22px;
+  align-items: center;
+  color: var(--today-action-ink);
+  white-space: nowrap;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+  transition: transform 180ms cubic-bezier(.22, 1, .36, 1);
+}
+.daily-culture-app .today-save-actions .today-save-count:active { transform: scale(.97); }
+.today-save-count:focus-visible { outline: 1px solid var(--app-text); outline-offset: 3px; }
+
+.today-save-people { display: inline-flex; height: 22px; flex: none; }
+.today-save-count-value {
+  /* Keep the opaque pill above the overlapping avatar circles. */
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  height: 22px;
+  align-items: center;
+  margin-left: -5px;
+  padding: 0 8px 0 6px;
+  border-radius: 999px;
+  background: var(--today-action-surface);
+  outline: 1px solid var(--app-bg);
+  font-size: 10px;
+  font-variant-numeric: proportional-nums;
+  font-kerning: normal;
+  letter-spacing: 0;
+  line-height: 12px;
+}
+.today-save-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+.today-save-number { display: inline-flex; height: 12px; line-height: 12px; white-space: pre; }
+.today-save-digit { position: relative; display: inline-grid; height: 12px; overflow: hidden; }
+.today-save-digit-glyph { display: block; grid-area: 1 / 1; line-height: 12px; }
+
+.today-save-split { display: inline-flex; height: 22px; align-items: center; gap: 4px; padding: 0 8px; border-radius: 999px; background: var(--today-action-surface); }
+.daily-culture-app .today-save-actions .today-save-primary,
+.daily-culture-app .today-save-actions .today-save-chevron,
+.daily-culture-app .today-save-actions .today-save-fullscreen {
+  display: inline-flex;
+  height: 22px;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  border: 0;
+  color: var(--today-action-ink);
+  font: inherit;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color 160ms ease, color 160ms ease, opacity 160ms ease;
+}
+.daily-culture-app .today-save-actions .today-save-primary { padding: 0; border-radius: 999px 0 0 999px; background: transparent; }
+.today-save-labels { display: grid; align-items: center; font-size: 10px; letter-spacing: 0; line-height: 12px; }
+.today-save-labels > span { grid-area: 1 / 1; opacity: 0; white-space: nowrap; transform: translateY(2px); transition: opacity 140ms ease, transform 140ms ease; }
+.today-save-labels > span[data-visible="true"] { opacity: 1; transform: translateY(0); }
+.daily-culture-app .today-save-actions .today-save-primary:active { transform: scale(.96); }
+.daily-culture-app .today-save-actions .today-save-chevron { width: 15px; padding: 0 0 0 4px; border-left: .5px solid var(--app-divider); border-radius: 0 999px 999px 0; background: transparent; }
+.daily-culture-app .today-save-actions .today-save-fullscreen { width: 22px; padding: 0; border-radius: 999px; background: var(--today-action-surface); }
+.today-save-actions :is(.today-save-primary, .today-save-chevron, .today-save-fullscreen):hover { color: var(--app-text); }
+.today-save-actions :is(.today-save-primary, .today-save-chevron, .today-save-fullscreen):focus-visible,
+.today-save-popover button:focus-visible,
+.today-board-form :is(input, button):focus-visible { outline: 1px solid var(--app-text); outline-offset: 2px; }
+.today-save-actions svg { display: block; flex: none; }
+
+.today-save-popover {
+  position: absolute;
+  z-index: 50;
+  top: calc(100% + 7px);
+  right: 0;
+  width: 186px;
+  max-width: min(186px, calc(100vw - 24px));
+  padding: 4px;
+  border: 1px solid var(--app-divider);
+  border-radius: 8px;
+  background: var(--app-surface-raised, var(--app-bg));
+  box-shadow: 0 8px 24px rgb(37 37 37 / 14%);
+  color: var(--app-text);
+  animation: today-board-pop 140ms cubic-bezier(.22, 1, .36, 1) both;
+}
+.today-save-popover-title { padding: 5px 7px 6px; color: var(--app-muted); font-size: 10px; line-height: 12px; }
+.today-save-board-list { max-height: 156px; overflow-y: auto; }
+.daily-culture-app .today-save-actions .today-save-popover button { display: flex; width: 100%; height: auto; min-height: 28px; align-items: center; justify-content: flex-start; gap: 7px; padding: 5px 7px; border-radius: 4px; background: transparent; color: var(--app-text); font-size: 11px; line-height: 14px; text-align: left; }
+.daily-culture-app .today-save-actions .today-save-popover button:hover { background: var(--app-surface); }
+.today-save-board-name { min-width: 0; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.today-save-board-check { display: grid; width: 13px; flex: none; place-items: center; }
+.daily-culture-app .today-save-actions .today-save-popover .today-save-new-board { margin-top: 3px; border-top: 1px solid var(--app-divider); border-radius: 0 0 4px 4px; }
+
+.today-board-form { display: flex; flex-direction: column; gap: 10px; padding: 0 2px 16px; color: var(--app-text); font-family: var(--app-sans); }
+.today-board-form label { font-size: 12px; line-height: 16px; }
+.today-board-form input { width: 100%; height: 40px; padding: 0 10px; border: 1px solid var(--app-divider); border-radius: 4px; outline: 0; background: var(--app-bg); color: var(--app-text); font: inherit; font-size: 14px; }
+.today-board-form input::placeholder { color: var(--app-muted); }
+.today-board-form-actions { display: flex; justify-content: flex-end; gap: 8px; padding-top: 6px; }
+.device-screen:has(.daily-culture-app) .bottom-sheet .today-board-form-actions button { display: inline-flex; min-width: 70px; height: 32px; align-items: center; justify-content: center; padding: 0 10px; border: 1px solid var(--app-divider); border-radius: 4px; background: var(--app-bg); color: var(--app-text); font-family: var(--app-sans); font-size: 12px; text-align: center; }
+.device-screen:has(.daily-culture-app) .bottom-sheet .today-board-form-actions button[type="submit"] { border-color: var(--app-text); background: var(--app-text); color: var(--app-bg); }
+.device-screen:has(.daily-culture-app) .bottom-sheet .today-board-form-actions button:disabled { opacity: .4; cursor: default; }
+
+@keyframes today-board-pop { from { opacity: 0; transform: translateY(-4px) scale(.98); } to { opacity: 1; transform: translateY(0) scale(1); } }
+@media (prefers-reduced-motion: reduce) {
+  .daily-culture-app .today-save-actions .today-save-count { transition: none; transform: none; }
+  .daily-culture-app .today-save-actions .today-save-count:active { transform: none; }
+  .today-save-popover { animation: none; }
+  .daily-culture-app .today-save-actions :is(.today-save-primary, .today-save-chevron, .today-save-fullscreen) { transition: none; }
+  .today-save-labels > span { transition: none; transform: none; }
+  .device-screen .bottom-sheet:has(.today-board-form) { transform: none !important; transition: none !important; }
+  .device-screen .bottom-sheet[data-state="closed"]:has(.today-board-form) { opacity: 0 !important; pointer-events: none; }
+  .device-screen .sheet-overlay:has(+ .bottom-sheet:has(.today-board-form)) { opacity: 1 !important; transition: none !important; }
+  .device-screen .sheet-overlay[data-state="closed"]:has(+ .bottom-sheet:has(.today-board-form)) { opacity: 0 !important; }
+}

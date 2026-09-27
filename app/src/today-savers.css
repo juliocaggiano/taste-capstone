@@ -1,0 +1,40 @@
+.today-saver-avatar {
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--app-text);
+  color: var(--app-bg);
+  font: 400 12px/1 var(--app-sans);
+  letter-spacing: 0;
+}
+.today-saver-avatar[data-tone="1"] { background: var(--app-muted); color: var(--app-bg); }
+.today-saver-avatar[data-tone="2"] { background: var(--app-surface); color: var(--app-text); outline: 1px solid var(--app-divider); outline-offset: -1px; }
+.today-saver-avatar img { display: block; width: 100%; height: 100%; object-fit: cover; border-radius: inherit; }
+.today-save-people .today-saver-avatar { width: 22px; height: 22px; font-size: 8px; }
+.today-save-people .today-saver-avatar + .today-saver-avatar { margin-left: -5px; }
+.bottom-nav-item .today-saver-avatar { width: 20px; height: 20px; font-size: 8px; background: var(--app-surface); color: var(--app-text); border: 0; outline: 0; box-shadow: none; }
+
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.today-savers-sheet) { border-radius: 24px 24px 0 0; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.today-savers-sheet) .sheet-header { padding: 6px 20px 18px; text-align: center; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.today-savers-sheet) .sheet-title { font-size: 16px; line-height: 20px; letter-spacing: 0; }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.today-savers-sheet) .sheet-description { margin: 4px 0 0; font-size: 10px; line-height: 12px; color: var(--app-muted); }
+.device-screen:has(.daily-culture-app) .bottom-sheet:has(.today-savers-sheet) .sheet-content { padding: 0 20px max(24px, var(--device-safe-area-bottom, 34px)); overscroll-behavior: contain; }
+.today-savers-list { margin: 0; padding: 0; list-style: none; }
+.today-saver-row { display: flex; min-height: 60px; align-items: center; gap: 12px; }
+.today-saver-identity { display: flex; min-width: 0; flex: 1; flex-direction: column; gap: 2px; }
+.today-saver-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 14px; line-height: 18px; }
+.today-saver-handle { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--app-muted); font-size: 12px; line-height: 16px; }
+.today-saver-row .dc-follow-button { min-width: 88px; min-height: 32px; }
+.today-savers-empty { margin: 12px 0 24px; text-align: center; color: var(--app-muted); font-size: 12px; line-height: 16px; }
+@media (pointer: coarse) { .today-saver-row .dc-follow-button { min-height: 44px; } }
+@media (prefers-reduced-motion: reduce) {
+  .device-screen .bottom-sheet:has(.today-savers-sheet) { transform: none !important; transition: none !important; }
+  .device-screen .bottom-sheet[data-state="closed"]:has(.today-savers-sheet) { opacity: 0 !important; pointer-events: none; }
+  .device-screen .sheet-overlay:has(+ .bottom-sheet:has(.today-savers-sheet)) { opacity: 1 !important; transition: none !important; }
+  .device-screen .sheet-overlay[data-state="closed"]:has(+ .bottom-sheet:has(.today-savers-sheet)) { opacity: 0 !important; }
+}

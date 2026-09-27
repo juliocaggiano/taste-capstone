@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "michelangelo-david",
+    "medium": "sculpture",
+    "title": "David",
+    "creator": "Michelangelo Buonarroti",
+    "dateDisplay": "1501–1504",
+    "dateStart": 1501,
+    "dateEnd": 1504,
+    "body": "In the biblical story, David is a young shepherd who offers to fight Goliath, the armed champion frightening Israel’s soldiers. He rejects the king’s armor and confronts him with a sling and a stone, trusting in God. His victory makes him a model of strength that does not depend on size or military equipment.\n\nMichelangelo shows David before the fight. The sling lies over his shoulder, his brow is drawn, and his head turns toward an opponent we cannot see. There is no defeated giant at his feet. The still body and concentrated gaze direct attention to his readiness for the encounter. His muscular, nude figure recalls ancient heroic sculpture, while the small weapon keeps the biblical story recognizable.\n\nThe statue’s enormous scale had a practical origin. Commissioned in 1501, it was intended for a high buttress on Florence’s cathedral, where people would see it from far below. In 1504, a committee chose a different location: beside the entrance to the city’s government palace.\n\nFlorence already used David as a symbol of its capacity to resist stronger opponents. At the palace, the religious hero became a public emblem of the republic’s independence. The change of location gave his watchful stance a political role, placing a defender outside the building where the city was governed.",
+    "sources": [
+      {
+        "title": "Galleria dell’Accademia: David",
+        "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+        "role": "holding institution",
+        "supports": "1501–1504, cathedral commission, decision to place the statue at the government palace, civic strength and independence. Indexed institutional text read; direct page timed out."
+      },
+      {
+        "title": "Robert Baldwin: Michelangelo’s David and Civic Humanism",
+        "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-David.pdf",
+        "role": "scholarly interpretation",
+        "supports": "Pre-battle reading, sling and stone, classical heroic body, biblical faith and Florentine civic identification. Later Medici chronology in this essay is unreliable and unused."
+      },
+      {
+        "title": "Opera di Santa Maria del Fiore: the David commission",
+        "url": "https://duomo.firenze.it/en/opera-magazine/post/4603/era-il-16-agosto-1501-quando-michelangelo-veniva-incaricato-di-scolpire-il-david",
+        "role": "commissioning institution",
+        "supports": "Italian article freshly read in full: 1501 commission for a high external cathedral buttress, scale intended for viewing from below, and 1504 placement before Palazzo Vecchio as a republican emblem."
+      },
+      {
+        "title": "Public discussion: David’s details",
+        "url": "https://www.reddit.com/r/interestingasfuck/comments/cz6jkt/",
+        "role": "reception clue",
+        "supports": "Sampled comments emphasize technical skill and artistic greatness; used as a prompt to explain the subject and civic role, not as factual authority."
+      },
+      {
+        "title": "Victoria and Albert Museum — The story of Michelangelo’s David",
+        "url": "https://www.vam.ac.uk/articles/the-story-of-michelangelos-david",
+        "role": "museum interpretation and object history",
+        "supports": "Cathedral-to-government-palace relocation and public symbol of Florentine liberty; relevant paragraphs retrieved. The cast’s later history is outside this entry."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/sculpture-music.json",
+      "baselineSection": "michelangelo-david; pre-remake batch body",
+      "changes": [
+        "Introduces the biblical unequal fight and religious trust before interpreting the figure.",
+        "Removes the claim that the sculpture depicts an exact moment of deciding what to do.",
+        "Explains the cathedral’s high intended placement and the later civic relocation."
+      ],
+      "notionUrl": null,
+      "previousBaseline": {
+        "baselineFile": "docs/editorial/VOICE_GUIDE.md",
+        "baselineSection": "Version 0.18; New entry; no matching saved Notion text identified",
+        "changes": [
+          "New researched draft, pending Julio’s review. No prior approval transferred."
+        ]
+      }
+    },
+    "meaningBrief": "The biblical underdog becomes an alert, monumental defender before battle. Cathedral viewing conditions explain the scale, and relocation beside the government palace gives the inherited religious subject a specific republican role. The prose avoids assigning an unobservable decision to David.",
+    "quotationNotes": [
+      "No direct quotations. Biblical narrative paraphrased; no translation quoted."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+      "altText": "Michelangelo’s full-length marble David in the Galleria dell’Accademia.",
+      "credit": "Photograph: Jörg Bittner Unna, via Wikimedia Commons. Sculpture: Michelangelo.",
+      "license": "CC BY 3.0 (photograph); sculpture public domain.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Commons image metadata verified. Photographic license does not establish clearance of every cultural-property or commercial-use condition."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 4,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-michelangelo-david"
+  },
+  "decision": {
+    "id": "michelangelo-david",
+    "decisionId": "julio-2026-09-25-michelangelo-david",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image A; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "408bde4382b5836a",
+    "imageOption": "A",
+    "imageHash": "005001409a2a13fe",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "A",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "rightsStatus": "review_only_pending_clearance",
+      "imageTreatment": "AI background edit",
+      "downloadStatus": "downloaded",
+      "visualReviewStatus": "identity_and_view_checked; user_approval_pending",
+      "reviewedOn": "2026-09-23",
+      "id": "A",
+      "label": "Three-quarter portrait",
+      "description": "Close three-quarter head with black-to-charcoal background; AI treatment with the original available for comparison.",
+      "imageUrl": "image-options/assets/sculpture/david-a.png",
+      "originalImageUrl": "image-options/assets/sculpture/david-a-original.jpg",
+      "sourceUrl": "https://www.wga.hu/html/m/michelan/1sculptu/david/head.html",
+      "remoteImageUrl": "https://www.wga.hu/art/m/michelan/1sculptu/david/head.jpg",
+      "credit": "Michelangelo / Galleria dell’Accademia; photograph published by Web Gallery of Art, photographer uncredited.",
+      "altText": "Three-quarter portrait of David’s head, neck and sling-holding hand against a dark background.",
+      "width": 1122,
+      "height": 1402,
+      "sourceDimensions": [
+        1163,
+        1165
+      ],
+      "license": "Photographic reuse terms not established; app clearance pending.",
+      "sourceNotes": "Original Accademia sculpture. A close photographic view, distinct from B and C. The background was replaced and the portrait reframed using the built-in image generator.",
+      "fidelityNotes": "Broad face identity, pose, gaze and hand position remain recognizable. Fine marble speckling and hair texture are regenerated, so this is not pixel-preserving or a conservation reference. Compare the source before approving.",
+      "generationPrompt": "Precise sculpture photograph edit. Image 1 is an authentic photograph of Michelangelo's original David in the Accademia, Florence. Image 2 provides BACKGROUND STYLE ONLY. Keep image 1's exact photographed head, neck, sling and visible shoulder/hand. Keep the same three-quarter camera view, expression, eye direction, hair carving, marble color, weathering, face proportions and lighting. Replace the architectural background only with near-black at the top, grading very subtly to charcoal toward the bottom like image 2. Compose a close head-and-shoulder portrait in a 4:5 frame; add approximately 15% black headroom by extending BACKGROUND ONLY, no new sculpture. Keep existing foreground intact and crop only at the lower edge if needed. Do not invent a new camera elevation, rotate or reshape the head, beautify, repair damage, sharpen by adding texture, invent hidden surfaces or borrow features from Caracalla. No text or watermark.",
+      "builtinOutputPath": "/Users/juliocaggiano/.codex/generated_images/01a0bb29-3e88-7653-b313-4a2cb7316c1d/exec-60752a3a-20ab-45b9-a66a-86a936512597.png",
+      "sha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2",
+      "sourceSha256": "c587cfaa65f6ec4c273126e78ed9940edd78f098b86a5ef7b708535a047318b8",
+      "imageFormat": "PNG",
+      "assetSha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Michelangelo / Galleria dell’Accademia; photograph published by Web Gallery of Art, photographer uncredited.",
+    "altText": "Three-quarter portrait of David’s head, neck and sling-holding hand against a dark background.",
+    "width": 1122,
+    "height": 1402,
+    "imageUrl": "assets/selected.png",
+    "sha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2",
+    "sourceAssetSha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2",
+    "originalImageUrl": "assets/original.jpg",
+    "originalSha256": "c587cfaa65f6ec4c273126e78ed9940edd78f098b86a5ef7b708535a047318b8"
+  },
+  "frozen": {
+    "bodyHash": "408bde4382b5836a",
+    "bodySha256": "a4b8de94d1beae9fa29af54f923d68b5999180a0ab6846b904f5ca0b6eba8156",
+    "imageHash": "005001409a2a13fe",
+    "sourceEntrySha256": "0a97bbd7c25d5940b2ff22937daab0b677140891767e9f0653fcd1248b5ee233"
+  }
+}

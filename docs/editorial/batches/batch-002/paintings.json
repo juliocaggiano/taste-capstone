@@ -1,0 +1,350 @@
+[
+  {
+    "id": "goya-third-of-may",
+    "title": "The Third of May 1808",
+    "creator": "Francisco Goya",
+    "dateDisplay": "1814",
+    "dateStart": 1814,
+    "dateEnd": null,
+    "body": "In May 1808, people in Madrid rose against Napoleon’s occupying army. French troops suppressed the uprising and executed prisoners in retaliation. Goya returned to those events six years later, after a war that had brought years of fighting and destruction to Spain. His subject was the shooting of people who could no longer defend themselves.\n\nA man in a white shirt raises his hands before a line of rifles. Beside him, one prisoner prays and another covers his face, while more men wait behind them. Bodies lie in the foreground. Following the group across the picture is enough to understand the sequence: some have already been shot, one is about to be, and the others know their turn is coming.\n\nThe soldiers’ faces are hidden because Goya places us on the prisoners’ side. We see individual fear and disbelief confronting an army carrying out the same repeated action. The lantern, which might normally make a scene feel safer, provides the light needed to aim.\n\nThe central man’s raised arms also recall Christ on the cross, giving an unknown victim a place normally occupied by a sacred figure. That was a significant choice for a painting commemorating resistance to a foreign army. Goya could have celebrated a victorious commander; instead, he made the people killed in the reprisals the figures through whom the event would be remembered.",
+    "meaningBrief": "Goya commemorates resistance through prisoners killed in reprisals rather than a victorious military leader.",
+    "sources": [
+      {
+        "title": "Museo del Prado: The 3rd of May 1808 in Madrid, or The Executions",
+        "url": "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c",
+        "role": "holding-museum catalogue",
+        "supports": "Painting identity and 1814 date. Direct catalogue access was blocked; metadata was checked against the Fundación Goya catalogue."
+      },
+      {
+        "title": "Fundación Goya en Aragón: El tres de mayo de 1808",
+        "url": "https://fundaciongoyaenaragon.es/eng/obra/el-tres-de-mayo-de-1808/181",
+        "role": "substantive specialist catalogue",
+        "supports": "Uprising and reprisals; prisoners, dead bodies, gestures, lantern and firing squad; historical site uncertainty, omitted from the body."
+      },
+      {
+        "title": "Museo del Prado: The Third of May, accessible account",
+        "url": "https://www.museodelprado.es/en/whats-on/multimedia/el-3-de-mayo-en-madrid-o-los-fusilamientos/9cd56487-45e7-5345-b265-f42ce572115a",
+        "role": "holding-museum educational interpretation",
+        "supports": "Indexed museum account connects the scene with the War of Independence and the central figure’s pose with Christ. Direct page failed during this pass."
+      },
+      {
+        "title": "Smarthistory: Art historical analysis",
+        "url": "https://smarthistory.org/art-historical-analysis/",
+        "role": "art-historical interpretation",
+        "supports": "Christian martyr imagery in the white-shirted figure and the secular use of religious visual conventions. No claim about commissioning is taken from this source."
+      }
+    ],
+    "quotationNotes": [],
+    "medium": "painting",
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "draftedOn": "2026-09-25",
+      "sourceBatchId": "batch-002",
+      "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+      "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained the uprising and reprisals before following the prisoners; connected religious imagery to commemoration.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b002-goya-third-of-may-a.jpg",
+      "referenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c",
+      "altText": "Complete painting of prisoners facing a French firing squad at night, with a man in a white shirt raising both arms and bodies in the foreground.",
+      "credit": "Francisco Goya",
+      "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "editorialDecisionId": null
+  },
+  {
+    "id": "raft-of-medusa",
+    "title": "The Raft of the Medusa",
+    "creator": "Théodore Géricault",
+    "dateDisplay": "1818–1819",
+    "dateStart": 1818,
+    "dateEnd": 1819,
+    "body": "In 1816, the French ship *Méduse* ran aground off West Africa while carrying passengers and officials to Senegal, a colony France was reclaiming. Its boats could not hold everyone on board, so a makeshift wooden raft was built for about 150 people. The boats initially towed it, but the tow was abandoned and the raft was left to drift. Its occupants had almost no food and no reliable supply of drinking water.\n\nDuring thirteen days at sea, people died from exposure, hunger and violence among those stranded. Some survivors ate flesh from the dead; others were killed or thrown overboard. Only fifteen people were alive when a ship found them. Two survivors published an account, and the disaster became a scandal in France because the captain had received his command through royal favour despite his lack of recent experience at sea.\n\nGéricault interviewed survivors and considered several moments from their account before choosing the sighting of a distant ship. The people at the top of the group wave desperately to attract it, while those below include men too weak to respond and bodies that can no longer be helped. The tiny vessel on the horizon explains why hope and exhaustion coexist on the raft.\n\nExhibited in 1819, the enormous painting gave a recent, disputed disaster the scale usually reserved for military victories or religious history. A Black man raises the signal at the highest point of the group. In a story that began with a colonial expedition, Géricault placed the prospect of everyone’s rescue in the hands of someone whom colonial society assigned an inferior position.",
+    "meaningBrief": "A colonial expedition becomes an abandonment scandal, with violence and cannibalism essential to understanding the survivors’ ordeal.",
+    "sources": [
+      {
+        "title": "Musée du Louvre: Le Radeau de la Méduse, INV 4884",
+        "url": "https://collections.louvre.fr/ark:/53355/cl010059199",
+        "role": "holding-museum catalogue",
+        "supports": "Exact Louvre painting identity and dating; distinguishes it from preliminary cannibalism studies."
+      },
+      {
+        "title": "Musée du Louvre: Guillon Lethière educational dossier, pages 36–37",
+        "url": "https://api-www.louvre.fr/sites/default/files/2024-10/V4_DOSSIER_PEDAGOGIQUE_GUILLON_LETHIERE.pdf",
+        "role": "substantive museum interpretation",
+        "supports": "Royalist captain, colonial mission, survivors’ violence and cannibalism; interviews; 1818–1819 production; exhibition scale; Black signalman and Géricault’s opposition to slavery. Pages 36–37 read in full."
+      },
+      {
+        "title": "Claire Black McCoy, Smarthistory: Géricault, Raft of the Medusa",
+        "url": "https://smarthistory.org/theodore-gericault-raft-of-the-medusa/",
+        "role": "art-historical analysis",
+        "supports": "Political patronage, lifeboat privilege, abandoned raft, thirteen days and fifteen rescued, survivor research, distant ship. Substantive indexed article text was read; direct page returned 403."
+      },
+      {
+        "title": "Musée du Louvre: Romanticism, topicality, sensuality",
+        "url": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/romanticism-topicality-sensuality",
+        "role": "museum visitor interpretation",
+        "supports": "Thirteen-day ordeal, starvation and cannibalism; 1819 exhibition and contemporary scandal."
+      },
+      {
+        "title": "Howard Oakley — The Story in Paintings: Géricault’s Raft of the Medusa",
+        "url": "https://eclecticlight.co/2016/03/14/the-story-in-paintings-gericaults-raft-of-the-medusa/",
+        "role": "substantial interpretation",
+        "supports": "Full essay read: evacuation sequence, captain’s recent experience, survivor research and choice of sighting the Argus. Cannibalism remains grounded in the existing research.",
+        "accessedOn": "2026-09-27"
+      }
+    ],
+    "quotationNotes": [],
+    "medium": "painting",
+    "revision": 3,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "draftedOn": "2026-09-25",
+      "sourceBatchId": "batch-002",
+      "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+      "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Clarified ship, boats, raft and abandoned tow; retained cannibalism; replaced the dramatic blame sentence with the captain’s appointment and public scandal.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b002-raft-of-medusa-a.jpg",
+      "referenceUrl": "https://collections.louvre.fr/ark:/53355/cl010059199",
+      "altText": "Complete painting of shipwreck survivors on a crowded raft, with bodies in front and men signalling toward a tiny ship on the horizon.",
+      "credit": "Théodore Géricault",
+      "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "editorialDecisionId": null
+  },
+  {
+    "id": "potato-eaters",
+    "title": "The Potato Eaters",
+    "creator": "Vincent van Gogh",
+    "dateDisplay": "1885",
+    "dateStart": 1885,
+    "dateEnd": null,
+    "body": "When Van Gogh painted *The Potato Eaters* in 1885, he was living among farming families in Nuenen, a village in the Netherlands. He wanted a substantial painting of the people he had been drawing for months. The result shows five figures sharing potatoes and coffee beneath a single lamp, with the cramped room and plain meal left plainly visible.\n\nTheir hands explain what mattered to him. Writing to his brother Theo, Van Gogh said that the hands reaching into the dish had also worked the soil. The meal was the result of their own labour. He made the faces rough and the fingers knotted because a polished, flattering portrait would have weakened that connection between how these people worked and how they lived.\n\nEven the colours belong to the subject. Van Gogh compared the faces to dusty, unpeeled potatoes and wanted the room to suggest smoke, cooking and the smell of food. This was a deliberate departure from a comfortable image of country life. He was trying to paint a farming household in terms its inhabitants might recognise, including the things a prosperous visitor could find unattractive.\n\nHis letters make the intention unusually clear. Discussing how to paint rural life, he insisted:\n\n> But a peasant painting mustn’t become perfumed.",
+    "meaningBrief": "Van Gogh wanted the meal, bodies and room to communicate the farming labour that sustained the household.",
+    "sources": [
+      {
+        "title": "Van Gogh Museum: The Potato Eaters, s0005V1962",
+        "url": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+        "role": "holding-museum catalogue",
+        "supports": "Exact final 1885 Amsterdam painting, F82 / JH764; excludes the earlier Kröller-Müller study F78."
+      },
+      {
+        "title": "Van Gogh Museum: The Potato Eaters, Google Arts & Culture collection account",
+        "url": "https://artsandculture.google.com/asset/the-potato-eaters/7gFcKarE9QeaXw?avm=2&hl=en",
+        "role": "museum-authored interpretation",
+        "supports": "Peasant life without sentimentality; earth-coloured faces and hands that earned the food through labour; Nuenen and April–May 1885. Full substantive text read."
+      },
+      {
+        "title": "Vincent van Gogh: Letter 497 to Theo, 30 April 1885",
+        "url": "https://vangoghletters.org/vg/letters/let497/letter.html",
+        "role": "artist’s primary account",
+        "supports": "Hands and honest labour; resistance to prettified rural life; smell of cooking, smoke and potatoes; exact seven-word quotation. Full letter read."
+      },
+      {
+        "title": "Vincent van Gogh: Letter 499 to Theo, 2 May 1885",
+        "url": "https://vangoghletters.org/vg/letters/let499/letter.html",
+        "role": "artist’s primary account",
+        "supports": "Deliberate dark interior and repainting faces in the colours of dusty, unpeeled potatoes. Full relevant letter text read."
+      }
+    ],
+    "quotationNotes": [
+      {
+        "quote": "But a peasant painting mustn’t become perfumed.",
+        "sourceUrl": "https://vangoghletters.org/vg/letters/let497/letter.html",
+        "locator": "Letter 497 to Theo, 30 April 1885, paragraph discussing the smell of a peasant painting.",
+        "edition": "Vincent van Gogh — The Letters, English translation, Van Gogh Museum / Huygens ING.",
+        "verification": "Exact wording checked against the letter; modern English translation acknowledged in metadata, not repeated in reading prose.",
+        "wordCount": 7
+      }
+    ],
+    "medium": "painting",
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "draftedOn": "2026-09-25",
+      "sourceBatchId": "batch-002",
+      "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+      "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Connected the hands, food and colours to the artist’s stated purpose, retaining the verified letter excerpt and the plain explanation praised in round 15 A.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b002-potato-eaters-a.jpg",
+      "referenceUrl": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+      "altText": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
+      "credit": "Vincent van Gogh",
+      "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "editorialDecisionId": null
+  },
+  {
+    "id": "the-gleaners",
+    "title": "The Gleaners",
+    "creator": "Jean-François Millet",
+    "dateDisplay": "1857",
+    "dateStart": 1857,
+    "dateEnd": null,
+    "body": "After a harvest, poor villagers could collect the grain that remained on the ground. This practice, called gleaning, provided food for people who did not own the crop and could not afford to let its leftovers go to waste. Millet’s three women are doing that work: bending, searching and gathering small handfuls while the main harvest is piled up behind them.\n\nThe distance between those handfuls and the loaded carts gives the painting its social meaning. This is a productive field, but its abundance belongs to someone else. The women must spend hours looking for what the harvesters have missed. Millet, who had worked on the land himself, made their repeated movements the main event rather than a small, picturesque detail in a country landscape.\n\nThat emphasis troubled some visitors to the Paris Salon, the major public art exhibition where the painting appeared in 1857. Less than a decade earlier, the Revolution of 1848 had brought working people’s demands and violent conflict into French politics. Poor people shown on this scale could seem like a political presence, even when they were doing nothing more confrontational than gathering food.\n\nThe women neither appeal to us nor stop working. Their prominence is enough to make an uncomfortable relationship clear: the countryside could produce a generous harvest while some of the people living there depended on its scraps.",
+    "meaningBrief": "Poor people depend on leftovers beside a plentiful harvest; the painting’s prominence made that relationship politically uncomfortable.",
+    "sources": [
+      {
+        "title": "Musée d’Orsay: Des glaneuses",
+        "url": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+        "role": "holding-museum catalogue and substantive interpretation",
+        "supports": "1857 painting; poorest rural labourers gleaning; repetition of bending, picking and straightening; contrast with abundant harvest and restrained dignity. Full curatorial text read."
+      },
+      {
+        "title": "Ross Finocchio, Metropolitan Museum of Art: Nineteenth-Century French Realism",
+        "url": "https://www.metmuseum.org/ru/essays/nineteenth-century-french-realism",
+        "role": "institutional art-historical essay",
+        "supports": "1848 revolution, realism’s attention to ordinary workers, 1857 Salon controversy and perceived political subversion; sculptural dignity of Millet’s figures. The article body is in English on this verified URL."
+      },
+      {
+        "title": "Smarthistory: Millet, The Gleaners",
+        "url": "https://smarthistory.org/millet-the-gleaners/",
+        "role": "corroborating art-historical interpretation",
+        "supports": "Class contrast and political reception. Indexed substantive material read; direct page access was blocked. The Orsay and Met accounts supply the main evidence."
+      },
+      {
+        "title": "Howard Oakley — The Real Country: Gleaning",
+        "url": "https://eclecticlight.co/2024/09/12/the-real-country-4-gleaning/",
+        "role": "substantial interpretation",
+        "supports": "Full essay read: comparison of depictions of gleaning, Millet’s agricultural background and the uncomfortable emphasis on poverty.",
+        "accessedOn": "2026-09-27"
+      }
+    ],
+    "quotationNotes": [],
+    "medium": "painting",
+    "revision": 2,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "draftedOn": "2026-09-25",
+      "sourceBatchId": "batch-002",
+      "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+      "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Explained gleaning as a practical means of obtaining food, then why its portrayal unsettled the Salon audience.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b002-the-gleaners-a.jpg",
+      "referenceUrl": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+      "altText": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
+      "credit": "Jean-François Millet",
+      "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "editorialDecisionId": null
+  },
+  {
+    "id": "las-meninas",
+    "title": "Las Meninas",
+    "creator": "Diego Velázquez",
+    "dateDisplay": "1656",
+    "dateStart": 1656,
+    "dateEnd": null,
+    "body": "In 1656, Diego Velázquez had spent more than thirty years working for King Philip IV of Spain. He painted royal portraits, but he also held responsibilities within the palace household. *Las Meninas* brings those two parts of his life together. The king’s young daughter, Margarita, stands among her attendants, while Velázquez appears beside a large canvas, brush in hand.\n\nThe room reveals how much work surrounded an ordinary moment in a royal child’s day. One attendant kneels to offer Margarita a small vessel; others watch over her or provide company and entertainment. The title means “the maids of honour,” referring to the young women who served her. Although the princess attracts much of the attention, the picture also records the people whose duties kept court life running.\n\nVelázquez gave himself an unusually prominent place in that company. In Spain, painting could still be regarded as manual work, a classification that complicated an artist’s claim to noble status. Here he appears as a trusted presence in the royal household, practising work that requires thought and judgment. The red cross on his chest marks the Order of Santiago, a prestigious order of knights he entered in 1659; it was added after the original painting.\n\nA small mirror on the back wall contains the king and queen, whose presence helps explain why several figures look towards the space in front of us. The exact reflection has prompted much debate, but the painting’s social argument is easier to follow. The royal family occupies a world that Velázquez both serves and creates, and he has made his own place within it impossible to overlook.",
+    "meaningBrief": "The court’s hierarchy includes the painter, whose prominent self-portrait asserts the social and intellectual standing of his work.",
+    "sources": [
+      {
+        "title": "Javier Portús, Museo del Prado: Las Meninas",
+        "url": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+        "role": "holding-museum catalogue and curatorial interpretation",
+        "supports": "1656, Margarita and her parents in the mirror; court setting; the viewer’s participation; multiple meanings including the defence of painting’s nobility. Substantial catalogue paragraphs were returned and read through the search index; direct page returned 403."
+      },
+      {
+        "title": "Marie-Bélisandre Vaulet-Lagnier, GrandPalaisRmn: Les Ménines",
+        "url": "https://panoramadelart.com/analyse/les-menines",
+        "role": "substantive museum educational interpretation",
+        "supports": "Royal sitters and viewer position; Velázquez’s court career and painting’s claim to intellectual status. Full article read. Speculative dynastic revisions and the posthumous-cross anecdote are not used."
+      },
+      {
+        "title": "Letha Ch’ien, Smarthistory: Diego Velázquez, Las Meninas",
+        "url": "https://smarthistory.org/diego-velazquez-las-meninas/",
+        "role": "art-historical interpretation",
+        "supports": "Mirror ambiguity, painter’s prominence, social status of painting and relationship between artistic representation and royal power. Substantive indexed article paragraphs were read; direct page returned 403."
+      },
+      {
+        "title": "Colin Marshall / Open Culture — Las Meninas and its interpreters",
+        "url": "https://www.openculture.com/2025/02/what-makes-diego-velazquezs-las-meninas-one-of-the-most-fascinating-paintings-in-art-history.html",
+        "role": "substantial interpretation",
+        "supports": "Full essay read: social ambition, Order of Santiago awarded in 1659, later red cross and the argument for painting’s standing. Not a claim of full access to embedded videos.",
+        "accessedOn": "2026-09-27"
+      }
+    ],
+    "quotationNotes": [],
+    "medium": "painting",
+    "revision": 3,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "provenance": {
+      "draftedOn": "2026-09-25",
+      "sourceBatchId": "batch-002",
+      "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+      "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+      "latestRevision": {
+        "revisedOn": "2026-09-27",
+        "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+        "basis": "Moved court service and the artist’s status to the centre; reduced the mirror puzzle to a brief orienting explanation and explained the later red cross.",
+        "approval": "Fresh writing review required; previous image choice retained."
+      }
+    },
+    "media": {
+      "imageUrl": "image-options/assets/painting/b002-las-meninas-a.jpg",
+      "referenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+      "altText": "Complete painting of Princess Margarita and her attendants, with Velázquez beside a canvas, a dog in front, a distant doorway and the king and queen reflected in a mirror.",
+      "credit": "Diego Velázquez",
+      "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+    "editorialDecisionId": null
+  }
+]

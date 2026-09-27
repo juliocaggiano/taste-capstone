@@ -1,0 +1,265 @@
+[
+  {
+    "id": "pantheon",
+    "medium": "architecture",
+    "title": "Pantheon",
+    "creator": "Architect unknown; completed under Emperor Hadrian",
+    "dateDisplay": "Early 2nd century CE",
+    "dateStart": 114,
+    "dateEnd": 128,
+    "place": "Rome, Italy",
+    "body": "The Pantheon in Rome has the columned entrance of a temple, but opens into one enormous circular room. No columns interrupt this interior: the weight passes into the thick surrounding walls.\n\nRoman builders made the concrete lighter toward the top and reduced the dome’s thickness as it rose. This reduced the weight the structure had to carry, helping the dome span the room without columns beneath it. The recessed squares in its ceiling also remove weight. At the centre, an opening called the oculus lets in rain and a beam of sunlight. The moving light makes different parts of the room visible as the day passes.\n\nThe building also connects religious belief with the authority of Rome’s rulers. Agrippa, a Roman general, commissioned an earlier Pantheon while serving Augustus, Rome’s first emperor. After decades of civil war, Augustus concentrated Rome’s government in his own hands, establishing rule by emperors. More than a century later, the present building was completed under another emperor, Hadrian. Its entrance still credits Agrippa, preserving the link with the earlier rulers. What happened inside is less certain. The Roman writer Cassius Dio associated its name with the gods and its vaulted roof with the heavens. The exact ceremonies and original purpose remain debated.\n\nIn 609, the building became a Christian church. That new use helped preserve the ancient structure, although later generations removed or replaced many of its original decorative materials.",
+    "meaningBrief": "Roman engineering reduces the dome’s weight so it can cover a vast room without internal columns. Moving light gives that space its changing character. Brief introductions to Agrippa, Augustus and Hadrian and Augustus’s concentration of government after civil war make the inscription and successive imperial patronage understandable without assuming Roman history; original ceremonies remain uncertain.",
+    "sources": [
+      {
+        "title": "Turismo Roma — Pantheon",
+        "url": "https://www.turismoroma.it/en/places/pantheon",
+        "role": "institutional",
+        "supports": "Geometry, oculus, coffers, Hadrianic completion and conversion into a church in 609."
+      },
+      {
+        "title": "Pantheon, Rome — historical and structural overview",
+        "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+        "role": "reference",
+        "supports": "Lightening of concrete, dating debate, uncertain original use and Cassius Dio’s interpretation."
+      },
+      {
+        "title": "Visitors discuss light inside the Pantheon",
+        "url": "https://www.reddit.com/r/architecture/comments/1n54cn0/",
+        "role": "public_reception",
+        "supports": "Reception clue: visitors describe the room changing with sunshine and rain; not used as historical authority."
+      },
+      {
+        "title": "Open University — Introducing the Pantheon; Eleanor Betts and Mark Wilson Jones",
+        "url": "https://www.open.edu/openlearn/history-the-arts/hadrians-rome/content-section-2.1",
+        "role": "substantive architectural interpretation",
+        "supports": "Transcript read: Agrippan inscription, replacement building completed under Hadrian, imperial context, structural devices, moving light and uncertainty about original purpose. Its 608 church date is not adopted; Rome’s institutional record supports 609."
+      },
+      {
+        "title": "Open University — Cassius Dio 53.27.1–4",
+        "url": "https://www.open.edu/openlearn/history-the-arts/hadrians-rome/content-section-5.3",
+        "role": "ancient testimony in educational edition",
+        "supports": "Ancient attributed associations of the Pantheon’s name with gods and its vaulted roof with the heavens. Not proof of the original architectural program."
+      },
+      {
+        "title": "Encyclopaedia Romana — Pantheon",
+        "url": "https://penelope.uchicago.edu/encyclopaedia_romana/romanurbs/pantheon.html",
+        "role": "scholarly reference",
+        "supports": "Dome thickness decreases toward the top; progressively lighter aggregate and coffers reduce weight. Retrieved indexed account; cosmic reconstruction is not adopted as fact."
+      },
+      {
+        "title": "British Museum — Augustus (Octavian), biography record",
+        "url": "https://www.britishmuseum.org/collection/term/BIOG57074",
+        "role": "museum reference",
+        "supports": "Augustus was Rome’s first emperor; relevant institutional biography retrieved 25 September 2026."
+      },
+      {
+        "title": "British Museum — coin R.9455, curator’s commentary",
+        "url": "https://www.britishmuseum.org/collection/object/C_R-9455",
+        "role": "museum object commentary",
+        "supports": "Agrippa identified as Octavian/Augustus’s principal general; relevant curator text retrieved 25 September 2026. The entry makes no claim about this coin’s disputed dating."
+      },
+      {
+        "title": "British Museum — Nero exhibition, From republic to empire",
+        "url": "https://www.britishmuseum.org/nero-content",
+        "role": "museum historical interpretation",
+        "supports": "Augustus emerged from decades of civil war and established personal rule while keeping republican institutions. Relevant exhibition text retrieved through the search index on 25 September 2026; direct page fetch returned 403."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+      "baselineSection": "pantheon; pre-remake batch body",
+      "changes": [
+        "Reorganizes spatial description into an explanation of how the unsupported interior works.",
+        "Adds the Agrippan inscription and its imperial connection; qualifies purpose and ancient cosmic interpretation.",
+        "Removes atmospheric filler and avoids claiming that church conversion preserved every original material."
+      ],
+      "notionUrl": null,
+      "previousBaseline": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": "New draft for batch 001."
+      },
+      "feedbackRevision": {
+        "date": "2026-09-25",
+        "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+        "baselineBodySha256": "a8a3adc317192a57876ab8134818ff27e72bfbe20d8be860d4849b1f9cc3855c",
+        "change": "25 September 2026: removes dimensions and sphere comparison, explains why the dome’s weight is reduced, and introduces Agrippa, Augustus and Hadrian, including Augustus’s concentration of government after civil war. Opening image, daylight and final preservation paragraph retained.",
+        "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+      }
+    },
+    "quotationNotes": [
+      "No direct quotations. Cassius Dio’s explanation and the inscription are paraphrased; neither establishes the exact original function."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Pantheon%2C_Rome%2C_ceiling%2C_2013-03-07-4.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Pantheon,_Rome,_ceiling,_2013-03-07-4.jpg",
+      "altText": "Interior of the Pantheon, looking up toward its coffered dome and open oculus.",
+      "credit": "Szilas, 2013 / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Photograph of the surviving interior. CC0 dedication verified on the file page."
+    },
+    "datePrecision": "approximate construction range; exact start is debated",
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "borobudur",
+    "medium": "architecture",
+    "title": "Borobudur",
+    "creator": "Builders unknown; Sailendra dynasty patronage",
+    "dateDisplay": "8th–9th centuries",
+    "dateStart": 700,
+    "dateEnd": 899,
+    "place": "Central Java, Indonesia",
+    "body": "Borobudur is a Buddhist monument in Central Java whose teachings unfold along a walking route. Built during the eighth and ninth centuries under the Sailendra rulers, it has no large congregation hall inside. Worshippers move around its terraces and climb from one level to the next, passing carved stories along the way.\n\nSome reliefs recount the Buddha’s previous lives. In one, he appears as a rabbit who offers his own body to feed a hungry visitor. In another, he is the deer Ruru, who rescues a drowning man. When the man reveals its hiding place to a king who wants to capture it, Ruru forgives the betrayal. Such stories give generosity and compassion a concrete form. Other carvings include boats, houses and farming, placing religious narratives among details of the world its Javanese makers knew.\n\nThe building changes as the route rises. Narrow galleries with narrative reliefs give way to open circular terraces. Here, seated Buddhas occupy perforated, bell-shaped structures called stupas. The progression represents three realms of Buddhist thought: desire, form, and existence beyond form. Walking through them turns the effort to move beyond worldly attachment into a physical practice.\n\nThis arrangement also draws on a local tradition of sacred, terraced mountains associated with ancestors. Borobudur combines that Javanese setting with Buddhist teachings that travelled across Asia. Its shape and its carved narratives work together: one organizes the pilgrim’s movement, while the other provides stories to consider along the route.",
+    "meaningBrief": "The pilgrim learns through a designed sequence of walking, carved examples of conduct and ascending levels of Buddhist cosmology. A concrete Jataka example explains what the route teaches, while Javanese daily life and sacred-mountain traditions prevent treating the monument as a placeless diagram.",
+    "sources": [
+      {
+        "title": "UNESCO — Borobudur Temple Compounds",
+        "url": "https://whc.unesco.org/en/list/592",
+        "role": "institutional",
+        "supports": "Dating, Sailendra patronage, physical sequence, Buddhist cosmology and local ancestor-related mountain tradition."
+      },
+      {
+        "title": "The Metropolitan Museum of Art — The Art of South and Southeast Asia",
+        "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/sseasia.pdf",
+        "role": "museum_education",
+        "supports": "Printed pages 40–42 / PDF pages 47–49: reliefs teach pilgrims through a sequence of movement and record regional life."
+      },
+      {
+        "title": "Buddhist visitors discuss Borobudur",
+        "url": "https://www.reddit.com/r/Buddhism/comments/id5795/",
+        "role": "public_reception",
+        "supports": "Reception clue: ritual walking and reading the reliefs matter alongside views; historical claims verified against institutional sources."
+      },
+      {
+        "title": "Balai Konservasi Borobudur — Membangun Karakter Anak Melalui Cerita Relief Jataka",
+        "url": "https://kebudayaan.kemdikbud.go.id/bkborobudur/membangun-karakter-anak-melalui-cerita-relief-jataka/",
+        "role": "Indonesian conservation institution; relief interpretation",
+        "supports": "2017 Indonesian article’s narrative section read in retrieved indexed text: Buddha’s earlier life as a rabbit, disguised visitor and offering of the rabbit’s body. Panel numbers are omitted because related institutional articles differ."
+      },
+      {
+        "title": "Balai Konservasi Borobudur — Relief Membajak Sawah di Candi Borobudur",
+        "url": "https://kebudayaan.kemdikbud.go.id/bkborobudur/relief-membajak-sawah-di-candi-borobudur/",
+        "role": "Indonesian conservation institution; relief interpretation",
+        "supports": "Indonesian indexed article inspected: ploughing with oxen in a Jataka relief; concrete agricultural detail in the represented world."
+      },
+      {
+        "title": "So Tju Shinta Lee and Agus Aris Munandar — The signification of paramita teachings in Jatakamala reliefs at Candi Borobudur",
+        "url": "https://berkalaarkeologi.kemdikbud.go.id/index.php/berkalaarkeologi/article/download/963/943/4311",
+        "role": "primary archaeological interpretation of reliefs and narrative text",
+        "supports": "Berkala Arkeologi 42(1), 2022, pp. 45–46 and narrative summary table: Ruru rescue, betrayal and forgiveness; panels 96–97, within story sequence 94–98. Relevant text retrieved from indexed scholarly PDF and author-uploaded mirror; main PDF endpoint later failed."
+      },
+      {
+        "title": "Borobudur Wisdom — Jatakamala 26, Ruru-jataka",
+        "url": "https://borobudurwisdom.com/jatakamala-26-ruru-jataka/",
+        "role": "Indonesian rendering of the primary narrative; corroboration",
+        "supports": "King’s wish to capture Ruru and the rescued man’s betrayal, with Ruru later asking that the man be spared. The relief study, rather than this translation alone, establishes representation at Borobudur."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+      "baselineSection": "borobudur; pre-remake batch body",
+      "changes": [
+        "Adds a specific Jataka narrative in place of a generic reference to compassion.",
+        "Explains the three Buddhist realms and the pilgrim’s movement in ordinary language.",
+        "Retains the Javanese sacred-mountain and everyday-life context; distinguishes built ritual route from modern visitor access."
+      ],
+      "notionUrl": null,
+      "previousBaseline": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": "New draft for batch 001."
+      },
+      "feedbackRevision": {
+        "date": "2026-09-25",
+        "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+        "baselineBodySha256": "ba448a8d996eeadfa4b98734b80d08608f21224130e988ad1471b1516730ea23",
+        "change": "25 September 2026: adds only the verified Ruru deer example after the rabbit story. Every original sentence remains unchanged.",
+        "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+      }
+    },
+    "quotationNotes": [
+      "No direct quotations. Jataka narrative paraphrased from the Indonesian conservation institution’s account.",
+      "25 September addition: Ruru story paraphrased from the relief study’s Indonesian account; no quotation or published English translation claimed."
+    ],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Borobudur-Nothwest-view.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Borobudur-Nothwest-view.jpg",
+      "altText": "Panoramic view of Borobudur’s stepped terraces and central summit, surrounded by trees.",
+      "credit": "Gunawan Kartapranata, 2008 / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Full monument seen from the northwest. Source photograph remains uncropped."
+    },
+    "datePrecision": "century range; not exact start or completion years",
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  },
+  {
+    "id": "sesc-pompeia",
+    "medium": "architecture",
+    "title": "SESC Pompeia",
+    "creator": "Lina Bo Bardi, with André Vainer and Marcelo Ferraz",
+    "dateDisplay": "1977–1986",
+    "dateStart": 1977,
+    "dateEnd": 1986,
+    "place": "São Paulo, Brazil",
+    "body": "SESC Pompeia is a place for sport, meals, reading and performance built inside a former factory in São Paulo. It belongs to SESC, a Brazilian organization funded by commerce and service businesses to support workers and their families. Many of its activities also welcome the wider public. This purpose helps explain why a swimming pool and a shared lunch table belong in the same complex as a theater.\n\nBefore the redesign, local families were already using the factory for leisure. On a visit in 1976, Lina Bo Bardi saw children playing, adults preparing food and football continuing beneath leaking roofs. She wanted that existing social life to continue. The project kept the brick sheds and their concrete structure, adding places for workshops, reading, eating and informal gatherings.\n\nThe new sports buildings required a different solution. An underground stream left a strip of land where construction was prohibited. Bo Bardi placed the courts and pool on one side and the changing rooms on the other. Elevated concrete walkways connect them, while a wooden deck occupies the strip below.\n\nThe bridges’ unusual appearance follows a practical need. The retained factory serves another: people can spend time together without every visit revolving around a scheduled performance or exhibition. Bo Bardi designed for the ordinary activities she had found there, including those of young workers from nearby shops.",
+    "meaningBrief": "A worker-oriented social institution and already active local leisure give the design its purpose. Reused factory sheds sustain mixed everyday activities; stream restrictions explain the dramatic bridges. The architecture makes room for this public life without requiring every visit to be a formal cultural event.",
+    "sources": [
+      {
+        "title": "Brasil Arquitetura — SESC Fábrica da Pompéia",
+        "url": "https://brasilarquitetura.com/project/sesc-fabrica-pompeia-lina",
+        "role": "creator_primary",
+        "supports": "Team and project date; Lina Bo Bardi’s published accounts of her 1976 visit, keeping popular use, the buried stream, bridges and collective leisure."
+      },
+      {
+        "title": "Instituto Bardi — Lina Bo Bardi’s SESC chair",
+        "url": "https://institutobardi.org.br/en/revista/lina-bo-bardis-sesc-chair/",
+        "role": "specialist",
+        "supports": "Retained factory and social facilities; communal furniture and public use."
+      },
+      {
+        "title": "Sesc — A história do conjunto esportivo do Sesc Pompeia",
+        "url": "https://portal.sescsp.org.br/online/artigo/13465_A%2BHISTORIA%2BDO%2BCONJUNTO%2BESPORTIVO%2BDO%2BSESC%2BPOMPEIA",
+        "role": "institutional",
+        "supports": "1986 sports-building opening, concrete blocks, bridges, deck and facilities."
+      },
+      {
+        "title": "Sesc São Paulo — FAQ: O que é o Sesc?",
+        "url": "https://portal.sescsp.org.br/fale-conosco/faq/index.action",
+        "role": "institutional self-description in Portuguese",
+        "supports": "Private business-funded organization; priority for workers and dependants in commerce, services and tourism, with activities also open to the general public. Relevant complete FAQ answer retrieved in indexed text."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+      "baselineSection": "sesc-pompeia; pre-remake batch body",
+      "changes": [
+        "Introduces the institution’s worker-service purpose and wider public before design decisions.",
+        "Connects existing leisure, factory reuse and practical stream restrictions.",
+        "Replaces the broad claim that the centre opposed established art education with documented ordinary uses."
+      ],
+      "notionUrl": null,
+      "previousBaseline": {
+        "baselineFile": null,
+        "baselineSection": null,
+        "changes": "New draft for batch 001."
+      }
+    },
+    "quotationNotes": [
+      "No direct quotations. Bo Bardi’s Portuguese recollections and SESC’s Portuguese self-description are paraphrased."
+    ],
+    "media": {
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/6230ecd32960d229ae80c200/1660919781678-VC97AV52AKXXYP7R8QHW/Nelson%2BKon%2B11.jpeg",
+      "referenceUrl": "https://www.luuupa.com/arquitectura/sesc-pompeia",
+      "altText": "SESC Pompeia’s concrete sports towers and elevated walkways above the retained factory roofs.",
+      "credit": "© Nelson Kon, via LUPA",
+      "license": "Copyrighted photograph; app-use permission pending",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Photograph of the sports towers, connecting walkways and retained factory roofs."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026"
+  }
+]

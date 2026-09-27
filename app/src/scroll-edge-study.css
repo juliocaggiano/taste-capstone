@@ -1,0 +1,63 @@
+/* Strong bottom edges are the app default; explicit studies retain both-edge comparisons. */
+.scroll-edge-viewport {
+  position: absolute;
+  z-index: 8;
+  overflow: hidden;
+  pointer-events: none;
+  --edge-height: 104px;
+  --edge-blur-low: 1.5px;
+  --edge-blur-mid: 3px;
+  --edge-blur-high: 6px;
+}
+
+.scroll-edge-viewport[data-variant="strong"] {
+  --edge-height: 144px;
+  --edge-blur-low: 3px;
+  --edge-blur-mid: 6px;
+  --edge-blur-high: 12px;
+}
+
+.scroll-edge-blur {
+  position: absolute;
+  right: 0;
+  left: 0;
+  height: var(--edge-height);
+  pointer-events: none;
+}
+.scroll-edge-blur--top { top: 0; --edge-direction: to bottom; }
+.scroll-edge-blur--bottom { bottom: 0; --edge-direction: to top; }
+
+.scroll-edge-blur-layer,
+.scroll-edge-tint {
+  position: absolute;
+  inset: 0;
+  opacity: var(--edge-strength);
+  pointer-events: none;
+  transition: opacity 120ms ease-out;
+}
+
+.scroll-edge-blur-layer {
+  -webkit-backdrop-filter: blur(var(--edge-radius));
+  backdrop-filter: blur(var(--edge-radius));
+  -webkit-mask-image: linear-gradient(var(--edge-direction), #000 0%, #000 12%, transparent var(--edge-end));
+  mask-image: linear-gradient(var(--edge-direction), #000 0%, #000 12%, transparent var(--edge-end));
+}
+.scroll-edge-blur-layer[data-depth="1"] { --edge-radius: var(--edge-blur-low); --edge-end: 100%; }
+.scroll-edge-blur-layer[data-depth="2"] { --edge-radius: var(--edge-blur-mid); --edge-end: 78%; }
+.scroll-edge-blur-layer[data-depth="3"] { --edge-radius: var(--edge-blur-high); --edge-end: 54%; }
+.scroll-edge-tint {
+  background: linear-gradient(var(--edge-direction), var(--app-bg), color-mix(in srgb, var(--app-bg) 40%, transparent) 45%, transparent);
+}
+
+[inert] .scroll-edge-viewport,
+[aria-hidden="true"] .scroll-edge-viewport,
+.mobile-page[data-keyboard-visible="true"] .scroll-edge-viewport,
+.mobile-page:has(.today-save-popover) > .scroll-edge-viewport { visibility: hidden; }
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll-edge-blur-layer, .scroll-edge-tint { transition: none; }
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  .scroll-edge-blur-layer { -webkit-backdrop-filter: none; backdrop-filter: none; }
+}

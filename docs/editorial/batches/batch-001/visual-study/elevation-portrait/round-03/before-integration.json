@@ -1,0 +1,12 @@
+{
+  "studyFingerprints": {
+    "architecture-round-2": "2477c85567407259",
+    "sculpture-round-2": "35db2b97cae3dbf1",
+    "architecture": "ef4664ffd6883c63",
+    "sculpture": "ad8bbf88fb629154"
+  },
+  "batchHashes": {
+    "review-manifest.json": "1c51c673639957718a4686c2c34cef0dede2eb06ffce4b8cff0c6955a978ac1b",
+    "batch-001.json": "90172d29059ebe5f3b512f4f7d3499202623566ae8e3c4da2ccba24a7f0684e0"
+  }
+}

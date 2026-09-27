@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Related works study · Taste (V1.2)</title>
+    <style>
+      @font-face {
+        font-family: "PP Neue Montreal";
+        src: local("PPNeueMontrealTT-Regular"), local("PP Neue Montreal TT Regular");
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+      }
+      :root {
+        font-family: "PP Neue Montreal", "PP Neue Montreal TT", system-ui, sans-serif;
+        font-synthesis: none;
+        -webkit-font-smoothing: antialiased;
+        color: #252525;
+        background: #fff;
+        --muted: #6e6e6e;
+        --line: rgb(37 37 37 / 15%);
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; }
+      a { color: inherit; text-underline-offset: 3px; }
+      a:hover { color: var(--muted); }
+      button { font: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+      button:disabled { cursor: default; opacity: .4; }
+      :focus-visible { outline: 2px solid #252525; outline-offset: 3px; }
+      main { width: min(100%, 1500px); margin: 0 auto; padding: 24px 32px 32px; }
+      .topline { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+      .eyebrow, .back { font-size: 12px; line-height: 16px; }
+      .eyebrow { margin: 0; color: var(--muted); }
+      .back { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; }
+      .back svg { width: 14px; height: 14px; }
+      .intro-header { margin: 28px 0 22px; }
+      h1 { margin: 0 0 10px; font-size: clamp(26px, 2.6vw, 36px); font-weight: 400; line-height: 1.1; letter-spacing: -.5px; }
+      .intro { max-width: 70ch; margin: 0; color: var(--muted); font-size: 14px; line-height: 20px; }
+      .selector { display: none; }
+      .variants { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+      .variant { min-width: 0; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: #fff; }
+      .variant[hidden] { display: none; }
+      .variant-header { min-height: 155px; display: flex; flex-direction: column; padding: 16px; }
+      h2 { margin: 0; font-size: 20px; font-weight: 400; line-height: 24px; }
+      h2 span { margin-right: 8px; color: var(--muted); font-size: 12px; line-height: 16px; vertical-align: 2px; }
+      .description { margin: 8px 0 16px; max-width: 34ch; color: var(--muted); font-size: 13px; line-height: 18px; }
+      .card-controls { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: auto; }
+      .buttons { display: flex; gap: 4px; }
+      .button { min-height: 30px; padding: 0 10px; border: 1px solid var(--line); border-radius: 4px; background: #fff; color: #252525; font-size: 11px; line-height: 16px; white-space: nowrap; }
+      .button:hover:not(:disabled) { background: #f2f2f2; }
+      .button.primary { background: #252525; border-color: #252525; color: #fff; }
+      .button.primary:hover:not(:disabled) { background: #6e6e6e; border-color: #6e6e6e; }
+      .open { color: var(--muted); font-size: 11px; line-height: 16px; text-decoration: none; white-space: nowrap; }
+      .open:hover { color: #252525; text-decoration: underline; }
+      iframe { display: block; width: 100%; height: clamp(500px, calc(100dvh - 295px), 830px); border: 0; border-top: 1px solid var(--line); background: #fff; }
+      .footer { margin: 16px 0 0; color: var(--muted); font-size: 12px; line-height: 18px; }
+      @media (max-width: 1100px) {
+        main { max-width: 600px; padding: 20px 20px 28px; }
+        .intro-header { margin: 28px 0 18px; }
+        .selector { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px; margin-bottom: 12px; padding: 4px; border-radius: 6px; background: #f2f2f2; }
+        .selector button { min-height: 36px; padding: 6px 3px; border: 0; border-radius: 3px; background: transparent; color: var(--muted); font-size: 12px; line-height: 16px; }
+        .selector button[aria-selected="true"] { background: #fff; color: #252525; box-shadow: 0 1px 2px rgb(37 37 37 / 7%); }
+        .variants { display: block; }
+        .variant-header { min-height: 145px; }
+        iframe { height: clamp(540px, calc(100dvh - 295px), 830px); }
+      }
+      @media (max-width: 400px) {
+        main { padding: 16px 12px 24px; }
+        .card-controls { flex-wrap: wrap; }
+        .open { margin-left: auto; }
+      }
+      @media (pointer: coarse) {
+        .back, .open { min-height: 44px; display: inline-flex; align-items: center; }
+        .selector button, .button { min-height: 44px; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="topline">
+        <p class="eyebrow">Taste (V1.2) / Related works study</p>
+        <a class="back" href="/">
+          <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M9.5 3.5 5 8l4.5 4.5" stroke="currentColor" stroke-width="1.25" /></svg>
+          Back to prototype
+        </a>
+      </div>
+      <header class="intro-header">
+        <h1>Three ways to keep exploring</h1>
+        <p class="intro">Compare three layouts for Check out more. Open a work, then return to where you left off.</p>
+      </header>
+      <div class="selector" role="tablist" aria-label="Choose a related works variation">
+        <button type="button" role="tab" id="gallery-tab" data-show="gallery" aria-controls="gallery-card" aria-selected="true" tabindex="0">01 Gallery rail</button>
+        <button type="button" role="tab" id="grid-tab" data-show="grid" aria-controls="grid-card" aria-selected="false" tabindex="-1">02 Paired grid</button>
+        <button type="button" role="tab" id="list-tab" data-show="list" aria-controls="list-card" aria-selected="false" tabindex="-1">03 Compact list</button>
+      </div>
+      <section class="variants" aria-label="Three related works variations">
+        <article class="variant" id="gallery-card" data-variant="gallery" aria-labelledby="gallery-title">
+          <div class="variant-header">
+            <h2 id="gallery-title"><span>01</span>Gallery rail</h2>
+            <p class="description">Large images in a horizontal rail, with room to look closely.</p>
+            <div class="card-controls">
+              <div class="buttons" role="group" aria-label="Gallery rail controls">
+                <button class="button primary" type="button" data-action="focus" disabled>View section</button>
+                <button class="button" type="button" data-action="reset" disabled>Reset</button>
+              </div>
+              <a class="open" href="/?related-study=gallery" target="_blank" rel="noopener" aria-label="Open Gallery rail full size">Open full size ↗</a>
+            </div>
+          </div>
+          <iframe title="Gallery rail interactive related works prototype" data-src="/?related-study=gallery"></iframe>
+        </article>
+        <article class="variant" id="grid-card" data-variant="grid" aria-labelledby="grid-title">
+          <div class="variant-header">
+            <h2 id="grid-title"><span>02</span>Paired grid</h2>
+            <p class="description">Two works side by side, with a clear view of each image.</p>
+            <div class="card-controls">
+              <div class="buttons" role="group" aria-label="Paired grid controls">
+                <button class="button primary" type="button" data-action="focus" disabled>View section</button>
+                <button class="button" type="button" data-action="reset" disabled>Reset</button>
+              </div>
+              <a class="open" href="/?related-study=grid" target="_blank" rel="noopener" aria-label="Open Paired grid full size">Open full size ↗</a>
+            </div>
+          </div>
+          <iframe title="Paired grid interactive related works prototype" data-src="/?related-study=grid"></iframe>
+        </article>
+        <article class="variant" id="list-card" data-variant="list" aria-labelledby="list-title">
+          <div class="variant-header">
+            <h2 id="list-title"><span>03</span>Compact list</h2>
+            <p class="description">Small images and clear details in a simple vertical list.</p>
+            <div class="card-controls">
+              <div class="buttons" role="group" aria-label="Compact list controls">
+                <button class="button primary" type="button" data-action="focus" disabled>View section</button>
+                <button class="button" type="button" data-action="reset" disabled>Reset</button>
+              </div>
+              <a class="open" href="/?related-study=list" target="_blank" rel="noopener" aria-label="Open Compact list full size">Open full size ↗</a>
+            </div>
+          </div>
+          <iframe title="Compact list interactive related works prototype" data-src="/?related-study=list"></iframe>
+        </article>
+      </section>
+      <p class="footer">Each phone starts at Check out more. Use View section to return to it.</p>
+    </main>
+    <script>
+      const tabs = [...document.querySelectorAll('[role="tab"]')];
+      const cards = [...document.querySelectorAll('[data-variant]')];
+      const narrow = matchMedia('(max-width: 1100px)');
+      let selected = 'gallery';
+
+      function loadCard(card) {
+        const frame = card.querySelector('iframe');
+        if (frame.hasAttribute('src')) return;
+        frame.addEventListener('load', () => {
+          if (!frame.contentWindow || frame.contentWindow.location.origin !== location.origin) return;
+          for (const button of card.querySelectorAll('[data-action]')) button.disabled = false;
+        }, { once: true });
+        frame.src = frame.dataset.src;
+      }
+
+      function showSelection() {
+        for (const tab of tabs) {
+          const active = tab.dataset.show === selected;
+          tab.setAttribute('aria-selected', String(active));
+          tab.tabIndex = active ? 0 : -1;
+        }
+        for (const card of cards) {
+          card.hidden = narrow.matches && card.dataset.variant !== selected;
+          card.setAttribute('role', narrow.matches ? 'tabpanel' : 'region');
+          card.setAttribute('aria-labelledby', `${card.dataset.variant}-${narrow.matches ? 'tab' : 'title'}`);
+          if (!card.hidden) loadCard(card);
+        }
+      }
+
+      for (const tab of tabs) {
+        tab.addEventListener('click', () => {
+          selected = tab.dataset.show;
+          showSelection();
+        });
+        tab.addEventListener('keydown', event => {
+          const index = tabs.indexOf(tab);
+          const destination = event.key === 'ArrowRight' ? (index + 1) % tabs.length
+            : event.key === 'ArrowLeft' ? (index + tabs.length - 1) % tabs.length
+              : event.key === 'Home' ? 0 : event.key === 'End' ? tabs.length - 1 : null;
+          if (destination === null) return;
+          event.preventDefault();
+          selected = tabs[destination].dataset.show;
+          showSelection();
+          tabs[destination].focus();
+        });
+      }
+
+      for (const card of cards) {
+        for (const button of card.querySelectorAll('[data-action]')) {
+          button.addEventListener('click', () => {
+            card.querySelector('iframe').contentWindow?.postMessage({
+              type: 'daily-culture-related-study-command',
+              action: button.dataset.action,
+              variant: card.dataset.variant,
+            }, location.origin);
+          });
+        }
+      }
+      narrow.addEventListener('change', showSelection);
+      showSelection();
+    </script>
+  </body>
+</html>

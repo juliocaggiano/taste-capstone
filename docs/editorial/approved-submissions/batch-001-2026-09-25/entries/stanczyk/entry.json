@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "stanczyk",
+    "medium": "painting",
+    "title": "Stańczyk",
+    "creator": "Jan Matejko",
+    "dateDisplay": "1862",
+    "dateStart": 1862,
+    "dateEnd": null,
+    "body": "In Jan Matejko’s *Stańczyk* (1862), a Polish court jester sits alone while a royal ball continues nearby. The painting’s full title connects his distress with the loss of Smolensk, a fortress captured by Muscovite forces in 1514.\n\nThe jester’s position gives the scene its political criticism. His job is to amuse the court, yet he seems to take the country’s troubles more seriously than its courtiers. Through the doorway, the guests continue their festivities. He remains apart, with his hands clasped and his attention elsewhere. The person expected to entertain becomes the person capable of serious judgment.\n\nMatejko painted this scene centuries after the defeat, when Poland was divided among neighbouring powers. National history gave him a way to examine how the country had lost its independence and what public responsibility required. He also gave Stańczyk his own facial features. This identification suggests a role for the painter similar to the jester’s: using art to question the conduct of those in power.",
+    "sources": [
+      {
+        "title": "National Museum in Warsaw: Stańczyk, object 446753",
+        "url": "https://cyfrowe.mnw.art.pl/pl/zbiory/446753",
+        "role": "holding-museum catalogue",
+        "supports": "Artist, date, title, collection and historical interpretation; current catalogue cautions against a literal reconstruction of the court event."
+      },
+      {
+        "title": "National Museum in Warsaw: public catalogue record",
+        "url": "https://cyfrowe-api.mnw.art.pl/api/object/446753",
+        "role": "primary catalogue metadata",
+        "supports": "Machine-readable museum record, public curatorial description, 1862 creation date and museum public-domain label."
+      },
+      {
+        "title": "Anna Cymer: Stańczyk — Jan Matejko",
+        "url": "https://culture.pl/en/work/stanczyk-jan-matejko",
+        "role": "institutional interpretation",
+        "supports": "Jester and court contrast, national concern under partition, Matejko’s self-likeness and his understanding of historical painting."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_16_PAINTING_BOOK_FILM.md",
+      "baselineSection": "Stańczyk / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: tightened the role inversion, brought the constructed-history caveat into the prose, and connected partition and self-likeness to the painting’s political account. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/Sta-czyk-197c5450872d8057a498e8437e945765?pvs=25",
+      "feedbackRevision": {
+        "date": "2026-09-25",
+        "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+        "baselineBodySha256": "16bf58e4082ca097e487fb2e6e55f02a3959bd37fa5ac5663f33163ac0bcb0a4",
+        "change": "25 September 2026: deletes only the first paragraph’s final historicity warning requested by Julio; all remaining prose unchanged. The warning is not relocated into the reading text.",
+        "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+      }
+    },
+    "meaningBrief": "A court entertainer becomes the figure of political judgment while the courtiers celebrate. Matejko’s self-likeness and work under partition connect that role inversion with the public responsibility of historical painting. The Smolensk association comes from the title; the combined dates do not document a literal 1514 dispatch or court ball.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/1280px-Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+      "altText": "A court jester dressed in red sits alone while a royal ball continues through an open doorway.",
+      "credit": "Jan Matejko / National Museum in Warsaw; photograph credited in file metadata to Krzysztof Wilczyński / Muzeum Narodowe w Warszawie.",
+      "license": "Commons marks the reproduction PD-Art/Public Domain Mark; museum catalogue marks the work public domain. The file also retains a photographer copyright field.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact painting, 1862. Remote review reference only. Conflicting reproduction metadata and app reuse remain to be reviewed."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 7,
+    "language": "en",
+    "revision": 3,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-stanczyk"
+  },
+  "decision": {
+    "id": "stanczyk",
+    "decisionId": "julio-2026-09-25-stanczyk",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the remaining text while requesting deletion of the first paragraph’s final caveat. That exact deletion is applied.",
+      "Current review visibly selected image A; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "bdf3593f86a935f7",
+    "imageOption": "A",
+    "imageHash": "180231973a6406d2",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "A",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "A",
+      "label": "Museum reproduction",
+      "description": "Detailed museum image with deep reds and dark green curtains.",
+      "imageUrl": "image-options/assets/painting/stanczyk-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+      "credit": "Jan Matejko / National Museum in Warsaw; photograph credited to Krzysztof Wilczyński/MNW.",
+      "altText": "Full painting: stanczyk",
+      "width": 1920,
+      "height": 1428,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/1920px-Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+      "sourceDimensions": [
+        5766,
+        4289
+      ],
+      "sourceNotes": "National Museum in Warsaw / Wikimedia Polska GLAM partnership image. Complete composition. No color changes made for this review.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-23",
+      "sha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022",
+      "assetSha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Jan Matejko / National Museum in Warsaw; photograph credited to Krzysztof Wilczyński/MNW.",
+    "altText": "Full painting: stanczyk",
+    "width": 1920,
+    "height": 1428,
+    "imageUrl": "assets/selected.jpg",
+    "sha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022",
+    "sourceAssetSha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022"
+  },
+  "frozen": {
+    "bodyHash": "bdf3593f86a935f7",
+    "bodySha256": "0a6e6f509ea9d232f77b9e3ed5239f762a80828be7c15d098ab935ae3b6ceb35",
+    "imageHash": "180231973a6406d2",
+    "sourceEntrySha256": "72f86ce8856e5905f1ddad9cd51175c2a24a13d78b3e1abbe163c802c6a6fe12"
+  }
+}

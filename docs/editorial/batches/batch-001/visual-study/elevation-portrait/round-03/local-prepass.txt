@@ -1,0 +1,29 @@
+**1. Original Benjamin Franklin museum photograph**  
+*File path:*  
+`/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/elevation-portrait/round-02/originals/houdon-benjamin-franklin.jpg`  
+*Evidence:* The `originalImageUrl` field in the sculpture JSON entry `houdon-franklin-round-02` points to this exact file, and the `sourceImageUrl` confirms it is the Met’s public‑domain image DT2883.jpg.  
+
+**2. Untouched Roman woman photograph used as option C**  
+*File path:*  
+`/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/elevation-portrait/round-02/originals/roman-woman-head.jpg`  
+*Evidence:* The `roman-woman-head-round-02` entry lists this path as both `imageUrl` and `originalImageUrl`, and the `imageTreatment` field notes “Original museum photograph,” indicating no background edit was applied.  
+
+**3. Builder behavior: preserving source notes when changing a sculpture image**  
+*File path:*  
+`/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/elevation-portrait/build_section.py`  
+*Evidence:* In `build_section()`, when `round_number == 2` and an item has `fidelityNotes`, the code appends those notes to the existing `sourceNotes` list before rendering. This ensures that any fidelity commentary remains attached to the sculpture record even if the image is replaced.  
+
+**4. Builder behavior: preserving source notes when changing an architecture image**  
+*File path:*  
+`/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/elevation-portrait/build_section.py`  
+*Evidence:* The same logic (lines 45‑55) applies to all media types; for architecture entries the `fidelityNotes` (if present) are merged with `sourceNotes`, guaranteeing that architectural source commentary is not lost when a new image is selected.  
+
+**5. Builder behavior: saving user preference without erasing notes**  
+*File path:*  
+`/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/elevation-portrait/studies.js`  
+*Evidence:* The `updateVisualStudy()` function stores the chosen image ID and the current fingerprint in `localStorage` but does not modify the underlying JSON records. Thus, user selections are persisted while the original source notes remain untouched in the source files.  
+
+**6. Builder behavior: ensuring the “original” image is available for comparison**  
+*File path:*  
+`/Users/juliocaggiano/Desktop/CLAUDE:CODEX/Capstone (Daily Culture)/docs/editorial/batches/batch-001/visual-study/elevation-portrait/build_section.py`  
+*Evidence:* The code checks `original = item.get('originalImageUrl')` and, if present and different from `imageUrl`, generates a `<details>` element that links to the original file. This guarantees that any edited image can be compared to its untouched source without overwriting the original file.

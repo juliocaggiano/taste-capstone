@@ -1,0 +1,398 @@
+[
+  {
+    "entry": {
+      "id": "liberty-leading-the-people",
+      "title": "Liberty Leading the People",
+      "creator": "Eugène Delacroix",
+      "dateDisplay": "1830",
+      "dateStart": 1830,
+      "dateEnd": null,
+      "place": "Paris, France",
+      "body": "The uprising in this painting took place in July 1830, not during the French Revolution of 1789. King Charles X had restricted the press and changed electoral rules, provoking three days of fighting in Paris. He was forced from power and replaced by Louis-Philippe, who ruled under a constitutional monarchy. Delacroix began the painting while those events were still recent.\n\nThe woman carrying the flag is Liberty, given a body and a place among the insurgents. Her red cap recalls the earlier Revolution, while the tricolour announces the return of a flag associated with it. She also carries a rifle and steps across the barricade. Delacroix combines the appearance of an ancient goddess with someone capable of taking part in a modern street battle.\n\nThe people following her wear clothes that suggest different positions in society: a worker’s apron, a gentleman’s top hat, a boy’s everyday clothes. Their common direction presents the uprising as a cause shared across those divisions. At their feet, however, lie people who will receive none of its benefits. The wounded and dead occupy as much physical space as the advancing crowd.\n\nThat combination helps explain the painting’s force. It gives the revolution a figure to rally around without making the barricade look clean or orderly. Liberty is an ideal, but the broken bodies beneath her belong to the kind of fighting through which Parisians tried to achieve it.",
+      "meaningBrief": "Delacroix presents a shared revolutionary ideal amid the deaths and class differences of the July 1830 uprising.",
+      "sources": [
+        {
+          "title": "Histoire par l’image — La Liberté guidant le peuple",
+          "url": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+          "role": "substantive institutional interpretation",
+          "supports": "Political trigger, July 1830, insurgents, personification and casualties. Full analysis read in French.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Musée du Louvre — The restored Liberty Leading the People",
+          "url": "https://presse.louvre.fr/retour-en-salle-de-la-liberte-guidant-le-peuple-restauree/?lang=fr",
+          "role": "museum interpretation and conservation",
+          "supports": "Revolutionary tricolour, its earlier prohibition, the importance of colour, and 2024 restoration. Full public report read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Which French revolution?",
+          "url": "https://www.reddit.com/r/HistoryMemes/comments/ibzfg9/",
+          "role": "reception check only",
+          "supports": "Comments distinguish 1830 from 1789 and note replacement by another monarchy; checked against historical account. No popularity claim.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Preferred A body retained; inline citations moved to sources. This entry and its image options await current review.",
+        "baselineFile": "docs/editorial/CALIBRATION_17_PAINTING_BOOK_FILM.md",
+        "baselineSection": "Liberty Leading the People — A",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Distinguished 1830 from 1789, explained the political trigger, and related Liberty’s symbols to the crowd’s different positions.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-liberty-leading-the-people-a.jpg",
+        "referenceUrl": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+        "altText": "Liberty raises the French tricolour above insurgents crossing a barricade and fallen bodies in Paris.",
+        "credit": "Eugène Delacroix",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "Restored painting · press reproduction",
+      "description": "Post-restoration reproduction published in 2024, with a grey lower robe and restrained blue tones.",
+      "imageUrl": "image-options/assets/painting/b003-liberty-leading-the-people-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg",
+      "museumReferenceUrl": "https://histoire-image.org/etudes/liberte-guidant-peuple-eugene-delacroix",
+      "credit": "Eugène Delacroix; https://www.leparisien.fr/culture-loisirs/expositions/au-louvre-la-liberte-guidant-le-peuple-comme-vous-ne-lavez-jamais-vu-30-04-2024-LSTD76DRHFFNLDDH6RTMWIDDEE.php",
+      "altText": "Liberty raises the French tricolour above insurgents crossing a barricade and fallen bodies in Paris.",
+      "width": 1920,
+      "height": 1536,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg/1920px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple_-_apr%C3%A8s_restauration_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceNotes": "Original source dimensions: 2742 × 2194. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "450c1d9d514165891ce6b9d3c40524942e7eeedff21f1abd77031ae94fb5e906",
+      "sourceDimensions": [
+        2742,
+        2194
+      ],
+      "assetSha256": "450c1d9d514165891ce6b9d3c40524942e7eeedff21f1abd77031ae94fb5e906"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "commentsText": "",
+      "id": "liberty-leading-the-people",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "status": "Approved · writing and image reviewed",
+      "storyHtml": "<p>The uprising in this painting took place in July 1830, not during the French Revolution of 1789. King Charles X had restricted the press and changed electoral rules, provoking three days of fighting in Paris. He was forced from power and replaced by Louis-Philippe, who ruled under a constitutional monarchy. Delacroix began the painting while those events were still recent.</p>\n<p>The woman carrying the flag is Liberty, given a body and a place among the insurgents. Her red cap recalls the earlier Revolution, while the tricolour announces the return of a flag associated with it. She also carries a rifle and steps across the barricade. Delacroix combines the appearance of an ancient goddess with someone capable of taking part in a modern street battle.</p>\n<p>The people following her wear clothes that suggest different positions in society: a worker’s apron, a gentleman’s top hat, a boy’s everyday clothes. Their common direction presents the uprising as a cause shared across those divisions. At their feet, however, lie people who will receive none of its benefits. The wounded and dead occupy as much physical space as the advancing crowd.</p>\n<p>That combination helps explain the painting’s force. It gives the revolution a figure to rally around without making the barricade look clean or orderly. Liberty is an ideal, but the broken bodies beneath her belong to the kind of fighting through which Parisians tried to achieve it.</p>",
+      "title": "Liberty Leading the People",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "dacb8ca61f555bfd",
+    "imageHash": "7a25cbeec71322aa",
+    "appImage": "/assets/editorial/liberty-leading-the-people.jpg",
+    "appImageSha256": "450c1d9d514165891ce6b9d3c40524942e7eeedff21f1abd77031ae94fb5e906"
+  },
+  {
+    "entry": {
+      "id": "saturn-devouring-his-son",
+      "title": "Saturn Devouring His Son",
+      "creator": "Francisco Goya",
+      "dateDisplay": "1820–1823",
+      "dateStart": 1820,
+      "dateEnd": 1823,
+      "place": "Madrid, Spain",
+      "body": "In Greek mythology, Cronus overthrew his father and then learned that one of his own children would overthrow him. He tried to prevent this by swallowing his children as soon as they were born. The Romans associated him with Saturn, the name usually given to the figure in Goya’s painting.\n\nHis wife, Rhea, saved their youngest child, Zeus, by hiding him in Crete and giving Cronus a stone wrapped in baby clothes. In one ancient account, armed guardians clashed their shields to keep the hidden infant’s cries from being heard. Zeus grew up, made his father bring back the children he had swallowed, and eventually defeated him.\n\nGoya concentrates on the act of eating, making it much more physically destructive than the familiar story of children swallowed whole. This figure grips a partly consumed body and stares into the darkness. There is no throne or royal setting to identify his authority; we understand his fear of losing it through the action itself.\n\nPerhaps its most unexpected circumstance is where it originally belonged: on a wall inside Goya’s own house. Painted between 1820 and 1823, it was one of fourteen works later called the Black Paintings. Goya was elderly, deaf and recently recovered from a serious illness, living in a Spain marked by war and political repression. These private murals gave him room to explore subjects far removed from the flattering portraits and public commissions through which he had made his career.",
+      "meaningBrief": "The succession myth connects fear of replacement with Goya’s violent private mural.",
+      "sources": [
+        {
+          "title": "Museo Nacional del Prado — Saturn",
+          "url": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+          "role": "museum interpretation; indexed passages",
+          "supports": "1820–1823, Black Paintings and the suggested fear-of-losing-power interpretation. Direct page returned 403; only retrieved indexed passages used.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Fundación Goya en Aragón — Saturno devorando a un hijo",
+          "url": "https://fundaciongoyaenaragon.es/obra/saturno-devorando-a-un-hijo/660",
+          "role": "substantive catalogue interpretation",
+          "supports": "Spanish full analysis read: physical violence, dark setting, blood, ground-floor location, material transfer and competing interpretations.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Hesiod — Theogony, lines 453–506",
+          "url": "https://sacred-texts.com/cla/hesiod/theogony.htm",
+          "role": "primary myth, translated",
+          "supports": "Cronos, Roman Saturn: prophecy, swallowing his children, Rhea’s substitution of a stone and Zeus’s overthrow. Greek names rendered with their Roman equivalents in the entry.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Saturn Devouring His Son — source history and interpretation",
+          "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+          "role": "cross-check with referenced scholarship",
+          "supports": "Later naming, departure from swallowing infants whole, transfer to canvas and uncertainty of specific interpretations.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Goya’s Saturn",
+          "url": "https://www.reddit.com/r/ArtHistory/comments/1scjsyb/saturn_devouring_his_son_francisco_goya_between/",
+          "role": "reception challenge only",
+          "supports": "Conflicting political and psychological readings. Neither is promoted to proven intention.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Museo del Prado — Francisco de Goya y Lucientes",
+          "url": "https://www.museodelprado.es/en/the-collection/artist/francisco-de-goya-y-lucientes/39568a17-81b5-4d6f-84fa-12db60780812",
+          "role": "biographical context",
+          "supports": "Deafness, war, political repression, country house and late illness; institutional indexed passages used because direct retrieval returned 403.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Museo del Prado — Goya in Times of War",
+          "url": "https://www.museodelprado.es/en/whats-on/exhibition/goya-in-times-of-war/53c39859-eb62-4a16-9d26-063d43ddbfc0",
+          "role": "biographical context",
+          "supports": "Serious illness in late 1819; exhibition account.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Theoi — Rhea, with ancient-source excerpts",
+          "url": "https://www.theoi.com/Titan/TitanisRhea.html",
+          "role": "primary narrative in a scholarly compilation",
+          "supports": "Pseudo-Apollodorus excerpt: Rhea’s stone substitution, Zeus concealed in Crete, guardians clashing shields. Retold without quoting the translation.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Theoi — Apollodorus, Library, Book 1",
+          "url": "https://www.theoi.com/Text/Apollodorus1.html",
+          "role": "primary narrative",
+          "supports": "Book 1.2.1: recovery of the swallowed children and subsequent war. Indexed passage checked; no new direct quotation.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Howard Oakley — Francisco Goya: Black Paintings 1",
+          "url": "https://eclecticlight.co/2021/09/22/francisco-goya-black-paintings-1/",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: domestic mural setting and sequence of Goya’s late life. Object date follows the Prado record, not a conflicting caption.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "medium": "painting",
+      "revision": 4,
+      "editorialStatus": "approved",
+      "approvedBy": "Julio Caggiano",
+      "approvedAt": "2026-09-27T08:30:00Z",
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Additional review-only painting. Existing approvals do not apply.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "basis": "Exact passage deletions requested by Julio; surrounding prose unchanged.",
+          "evidenceFile": "qa/painting-approval-import-2026-09-27/requested-edits.json",
+          "approval": "Existing writing approval retained after exact requested deletions."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-saturn-devouring-his-son-a.jpg",
+        "referenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+        "altText": "A wide-eyed figure grips and bites a mutilated body against a dark background.",
+        "credit": "Francisco Goya",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": "julio-2026-09-27-saturn-exact-deletions",
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "Prado reproduction",
+      "description": "Warm brown tones and restrained highlights against the dark background.",
+      "imageUrl": "image-options/assets/painting/b003-saturn-devouring-his-son-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saturn_Devouring_His_Son.jpg",
+      "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+      "credit": "Francisco de Goya y Lucientes; https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6",
+      "altText": "A wide-eyed figure grips and bites a mutilated body against a dark background.",
+      "width": 1071,
+      "height": 1920,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "CC BY-SA 4.0",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Saturn_Devouring_His_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Saturn_Devouring_His_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceNotes": "Original source dimensions: 1071 × 1920. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "6c1b4c633be6a5fb9b4824d8f27d754bf80f4a0911b8378209fe32bef7a013ec",
+      "sourceDimensions": [
+        1071,
+        1920
+      ],
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "assetSha256": "6c1b4c633be6a5fb9b4824d8f27d754bf80f4a0911b8378209fe32bef7a013ec"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "commentsText": "",
+      "id": "saturn-devouring-his-son",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "status": "Approved · writing and image reviewed",
+      "storyHtml": "<p>In Greek mythology, Cronus overthrew his father and then learned that one of his own children would overthrow him. He tried to prevent this by swallowing his children as soon as they were born. The Romans associated him with Saturn, the name usually given to the figure in Goya’s painting.</p>\n<p>His wife, Rhea, saved their youngest child, Zeus, by hiding him in Crete and giving Cronus a stone wrapped in baby clothes. In one ancient account, armed guardians clashed their shields to keep the hidden infant’s cries from being heard. Zeus grew up, made his father bring back the children he had swallowed, and eventually defeated him.</p>\n<p>Goya concentrates on the act of eating, making it much more physically destructive than the familiar story of children swallowed whole. This figure grips a partly consumed body and stares into the darkness. There is no throne or royal setting to identify his authority; we understand his fear of losing it through the action itself.</p>\n<p>Perhaps its most unexpected circumstance is where it originally belonged: on a wall inside Goya’s own house. Painted between 1820 and 1823, it was one of fourteen works later called the Black Paintings. Goya was elderly, deaf and recently recovered from a serious illness, living in a Spain marked by war and political repression. These private murals gave him room to explore subjects far removed from the flattering portraits and public commissions through which he had made his career.</p>",
+      "title": "Saturn Devouring His Son",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "23564f3bb2b66d6c",
+    "imageHash": "05a91a04e26640a3",
+    "appImage": "/assets/editorial/saturn-devouring-his-son.jpg",
+    "appImageSha256": "6c1b4c633be6a5fb9b4824d8f27d754bf80f4a0911b8378209fe32bef7a013ec"
+  },
+  {
+    "entry": {
+      "id": "death-of-socrates",
+      "title": "The Death of Socrates",
+      "creator": "Jacques-Louis David",
+      "dateDisplay": "1787",
+      "dateStart": 1787,
+      "dateEnd": null,
+      "place": "Paris, France",
+      "medium": "painting",
+      "meaningBrief": "David makes philosophical conviction visible in Socrates’ calm acceptance of death: he keeps his judgment while accepting a sentence he considers unjust. The grieving company makes that choice humanly difficult; Plato’s inclusion connects it to the written account that preserved it.",
+      "body": "In 399 BCE, an Athenian court condemned the philosopher Socrates to death for corrupting the young and failing to honor the city’s gods. He had become known for questioning people who claimed to know what was right. In the account written by his pupil Plato, a friend offered to arrange his escape, but Socrates refused. He believed that breaking the laws he had lived under would be wrong, even when the court’s decision was unjust.\n\nJacques-Louis David places that decision at the center of the painting. Socrates reaches toward the cup of hemlock, the poison that will kill him, while raising his other hand to continue teaching. He is discussing his belief that the soul survives the body. This helps explain his composure: death does not mean, to him, that the person simply ceases to exist. Around him, his friends struggle to accept the loss, and the man holding the cup turns his face away. David gives them the distress that Socrates refuses to let govern his actions.\n\nCompleted in 1787, two years before the French Revolution, the painting brought this example of personal conviction to a society increasingly critical of royal authority. The bare prison and plainly dressed figures keep attention on how the men behave. Socrates remains able to judge for himself, even as he accepts the punishment imposed on him.\n\nThe elderly man seated at the foot of the bed is Plato. He was actually young when Socrates died and absent from the prison, but David includes him as the writer who preserved this conversation in the *Phaedo*. The scroll and writing tools beside him identify that role. His presence connects the teacher’s final lesson with the account through which later generations would encounter it.",
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art — The Death of Socrates",
+          "url": "https://www.metmuseum.org/art/collection/search/436105",
+          "role": "museum record and interpretation",
+          "supports": "Identity, 1787 date, oil on canvas, dimensions, calm philosopher and grieving followers; Plato as the author of the Phaedo.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "The Metropolitan Museum of Art — Prisons Real and Imagined",
+          "url": "https://www.metmuseum.org/perspectives/jacques-louis-david-death-of-socrates",
+          "role": "substantial museum interpretation",
+          "supports": "Raised hand and immortality of the soul; cupbearer; Plato’s age, absence and writing tools; ancient history and French political resonance.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Nerdwriter — The Death of Socrates: How To Read A Painting",
+          "url": "https://www.youtube.com/watch?v=rKhfFBbVtFg",
+          "role": "video essay; full English auto-generated transcript read",
+          "supports": "0:48–2:23 on conviction and the last lesson; 2:23–4:16 on political setting and visual emphasis; 5:01–6:28 on Plato. Interpretation checked against museum and ancient texts; speculative closing not adopted.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Plato — Apology",
+          "url": "https://classics.mit.edu/Plato/apology.html",
+          "role": "primary literary account; Benjamin Jowett translation",
+          "supports": "Questioning presumed wisdom, accusations and conviction. Read the defense’s discussion of questioning politicians, poets and artisans.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Plato — Crito",
+          "url": "https://classics.mit.edu/Plato/crito.html",
+          "role": "primary literary account; Benjamin Jowett translation",
+          "supports": "Escape proposal and Socrates’ argument that he must not respond to injustice by breaking his obligations to Athens. Relevant discussion read; distinguished from the Phaedo scene.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Plato — Phaedo",
+          "url": "https://classics.mit.edu/Plato/phaedo.html",
+          "role": "primary literary account; Benjamin Jowett translation",
+          "supports": "Plato’s absence (59b), prison setting and the conversation about the soul. Claims are framed as Plato’s account and Socrates’ belief, not independent proof.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-007",
+      "revisionGuide": "VOICE_GUIDE v0.23; Notion favorite, complete relevant video transcript, primary-text checks and connected explanations.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-27",
+        "researchFile": "docs/editorial/batches/batch-007/research.md",
+        "basis": "A new researched review draft. Full Nerdwriter transcript read; checked against the Met, Plato and Julio’s saved Notion example. No prior sample prose reused. Writing and image choice require review."
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b007-death-of-socrates-a.jpg",
+        "referenceUrl": "https://www.metmuseum.org/art/collection/search/436105",
+        "altText": "Socrates sits upright on a bed, raising one hand while reaching for a cup of poison with the other, surrounded by grieving companions; Plato sits at the foot of the bed.",
+        "credit": "Jacques-Louis David; The Metropolitan Museum of Art",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image choice and writing approval remain separate."
+      },
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "entryId": "death-of-socrates",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b007-death-of-socrates-a.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/436105",
+      "sourceTitle": "Metropolitan Museum reproduction",
+      "remoteImageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-13139-001.jpg",
+      "originalImageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DP-13139-001.jpg",
+      "width": 4000,
+      "height": 2663,
+      "credit": "Jacques-Louis David; The Metropolitan Museum of Art, Open Access",
+      "sourceCredit": "The Metropolitan Museum of Art, Open Access",
+      "license": "Public domain / CC0",
+      "sha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6",
+      "sourceDimensions": [
+        4000,
+        2663
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+      "label": "Metropolitan Museum reproduction",
+      "description": "Darker, warm-toned museum photograph; the complete photographed canvas edge is visible.",
+      "altText": "Socrates sits upright on a bed, raising one hand while reaching for a cup of poison with the other, surrounded by grieving companions; Plato sits at the foot of the bed.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-27",
+      "assetSha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "commentsText": "",
+      "id": "death-of-socrates",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "status": "Approved · writing and image reviewed",
+      "storyHtml": "<p>In 399 BCE, an Athenian court condemned the philosopher Socrates to death for corrupting the young and failing to honor the city’s gods. He had become known for questioning people who claimed to know what was right. In the account written by his pupil Plato, a friend offered to arrange his escape, but Socrates refused. He believed that breaking the laws he had lived under would be wrong, even when the court’s decision was unjust.</p>\n<p>Jacques-Louis David places that decision at the center of the painting. Socrates reaches toward the cup of hemlock, the poison that will kill him, while raising his other hand to continue teaching. He is discussing his belief that the soul survives the body. This helps explain his composure: death does not mean, to him, that the person simply ceases to exist. Around him, his friends struggle to accept the loss, and the man holding the cup turns his face away. David gives them the distress that Socrates refuses to let govern his actions.</p>\n<p>Completed in 1787, two years before the French Revolution, the painting brought this example of personal conviction to a society increasingly critical of royal authority. The bare prison and plainly dressed figures keep attention on how the men behave. Socrates remains able to judge for himself, even as he accepts the punishment imposed on him.</p>\n<p>The elderly man seated at the foot of the bed is Plato. He was actually young when Socrates died and absent from the prison, but David includes him as the writer who preserved this conversation in the <em>Phaedo</em>. The scroll and writing tools beside him identify that role. His presence connects the teacher’s final lesson with the account through which later generations would encounter it.</p>",
+      "title": "The Death of Socrates",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "e5e6dcbb87fcfc94",
+    "imageHash": "f84ae7b264ec0a5c",
+    "appImage": "/assets/editorial/death-of-socrates.jpg",
+    "appImageSha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6"
+  }
+]

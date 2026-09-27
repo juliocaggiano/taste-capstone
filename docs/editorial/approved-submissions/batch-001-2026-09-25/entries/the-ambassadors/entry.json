@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "the-ambassadors",
+    "medium": "painting",
+    "title": "The Ambassadors",
+    "creator": "Hans Holbein the Younger",
+    "dateDisplay": "1533",
+    "dateStart": 1533,
+    "dateEnd": null,
+    "body": "Hans Holbein the Younger’s *The Ambassadors* (1533) portrays two French diplomats surrounded by expensive clothes, books and scientific instruments. These possessions present them as men of standing and learning. Across the foreground lies a stretched shape that becomes recognisable as a skull when viewed at a sharp angle from the right.\n\nThis distortion is called anamorphosis. It makes the reminder of death difficult to read from the position where the rest of the portrait looks clear. Moving to the side reveals the skull in proportion. The effect gives unusual force to a familiar practice in European portraiture: including a skull as a *memento mori*, a reminder that the sitter will die.\n\nThe portrait preserves the men’s accomplishments while placing them alongside that limit. Their wealth and knowledge remain impressive, but cannot protect them from death. A partly hidden crucifix at the upper left gives this thought a Christian setting. The skull recalls human mortality; the image of Christ adds the promise of salvation and life after death. Together, these details connect the diplomats’ worldly position with beliefs about what lies beyond it.",
+    "sources": [
+      {
+        "title": "National Gallery: The Ambassadors",
+        "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+        "role": "holding-museum catalogue and interpretation",
+        "supports": "1533 identity; diplomats Jean de Dinteville and Georges de Selve; wealth and learning; distorted skull seen from the right; crucifix and Christian salvation."
+      },
+      {
+        "title": "Susan Foister: The Ambassadors, National Gallery catalogue, 2024",
+        "url": "https://www.nationalgallery.org.uk/paintings/catalogues/foister-2024/the-ambassadors",
+        "role": "substantive catalogue research",
+        "supports": "Mortality and Christian redemption alongside the portrait’s worldly accomplishments; interpretive complexities and historical context."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/CALIBRATION_07_PAINTING_BOOK_FILM.md",
+      "baselineSection": "The Ambassadors / A",
+      "changes": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "24 September 2026 remake: made the viewing action and memento mori tradition easier to follow, then connected mortality directly to the crucifix’s Christian promise. Preserved the central account without adding an instrument inventory or speculative viewing-position thesis. New candidate; no approval inferred."
+      ],
+      "notionUrl": "https://app.notion.com/p/The-Ambassadors-a5a7e834adf345e9a472402b73767bc7?pvs=25"
+    },
+    "meaningBrief": "The anamorphic skull makes mortality central to a portrait of rank and learning. It works with the partly concealed crucifix, which adds the Christian promise of salvation. The oblique viewing requirement is a concrete way the skull is encountered, not proof of an invented philosophical message about all truth depending on perspective.",
+    "quotationNotes": [],
+    "media": {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+      "altText": "Two richly dressed diplomats stand beside shelves of instruments and books, with a distorted skull across the foreground.",
+      "credit": "Hans Holbein the Younger; collection: National Gallery, London; digital reproduction via Wikimedia Commons. Photographer not identified.",
+      "license": "Commons marks this faithful reproduction PD-Art/Public Domain Mark.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Exact work matched to the National Gallery catalogue. Commons lists a third-party reproduction source; retain provenance and review image quality and app rights separately."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 9,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-the-ambassadors"
+  },
+  "decision": {
+    "id": "the-ambassadors",
+    "decisionId": "julio-2026-09-25-the-ambassadors",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image B; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "3f5636f6c20962eb",
+    "imageOption": "B",
+    "imageHash": "d382cc2e583dfed3",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "B",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "B",
+      "label": "Google Art reproduction",
+      "description": "Detailed reproduction with deep green curtains and warmer gold tones. No visible watermark.",
+      "imageUrl": "image-options/assets/painting/the-ambassadors-b.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+      "credit": "Hans Holbein the Younger / National Gallery, London / Google Arts & Culture, via Wikimedia Commons.",
+      "altText": "Full painting: the ambassadors",
+      "width": 1920,
+      "height": 1892,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/1920px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+      "sourceDimensions": [
+        30000,
+        29560
+      ],
+      "sourceNotes": "Complete composition, including the upper-left crucifix and foreground skull. Review image is 1920 pixels wide from the 30000 × 29560 source; this is one option, not several resolution variants.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-23",
+      "sha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47",
+      "assetSha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Hans Holbein the Younger / National Gallery, London / Google Arts & Culture, via Wikimedia Commons.",
+    "altText": "Full painting: the ambassadors",
+    "width": 1920,
+    "height": 1892,
+    "imageUrl": "assets/selected.jpg",
+    "sha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47",
+    "sourceAssetSha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
+  },
+  "frozen": {
+    "bodyHash": "3f5636f6c20962eb",
+    "bodySha256": "70d5ccb69686ca5b17a41f20cf55c6c9cb4363b450db4e5ed90408cfb314b934",
+    "imageHash": "d382cc2e583dfed3",
+    "sourceEntrySha256": "60e1ab2c793025bf15773793087584a44cabad9b5929d8aa8fba9414fa8b1e4e"
+  }
+}

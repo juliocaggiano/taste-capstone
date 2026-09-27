@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "status": "editorially_approved_for_later_import",
+  "importStatus": "not_imported",
+  "publicationStatus": "not_published",
+  "sourceBatchId": "batch-001",
+  "entry": {
+    "id": "vidas-secas",
+    "medium": "literature",
+    "title": "Vidas Secas",
+    "creator": "Graciliano Ramos",
+    "dateDisplay": "1938",
+    "dateStart": 1938,
+    "dateEnd": null,
+    "body": "Graciliano Ramos’s *Vidas Secas* (1938) follows a fictional family of *retirantes*: people driven from their homes by drought and poverty. Fabiano, Sinha Vitória, their two boys and their dog, Baleia, cross Brazil’s northeastern interior looking for food and work. A farm where they can stay offers relief, but little security.\n\nFabiano works as a cattle herder on land he does not own. His employer pays him less than he is owed. When Fabiano complains, the man tells him to look for work elsewhere. Losing the job would also mean losing the family’s home. This dependence helps explain why their poverty continues even when the drought ends.\n\nFabiano struggles to put his thoughts into words before people who can punish or dismiss him. Their authority makes him doubt his own worth. “You’re an animal, Fabiano,” he tells himself, while also taking pride in his endurance. The narration lets us follow thoughts that he cannot easily express aloud. Sinha Vitória’s calculations, the boys’ curiosity and Baleia’s affection give each a life beyond the struggle for food.\n\nRamos had been imprisoned without formal charges under Getúlio Vargas in 1936. He later connected living alongside poor prisoners with his ability to write about their lives. The novel gives sustained attention to people whose limited speech and low social standing make it easy for others to disregard them.\n\nThe parents imagine a city where their boys could attend school. Their imagined city remains unnamed. The search connects their story to Brazil’s wider history of internal migration. From 1935, São Paulo subsidised migrants’ journeys to supply its coffee and cotton farms with workers. That history helps explain the uncertainty surrounding the family’s hope: leaving the drought could bring new work without ending their dependence on employers.",
+    "sources": [
+      {
+        "title": "Vidas seccas, first edition, 1938 — Biblioteca Brasiliana Guita e José Mindlin",
+        "url": "https://brasiliana.usp.br/handle/bbm/8399",
+        "role": "primary edition catalogue",
+        "supports": "1938 first-edition identity and scan provenance."
+      },
+      {
+        "title": "Vidas seccas, 1938 first-edition scan",
+        "url": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+        "role": "primary work",
+        "supports": "Fabiano’s self-description on printed page 23; household and work dependence; closing family hopes and narrator’s anticipated confinement on printed pages 196–197."
+      },
+      {
+        "title": "João Roberto Maia: Vidas secas and land/labor relations",
+        "url": "https://www.scielo.br/j/alea/a/rNBYPktCKPyMkZTp875f7Gj/",
+        "role": "substantive literary criticism",
+        "supports": "Poverty outside drought, dependence on landowners, wage cheating, and migration into broader labor relations."
+      },
+      {
+        "title": "Casa Museu Graciliano Ramos: 1936",
+        "url": "https://www.casagracilianoramos.com.br/sala-6-memorias-do-carcere/1936-",
+        "role": "author museum chronology",
+        "supports": "Arrest on 3 March 1936 and release on 13 January 1937, without a formal accusation, under Vargas."
+      },
+      {
+        "title": "Zenir Campos Reis: Tempos futuros — Vidas secas, de Graciliano Ramos",
+        "url": "https://www.scielo.br/j/ea/a/4P76p7GKXFft33XjbtKdLqk/?format=html&lang=pt",
+        "role": "substantive criticism and documented author statements",
+        "supports": "Prison experience, poor people’s inner lives, self-description and endurance, individual family perspectives, and the cyclic ending."
+      },
+      {
+        "title": "Museu da Imigração: Brasileiros na Hospedaria — Percursos, ocupação e trabalho",
+        "url": "https://www.museudaimigracao.org.br/en/blog/conhecendo-o-acervo/brasileiros-na-hospedaria-percursos-ocupacao-e-trabalho",
+        "role": "historical museum research",
+        "supports": "São Paulo’s 1935 policy subsidizing internal migrants’ journeys for cotton and coffee cultivation; real context distinguished from the fictional family’s trajectory."
+      }
+    ],
+    "provenance": {
+      "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+      "baselineSection": "vidas-secas",
+      "changes": [
+        "Preserved the praised employer/pay/housing paragraph verbatim.",
+        "Moved the family’s interior lives ahead of author biography; clarified the contribution of narration and the link between speech, authority and shame.",
+        "Replaced the vague anticipated trap in a city with a qualified account of migration; explicitly distinguishes real São Paulo policy from the fictional family’s destination."
+      ],
+      "notionUrl": "https://app.notion.com/p/Vidas-Secas-5f85462daca6485081a8fea9d7409455?pvs=25",
+      "previousBaselineFile": "docs/editorial/CALIBRATION_18_PARAGRAPH_REVISION.md",
+      "previousBaselineSection": "Complete A with only that paragraph changed",
+      "previousChanges": [
+        "Prose retained; source links removed from the article body and recorded separately.",
+        "Retains the paragraph-two repair preferred by Julio; that preference does not imply approval of the whole entry. No factual rewrite."
+      ],
+      "baselineBodySha256": "fb2389c77c17d3bac90cd077993de319d71d7b53bd0deccd84dd8ce3e9575489",
+      "revisionStatus": "candidate_for_review; no approval inferred",
+      "editorialGuideVersion": "0.19"
+    },
+    "meaningBrief": "Drought drives the family out, but land and job dependence sustain poverty during relief. Limited speech and imposed inferiority coexist with thought, skill, affection and hopes for schooling. The preserved employer paragraph explains the practical trap. Author imprisonment and real migration policy supply bounded historical context, without asserting that the fictional family reaches São Paulo.",
+    "quotationNotes": [
+      {
+        "text": "You’re an animal, Fabiano",
+        "wordCount": 4,
+        "originalText": "Você é um bicho, Fabiano.",
+        "sourceUrl": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+        "locator": "1938 first edition, printed p. 23; one-based PDF p. 35",
+        "language": "Our English translation from Portuguese",
+        "translator": "Editorial translation prepared in this task; not a published English translator’s wording",
+        "note": "Fabiano speaks to himself. Context joins socially imposed low status with pride in his capacity to endure. Four quoted English words. Source ending punctuation is adapted to the surrounding attribution. The original first edition spells the title Vidas seccas; the display title uses the established modern spelling."
+      }
+    ],
+    "media": {
+      "imageUrl": "https://www.editoradobrasil.com.br/wp-content/uploads/2024/06/capa_VIDAS-SECAS-scaled-e1719249807948.jpg",
+      "referenceUrl": "https://www.editoradobrasil.com.br/vidas-secas/",
+      "altText": "Title-bearing cover of Vidas secas by Graciliano Ramos, Editora do Brasil’s 2024 edition.",
+      "credit": "Editora do Brasil, 2024 edition of Graciliano Ramos’s Vidas secas. Individual cover artist not established from the publisher page.",
+      "license": "Publisher page states all rights reserved; no open reuse license identified for this cover image.",
+      "rightsStatus": "not_cleared_for_app_use",
+      "note": "Later edition used as a recognizable review image, not the 1938 first edition. Publisher identifies this edition as 2024, ISBN 9788510096683, and provides this URL under “Imagem em alta”. Article quotations remain sourced to the 1938 USP scan. Replaces its unmarked binding image after visual QA."
+    },
+    "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+    "reviewNumber": 14,
+    "language": "en",
+    "revision": 2,
+    "editorialStatus": "approved",
+    "imageApprovalStatus": "pending_review",
+    "publicationStatus": "not_imported",
+    "approvedBy": "Julio Caggiano",
+    "approvedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewAvailability": "active",
+    "editorialDecisionId": "julio-2026-09-25-vidas-secas"
+  },
+  "decision": {
+    "id": "vidas-secas",
+    "decisionId": "julio-2026-09-25-vidas-secas",
+    "recordedAt": "2026-09-25T09:06:29.761159+00:00",
+    "reviewer": "Julio Caggiano",
+    "decisionEvidence": [
+      "Julio approved the writing in his dictated review on 25 September 2026.",
+      "Current review visibly selected image A; no image change requested for this entry.",
+      "Julio clarified that shipping means copying approved submissions into a dedicated folder for later import."
+    ],
+    "readyForImport": true,
+    "writingStatus": "approved",
+    "bodyHash": "ef4f25742236e8f3",
+    "imageOption": "A",
+    "imageHash": "31af1c06eaa9f985",
+    "imageStatus": "approved",
+    "disposition": "approved_submission",
+    "resolvedCommentIds": [],
+    "previousImageChoice": "A",
+    "reviewLabel": "Approved submission · saved for later import"
+  },
+  "selectedImage": {
+    "selectedOption": {
+      "id": "A",
+      "label": "Record · 2019",
+      "description": "Portuguese edition. Orange cover with a line drawing of a resting dog and large serif lettering.",
+      "imageUrl": "image-options/assets/literature/vidas-record-large.jpg",
+      "sourceUrl": "https://www.record.com.br/products/vidas-secas-edicao-oficial",
+      "remoteImageUrl": "https://static.wixstatic.com/media/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg/v1/fill/w_972%2Ch_1500%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg",
+      "originalImageUrl": "https://static.wixstatic.com/media/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg/v1/fill/w_972%2Ch_1500%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/11c59d_8f7e53f60207478eb857bf431d426f97~mv2.jpg",
+      "credit": "Record edition; larger cover reproduction hosted by Jordino. Cover designer not independently established.",
+      "altText": "Flat orange Vidas Secas cover with a thin resting dog, title and author lettering.",
+      "edition": {
+        "publisher": "Record",
+        "language": "Portuguese",
+        "isbn": "9788501114785",
+        "publicationDate": "2019-02-04"
+      },
+      "sourceNotes": "Publisher catalog and product image verify this orange cover and ISBN. The publisher-hosted original available here is only 200 × 309, so the matching complete 972 × 1500 reproduction from Jordino was used. Both were viewed to verify identity. The source file was downloaded unchanged; no mockup crop or synthetic reconstruction.",
+      "license": "Cover design remains subject to copyright; review only.",
+      "rightsStatus": "review_only_pending_clearance",
+      "width": 972,
+      "height": 1500,
+      "imageFormat": "JPEG",
+      "downloadStatus": "downloaded",
+      "visualReviewStatus": "reviewed_flat_front_cover_no_mockup",
+      "reviewedOn": "2026-09-23",
+      "sha256": "7378e7f7dae0655b1963887df84c638f0b6efd0d5d88fd5380a3b415847c1a53",
+      "sourceFraming": "Flat rectangular front-cover artwork; no external surround, physical spine or perspective. Artwork fills the source image.",
+      "presentation": "fixed_portrait_sharp_corners",
+      "replaces": {
+        "label": "Editora do Brasil · 2024",
+        "imageUrl": "image-options/assets/literature/vidas-secas-a.jpg",
+        "sourceUrl": "https://www.editoradobrasil.com.br/vidas-secas/",
+        "edition": {
+          "publisher": "Editora do Brasil",
+          "language": "Portuguese",
+          "year": 2024,
+          "isbn": "9788510096683",
+          "designation": "First edition from this publisher"
+        },
+        "reason": "Replaced for a new review with a flat front-cover image. Prior asset is preserved."
+      },
+      "imageSourceUrl": "https://www.jordino.com.br/post/5-livros-para-come%C3%A7ar-a-ler-autores-nacionais-descubra-a-riqueza-da-literatura-brasileira",
+      "publisherImageUrl": "https://cdn.shopify.com/s/files/1/0722/9197/5420/files/093204edacefc23004ea054cff70b59f.jpg?v=1789517496",
+      "assetSha256": "7378e7f7dae0655b1963887df84c638f0b6efd0d5d88fd5380a3b415847c1a53"
+    },
+    "rightsStatus": "review_only_pending_clearance",
+    "credit": "Record edition; larger cover reproduction hosted by Jordino. Cover designer not independently established.",
+    "altText": "Flat orange Vidas Secas cover with a thin resting dog, title and author lettering.",
+    "width": 900,
+    "height": 1200,
+    "imageTreatment": "Existing sharp-edged cover within the review's gray frame, packaged as a self-contained SVG",
+    "presentation": {
+      "canvasAspectRatio": [
+        3,
+        4
+      ],
+      "background": "#f2f2f2",
+      "referenceContainerCssWidth": 370.6666666666667,
+      "paddingCssPx": 24,
+      "canvasBorderRadiusCssPx": 8,
+      "coverAspectRatio": [
+        600,
+        927
+      ],
+      "coverBorderRadius": 0,
+      "objectFit": "cover",
+      "objectPosition": "center",
+      "sourceCssSha256": "c77c4da16057c40fa426242fe4c3fb0dc6853fd6c9143fd50e0488c8081cd97a"
+    },
+    "components": {
+      "cover": "assets/cover.jpg",
+      "stylesheet": "../../provenance/review.css"
+    },
+    "imageUrl": "assets/selected.svg",
+    "sha256": "9e39b324877098367530ede22bc8284ed539146e2bf590296b9a27e035bed64d",
+    "sourceAssetSha256": "7378e7f7dae0655b1963887df84c638f0b6efd0d5d88fd5380a3b415847c1a53"
+  },
+  "frozen": {
+    "bodyHash": "ef4f25742236e8f3",
+    "bodySha256": "c73012299e4df409eb7a6401b4443219a2872cd23512f4c24f8995159e02d89f",
+    "imageHash": "31af1c06eaa9f985",
+    "sourceEntrySha256": "9ffdf510dbe343adeacad2b43eb07db23fa253d9a28471468bdba2dbb99b127b"
+  }
+}

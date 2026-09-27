@@ -1,0 +1,150 @@
+.dc-morph-select,
+.dc-morph-select-overlay {
+  --msel-surface: var(--dc-surface);
+  --msel-ink: var(--dc-text);
+  --msel-selected: var(--dc-selected-surface);
+  --msel-muted: var(--dc-muted);
+  --msel-focus: var(--dc-focus);
+  font-family: var(--dc-font-sans, "PP Neue Montreal", "PP Neue Montreal TT", system-ui, sans-serif);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  color: var(--msel-ink);
+  text-align: left;
+  box-sizing: border-box;
+}
+
+.dc-morph-select[data-variant="dark"],
+.dc-morph-select-overlay[data-variant="dark"] {
+  --msel-surface: var(--dc-gray-dark);
+  --msel-ink: var(--dc-white);
+  --msel-selected: var(--dc-gray-medium);
+  --msel-muted: var(--dc-gray-light);
+  --msel-focus: var(--dc-white);
+}
+
+.dc-morph-select { position: relative; display: inline-grid; min-width: 0; max-width: 100%; vertical-align: middle; }
+.dc-morph-select > .dc-morph-select-trigger,
+.dc-morph-select-overlay > .dc-morph-select-trigger-ghost {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  height: 32px;
+  min-height: 32px;
+  margin: 0;
+  padding: 0 12px;
+  border: 0;
+  border-radius: var(--msel-trigger-radius, 999px);
+  background: var(--msel-surface);
+  color: var(--msel-ink);
+  font: inherit;
+  text-align: left;
+  letter-spacing: inherit;
+  box-shadow: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.dc-morph-select > .dc-morph-select-trigger:focus-visible { outline: 2px solid var(--msel-focus); outline-offset: 3px; }
+.dc-morph-select > .dc-morph-select-trigger:disabled { opacity: .45; cursor: default; }
+.dc-morph-select > .dc-morph-select-trigger:not(:disabled):active { filter: brightness(.97); }
+.dc-morph-select-icon { display: flex; flex: 0 0 auto; align-items: center; justify-content: center; }
+.dc-morph-select-icon > svg { width: 14px; height: 14px; }
+.dc-morph-select-value { position: relative; display: block; flex: 1 1 auto; min-width: 0; height: 1.34em; overflow: hidden; line-height: 1.34; }
+.dc-morph-select-value-current,
+.dc-morph-select-value-next { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.dc-morph-select-value-next { position: absolute; inset: 0; }
+.dc-morph-select-value[data-rolling="true"] .dc-morph-select-value-current { animation: dc-morph-roll-out var(--msel-quick) cubic-bezier(.7,0,.16,1) both; }
+.dc-morph-select-value[data-rolling="true"] .dc-morph-select-value-next { animation: dc-morph-roll-in var(--msel-quick) cubic-bezier(.7,0,.16,1) both; }
+@keyframes dc-morph-roll-out { from { transform: translateY(0); } to { transform: translateY(-100%); } }
+@keyframes dc-morph-roll-in { from { transform: translateY(100%); } to { transform: translateY(0); } }
+.dc-morph-select-caret { display: block; flex: 0 0 14px; width: 14px; height: 14px; transition: transform var(--msel-quick) cubic-bezier(.7,0,.16,1); }
+[data-open="true"] > .dc-morph-select-trigger .dc-morph-select-caret,
+.dc-morph-select-overlay[data-open="true"] > .dc-morph-select-trigger-ghost .dc-morph-select-caret { transform: rotate(180deg); }
+.dc-morph-select-sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+
+.dc-morph-select-overlay {
+  position: fixed;
+  inset: auto;
+  z-index: 2147483000;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  overflow: visible;
+  pointer-events: none;
+  isolation: isolate;
+}
+.dc-morph-select-overlay::backdrop { background: transparent; pointer-events: none; }
+.dc-morph-select-filter { position: absolute; width: 0; height: 0; overflow: hidden; pointer-events: none; }
+.dc-morph-select-goo { position: absolute; inset: 0; pointer-events: none; }
+.dc-morph-select-trigger-shape,
+.dc-morph-select-panel-shape { position: absolute; top: 0; left: 0; width: var(--msel-trigger-width); height: var(--msel-trigger-height); border-radius: var(--msel-trigger-radius, calc(var(--msel-trigger-height) / 2)); background: var(--msel-surface); }
+.dc-morph-select-trigger-shape { left: var(--msel-trigger-left); }
+.dc-morph-select-panel-shape { transform: translate(var(--msel-trigger-left), 0); }
+.dc-morph-select-overlay > .dc-morph-select-trigger-ghost { position: absolute; top: 0; left: var(--msel-trigger-left); width: var(--msel-trigger-width); height: var(--msel-trigger-height); pointer-events: none; }
+.dc-morph-select-overlay > .dc-morph-select-list {
+  position: absolute;
+  left: 0;
+  z-index: 1;
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-height: 340px;
+  margin: 0;
+  padding: 6px;
+  border: 0;
+  border-radius: var(--msel-panel-radius, 16px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--msel-muted) transparent;
+  list-style: none;
+  outline: none;
+  pointer-events: auto;
+  opacity: 1;
+  transition: opacity calc(var(--msel-quick) * .7) ease-out;
+}
+.dc-morph-select-overlay[data-open="false"] > .dc-morph-select-list { pointer-events: none; opacity: 0; }
+.dc-morph-select-list > .dc-morph-select-option {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  box-sizing: border-box;
+  min-height: 32px;
+  margin: 0;
+  padding: 8px 10px;
+  border: 0;
+  border-radius: var(--msel-option-radius, 11px);
+  background: transparent;
+  color: var(--msel-ink);
+  font: inherit;
+  cursor: pointer;
+  transition: background-color var(--msel-quick) ease;
+}
+.dc-morph-select-option > span { min-width: 0; overflow-wrap: anywhere; }
+.dc-morph-select-option > span,
+.dc-morph-select-option > svg { animation: dc-morph-option-in var(--msel-quick) ease both; animation-delay: calc(var(--msel-reveal) + var(--msel-index) * var(--msel-stagger)); }
+@keyframes dc-morph-option-in { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: translateY(0); } }
+.dc-morph-select-list > .dc-morph-select-option[data-active="true"] { background: var(--msel-selected); }
+.dc-morph-select-list > .dc-morph-select-option[aria-disabled="true"] { color: var(--msel-muted); opacity: .65; cursor: default; }
+.dc-morph-select-check { display: block; flex: 0 0 14px; visibility: hidden; }
+.dc-morph-select-option[aria-selected="true"] > .dc-morph-select-check { visibility: visible; }
+
+@media (pointer: coarse) {
+  .dc-morph-select > .dc-morph-select-trigger { height: 44px; min-height: 44px; }
+  .dc-morph-select-list > .dc-morph-select-option { min-height: 44px; }
+}
+.dc-morph-select[data-reduced="true"] *,
+.dc-morph-select-overlay[data-reduced="true"] * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+@media (prefers-reduced-motion: reduce) {
+  .dc-morph-select *, .dc-morph-select-overlay * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

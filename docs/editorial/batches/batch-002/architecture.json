@@ -1,0 +1,406 @@
+[
+  {
+    "id": "hagia-sophia",
+    "title": "Hagia Sophia",
+    "creator": "Anthemios of Tralles and Isidoros of Miletos; commissioned by Emperor Justinian I",
+    "dateDisplay": "532–537",
+    "dateStart": 532,
+    "dateEnd": 537,
+    "place": "Istanbul, Türkiye",
+    "body": "In 532, a revolt against Emperor Justinian devastated Constantinople, now Istanbul, the capital of the Eastern Roman Empire. Its main church burned down. Justinian ordered a replacement almost immediately. The new Hagia Sophia opened five years later, giving the Christian emperor a setting for worship that also demonstrated his authority after the rebellion.\n\nInside, a vast dome rises above an open central space. The architects carried its weight through large arches into four massive supports, keeping the middle clear. Windows around the dome’s base admit so much light that its connection to the building can appear surprisingly slight. For contemporary Christian observers, the vault suggested heaven above the congregation. Marble surfaces and gold mosaics added to that impression.\n\nThis effect required difficult engineering. The first dome partly collapsed in 558 after earthquakes. Its replacement rose higher, changing its shape to improve stability. The building’s apparent lightness depended on substantial supports and repeated repairs.\n\nWhen the Ottoman sultan Mehmed II conquered the city in 1453, he converted the church into a mosque. Minarets and Islamic furnishings joined its Christian fabric. Centuries later, Turkey made it a museum; in 2020, it became a mosque again. These successive uses help explain why arguments over the building extend beyond architecture: different communities recognize their religious and political history within the same walls.",
+    "meaningBrief": "A Christian emperor rebuilt his capital’s principal church after revolt. Structural concentration and light produce an unusually open interior associated with heaven. The dome’s failure and repair explain the practical challenge. Ottoman conversion and later changes show how the same monument became important to successive religious and political communities. Avoid claims of a weightless dome, an unchanged sixth-century interior, or a largest-ever dome.",
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art — Hagia Sophia (532–37), Emma Wegner",
+        "url": "https://www.metmuseum.org/essays/hagia-sophia-532-37",
+        "role": "substantive museum interpretation",
+        "supports": "Full essay read: Nika revolt, Justinian’s rebuilding, architects, structural supports, contemporary heavenly associations, materials, collapse in 558 and rebuilding, Ottoman conversion. The essay predates the 2020 change; its museum status is not treated as current.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Smarthistory — Innovative architecture in the age of Justinian",
+        "url": "https://smarthistory.org/innovative-architecture-in-the-age-of-justinian/",
+        "role": "architectural interpretation; indexed passage",
+        "supports": "Indexed passage describes concentration of structural loads and the openings this permits. Direct page returned 403; used only for the retrieved explanation of structure and light.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "UNESCO — Statement on Hagia Sophia, Istanbul",
+        "url": "https://www.unesco.org/en/articles/unesco-statement-hagia-sophia-istanbul",
+        "role": "institutional historical context",
+        "supports": "10 July 2020 statement on changing the museum’s status; cultural significance for multiple communities.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "UNESCO — Advisory mission to Istanbul, 5–9 October 2020",
+        "url": "https://whc.unesco.org/document/188386",
+        "role": "institutional record; indexed passage",
+        "supports": "Retrieved passage confirms the presidential decree of 10 July 2020 opened Hagia Sophia to Muslim prayer.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "AskHistorians — Discussion of Hagia Sophia and Byzantine churches",
+        "url": "https://www.reddit.com/r/AskHistorians/comments/12d6mpw",
+        "role": "public reception clue; indexed discussion",
+        "supports": "Reception check warns against using Hagia Sophia to represent every Byzantine church. Not historical authority for the draft.",
+        "accessedOn": "2026-09-25"
+      }
+    ],
+    "medium": "architecture",
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "datePrecision": "documented construction period",
+    "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+    "quotationNotes": [
+      "No direct quotations in the body."
+    ],
+    "provenance": {
+      "baselineFile": null,
+      "baselineSection": null,
+      "changes": [
+        "New review-only entry for batch 002.",
+        "Writing and all three archival images require Julio’s review."
+      ],
+      "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+      "notionUrl": null
+    },
+    "media": {
+      "imageUrl": "image-options/assets/architecture/b002-hagia-sophia-a.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Sophia%2C_Constantinopolis.jpg",
+      "altText": "Fine linework on white paper, cutting through the dome and galleries. This nineteenth-century historical study shows the structure without the full later Ottoman additions.",
+      "credit": "Wilhelm Salzenberg, Alt-christliche Baudenkmale von Constantinopel (1854); ETH-Bibliothek / e-rara; Wikimedia Commons",
+      "license": "Public-domain historical plate; Commons public-domain scan attribution.",
+      "rightsStatus": "review_only_pending_clearance",
+      "note": "Local historical source image; image A is a preview, not an editorial selection."
+    }
+  },
+  {
+    "id": "alhambra",
+    "title": "The Alhambra",
+    "creator": "Nasrid rulers and their architects, craftspeople and poets",
+    "dateDisplay": "13th–14th centuries",
+    "dateStart": 1200,
+    "dateEnd": 1399,
+    "place": "Granada, Spain",
+    "body": "The Alhambra was the fortified home of the Nasrid dynasty, the Muslim rulers of Granada. They established their court on this hill in the thirteenth century, as Christian kingdoms expanded across the Iberian Peninsula. Behind its defenses stood a small city of palaces, houses, workshops and military quarters. The richly decorated rooms belonged to a working royal court.\n\nIts courtyards organize the movement between rooms, while covered galleries offer shelter around open spaces. The Court of the Lions, developed under Muhammad V in the fourteenth century, follows this arrangement. Slender columns support the surrounding galleries, and water channels converge on a fountain carried by twelve stone lions. The rooms could serve several purposes, with furnishings arranged for the occasion.\n\nMuch of the decoration also communicates in words. Arabic inscriptions include religious passages and poems praising the buildings and their rulers. Court poets helped present royal prosperity as evidence of a successful, divinely favored reign. Reading the walls changes the experience: patterns that initially look abstract also speak about faith and government.\n\nThe fountain makes this connection especially tangible. A poem by Ibn Zamrak is carved around its basin and describes water seeming to merge with marble. Hidden pipes regulate the flow, keeping the surface calm while water passes through the lions. The effect depends on controlled movement rather than a high jet.",
+    "meaningBrief": "The Nasrid palace city combines practical court life with a public language of religious and royal authority. Courtyard organization establishes the physical setting; inscriptions and the Lions fountain explain how poetry, patronage and engineering work together. Avoid a generic paradise narrative, unsupported water-clock legends, or treating all courtyards as exclusively women’s quarters.",
+    "sources": [
+      {
+        "title": "Patronato de la Alhambra y Generalife — History",
+        "url": "https://www.alhambra-patronato.es/en/discover/alhambra-y-generalife/history",
+        "role": "institutional history",
+        "supports": "Nasrid fortified palace city, thirteenth-century establishment and fourteenth-century development; court, officials, servants and guards.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Patronato — The origin of the Nasrid kingdom and the Alhambra",
+        "url": "https://www.alhambra-patronato.es/elemento-del-mes/el-origen-del-reino-nazari-y-de-la-alhambra",
+        "role": "institutional historical context",
+        "supports": "Nasrid formation amid Christian expansion; strategic hilltop and urban settlement.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Patronato — The Court of the Lions",
+        "url": "https://www.alhambra-patronato.es/en/edificios-lugares/the-court-of-the-lions",
+        "role": "substantive architectural interpretation",
+        "supports": "Muhammad V’s second reign, courtyard-house arrangement, multiple uses of rooms, galleries and fountain mechanism. Does not establish the debated original courtyard planting.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Patronato — Poetry and architecture: poems of the Palace of Comares",
+        "url": "https://www.alhambra-patronato.es/poesia-y-arquitectura-en-la-alhambra-los-poemas-del-palacio-de-comares",
+        "role": "substantive interpretation",
+        "supports": "Religious inscriptions and poems of royal praise; court poets and the connection between architectural decoration and Nasrid authority.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Patronato — The spouts of the Fountain of the Lions",
+        "url": "https://www.alhambra-patronato.es/en/disfrutar/the-spouts-of-the-fountain-of-the-lions",
+        "role": "object and conservation interpretation",
+        "supports": "Ibn Zamrak’s basin poem; concealed pipes and controlled gentle flow; later alterations to the fountain. Poem paraphrased, not quoted.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "ArtefactPorn — Discussion of the Court of the Lions",
+        "url": "https://www.reddit.com/r/ArtefactPorn/comments/10sk0el",
+        "role": "public reception clue; indexed discussion",
+        "supports": "Restoration differences prompted checking the Patronato’s account. Unsupported claims about the lions and a water clock were excluded.",
+        "accessedOn": "2026-09-25"
+      }
+    ],
+    "medium": "architecture",
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "datePrecision": "century range for the principal Nasrid construction; not exact start or completion years",
+    "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+    "quotationNotes": [
+      "No direct quotations in the body."
+    ],
+    "provenance": {
+      "baselineFile": null,
+      "baselineSection": null,
+      "changes": [
+        "New review-only entry for batch 002.",
+        "Writing and all three archival images require Julio’s review."
+      ],
+      "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+      "notionUrl": null
+    },
+    "media": {
+      "imageUrl": "image-options/assets/architecture/b002-alhambra-a.jpg",
+      "referenceUrl": "https://www.academiacolecciones.com/dibujos/inventario.php?id=MA-0540",
+      "altText": "A 1766 section through the courtyard and surrounding rooms. Fine gray washes preserve the depth of the original drawing on warm paper.",
+      "credit": "Juan de Villanueva, 1766; Real Academia de Bellas Artes de San Fernando, MA-0540",
+      "license": "Underlying historical drawing public domain; museum scan credited to RABASF. Scan reuse terms require confirmation for public release.",
+      "rightsStatus": "review_only_pending_clearance",
+      "note": "Local historical source image; image A is a preview, not an editorial selection."
+    }
+  },
+  {
+    "id": "villa-rotonda",
+    "title": "Villa Rotonda",
+    "creator": "Andrea Palladio; completed with work by Vincenzo Scamozzi",
+    "dateDisplay": "1567–1605",
+    "dateStart": 1567,
+    "dateEnd": 1605,
+    "place": "Vicenza, Italy",
+    "body": "After a career at the papal court in Rome, Paolo Almerico returned to Vicenza and commissioned a home from Andrea Palladio. Construction began in 1567 on a hill outside the city. Almerico sold his town palace to live there. Although now called a villa, the house was conceived as a distinguished residence, without the agricultural buildings attached to many of Palladio’s country estates.\n\nPalladio gave it four columned entrances, each approached by a broad staircase. These porches borrow the appearance of ancient temples, bringing their ceremonial importance into a private home. Repeating them on every side also opens the house toward different views of the surrounding countryside. The landscape becomes something to enjoy from the rooms and terraces, rather than simply land to manage.\n\nInside, a round hall sits at the center, beneath a dome, with living rooms arranged around it. The four approaches lead toward this shared space. The arrangement lets someone arriving from one direction cross the hall and look out toward another part of the landscape.\n\nPalladio published the design in his architectural books in 1570, while construction was still underway. Print made the house available to people who would never visit Vicenza. The same clear organization that shaped Almerico’s residence could now be studied and adapted elsewhere.",
+    "meaningBrief": "A retired papal official commissioned an elite suburban residence, not an ordinary productive farm villa. Classical temple entrances lend status to domestic life while four fronts engage the landscape. The central hall explains how the house is experienced; publication explains how one commission became accessible as a model. No numerological speculation or claim that the printed design equals the completed building.",
+    "sources": [
+      {
+        "title": "Palladio Museum / CISA — Villa Almerico Capra detta La Rotonda",
+        "url": "https://mediateca.palladiomuseum.org/palladio/opera.php?id=41",
+        "role": "substantive specialist interpretation",
+        "supports": "Design and construction chronology; Almerico’s papal career and sale of his city palace; absence of farm outbuildings; Palladio’s classification among palaces; geometry and completion by the Capra family with Scamozzi. Notes uncertainty over individual changes during completion.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — Villa Almerico, Book 2, page 19",
+        "url": "https://www.metmuseum.org/art/collection/search/698054",
+        "role": "primary published design and museum commentary",
+        "supports": "1570 book illustration; domed hall, four temple porches, landscape, retreat rather than typical farm villa; the design’s frequent later imitation.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Villa Rotonda — official visitor guide",
+        "url": "https://www.villalarotonda.it/wp-content/uploads/2024/03/LA-ROTONDA-Guida-CAA-WEB.pdf",
+        "role": "institutional reference",
+        "supports": "Linked guide retained for further visitor-level context; not used to support an unverified claim in the body.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Architecture — Villa Rotonda discussion",
+        "url": "https://www.reddit.com/r/architecture/comments/1kz1foo/villa_rotonda_in_vicenza_italy_15651605_by_andrea/",
+        "role": "public reception clue; indexed discussion",
+        "supports": "Readers notice symmetry and the relationship between four fronts and landscape. This prompted a practical spatial explanation; historical claims come from the specialist sources.",
+        "accessedOn": "2026-09-25"
+      }
+    ],
+    "medium": "architecture",
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "datePrecision": "documented construction period",
+    "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+    "quotationNotes": [
+      "No direct quotations in the body."
+    ],
+    "provenance": {
+      "baselineFile": null,
+      "baselineSection": null,
+      "changes": [
+        "New review-only entry for batch 002.",
+        "Writing and all three archival images require Julio’s review."
+      ],
+      "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+      "notionUrl": null
+    },
+    "media": {
+      "imageUrl": "image-options/assets/architecture/b002-villa-rotonda-a.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_%2823547400%29.jpg",
+      "altText": "A crisp section through the central hall, dome and two porches. Dense engraved shadows contrast with the white paper.",
+      "credit": "Ottavio Bertotti Scamozzi; plate signed David Rossi, Les bâtimens et les desseins de Andre Palladio (1776–1783); National Library of Poland / Polona, via Wikimedia Commons",
+      "license": "Public domain; Commons PD-old-100-expired / Public Domain Mark.",
+      "rightsStatus": "review_only_pending_clearance",
+      "note": "Local historical source image; image A is a preview, not an editorial selection."
+    }
+  },
+  {
+    "id": "crystal-palace",
+    "title": "The Crystal Palace",
+    "creator": "Joseph Paxton, with Fox, Henderson & Co.",
+    "dateDisplay": "1850–1851",
+    "dateStart": 1850,
+    "dateEnd": 1851,
+    "place": "Hyde Park, London, United Kingdom",
+    "body": "For the Great Exhibition of 1851, London needed a temporary building large enough to display manufactured goods from around the world. Joseph Paxton, a designer experienced in greenhouses, proposed an immense hall of iron, glass and timber. Its construction used the same industrial methods that visitors would encounter among the exhibits.\n\nRepeated parts could be manufactured in advance and assembled on site, making a tight construction schedule possible. Glass admitted daylight, while slender columns left the displays visible across long aisles. The building’s appearance came largely from this repeated framework. Even its raised central roof had a practical reason: it accommodated mature elm trees that would otherwise have stood in the way.\n\nThe exhibition presented industry as a way for nations to exchange knowledge and improve their products. Its layout also expressed Britain’s position as an imperial power. Britain and its territories occupied the western half; other countries shared the eastern side, with space assigned according to their trade with Britain. Visitors could compare objects from distant places, but the arrangement followed the host country’s commercial priorities.\n\nThe exhibition helped establish a lasting connection between manufacturing, design education and museums. Objects bought afterward became part of the collections that developed into the Victoria and Albert Museum. The Hyde Park building itself was dismantled. A larger version opened at Sydenham in 1854, where it later burned down in 1936.",
+    "meaningBrief": "The temporary exhibition hall applied industrial production to architecture while giving a mass audience access to manufactured goods and design. Prefabrication, daylight and preserving trees explain its form. Allocation of display space shows the imperial and commercial terms of its internationalism. Clearly distinguish Hyde Park 1851 drawings from the enlarged Sydenham building opened in 1854.",
+    "sources": [
+      {
+        "title": "V&A — The foundation of the collections: the Great Exhibition of 1851",
+        "url": "https://www.vam.ac.uk/articles/the-great-exhibition-of-1851",
+        "role": "substantive museum interpretation",
+        "supports": "Julius Bryant’s edited account: Paxton’s greenhouse background, standard parts, timber as well as iron and glass, tree preservation, imperial floor allocation, trade-based foreign allocation and separate Sydenham rebuilding. Body synthesizes under 200 words from this source.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Peter Berlyn and Charles Fowler Jr — The Crystal Palace (1851)",
+        "url": "https://en.wikisource.org/wiki/The_Crystal_Palace",
+        "role": "contemporary published architectural account",
+        "supports": "Full public-domain book consulted for repeated elements, open display space and light; illustrations at frontispiece, pages 34 and 37 correspond to the three image choices. Its celebratory imperial language is not adopted.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "V&A — Building the museum",
+        "url": "https://www.vam.ac.uk/articles/building-the-museum",
+        "role": "institutional history",
+        "supports": "The exhibition’s educational purpose, profits and purchases, and the development of the South Kensington museum collections.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "AskHistorians — Why was the Crystal Palace not rebuilt?",
+        "url": "https://www.reddit.com/r/AskHistorians/comments/otah0x",
+        "role": "public reception clue; indexed discussion",
+        "supports": "Discussion prompted separating the exhibition building’s legacy from the later Sydenham structure. Direct thread fetch failed; indexed text only, not used as factual authority.",
+        "accessedOn": "2026-09-25"
+      }
+    ],
+    "medium": "architecture",
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "datePrecision": "documented construction period",
+    "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+    "quotationNotes": [
+      "No direct quotations in the body."
+    ],
+    "provenance": {
+      "baselineFile": null,
+      "baselineSection": null,
+      "changes": [
+        "New review-only entry for batch 002.",
+        "Writing and all three archival images require Julio’s review."
+      ],
+      "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+      "notionUrl": null
+    },
+    "media": {
+      "imageUrl": "image-options/assets/architecture/b002-crystal-palace-whole-a-20260925.jpg",
+      "referenceUrl": "https://collections.vam.ac.uk/item/O25350/",
+      "altText": "An 1851 color lithograph of the complete Crystal Palace in Hyde Park, seen from an imagined elevated northwest viewpoint.",
+      "credit": "Charles Burton, Aeronautic View of the Great Exhibition Building, 1851; published by Ackermann & Co. © Victoria and Albert Museum, London, accession 19614.",
+      "license": "Historical print; digital image © Victoria and Albert Museum, London. Review copy only; publication rights remain to be cleared.",
+      "rightsStatus": "review_only_pending_clearance",
+      "note": "Local historical source image; image A is a preview, not an editorial selection."
+    }
+  },
+  {
+    "id": "st-peters-basilica",
+    "title": "St Peter’s Basilica",
+    "creator": "Donato Bramante, Michelangelo, Carlo Maderno and other architects",
+    "dateDisplay": "1506–1626",
+    "dateStart": 1506,
+    "dateEnd": 1626,
+    "place": "Vatican City",
+    "body": "St Peter’s Basilica stands over a burial site Christians have venerated as the tomb of Peter, one of Jesus’s disciples. Catholics regard Peter as the first pope and later popes as his successors. Building a church around his tomb therefore connects a place of pilgrimage with the authority of the papacy.\n\nIn 1506, Pope Julius II began replacing the ancient church already on the site. Construction continued through several generations of popes and architects. Michelangelo’s design gathered the building around a great central dome, keeping the tomb at its heart. Its vast supporting piers carried the roof above the space where worshippers assembled. After his death, Carlo Maderno extended the church with a longer nave, the main area leading toward the altar. The building was consecrated in 1626.\n\nThe project also became entangled with the Protestant Reformation. To help finance construction, the papacy offered indulgences to people who contributed money. In Catholic teaching, an indulgence reduced the punishment remaining for sins already forgiven. Its promotion could make spiritual security appear obtainable through payment. In 1517, the German monk Martin Luther challenged the practice and its abuses, helping set off a wider dispute over Church authority.",
+    "meaningBrief": "The church’s defining center is Peter’s venerated tomb and its link to papal succession. Explain why the dome and evolving plan organize worship around that site. Connect the expense to the indulgence controversy without claiming the building alone caused the Reformation or that Catholic doctrine literally sold forgiveness. The three prints document Michelangelo’s proposed design, not the final seventeenth-century basilica.",
+    "sources": [
+      {
+        "title": "Fabric of Saint Peter — The Tomb of Saint Peter, Pietro Zander",
+        "url": "https://www.basilicasanpietro.va/en/san-pietro/the-tomb-of-saint-peter",
+        "role": "institutional archaeological and religious history",
+        "supports": "Continuity of the venerated burial site, successive altars and basilicas, pilgrimage and the position beneath the main altar. Attribution of the tomb presented as Christian veneration.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Fabric of Saint Peter — The Basilica, Pietro Zander",
+        "url": "https://www.basilicasanpietro.va/en/san-pietro/the-basilica",
+        "role": "substantive institutional architectural history",
+        "supports": "Julius II’s 1506 foundation, successive designs and centrality of the tomb; Maderno and completion of the seventeenth-century building.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Fabric of Saint Peter — When was St Peter’s Basilica built?",
+        "url": "https://www.basilicasanpietro.va/en/faq/when-was-st-peters-basilica-built",
+        "role": "institutional chronology",
+        "supports": "1506–1626 construction, replacing Constantine’s fourth-century church.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Pitts Theology Library, Emory University — Johann Tetzel’s Rebuttal, introduction by Dewey Weiss Kramer",
+        "url": "https://s3-us-west-2.amazonaws.com/pittspublic/Documents/Tetzel.pdf",
+        "role": "scholarly primary-source edition and interpretation",
+        "supports": "Introduction and chronology, especially printed pages 6–7: 1515 indulgence for contributions to St Peter’s; 1517 Luther’s challenge and subsequent debate. Distinguishes Catholic doctrine from claims made in promotion.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — The Reformation",
+        "url": "https://www.metmuseum.org/essays/the-reformation",
+        "role": "substantive museum historical interpretation",
+        "supports": "The meaning and abuse of indulgences, Luther’s 1517 challenge and the wider division of Western Christianity.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "The Metropolitan Museum of Art — Dupérac’s proposed interior of St Peter’s",
+        "url": "https://www.metmuseum.org/art/collection/search/364511",
+        "role": "primary architectural print",
+        "supports": "Michelangelo’s centralized design and supporting structure, prior to Maderno’s extension; shown as design evidence rather than a record of the completed basilica.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "AskHistorians — Funding St Peter’s discussion",
+        "url": "https://www.reddit.com/r/AskHistorians/comments/ox1wcz",
+        "role": "public reception clue; indexed discussion",
+        "supports": "Funding question prompted checking indulgence doctrine and chronology against the Emory edition. Confusion between relics and indulgences in the discussion is not repeated.",
+        "accessedOn": "2026-09-25"
+      },
+      {
+        "title": "Vatican News — The names of the successors of Peter",
+        "url": "https://www.vaticannews.va/en/pope/news/2025-05/the-history-of-the-names-of-the-successors-of-peter.html",
+        "role": "institutional statement of Catholic tradition; indexed passage",
+        "supports": "Peter described as the first pope and later popes as his successors; expressed as Catholic belief in the entry.",
+        "accessedOn": "2026-09-25"
+      }
+    ],
+    "medium": "architecture",
+    "revision": 1,
+    "editorialStatus": "pending_review",
+    "approvedBy": null,
+    "approvedAt": null,
+    "sourceBatchId": "batch-002",
+    "datePrecision": "documented construction period",
+    "revisionGuide": "VOICE_GUIDE v0.20; new researched batch-002 draft, 25 September 2026",
+    "quotationNotes": [
+      "No direct quotations in the body."
+    ],
+    "provenance": {
+      "baselineFile": null,
+      "baselineSection": null,
+      "changes": [
+        "New review-only entry for batch 002.",
+        "Writing and all three archival images require Julio’s review."
+      ],
+      "researchFile": "docs/editorial/batches/batch-002/architecture-research.md",
+      "notionUrl": null
+    },
+    "media": {
+      "imageUrl": "image-options/assets/architecture/b002-st-peters-basilica-a.jpg",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Speculum_Romanae_Magnificentiae-_Elevation_Showing_the_Exterior_of_Saint_Peter%27s_Basilica_from_the_South_as_Conceived_by_Michelagelo_%28Published_in_1569%29_MET_DP826753.jpg",
+      "altText": "Dupérac’s detailed engraving of the south side, with the dome above the repeated windows and columns. It represents Michelangelo’s design before the later nave extension.",
+      "credit": "Étienne Dupérac after Michelangelo; The Metropolitan Museum of Art, 41.72(3.24), DP826753; Wikimedia Commons",
+      "license": "CC0 1.0 / The Metropolitan Museum of Art Open Access.",
+      "rightsStatus": "review_only_pending_clearance",
+      "note": "Local historical source image; image A is a preview, not an editorial selection."
+    }
+  }
+]

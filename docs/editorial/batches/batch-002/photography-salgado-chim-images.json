@@ -1,0 +1,56 @@
+[
+  {
+    "entryId": "salgado-serra-pelada",
+    "options": [
+      {
+        "id": "A",
+        "label": "Danziger Gallery reproduction",
+        "description": "Full horizontal composition, 1,800 pixels wide.",
+        "imageUrl": "image-options/assets/photography/b002-serra-pelada-cast-b.jpg",
+        "sourceUrl": "https://www.danzigergallery.com/artists/sebastiao-salgado",
+        "credit": "© Sebastião Salgado; reproduction from Danziger Gallery.",
+        "altText": "Black-and-white view into the crowded Serra Pelada pit, with workers climbing ladders across steep walls and men carrying sacks in the foreground.",
+        "width": 1800,
+        "height": 1202,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyrighted photograph. Reference reproduction for local editorial review; no public-app licence established.",
+        "remoteImageUrl": "https://static-assets.artlogic.net/w_1800,h_1800,c_limit/exhibit-e/5abb9910a09a728e158b4568/8ad62c7d074af6e98a02d6cd8b2a3f21.jpeg",
+        "originalImageUrl": "https://static-assets.artlogic.net/w_1800,h_1800,c_limit/exhibit-e/5abb9910a09a728e158b4568/8ad62c7d074af6e98a02d6cd8b2a3f21.jpeg",
+        "sourceNotes": "Matches the named gallery exposure and the smaller Yancey Richardson version by ladders, diagonal walkway and foreground carrier positions. The downloaded filename ends in b from research retrieval order; the single user choice is A. Downloaded unchanged. No project-created image editing.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_exact_exposure_full_frame",
+        "reviewedOn": "2026-09-25",
+        "sha256": "06dbbbeef1f61ca9e4b42b3f01733d04bbbb014793dc45c9d11c46da1f2b0c8b"
+      }
+    ],
+    "imagePolicy": "one_authentic_source_no_artificial_variations"
+  },
+  {
+    "entryId": "chim-vienna-schoolchildren",
+    "options": [
+      {
+        "id": "A",
+        "label": "ICP collection reproduction",
+        "description": "Complete museum print scan with its narrow edges. Limited to 700 pixels high.",
+        "imageUrl": "image-options/assets/photography/b002-vienna-school-meal-a.jpg",
+        "sourceUrl": "https://www.icp.org/browse/archive/objects/children-lifting-their-empty-cups-waiting-to-be-fed-vienna",
+        "credit": "© David Seymour / Magnum Photos. Anna Shneiderman Collection, International Center of Photography.",
+        "altText": "Black-and-white photograph looking down on a group of children raising empty metal cups toward the camera, reproduced with the print’s narrow edges intact.",
+        "width": 690,
+        "height": 700,
+        "rightsStatus": "review_only_pending_clearance",
+        "license": "Copyrighted photograph. Reference reproduction for local editorial review; no public-app licence established.",
+        "remoteImageUrl": "https://s3.amazonaws.com/icptmsdata/c/h/i/m/chim_bs_1685_409810_displaysize.jpg",
+        "originalImageUrl": "https://s3.amazonaws.com/icptmsdata/c/h/i/m/chim_bs_1685_409810_displaysize.jpg",
+        "sourceNotes": "Exact ICP record BS1685. This is the group raising cups, not Chim’s separate close view of two waiting children. Preserve the supplied print edges; do not crop or upscale to fabricate detail. Downloaded unchanged. No project-created image editing.",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "visualReviewStatus": "reviewed_exact_exposure_full_frame",
+        "reviewedOn": "2026-09-25",
+        "sha256": "5e4392acbd6bd2f7e57e468d860524345d25eca44997fa1df948e828505e1630"
+      }
+    ],
+    "imagePolicy": "one_authentic_source_no_artificial_variations"
+  }
+]
