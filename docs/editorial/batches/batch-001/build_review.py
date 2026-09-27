@@ -186,6 +186,16 @@ for ordinal, entry in enumerate(entries, 1):
             for c in r['comments']: history += '<blockquote>' + E(c['quote']) + '</blockquote><p class="archived-note">' + E(c['text']) + '</p>'
             history += '<details class="previous-text"><summary>Read the previous text</summary>' + prose(r['previousBody']) + '</details>'
         history += '</details>'
+    personal_edits = []
+    edit_history = P / 'direct-edit-history'
+    if edit_history.exists():
+        personal_edits = [json.loads(path.read_text()) for path in sorted(edit_history.glob(f'*-{entry_id}.json'), reverse=True)]
+    personal_edits = [edit for edit in personal_edits if edit['entryId'] == entry_id]
+    if personal_edits:
+        history += '<details class="revision-history"><summary>Previous drafts</summary>'
+        for edit in personal_edits:
+            history += '<details><summary>' + E(edit['editedAt'][:16].replace('T',' ')) + '</summary>' + prose(edit['previousBody']) + '</details>'
+        history += '</details>'
     writing = f'''<div class="writing"><div class="story-actions"><button type="button" data-edit-story="{entry_id}">Edit text</button><span class="edit-status" data-edit-status="{entry_id}" role="status"></span></div><div class="story-text" data-story="{entry_id}" tabindex="0" aria-label="Text of {E(entry['title'], quote=True)}">{prose(entry['body'])}</div>
       <section class="passage-comments" data-comments="{entry_id}" aria-label="Passage comments"></section>
       <fieldset class="writing-decision"><legend>Writing review</legend>

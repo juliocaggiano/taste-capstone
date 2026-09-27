@@ -1,5 +1,29 @@
 # Taste (V1.2) project context
 
+## Vercel email alignment completed — 2026-09-27
+
+- Portfolio Vercel `julio-1508` now uses `juliocaggiano2022@gmail.com`; Taste Vercel `juliocaggiano2022-8011` now uses `julio@uni.minerva.edu`. Both original user IDs were verified through their separate CLI sessions. Temporary `alexrejulio@gmail.com` was removed from Taste's Email list after Minerva became verified primary.
+- Portfolio GitHub `juliocaggiano` remains reserved for the portfolio. Its existing Google sign-in still uses Minerva and was deliberately preserved; use email sign-in for Taste rather than assuming Google follows the new primary email.
+- At 14:52 UTC, portfolio project, team, private GitHub repository, production deployment and domain aliases were unchanged. `www.caggiano.studio` returned HTTP 200 with the same ETag and Last-Modified date. No project transfer, domain change or new portfolio deployment occurred.
+- Email alignment is complete; creation and connection of Taste's separate GitHub automation account remain pending. Taste's new deployment is not yet published. Evidence: `qa/review-integration-scroll-2026-09-27/verification.md` and `taste-minerva-primary.png` in that folder.
+
+## Portfolio login restored; Taste identity must stay separate — 2026-09-27
+
+- GitHub `juliocaggiano` belongs with portfolio Vercel account `julio-1508`. Connecting that identity to Taste displaced the portfolio login. The missing connection was verified in Authentication, then restored with Julio's explicit confirmation. Do not reconnect this GitHub identity to Taste.
+- Portfolio production `dpl_FDzNQJBKDGUrE7oPH4mjwMTytQNa`, repository link and domains stayed unchanged; `www.caggiano.studio` returned HTTP 200 after restoration. No new portfolio deployment was tested.
+- Julio prefers a separate GitHub identity for Taste to protect the portfolio workflow. A dedicated automation account is recommended; GitHub permits one extra free machine account for automated tasks and requires human account creation. Creation and connection are still pending. Do not invent credentials, rewrite prior commit authors, transfer repositories or claim Taste publication is unblocked.
+- Taste stays on Vercel account `juliocaggiano2022-8011`, team `juliocaggiano2022-8011s-projects`. Keep its CLI configuration separate. Evidence: `qa/review-integration-scroll-2026-09-27/verification.md` and `portfolio-github-restored.png` in that folder.
+
+## Daily swipe fix and connected editorial review — 2026-09-27
+
+- Daily uses a single app-owned motion controller in `app/src/daily-pager-motion.ts`. The outer shared Carousel has dragging disabled so its inertia cannot compete with Daily snapping. Nested rails retain the protected Carousel. All 28 protected runtime files remain unchanged.
+- Review tabs now distinguish **Live**, **Ready to publish** and **To review**. Published works expose exact Live/Draft versions. A live entry can still have a pending newer draft; never copy a draft approval onto its older published version or vice versa.
+- Double-click draft prose or use Edit text. Save draft updates its original batch JSON through the loopback review service, resets writing approval for changed prose, retains image choices/comments and preserves prior text in `direct-edit-history/`. Stale edits are rejected. The screenshot-marked header and per-entry clutter is removed.
+- Every app build exports the imported catalog to `app/public/editorial-catalog.json`. After publication, run `node app/scripts/sync-published-editorial.mjs <deployment-id>` and rebuild the review. Live uses the verified `docs/editorial/published-catalog.json` and preserved `published-assets/`; do not label an unverified local import Live.
+- Local verification passed. All 76 draft bodies/image options and browser feedback are unchanged. Current status: 20 Live, one newer Stańczyk version Ready to publish, 62 To review. The app's existing 20 records remain unchanged.
+- Publication attempt `dpl_6ipFMuNJa4qDTZAKhMKnxuZzsUwB` was blocked by Vercel because the newly recorded GitHub commit author is not authorized on the Taste account. Account linkage approval was requested; do not claim this fix is live until deployment succeeds.
+- Workflow: `docs/editorial/REVIEW_DATA_WORKFLOW.md`. Evidence: `qa/review-integration-scroll-2026-09-27/verification.md`.
+
 ## Approved painting update and publication — 2026-09-27
 
 - Applied only three requested sentence deletions: two in Saturn Devouring His Son and one in The Gulf Stream. Other 74 review bodies and all 76 image sets remain unchanged. Addressed comments moved to revision history.

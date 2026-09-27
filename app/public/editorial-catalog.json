@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogHash": "89a456a6384ddf34fb158af8cd92e9203d772018291c812b344e6721c40a9727",
+  "catalogHash": "d4f1b37ffa1726afb50fd95f574686866862de1ad15be86af9c41c7e7df8a427",
   "entries": [
     {
       "id": "michelangelo-david",
@@ -14,7 +14,8 @@
       "image": "/assets/editorial/michelangelo-david.png",
       "imageAlt": "Three-quarter portrait of David’s head, neck and sling-holding hand against a dark background.",
       "selectedOption": "A",
-      "assetSha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2"
+      "assetSha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2",
+      "sourceAssetSha256": "bc0857b19f2b0842cb4e639a9e74e987e8480e61c83909f1a7e2c5fffe1e10c2"
     },
     {
       "id": "stanczyk",
@@ -28,7 +29,8 @@
       "image": "/assets/editorial/stanczyk.jpg",
       "imageAlt": "Full painting: stanczyk",
       "selectedOption": "A",
-      "assetSha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022"
+      "assetSha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022",
+      "sourceAssetSha256": "d7b436adbfbbaac19b57b7a5e0e19c028fcd5f4426d5e9d96c4ec7379e35d022"
     },
     {
       "id": "death-of-marat",
@@ -42,7 +44,8 @@
       "image": "/assets/editorial/death-of-marat.jpg",
       "imageAlt": "Full painting: death of marat",
       "selectedOption": "A",
-      "assetSha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
+      "assetSha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439",
+      "sourceAssetSha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
     },
     {
       "id": "the-ambassadors",
@@ -56,7 +59,8 @@
       "image": "/assets/editorial/the-ambassadors.jpg",
       "imageAlt": "Full painting: the ambassadors",
       "selectedOption": "B",
-      "assetSha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
+      "assetSha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47",
+      "sourceAssetSha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
     },
     {
       "id": "goya-third-of-may",
@@ -70,7 +74,8 @@
       "image": "/assets/editorial/goya-third-of-may.jpg",
       "imageAlt": "Complete painting of prisoners facing a French firing squad at night, with a man in a white shirt raising both arms and bodies in the foreground.",
       "selectedOption": "A",
-      "assetSha256": "01cfb78e2e13a3dbc40f073e6615f3ba945481ad29d362e61a6dd5b123f8c28d"
+      "assetSha256": "01cfb78e2e13a3dbc40f073e6615f3ba945481ad29d362e61a6dd5b123f8c28d",
+      "sourceAssetSha256": "01cfb78e2e13a3dbc40f073e6615f3ba945481ad29d362e61a6dd5b123f8c28d"
     },
     {
       "id": "potato-eaters",
@@ -84,7 +89,8 @@
       "image": "/assets/editorial/potato-eaters.jpg",
       "imageAlt": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
       "selectedOption": "B",
-      "assetSha256": "5bcd0c1b930e04565f174aebd8e15bd83a69747cbda6fdc5ecfec30e9140c3a8"
+      "assetSha256": "5bcd0c1b930e04565f174aebd8e15bd83a69747cbda6fdc5ecfec30e9140c3a8",
+      "sourceAssetSha256": "5bcd0c1b930e04565f174aebd8e15bd83a69747cbda6fdc5ecfec30e9140c3a8"
     },
     {
       "id": "the-gleaners",
@@ -98,7 +104,8 @@
       "image": "/assets/editorial/the-gleaners.jpg",
       "imageAlt": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
       "selectedOption": "A",
-      "assetSha256": "d4edfbbbb3396687ab2a1e7294e95a5ce02f971a9328add7b728e7a34804b635"
+      "assetSha256": "d4edfbbbb3396687ab2a1e7294e95a5ce02f971a9328add7b728e7a34804b635",
+      "sourceAssetSha256": "d4edfbbbb3396687ab2a1e7294e95a5ce02f971a9328add7b728e7a34804b635"
     },
     {
       "id": "liberty-leading-the-people",
@@ -112,7 +119,8 @@
       "image": "/assets/editorial/liberty-leading-the-people.jpg",
       "imageAlt": "Liberty raises the French tricolour above insurgents crossing a barricade and fallen bodies in Paris.",
       "selectedOption": "A",
-      "assetSha256": "450c1d9d514165891ce6b9d3c40524942e7eeedff21f1abd77031ae94fb5e906"
+      "assetSha256": "450c1d9d514165891ce6b9d3c40524942e7eeedff21f1abd77031ae94fb5e906",
+      "sourceAssetSha256": "450c1d9d514165891ce6b9d3c40524942e7eeedff21f1abd77031ae94fb5e906"
     },
     {
       "id": "school-of-athens",
@@ -126,7 +134,8 @@
       "image": "/assets/editorial/school-of-athens.jpg",
       "imageAlt": "Plato and Aristotle stand at the centre of groups of ancient thinkers beneath a vaulted classical roof.",
       "selectedOption": "A",
-      "assetSha256": "cf21c5c5726406a681022b6147ab90e65fabe81e901c8e8dc1ede10d6e29635a"
+      "assetSha256": "cf21c5c5726406a681022b6147ab90e65fabe81e901c8e8dc1ede10d6e29635a",
+      "sourceAssetSha256": "cf21c5c5726406a681022b6147ab90e65fabe81e901c8e8dc1ede10d6e29635a"
     },
     {
       "id": "beethoven-symphony-nine",
@@ -140,7 +149,8 @@
       "image": "/assets/editorial/beethoven-symphony-nine.svg",
       "imageAlt": "Handwritten orchestral score on white paper.",
       "selectedOption": "A",
-      "assetSha256": "08f12223bdc50631ecc312c3b7c2c1ce09216763af2c480a5b56916025c44321"
+      "assetSha256": "08f12223bdc50631ecc312c3b7c2c1ce09216763af2c480a5b56916025c44321",
+      "sourceAssetSha256": "148735bd65dc7ccccc0b23d662fedd218b17dbee6a905b2e1baea69068933e9b"
     },
     {
       "id": "billie-holiday-strange-fruit",
@@ -154,7 +164,8 @@
       "image": "/assets/editorial/billie-holiday-strange-fruit.svg",
       "imageAlt": "Circular red Commodore label with gold type for Billie Holiday and Her Orchestra’s Strange Fruit, 526-A.",
       "selectedOption": "A",
-      "assetSha256": "d0bf1f75d42b0673486d297698a72caf322063d59266090bc1737d9ea3dbfba7"
+      "assetSha256": "d0bf1f75d42b0673486d297698a72caf322063d59266090bc1737d9ea3dbfba7",
+      "sourceAssetSha256": "7f97b3a121e9eb80ce65787c716bdfc134ed4896b02abb57974a16127ac4eed8"
     },
     {
       "id": "joao-gilberto-chega-saudade",
@@ -168,7 +179,8 @@
       "image": "/assets/editorial/joao-gilberto-chega-saudade.svg",
       "imageAlt": "Blue Odeon label for João Gilberto’s Chega de Saudade LP, MOFB 3073, listing Chega de Saudade as the first track.",
       "selectedOption": "C",
-      "assetSha256": "d96b79e3720bf2ab5a41cd13d05c0106e968fdc3b61e1e993bd70b7a18c89320"
+      "assetSha256": "d96b79e3720bf2ab5a41cd13d05c0106e968fdc3b61e1e993bd70b7a18c89320",
+      "sourceAssetSha256": "ad03f6f40c799983c629d656bb6fbebf6ac49f49046fdf56f802c6c70d86c825"
     },
     {
       "id": "animal-farm",
@@ -182,7 +194,8 @@
       "image": "/assets/editorial/animal-farm.svg",
       "imageAlt": "Animal Farm cover with a yellow pig face and rough white title lettering on dark gray.",
       "selectedOption": "C",
-      "assetSha256": "14854e6c0d55c070299dd29474ea75928d7a51ae6f1f4643a1386b1a7fba2d81"
+      "assetSha256": "14854e6c0d55c070299dd29474ea75928d7a51ae6f1f4643a1386b1a7fba2d81",
+      "sourceAssetSha256": "31663db27b3a846cdc21a409d3032d8284082bf7ac699355af5eb47da4746e2a"
     },
     {
       "id": "vidas-secas",
@@ -196,7 +209,8 @@
       "image": "/assets/editorial/vidas-secas.svg",
       "imageAlt": "Flat orange Vidas Secas cover with a thin resting dog, title and author lettering.",
       "selectedOption": "A",
-      "assetSha256": "9e39b324877098367530ede22bc8284ed539146e2bf590296b9a27e035bed64d"
+      "assetSha256": "9e39b324877098367530ede22bc8284ed539146e2bf590296b9a27e035bed64d",
+      "sourceAssetSha256": "7378e7f7dae0655b1963887df84c638f0b6efd0d5d88fd5380a3b415847c1a53"
     },
     {
       "id": "the-great-gatsby",
@@ -210,7 +224,8 @@
       "image": "/assets/editorial/the-great-gatsby.svg",
       "imageAlt": "A mint title field above a monochrome portrait, with restrained gold lettering.",
       "selectedOption": "A",
-      "assetSha256": "da57f1bc515617dda0e9ae6b3214d3f91d32b05197552c9b7f31d884c1f235da"
+      "assetSha256": "da57f1bc515617dda0e9ae6b3214d3f91d32b05197552c9b7f31d884c1f235da",
+      "sourceAssetSha256": "72f36ad7e1c1400aa018d103e2108af4663b7c9c84bceeff01a2c5c2cf1b3850"
     },
     {
       "id": "eternal-sunshine",
@@ -224,7 +239,8 @@
       "image": "/assets/editorial/eternal-sunshine.jpg",
       "imageAlt": "Joel and Clementine lie close together on blue-gray lake ice, viewed from directly above.",
       "selectedOption": "A",
-      "assetSha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805"
+      "assetSha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805",
+      "sourceAssetSha256": "87e7329fde6b64acd9ad17b7701665a7ab04c020495ecac5a0bb2f43f7716805"
     },
     {
       "id": "soul",
@@ -238,7 +254,8 @@
       "image": "/assets/editorial/soul.png",
       "imageAlt": "Joe Gardner appears in close-up with his eyes closed, surrounded by glowing blue and purple light.",
       "selectedOption": "C",
-      "assetSha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439"
+      "assetSha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439",
+      "sourceAssetSha256": "9abdc5b009a0e45d4cddc8996dbf335832cd4aeddc16e664f2696d8f88c73439"
     },
     {
       "id": "im-still-here",
@@ -252,7 +269,8 @@
       "image": "/assets/editorial/im-still-here.jpg",
       "imageAlt": "Eunice stands near a doorway on the right side of an empty, sunlit room.",
       "selectedOption": "C",
-      "assetSha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee"
+      "assetSha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee",
+      "sourceAssetSha256": "9cd14fb1b34237b5861d94ac2e694f17b5f5f6ee26cfe28fd0a34d6ee28d0aee"
     },
     {
       "id": "saturn-devouring-his-son",
@@ -266,7 +284,8 @@
       "image": "/assets/editorial/saturn-devouring-his-son.jpg",
       "imageAlt": "A wide-eyed figure grips and bites a mutilated body against a dark background.",
       "selectedOption": "A",
-      "assetSha256": "6c1b4c633be6a5fb9b4824d8f27d754bf80f4a0911b8378209fe32bef7a013ec"
+      "assetSha256": "6c1b4c633be6a5fb9b4824d8f27d754bf80f4a0911b8378209fe32bef7a013ec",
+      "sourceAssetSha256": "6c1b4c633be6a5fb9b4824d8f27d754bf80f4a0911b8378209fe32bef7a013ec"
     },
     {
       "id": "death-of-socrates",
@@ -280,7 +299,8 @@
       "image": "/assets/editorial/death-of-socrates.jpg",
       "imageAlt": "Socrates sits upright on a bed, raising one hand while reaching for a cup of poison with the other, surrounded by grieving companions; Plato sits at the foot of the bed.",
       "selectedOption": "A",
-      "assetSha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6"
+      "assetSha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6",
+      "sourceAssetSha256": "eaff5a04103361fed9fba6f10ea7bed80ccdc595d664b6997c6bd32f0eee06a6"
     }
   ]
 }

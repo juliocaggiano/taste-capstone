@@ -62,3 +62,7 @@ The catalog now contains 20 works: two additions, one updated record and 17 unch
 Fresh evidence lives in `imports/prototype-2026-09-27-paintings/`. `app/scripts/update-approved-paintings.py` supports incremental capture-based painting imports; the original September 25 importer remains pinned to its original capture. Each update requires a fresh capture, named entries and an unused evidence folder. The original frozen submission package remains unchanged.
 
 Production: https://taste-capstone.vercel.app/ — deployment `dpl_CFyrE4NyfPzvBeoobrc7kdpb2VF5`. QA: `qa/painting-approval-import-2026-09-27/verification.md`.
+
+## Review and publication integration — 27 September 2026
+
+Follow [REVIEW_DATA_WORKFLOW.md](REVIEW_DATA_WORKFLOW.md) for direct edits and future releases. The Live view comes from the verified published catalog, while draft approvals remain separate. After each deployment, run the publication synchronization script and rebuild the review. Never replace a live version merely because a newer draft exists.

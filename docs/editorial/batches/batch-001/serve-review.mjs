@@ -37,10 +37,10 @@ http.createServer(async (req,res) => {
     } catch(error) { replyJSON(error.status || (error instanceof SyntaxError ? 400 : 500),{error:error.status ? error.message : 'Could not save this draft. Your text remains in the editor.'}); } return;
   }
   if (req.method !== 'GET' && req.method !== 'HEAD') { res.writeHead(405); res.end(); return; }
-  const catalogAsset = /^catalog-assets\/([A-Za-z0-9._-]+\.(?:png|jpe?g|webp|avif))$/i.exec(name);
+  const catalogAsset = /^catalog-assets\/([A-Za-z0-9._-]+\.(?:png|jpe?g|webp|avif|svg))$/i.exec(name);
   const isReviewAsset = /^image-options\/assets\/(architecture|sculpture|painting|literature|music|theater|cinema|photography)\/[A-Za-z0-9._-]+\.(png|jpe?g|webp|avif)$/i.test(name);
   const isStudyAsset = /^visual-study\/elevation-portrait\/(?:assets\/|round-0[234]\/(?:assets|originals)\/)[A-Za-z0-9._-]+\.(png|jpe?g|webp|avif)$/i.test(name);
   if (!allowed.has(name) && !isReviewAsset && !isStudyAsset && !catalogAsset) { res.writeHead(404); res.end('Not found'); return; }
-  try { const content=await readFile(catalogAsset ? join(project,'app/public/assets/editorial',catalogAsset[1]) : join(root,name)); const type=name.endsWith('.png')?'image/png':/\.jpe?g$/i.test(name)?'image/jpeg':name.endsWith('.webp')?'image/webp':name.endsWith('.avif')?'image/avif':'text/html; charset=utf-8'; res.writeHead(200,{'Content-Type':type,'Cache-Control':'no-store'}); res.end(content); }
+  try { const content=await readFile(catalogAsset ? join(project,'docs/editorial/published-assets',catalogAsset[1]) : join(root,name)); const type=name.endsWith('.svg')?'image/svg+xml':name.endsWith('.png')?'image/png':/\.jpe?g$/i.test(name)?'image/jpeg':name.endsWith('.webp')?'image/webp':name.endsWith('.avif')?'image/avif':'text/html; charset=utf-8'; res.writeHead(200,{'Content-Type':type,'Cache-Control':'no-store'}); res.end(content); }
   catch { res.writeHead(500); res.end('Review unavailable'); }
 }).listen(4184,'127.0.0.1');

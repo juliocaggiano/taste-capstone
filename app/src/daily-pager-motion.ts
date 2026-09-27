@@ -52,7 +52,7 @@ export function attachDailyMotion(node: HTMLElement, options: {
     const dy = (pointer.y - event.clientY) * pointer.scale;
     if (!pointer.dragging) {
       if (Math.max(Math.abs(dx), Math.abs(dy)) < 8) return;
-      if (Math.abs(dy) > Math.abs(dx)) { releasePointer(); return; }
+      if (Math.abs(dy) > Math.abs(dx)) { const anchor = pointer.anchor; releasePointer(); animate(anchor); return; }
       pointer.dragging = true;
       node.setPointerCapture(event.pointerId);
       node.dataset.dailyDragging = 'true';
@@ -65,7 +65,7 @@ export function attachDailyMotion(node: HTMLElement, options: {
     if (!pointer || pointer.id !== event.pointerId) return;
     const { anchor, dragging, x, scale } = pointer;
     releasePointer();
-    if (!dragging) return;
+    if (!dragging) { if (Math.abs(node.scrollLeft - anchor * width()) > .5) animate(anchor); return; }
     event.preventDefault(); event.stopPropagation();
     animate(dailyDestination(anchor, event.type === 'pointercancel' ? 0 : (x - event.clientX) * scale, options.count));
   };

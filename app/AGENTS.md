@@ -1,5 +1,27 @@
 # Taste (V1.2) Mobile Prototype Agent Guide
 
+## Vercel email alignment completed — 2026-09-27
+
+- Portfolio `julio-1508` uses `juliocaggiano2022@gmail.com`; Taste `juliocaggiano2022-8011` uses `julio@uni.minerva.edu`. Original account identities and separate CLI sessions are preserved. Temporary Taste email has been removed.
+- Portfolio GitHub `juliocaggiano` remains reserved for the portfolio. Its existing Minerva Google sign-in was preserved; use email sign-in for Taste. Portfolio domain, repository and READY deployment remained unchanged, with HTTP 200 verified at 14:52 UTC.
+- The email swap does not resolve Taste's GitHub commit-author authorization. Dedicated automation account creation/connection and the new deployment remain pending. See root instructions and `../qa/review-integration-scroll-2026-09-27/verification.md`.
+
+## Portfolio login restored; separate Taste identity pending — 2026-09-27
+
+- Never connect GitHub `juliocaggiano` to Taste's Vercel login. That identity is reserved for portfolio account `julio-1508`; its connection was displaced and has now been restored with Julio's confirmation.
+- Keep Taste on `juliocaggiano2022-8011s-projects` with separate CLI configuration. Julio prefers a separate GitHub identity for Taste. Human creation of a dedicated automation account and its subsequent connection remain pending; Taste's new deployment is still held.
+- See the root `AGENTS.md` and `../qa/review-integration-scroll-2026-09-27/verification.md` for verified account identities and restoration evidence.
+
+## Daily swipe fix and connected editorial review — 2026-09-27
+
+- Daily uses a single app-owned motion controller in `app/src/daily-pager-motion.ts`. The outer shared Carousel has dragging disabled so its inertia cannot compete with Daily snapping. Nested rails retain the protected Carousel. All 28 protected runtime files remain unchanged.
+- Review tabs now distinguish **Live**, **Ready to publish** and **To review**. Published works expose exact Live/Draft versions. A live entry can still have a pending newer draft; never copy a draft approval onto its older published version or vice versa.
+- Double-click draft prose or use Edit text. Save draft updates its original batch JSON through the loopback review service, resets writing approval for changed prose, retains image choices/comments and preserves prior text in `direct-edit-history/`. Stale edits are rejected. The screenshot-marked header and per-entry clutter is removed.
+- Every app build exports the imported catalog to `app/public/editorial-catalog.json`. After publication, run `node app/scripts/sync-published-editorial.mjs <deployment-id>` and rebuild the review. Live uses the verified `docs/editorial/published-catalog.json` and preserved `published-assets/`; do not label an unverified local import Live.
+- Local verification passed. All 76 draft bodies/image options and browser feedback are unchanged. Current status: 20 Live, one newer Stańczyk version Ready to publish, 62 To review. The app's existing 20 records remain unchanged.
+- Publication attempt `dpl_6ipFMuNJa4qDTZAKhMKnxuZzsUwB` was blocked by Vercel because the newly recorded GitHub commit author is not authorized on the Taste account. Account linkage approval was requested; do not claim this fix is live until deployment succeeds.
+- Workflow: `docs/editorial/REVIEW_DATA_WORKFLOW.md`. Evidence: `qa/review-integration-scroll-2026-09-27/verification.md`.
+
 ## Approved painting update and publication — 2026-09-27
 
 - Applied only three requested sentence deletions: two in Saturn Devouring His Son and one in The Gulf Stream. Other 74 review bodies and all 76 image sets remain unchanged. Addressed comments moved to revision history.
