@@ -15,13 +15,13 @@
     "id": "stanczyk",
     "creator": "Jan Matejko",
     "image": "/assets/editorial/stanczyk.jpg",
-    "credit": "Jan Matejko / National Museum in Warsaw; photograph credited to Krzysztof Wilczyński/MNW.",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
-    "license": "Public domain",
+    "credit": "Jan Matejko / National Museum in Warsaw; published by WikiArt, which credits the Wikimedia museum image as its source.",
+    "sourceUrl": "https://www.wikiart.org/en/jan-matejko/sta%C5%84czyk-during-a-ball-at-the-court-of-queen-1862",
+    "license": "WikiArt marks the painting public domain. Rights and reuse terms for the published reproduction remain pending app clearance.",
     "licenseUrl": null,
     "rightsStatus": "review_only_pending_clearance",
     "imageTreatment": null,
-    "sourceNotes": "National Museum in Warsaw / Wikimedia Polska GLAM partnership image. Complete composition. No color changes made for this review."
+    "sourceNotes": "The public WikiArt artwork page supplies this 2464 × 1832 reproduction and identifies the 1862 National Museum in Warsaw painting. Its source link points to https://pl.wikipedia.org/wiki/Plik:Jan_Matejko,_Sta%C5%84czyk.jpg . It appears derived from the same museum capture as A, with a visibly brighter and warmer existing rendering. It is not claimed to be an independent photograph or a more color-accurate image. The full source file was downloaded unchanged; no grading, cropping or sharpening was applied for this review."
   },
   {
     "id": "death-of-marat",
@@ -237,6 +237,114 @@
     "licenseUrl": null,
     "rightsStatus": "review_only_pending_clearance",
     "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+    "sourceNotes": null
+  },
+  {
+    "id": "pantheon",
+    "creator": "Architect unknown; completed under Emperor Hadrian",
+    "image": "/assets/editorial/pantheon.jpg",
+    "credit": "Francesco Piranesi; Raccolta de’ tempj antichi, 1790, reproduced in Firmin Didot Frères, Opere, vol. 6, 1835–1839. University of Tokyo scan via Wikimedia Commons.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piranesi-6033.jpg",
+    "license": "Public domain / PD-Art and Public Domain Mark as recorded by Wikimedia Commons.",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": "Historical drawing",
+    "sourceNotes": "The source record dates this distinct etching to 1790. The scan comes from the 1835–1839 collected edition, not an original Roman architectural document. Full original sheet and annotations retained. Plate X is a longitudinal section through the rotunda and pronaos. Historical reconstruction and interpretation are present; it must not be presented as a modern measured structural survey."
+  },
+  {
+    "id": "raft-of-medusa",
+    "creator": "Théodore Géricault",
+    "image": "/assets/editorial/raft-of-medusa.jpg",
+    "credit": "Théodore Géricault / Musée du Louvre; collection reproduction via Wikimedia Commons.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg",
+    "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": null,
+    "sourceNotes": "Louvre original INV 4884 / C 51. The source file is 1500 pixels wide; this downloaded preview is 1280 pixels. Photographer is not individually identified in this file record. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop."
+  },
+  {
+    "id": "las-meninas",
+    "creator": "Diego Velázquez",
+    "image": "/assets/editorial/las-meninas.jpg",
+    "credit": "Diego Velázquez / Museo Nacional del Prado; Google Earth reproduction via Wikimedia Commons.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Las_Meninas_%281656%29%2C_by_Velazquez.jpg",
+    "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": null,
+    "sourceNotes": "Existing 2013 Commons rendering derived from the Prado / Google Earth image. Entire composition retained. No claim of an independent photograph from the other Prado reproduction. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop."
+  },
+  {
+    "id": "arnolfini-portrait",
+    "creator": "Jan van Eyck",
+    "image": "/assets/editorial/arnolfini-portrait.jpg",
+    "credit": "Jan van Eyck; Web site of National Gallery, London",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eyck,_Jan_van_-_Arnolfini_Portrait_-_NG.jpg",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": null,
+    "sourceNotes": "Original source dimensions: 4353 × 6000. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate."
+  },
+  {
+    "id": "gulf-stream",
+    "creator": "Winslow Homer",
+    "image": "/assets/editorial/gulf-stream.jpg",
+    "credit": "Winslow Homer; This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Gulf_Stream_MET_DP140858.jpg",
+    "license": "CC0",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+    "sourceNotes": null
+  },
+  {
+    "id": "floor-scrapers",
+    "creator": "Gustave Caillebotte",
+    "image": "/assets/editorial/floor-scrapers.jpg",
+    "credit": "Gustave Caillebotte; Google Arts &amp; Culture  — 0wHXxVpb7UjLNA",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_The_Floor_Planers_-_Google_Art_Project.jpg",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+    "sourceNotes": null
+  },
+  {
+    "id": "the-angelus",
+    "creator": "Jean-François Millet",
+    "image": "/assets/editorial/the-angelus.jpg",
+    "credit": "Jean-François Millet",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg",
+    "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+    "sourceNotes": null
+  },
+  {
+    "id": "man-controller-of-the-universe",
+    "creator": "Diego Rivera",
+    "image": "/assets/editorial/man-controller-of-the-universe.jpg",
+    "credit": "Diego Rivera",
+    "sourceUrl": "https://whitney.org/events/art-history-from-home-sept-24",
+    "license": "Copyright and reproduction permissions remain with the relevant rights holders; reference image for editorial review.",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+    "sourceNotes": null
+  },
+  {
+    "id": "retirantes",
+    "creator": "Candido Portinari",
+    "image": "/assets/editorial/retirantes.jpg",
+    "credit": "Candido Portinari",
+    "sourceUrl": "https://artsandculture.google.com/asset/northeastern-migrants/rwE_FvmjjW5QDg",
+    "license": "Copyright and reproduction permissions remain with the relevant rights holders; reference image for editorial review.",
+    "licenseUrl": null,
+    "rightsStatus": "review_only_pending_clearance",
+    "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
     "sourceNotes": null
   }
 ]

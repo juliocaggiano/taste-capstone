@@ -1,0 +1,1701 @@
+[
+  {
+    "entry": {
+      "id": "pantheon",
+      "medium": "architecture",
+      "title": "Pantheon",
+      "creator": "Architect unknown; completed under Emperor Hadrian",
+      "dateDisplay": "Early 2nd century CE",
+      "dateStart": 114,
+      "dateEnd": 128,
+      "place": "Rome, Italy",
+      "body": "The Pantheon in Rome has the columned entrance of a temple, but opens into one enormous circular room. No columns interrupt this interior: the weight passes into the thick surrounding walls.\n\nRoman builders made the concrete lighter toward the top and reduced the dome’s thickness as it rose. This reduced the weight the structure had to carry, helping the dome span the room without columns beneath it. The recessed squares in its ceiling also remove weight. At the centre, an opening called the oculus lets in rain and a beam of sunlight. The moving light makes different parts of the room visible as the day passes.\n\nThe building also connects religious belief with the authority of Rome’s rulers. Agrippa, a Roman general, commissioned an earlier Pantheon while serving Augustus, Rome’s first emperor. After decades of civil war, Augustus concentrated Rome’s government in his own hands, establishing rule by emperors. More than a century later, the present building was completed under another emperor, Hadrian. Its entrance still credits Agrippa, preserving the link with the earlier rulers. What happened inside is less certain. The Roman writer Cassius Dio associated its name with the gods and its vaulted roof with the heavens. The exact ceremonies and original purpose remain debated.\n\nIn 609, the building became a Christian church. That new use helped preserve the ancient structure, although later generations removed or replaced many of its original decorative materials.",
+      "meaningBrief": "Roman engineering reduces the dome’s weight so it can cover a vast room without internal columns. Moving light gives that space its changing character. Brief introductions to Agrippa, Augustus and Hadrian and Augustus’s concentration of government after civil war make the inscription and successive imperial patronage understandable without assuming Roman history; original ceremonies remain uncertain.",
+      "sources": [
+        {
+          "title": "Turismo Roma — Pantheon",
+          "url": "https://www.turismoroma.it/en/places/pantheon",
+          "role": "institutional",
+          "supports": "Geometry, oculus, coffers, Hadrianic completion and conversion into a church in 609."
+        },
+        {
+          "title": "Pantheon, Rome — historical and structural overview",
+          "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+          "role": "reference",
+          "supports": "Lightening of concrete, dating debate, uncertain original use and Cassius Dio’s interpretation."
+        },
+        {
+          "title": "Visitors discuss light inside the Pantheon",
+          "url": "https://www.reddit.com/r/architecture/comments/1n54cn0/",
+          "role": "public_reception",
+          "supports": "Reception clue: visitors describe the room changing with sunshine and rain; not used as historical authority."
+        },
+        {
+          "title": "Open University — Introducing the Pantheon; Eleanor Betts and Mark Wilson Jones",
+          "url": "https://www.open.edu/openlearn/history-the-arts/hadrians-rome/content-section-2.1",
+          "role": "substantive architectural interpretation",
+          "supports": "Transcript read: Agrippan inscription, replacement building completed under Hadrian, imperial context, structural devices, moving light and uncertainty about original purpose. Its 608 church date is not adopted; Rome’s institutional record supports 609."
+        },
+        {
+          "title": "Open University — Cassius Dio 53.27.1–4",
+          "url": "https://www.open.edu/openlearn/history-the-arts/hadrians-rome/content-section-5.3",
+          "role": "ancient testimony in educational edition",
+          "supports": "Ancient attributed associations of the Pantheon’s name with gods and its vaulted roof with the heavens. Not proof of the original architectural program."
+        },
+        {
+          "title": "Encyclopaedia Romana — Pantheon",
+          "url": "https://penelope.uchicago.edu/encyclopaedia_romana/romanurbs/pantheon.html",
+          "role": "scholarly reference",
+          "supports": "Dome thickness decreases toward the top; progressively lighter aggregate and coffers reduce weight. Retrieved indexed account; cosmic reconstruction is not adopted as fact."
+        },
+        {
+          "title": "British Museum — Augustus (Octavian), biography record",
+          "url": "https://www.britishmuseum.org/collection/term/BIOG57074",
+          "role": "museum reference",
+          "supports": "Augustus was Rome’s first emperor; relevant institutional biography retrieved 25 September 2026."
+        },
+        {
+          "title": "British Museum — coin R.9455, curator’s commentary",
+          "url": "https://www.britishmuseum.org/collection/object/C_R-9455",
+          "role": "museum object commentary",
+          "supports": "Agrippa identified as Octavian/Augustus’s principal general; relevant curator text retrieved 25 September 2026. The entry makes no claim about this coin’s disputed dating."
+        },
+        {
+          "title": "British Museum — Nero exhibition, From republic to empire",
+          "url": "https://www.britishmuseum.org/nero-content",
+          "role": "museum historical interpretation",
+          "supports": "Augustus emerged from decades of civil war and established personal rule while keeping republican institutions. Relevant exhibition text retrieved through the search index on 25 September 2026; direct page fetch returned 403."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+        "baselineSection": "pantheon; pre-remake batch body",
+        "changes": [
+          "Reorganizes spatial description into an explanation of how the unsupported interior works.",
+          "Adds the Agrippan inscription and its imperial connection; qualifies purpose and ancient cosmic interpretation.",
+          "Removes atmospheric filler and avoids claiming that church conversion preserved every original material."
+        ],
+        "notionUrl": null,
+        "previousBaseline": {
+          "baselineFile": null,
+          "baselineSection": null,
+          "changes": "New draft for batch 001."
+        },
+        "feedbackRevision": {
+          "date": "2026-09-25",
+          "baselineFile": "docs/editorial/batches/batch-001/architecture.json",
+          "baselineBodySha256": "a8a3adc317192a57876ab8134818ff27e72bfbe20d8be860d4849b1f9cc3855c",
+          "change": "25 September 2026: removes dimensions and sphere comparison, explains why the dome’s weight is reduced, and introduces Agrippa, Augustus and Hadrian, including Augustus’s concentration of government after civil war. Opening image, daylight and final preservation paragraph retained.",
+          "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+        }
+      },
+      "quotationNotes": [
+        "No direct quotations. Cassius Dio’s explanation and the inscription are paraphrased; neither establishes the exact original function."
+      ],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Pantheon%2C_Rome%2C_ceiling%2C_2013-03-07-4.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Pantheon,_Rome,_ceiling,_2013-03-07-4.jpg",
+        "altText": "Interior of the Pantheon, looking up toward its coffered dome and open oculus.",
+        "credit": "Szilas, 2013 / Wikimedia Commons",
+        "license": "CC0 1.0",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Photograph of the surviving interior. CC0 dedication verified on the file page."
+      },
+      "datePrecision": "approximate construction range; exact start is debated",
+      "revisionGuide": "VOICE_GUIDE v0.19; complete 21-entry remake, 24 September 2026",
+      "reviewNumber": 1,
+      "language": "en",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "approvedBy": null,
+      "approvedAt": null,
+      "reviewAvailability": "active",
+      "editorialDecisionId": "julio-2026-09-25-pantheon"
+    },
+    "selectedImage": {
+      "id": "B",
+      "label": "Piranesi dome section",
+      "description": "A longitudinal cut reveals the coffered dome and its relationship to the entrance portico.",
+      "imageUrl": "image-options/assets/architecture/Piranesi-6033.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piranesi-6033.jpg",
+      "credit": "Francesco Piranesi; Raccolta de’ tempj antichi, 1790, reproduced in Firmin Didot Frères, Opere, vol. 6, 1835–1839. University of Tokyo scan via Wikimedia Commons.",
+      "altText": "Longitudinal engraved section through the Pantheon, showing the coffered dome, interior columns and portico at right.",
+      "width": 6400,
+      "height": 4482,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain / PD-Art and Public Domain Mark as recorded by Wikimedia Commons.",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Piranesi-6033.jpg",
+      "originalImageUrl": "image-options/assets/architecture/Piranesi-6033.jpg",
+      "sourceDimensions": [
+        6400,
+        4482
+      ],
+      "sourceNotes": "The source record dates this distinct etching to 1790. The scan comes from the 1835–1839 collected edition, not an original Roman architectural document. Full original sheet and annotations retained. Plate X is a longitudinal section through the rotunda and pronaos. Historical reconstruction and interpretation are present; it must not be presented as a modern measured structural survey.",
+      "viewType": "historical_longitudinal_section",
+      "imageTreatment": "Historical drawing",
+      "objectFit": "contain",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_source_and_building_identity",
+      "reviewedOn": "2026-09-23",
+      "sha256": "b582fb49dbe57ec1b5d20a1c8ae7782c10d2be2216f2e517d8bdc51112ca81e4",
+      "fidelityNotes": "Unchanged downloaded source. No AI, invented geometry, recoloring, sharpening or image cropping was applied.",
+      "assetSha256": "b582fb49dbe57ec1b5d20a1c8ae7782c10d2be2216f2e517d8bdc51112ca81e4"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "pantheon",
+      "imageOption": "B",
+      "medium": "architecture",
+      "notes": "",
+      "storyHtml": "<p>The Pantheon in Rome has the columned entrance of a temple, but opens into one enormous circular room. No columns interrupt this interior: the weight passes into the thick surrounding walls.</p>\n<p>Roman builders made the concrete lighter toward the top and reduced the dome’s thickness as it rose. This reduced the weight the structure had to carry, helping the dome span the room without columns beneath it. The recessed squares in its ceiling also remove weight. At the centre, an opening called the oculus lets in rain and a beam of sunlight. The moving light makes different parts of the room visible as the day passes.</p>\n<p>The building also connects religious belief with the authority of Rome’s rulers. Agrippa, a Roman general, commissioned an earlier Pantheon while serving Augustus, Rome’s first emperor. After decades of civil war, Augustus concentrated Rome’s government in his own hands, establishing rule by emperors. More than a century later, the present building was completed under another emperor, Hadrian. Its entrance still credits Agrippa, preserving the link with the earlier rulers. What happened inside is less certain. The Roman writer Cassius Dio associated its name with the gods and its vaulted roof with the heavens. The exact ceremonies and original purpose remain debated.</p>\n<p>In 609, the building became a Christian church. That new use helped preserve the ancient structure, although later generations removed or replaced many of its original decorative materials.</p>",
+      "title": "Pantheon",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "9d1f6988d1ce32d4",
+    "imageHash": "862f0ff97595f836",
+    "appImage": "/assets/editorial/pantheon.jpg",
+    "appImageSha256": "b582fb49dbe57ec1b5d20a1c8ae7782c10d2be2216f2e517d8bdc51112ca81e4"
+  },
+  {
+    "entry": {
+      "id": "stanczyk",
+      "medium": "painting",
+      "title": "Stańczyk",
+      "creator": "Jan Matejko",
+      "dateDisplay": "1862",
+      "dateStart": 1862,
+      "dateEnd": null,
+      "body": "A court jester sits alone in a red costume while a royal ball continues in the next room. His hands are clasped, his face is serious, and he seems to have lost all interest in entertaining anyone. The title of Jan Matejko’s painting connects his concern to the loss of Smolensk, a fortress captured by Muscovite forces in 1514. A setback for the country has scarcely interrupted the party.\n\nStańczyk served Poland’s Renaissance rulers and became remembered as a jester whose wit included political judgment. That reputation gives the scene its irony: the man paid to make the court laugh understands the seriousness of its situation, while the people with greater authority carry on enjoying themselves. Matejko lets the contrast between the two rooms make the criticism.\n\nHe painted this in 1862, long after the defeat, when Poland itself had been divided among Russia, Prussia and Austria. For his audience, the failures of earlier rulers belonged to a history whose consequences they still lived with. Matejko also gave the jester his own face. Placing himself in that uncomfortable role suggests what he wanted historical painting to do: bring neglected questions about the country’s past back into public view.",
+      "sources": [
+        {
+          "title": "National Museum in Warsaw: Stańczyk, object 446753",
+          "url": "https://cyfrowe.mnw.art.pl/pl/zbiory/446753",
+          "role": "holding-museum catalogue",
+          "supports": "Artist, date, title, collection and historical interpretation; current catalogue cautions against a literal reconstruction of the court event."
+        },
+        {
+          "title": "National Museum in Warsaw: public catalogue record",
+          "url": "https://cyfrowe-api.mnw.art.pl/api/object/446753",
+          "role": "primary catalogue metadata",
+          "supports": "Machine-readable museum record, public curatorial description, 1862 creation date and museum public-domain label."
+        },
+        {
+          "title": "Anna Cymer: Stańczyk — Jan Matejko",
+          "url": "https://culture.pl/en/work/stanczyk-jan-matejko",
+          "role": "institutional interpretation",
+          "supports": "Jester and court contrast, national concern under partition, Matejko’s self-likeness and his understanding of historical painting."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/CALIBRATION_16_PAINTING_BOOK_FILM.md",
+        "baselineSection": "Stańczyk / A",
+        "changes": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "24 September 2026 remake: tightened the role inversion, brought the constructed-history caveat into the prose, and connected partition and self-likeness to the painting’s political account. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/Sta-czyk-197c5450872d8057a498e8437e945765?pvs=25",
+        "feedbackRevision": {
+          "date": "2026-09-25",
+          "baselineFile": "docs/editorial/batches/batch-001/painting-literature.json",
+          "baselineBodySha256": "16bf58e4082ca097e487fb2e6e55f02a3959bd37fa5ac5663f33163ac0bcb0a4",
+          "change": "25 September 2026: deletes only the first paragraph’s final historicity warning requested by Julio; all remaining prose unchanged. The warning is not relocated into the reading text.",
+          "evidenceFile": "docs/editorial/research-2026-09-25/feedback-and-release/text-revisions-notes.md"
+        },
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Restored the scene-to-history movement of preferred round 16 A; explained the court role and the later loss of independence.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "meaningBrief": "The jester takes public responsibility seriously while the court celebrates; Matejko relates that failure to a partitioned Poland.",
+      "quotationNotes": [],
+      "media": {
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Matejko%2C_Sta%C5%84czyk.jpg/1280px-Jan_Matejko%2C_Sta%C5%84czyk.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+        "altText": "A court jester dressed in red sits alone while a royal ball continues through an open doorway.",
+        "credit": "Jan Matejko / National Museum in Warsaw; photograph credited in file metadata to Krzysztof Wilczyński / Muzeum Narodowe w Warszawie.",
+        "license": "Commons marks the reproduction PD-Art/Public Domain Mark; museum catalogue marks the work public domain. The file also retains a photographer copyright field.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Exact painting, 1862. Remote review reference only. Conflicting reproduction metadata and app reuse remain to be reviewed."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "revision": 4,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "reviewNumber": 7,
+      "language": "en",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "C",
+      "label": "WikiArt color reproduction",
+      "description": "Full-color reproduction with brighter red clothing and warmer, lighter table and floor details than the museum option.",
+      "imageUrl": "image-options/assets/painting/stanczyk-wikiart.jpg",
+      "sourceUrl": "https://www.wikiart.org/en/jan-matejko/sta%C5%84czyk-during-a-ball-at-the-court-of-queen-1862",
+      "credit": "Jan Matejko / National Museum in Warsaw; published by WikiArt, which credits the Wikimedia museum image as its source.",
+      "altText": "Complete Stańczyk painting, with the seated red-clothed jester, papers on the table and court festivities at right.",
+      "width": 2464,
+      "height": 1832,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "WikiArt marks the painting public domain. Rights and reuse terms for the published reproduction remain pending app clearance.",
+      "remoteImageUrl": "https://uploads1.wikiart.org/00163/images/jan-matejko/stanczyk.jpg",
+      "originalImageUrl": "https://uploads1.wikiart.org/00163/images/jan-matejko/stanczyk.jpg",
+      "sourceDimensions": [
+        2464,
+        1832
+      ],
+      "sourceNotes": "The public WikiArt artwork page supplies this 2464 × 1832 reproduction and identifies the 1862 National Museum in Warsaw painting. Its source link points to https://pl.wikipedia.org/wiki/Plik:Jan_Matejko,_Sta%C5%84czyk.jpg . It appears derived from the same museum capture as A, with a visibly brighter and warmer existing rendering. It is not claimed to be an independent photograph or a more color-accurate image. The full source file was downloaded unchanged; no grading, cropping or sharpening was applied for this review.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-23",
+      "sha256": "a4061e5a944f9aab732df07cbdf3ab60673e063e429c18d769c2de531b72621f",
+      "assetSha256": "a4061e5a944f9aab732df07cbdf3ab60673e063e429c18d769c2de531b72621f"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "stanczyk",
+      "imageOption": "C",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>A court jester sits alone in a red costume while a royal ball continues in the next room. His hands are clasped, his face is serious, and he seems to have lost all interest in entertaining anyone. The title of Jan Matejko’s painting connects his concern to the loss of Smolensk, a fortress captured by Muscovite forces in 1514. A setback for the country has scarcely interrupted the party.</p>\n<p>Stańczyk served Poland’s Renaissance rulers and became remembered as a jester whose wit included political judgment. That reputation gives the scene its irony: the man paid to make the court laugh understands the seriousness of its situation, while the people with greater authority carry on enjoying themselves. Matejko lets the contrast between the two rooms make the criticism.</p>\n<p>He painted this in 1862, long after the defeat, when Poland itself had been divided among Russia, Prussia and Austria. For his audience, the failures of earlier rulers belonged to a history whose consequences they still lived with. Matejko also gave the jester his own face. Placing himself in that uncomfortable role suggests what he wanted historical painting to do: bring neglected questions about the country’s past back into public view.</p>",
+      "title": "Stańczyk",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "6473875e2614a6fa",
+    "imageHash": "180231973a6406d2",
+    "appImage": "/assets/editorial/stanczyk.jpg",
+    "appImageSha256": "a4061e5a944f9aab732df07cbdf3ab60673e063e429c18d769c2de531b72621f"
+  },
+  {
+    "entry": {
+      "id": "death-of-marat",
+      "medium": "painting",
+      "title": "The Death of Marat",
+      "creator": "Jacques-Louis David",
+      "dateDisplay": "1793",
+      "dateStart": 1793,
+      "dateEnd": null,
+      "body": "Jean-Paul Marat spent much of his final day working in a bath, where the water relieved a painful skin condition. He was a journalist and politician during the French Revolution, known for demanding harsh action against its enemies. In July 1793, Charlotte Corday, who opposed his politics, gained access to him and stabbed him. His friend and political ally Jacques-Louis David was asked to paint the murdered man.\n\nDavid’s Marat looks very different from the combative figure his opponents knew. His face is peaceful, his diseased skin appears unmarked, and a plain wooden box serves as his desk. He still holds a letter, as if death had interrupted his work for someone seeking help. Together, these details present a modest public servant whose concern for others continued until his last moments.\n\nThe hanging arm and lowered head would also have looked familiar to people accustomed to Christian paintings of the dead Christ. David drew on that visual tradition to give a political death the dignity of religious sacrifice. A viewer did not need to know Marat’s speeches or journalism to understand the kind of person the painting asked them to mourn.\n\nThat account had a public purpose. David was a member of the National Convention, the assembly governing France, and the painting hung where its deputies met. Marat’s role in revolutionary violence is absent from the image. What the assembly saw instead was an example of devotion to the Revolution, shaped by an artist who shared the cause.",
+      "sources": [
+        {
+          "title": "Royal Museums of Fine Arts of Belgium: Marat assassiné",
+          "url": "https://fine-arts-museum.be/fr/la-collection/jacques-louis-david-marat-assassine",
+          "role": "holding-museum catalogue",
+          "supports": "1793 original, David, inventory 3260; holding-museum identity reference."
+        },
+        {
+          "title": "Musée du Louvre: Une icône de la Révolution",
+          "url": "https://www.louvre.fr/expositions-et-evenements/expositions/jacques-louis-david/oeuvres-en-lumiere/une-icone-de-la-revolution",
+          "role": "curatorial analysis",
+          "supports": "Convention commission and David’s deputy status; idealized body, Christian martyr imagery, Caravaggio comparison, simple living and paired Convention display. French page freshly reread 24 September 2026; local reproduction visually inspected."
+        },
+        {
+          "title": "Stanford: The life and radicalization of Jean-Paul Marat",
+          "url": "https://news.stanford.edu/stories/2025/11/jean-paul-marat-biography-history-prophet-terror-book",
+          "role": "historian’s account and authorized biography excerpt",
+          "supports": "Marat’s advocacy of executing perceived revolutionary enemies; Corday’s killing; skin illness and medicinal baths. Freshly reread 24 September 2026; no specific medical diagnosis asserted."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/CALIBRATION_09_PAINTING_BOOK_FILM.md",
+        "baselineSection": "The Death of Marat / A",
+        "changes": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "24 September 2026 remake: added Marat’s advocacy of executions to distinguish the historical politician from David’s martyr image; connected directly inspected body and desk details to idealization; retained commission and political display. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/The-Death-of-Marat-a7d07117ffee4ce58dba61a3846b0908?pvs=25",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Joined Marat’s death, David’s choices and the painting’s public use in one chronological account, following preferred round 9 A.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "meaningBrief": "David uses a religious language of sacrifice to shape a political ally into a revolutionary martyr.",
+      "quotationNotes": [],
+      "media": {
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+        "altText": "The full painting of Marat lying in his bath, with a letter in his hand, his other arm hanging down, and a wooden box beside him.",
+        "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium; Google Art Project reproduction, derivative file uploaded by Wikimedia Commons user Pixel8tor.",
+        "license": "Commons identifies this faithful reproduction as PD-Art/Public Domain Mark 1.0; app reuse is not yet cleared.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Full Brussels original, inventory 3260. Selected preview is 1920 × 2471 pixels, from the 3885 × 5000 Commons file. Replaces the 295-pixel museum image after visual QA. This is a derivative Google Art Project reproduction, not a new photograph by the museum photographer credited for the previous image."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "reviewNumber": 8,
+      "language": "en",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "Google Art reproduction",
+      "description": "Cooler, muted reproduction with a gray background and clearly visible letter, knife and inscription.",
+      "imageUrl": "image-options/assets/painting/death-of-marat-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "credit": "Jacques-Louis David / Royal Museums of Fine Arts of Belgium / Google Arts & Culture; existing Commons derivative by Pixel8tor.",
+      "altText": "Full painting: death of marat",
+      "width": 1920,
+      "height": 2471,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2FXD.jpg",
+      "sourceDimensions": [
+        3885,
+        5000
+      ],
+      "sourceNotes": "Brussels original, inventory 3260. Existing source derivative retained unchanged; no grading or cropping performed for this review.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-23",
+      "sha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439",
+      "assetSha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "death-of-marat",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>Jean-Paul Marat spent much of his final day working in a bath, where the water relieved a painful skin condition. He was a journalist and politician during the French Revolution, known for demanding harsh action against its enemies. In July 1793, Charlotte Corday, who opposed his politics, gained access to him and stabbed him. His friend and political ally Jacques-Louis David was asked to paint the murdered man.</p>\n<p>David’s Marat looks very different from the combative figure his opponents knew. His face is peaceful, his diseased skin appears unmarked, and a plain wooden box serves as his desk. He still holds a letter, as if death had interrupted his work for someone seeking help. Together, these details present a modest public servant whose concern for others continued until his last moments.</p>\n<p>The hanging arm and lowered head would also have looked familiar to people accustomed to Christian paintings of the dead Christ. David drew on that visual tradition to give a political death the dignity of religious sacrifice. A viewer did not need to know Marat’s speeches or journalism to understand the kind of person the painting asked them to mourn.</p>\n<p>That account had a public purpose. David was a member of the National Convention, the assembly governing France, and the painting hung where its deputies met. Marat’s role in revolutionary violence is absent from the image. What the assembly saw instead was an example of devotion to the Revolution, shaped by an artist who shared the cause.</p>",
+      "title": "The Death of Marat",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "f132128941b635fc",
+    "imageHash": "d55c2188d19def55",
+    "appImage": "/assets/editorial/death-of-marat.jpg",
+    "appImageSha256": "7663a996b2798081a7b20d28bea309c2256e8fc4e4917d49c3d06403568f5439"
+  },
+  {
+    "entry": {
+      "id": "the-ambassadors",
+      "medium": "painting",
+      "title": "The Ambassadors",
+      "creator": "Hans Holbein the Younger",
+      "dateDisplay": "1533",
+      "dateStart": 1533,
+      "dateEnd": null,
+      "body": "The strange shape at these men’s feet is a skull. Seen from directly in front, it looks stretched almost beyond recognition; viewed from a sharp angle on the right, it falls into proportion. Holbein placed this optical surprise beneath a portrait of two French diplomats whose clothes and possessions advertise almost everything a successful man could want in 1533: wealth, education and influence.\n\nThe objects between them include books, a globe and instruments for measuring the heavens. These were signs of learning as well as expensive possessions. Yet the skull adds something their accomplishments cannot secure. It belongs to the tradition of *memento mori*, a Latin phrase meaning “remember that you must die.” European artists often included reminders of death in portraits, placing a person’s status beside the knowledge that it would not last forever.\n\nHolbein makes that familiar reminder require an actual change of position. The distortion, called anamorphosis, lets the skull become clear as the impressive portrait slips out of its usual view. Its Christian context appears in a second, easily missed detail: a crucifix partly hidden behind the curtain at the upper left. For the painting’s original audience, death was bound up with questions of salvation and life after death. The diplomats’ achievements fill most of the picture, but those beliefs give it another measure of a human life.",
+      "sources": [
+        {
+          "title": "National Gallery: The Ambassadors",
+          "url": "https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors",
+          "role": "holding-museum catalogue and interpretation",
+          "supports": "1533 identity; diplomats Jean de Dinteville and Georges de Selve; wealth and learning; distorted skull seen from the right; crucifix and Christian salvation."
+        },
+        {
+          "title": "Susan Foister: The Ambassadors, National Gallery catalogue, 2024",
+          "url": "https://www.nationalgallery.org.uk/paintings/catalogues/foister-2024/the-ambassadors",
+          "role": "substantive catalogue research",
+          "supports": "Mortality and Christian redemption alongside the portrait’s worldly accomplishments; interpretive complexities and historical context."
+        }
+      ],
+      "provenance": {
+        "baselineFile": "docs/editorial/CALIBRATION_07_PAINTING_BOOK_FILM.md",
+        "baselineSection": "The Ambassadors / A",
+        "changes": [
+          "Prose retained; source links removed from the article body and recorded separately.",
+          "24 September 2026 remake: made the viewing action and memento mori tradition easier to follow, then connected mortality directly to the crucifix’s Christian promise. Preserved the central account without adding an instrument inventory or speculative viewing-position thesis. New candidate; no approval inferred."
+        ],
+        "notionUrl": "https://app.notion.com/p/The-Ambassadors-a5a7e834adf345e9a472402b73767bc7?pvs=25",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Led with the defining skull and explained the objects, memento mori and crucifix together, following round 7 A.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "meaningBrief": "The distorted skull places worldly accomplishments within a Christian meditation on death and salvation.",
+      "quotationNotes": [],
+      "media": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:HOLBEIN-Hans-the-Younger-The-Ambassadors.jpg",
+        "altText": "Two richly dressed diplomats stand beside shelves of instruments and books, with a distorted skull across the foreground.",
+        "credit": "Hans Holbein the Younger; collection: National Gallery, London; digital reproduction via Wikimedia Commons. Photographer not identified.",
+        "license": "Commons marks this faithful reproduction PD-Art/Public Domain Mark.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Exact work matched to the National Gallery catalogue. Commons lists a third-party reproduction source; retain provenance and review image quality and app rights separately."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "reviewNumber": 9,
+      "language": "en",
+      "imageApprovalStatus": "pending_review",
+      "publicationStatus": "not_imported",
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "B",
+      "label": "Google Art reproduction",
+      "description": "Detailed reproduction with deep green curtains and warmer gold tones. No visible watermark.",
+      "imageUrl": "image-options/assets/painting/the-ambassadors-b.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+      "credit": "Hans Holbein the Younger / National Gallery, London / Google Arts & Culture, via Wikimedia Commons.",
+      "altText": "Full painting: the ambassadors",
+      "width": 1920,
+      "height": 1892,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/1920px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+      "sourceDimensions": [
+        30000,
+        29560
+      ],
+      "sourceNotes": "Complete composition, including the upper-left crucifix and foreground skull. Review image is 1920 pixels wide from the 30000 × 29560 source; this is one option, not several resolution variants.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-23",
+      "sha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47",
+      "assetSha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "the-ambassadors",
+      "imageOption": "B",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>The strange shape at these men’s feet is a skull. Seen from directly in front, it looks stretched almost beyond recognition; viewed from a sharp angle on the right, it falls into proportion. Holbein placed this optical surprise beneath a portrait of two French diplomats whose clothes and possessions advertise almost everything a successful man could want in 1533: wealth, education and influence.</p>\n<p>The objects between them include books, a globe and instruments for measuring the heavens. These were signs of learning as well as expensive possessions. Yet the skull adds something their accomplishments cannot secure. It belongs to the tradition of <em>memento mori</em>, a Latin phrase meaning “remember that you must die.” European artists often included reminders of death in portraits, placing a person’s status beside the knowledge that it would not last forever.</p>\n<p>Holbein makes that familiar reminder require an actual change of position. The distortion, called anamorphosis, lets the skull become clear as the impressive portrait slips out of its usual view. Its Christian context appears in a second, easily missed detail: a crucifix partly hidden behind the curtain at the upper left. For the painting’s original audience, death was bound up with questions of salvation and life after death. The diplomats’ achievements fill most of the picture, but those beliefs give it another measure of a human life.</p>",
+      "title": "The Ambassadors",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "2a0536f2d29f9571",
+    "imageHash": "d382cc2e583dfed3",
+    "appImage": "/assets/editorial/the-ambassadors.jpg",
+    "appImageSha256": "5a09bdad6da9dcca717f5466e5db8111807369ed46a6463f9d5b7094a1c58a47"
+  },
+  {
+    "entry": {
+      "id": "raft-of-medusa",
+      "title": "The Raft of the Medusa",
+      "creator": "Théodore Géricault",
+      "dateDisplay": "1818–1819",
+      "dateStart": 1818,
+      "dateEnd": 1819,
+      "body": "In 1816, the French ship *Méduse* ran aground off West Africa while carrying passengers and officials to Senegal, a colony France was reclaiming. Its boats could not hold everyone on board, so a makeshift wooden raft was built for about 150 people. The boats initially towed it, but the tow was abandoned and the raft was left to drift. Its occupants had almost no food and no reliable supply of drinking water.\n\nDuring thirteen days at sea, people died from exposure, hunger and violence among those stranded. Some survivors ate flesh from the dead; others were killed or thrown overboard. Only fifteen people were alive when a ship found them. Two survivors published an account, and the disaster became a scandal in France because the captain had received his command through royal favour despite his lack of recent experience at sea.\n\nGéricault interviewed survivors and considered several moments from their account before choosing the sighting of a distant ship. The people at the top of the group wave desperately to attract it, while those below include men too weak to respond and bodies that can no longer be helped. The tiny vessel on the horizon explains why hope and exhaustion coexist on the raft.\n\nExhibited in 1819, the enormous painting gave a recent, disputed disaster the scale usually reserved for military victories or religious history. A Black man raises the signal at the highest point of the group. In a story that began with a colonial expedition, Géricault placed the prospect of everyone’s rescue in the hands of someone whom colonial society assigned an inferior position.",
+      "meaningBrief": "A colonial expedition becomes an abandonment scandal, with violence and cannibalism essential to understanding the survivors’ ordeal.",
+      "sources": [
+        {
+          "title": "Musée du Louvre: Le Radeau de la Méduse, INV 4884",
+          "url": "https://collections.louvre.fr/ark:/53355/cl010059199",
+          "role": "holding-museum catalogue",
+          "supports": "Exact Louvre painting identity and dating; distinguishes it from preliminary cannibalism studies."
+        },
+        {
+          "title": "Musée du Louvre: Guillon Lethière educational dossier, pages 36–37",
+          "url": "https://api-www.louvre.fr/sites/default/files/2024-10/V4_DOSSIER_PEDAGOGIQUE_GUILLON_LETHIERE.pdf",
+          "role": "substantive museum interpretation",
+          "supports": "Royalist captain, colonial mission, survivors’ violence and cannibalism; interviews; 1818–1819 production; exhibition scale; Black signalman and Géricault’s opposition to slavery. Pages 36–37 read in full."
+        },
+        {
+          "title": "Claire Black McCoy, Smarthistory: Géricault, Raft of the Medusa",
+          "url": "https://smarthistory.org/theodore-gericault-raft-of-the-medusa/",
+          "role": "art-historical analysis",
+          "supports": "Political patronage, lifeboat privilege, abandoned raft, thirteen days and fifteen rescued, survivor research, distant ship. Substantive indexed article text was read; direct page returned 403."
+        },
+        {
+          "title": "Musée du Louvre: Romanticism, topicality, sensuality",
+          "url": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/romanticism-topicality-sensuality",
+          "role": "museum visitor interpretation",
+          "supports": "Thirteen-day ordeal, starvation and cannibalism; 1819 exhibition and contemporary scandal."
+        },
+        {
+          "title": "Howard Oakley — The Story in Paintings: Géricault’s Raft of the Medusa",
+          "url": "https://eclecticlight.co/2016/03/14/the-story-in-paintings-gericaults-raft-of-the-medusa/",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: evacuation sequence, captain’s recent experience, survivor research and choice of sighting the Argus. Cannibalism remains grounded in the existing research.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "painting",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Clarified ship, boats, raft and abandoned tow; retained cannibalism; replaced the dramatic blame sentence with the captain’s appointment and public scandal.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-raft-of-medusa-a.jpg",
+        "referenceUrl": "https://collections.louvre.fr/ark:/53355/cl010059199",
+        "altText": "Complete painting of shipwreck survivors on a crowded raft, with bodies in front and men signalling toward a tiny ship on the horizon.",
+        "credit": "Théodore Géricault",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "Louvre reproduction",
+      "description": "Subdued olive tones and softer golden light in the sky.",
+      "imageUrl": "image-options/assets/painting/b002-raft-of-medusa-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg",
+      "museumReferenceUrl": "https://collections.louvre.fr/ark:/53355/cl010059199",
+      "credit": "Théodore Géricault / Musée du Louvre; collection reproduction via Wikimedia Commons.",
+      "altText": "Complete painting of shipwreck survivors on a crowded raft, with bodies in front and men signalling toward a tiny ship on the horizon.",
+      "width": 1280,
+      "height": 872,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg/1280px-G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/G%C3%A9ricault_-_Le_radeau_de_la_M%C3%A9duse%2C_INV_4884_%3B_C_51.jpg",
+      "sourceNotes": "Louvre original INV 4884 / C 51. The source file is 1500 pixels wide; this downloaded preview is 1280 pixels. Photographer is not individually identified in this file record. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "690759d752a781f97c4625fde40fc7d0d229ebab4ab358ec78f43cdf02d7fdb2",
+      "sourceDimensions": [
+        1500,
+        1022
+      ],
+      "assetSha256": "690759d752a781f97c4625fde40fc7d0d229ebab4ab358ec78f43cdf02d7fdb2"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "raft-of-medusa",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>In 1816, the French ship <em>Méduse</em> ran aground off West Africa while carrying passengers and officials to Senegal, a colony France was reclaiming. Its boats could not hold everyone on board, so a makeshift wooden raft was built for about 150 people. The boats initially towed it, but the tow was abandoned and the raft was left to drift. Its occupants had almost no food and no reliable supply of drinking water.</p>\n<p>During thirteen days at sea, people died from exposure, hunger and violence among those stranded. Some survivors ate flesh from the dead; others were killed or thrown overboard. Only fifteen people were alive when a ship found them. Two survivors published an account, and the disaster became a scandal in France because the captain had received his command through royal favour despite his lack of recent experience at sea.</p>\n<p>Géricault interviewed survivors and considered several moments from their account before choosing the sighting of a distant ship. The people at the top of the group wave desperately to attract it, while those below include men too weak to respond and bodies that can no longer be helped. The tiny vessel on the horizon explains why hope and exhaustion coexist on the raft.</p>\n<p>Exhibited in 1819, the enormous painting gave a recent, disputed disaster the scale usually reserved for military victories or religious history. A Black man raises the signal at the highest point of the group. In a story that began with a colonial expedition, Géricault placed the prospect of everyone’s rescue in the hands of someone whom colonial society assigned an inferior position.</p>",
+      "title": "The Raft of the Medusa",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "4c9b1ea114df5f41",
+    "imageHash": "9b06c266665416bf",
+    "appImage": "/assets/editorial/raft-of-medusa.jpg",
+    "appImageSha256": "690759d752a781f97c4625fde40fc7d0d229ebab4ab358ec78f43cdf02d7fdb2"
+  },
+  {
+    "entry": {
+      "id": "potato-eaters",
+      "title": "The Potato Eaters",
+      "creator": "Vincent van Gogh",
+      "dateDisplay": "1885",
+      "dateStart": 1885,
+      "dateEnd": null,
+      "body": "When Van Gogh painted *The Potato Eaters* in 1885, he was living among farming families in Nuenen, a village in the Netherlands. He wanted a substantial painting of the people he had been drawing for months. The result shows five figures sharing potatoes and coffee beneath a single lamp, with the cramped room and plain meal left plainly visible.\n\nTheir hands explain what mattered to him. Writing to his brother Theo, Van Gogh said that the hands reaching into the dish had also worked the soil. The meal was the result of their own labour. He made the faces rough and the fingers knotted because a polished, flattering portrait would have weakened that connection between how these people worked and how they lived.\n\nEven the colours belong to the subject. Van Gogh compared the faces to dusty, unpeeled potatoes and wanted the room to suggest smoke, cooking and the smell of food. This was a deliberate departure from a comfortable image of country life. He was trying to paint a farming household in terms its inhabitants might recognise, including the things a prosperous visitor could find unattractive.\n\nHis letters make the intention unusually clear. Discussing how to paint rural life, he insisted:\n\n> But a peasant painting mustn’t become perfumed.",
+      "meaningBrief": "Van Gogh wanted the meal, bodies and room to communicate the farming labour that sustained the household.",
+      "sources": [
+        {
+          "title": "Van Gogh Museum: The Potato Eaters, s0005V1962",
+          "url": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+          "role": "holding-museum catalogue",
+          "supports": "Exact final 1885 Amsterdam painting, F82 / JH764; excludes the earlier Kröller-Müller study F78."
+        },
+        {
+          "title": "Van Gogh Museum: The Potato Eaters, Google Arts & Culture collection account",
+          "url": "https://artsandculture.google.com/asset/the-potato-eaters/7gFcKarE9QeaXw?avm=2&hl=en",
+          "role": "museum-authored interpretation",
+          "supports": "Peasant life without sentimentality; earth-coloured faces and hands that earned the food through labour; Nuenen and April–May 1885. Full substantive text read."
+        },
+        {
+          "title": "Vincent van Gogh: Letter 497 to Theo, 30 April 1885",
+          "url": "https://vangoghletters.org/vg/letters/let497/letter.html",
+          "role": "artist’s primary account",
+          "supports": "Hands and honest labour; resistance to prettified rural life; smell of cooking, smoke and potatoes; exact seven-word quotation. Full letter read."
+        },
+        {
+          "title": "Vincent van Gogh: Letter 499 to Theo, 2 May 1885",
+          "url": "https://vangoghletters.org/vg/letters/let499/letter.html",
+          "role": "artist’s primary account",
+          "supports": "Deliberate dark interior and repainting faces in the colours of dusty, unpeeled potatoes. Full relevant letter text read."
+        }
+      ],
+      "quotationNotes": [
+        {
+          "quote": "But a peasant painting mustn’t become perfumed.",
+          "sourceUrl": "https://vangoghletters.org/vg/letters/let497/letter.html",
+          "locator": "Letter 497 to Theo, 30 April 1885, paragraph discussing the smell of a peasant painting.",
+          "edition": "Vincent van Gogh — The Letters, English translation, Van Gogh Museum / Huygens ING.",
+          "verification": "Exact wording checked against the letter; modern English translation acknowledged in metadata, not repeated in reading prose.",
+          "wordCount": 7
+        }
+      ],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Connected the hands, food and colours to the artist’s stated purpose, retaining the verified letter excerpt and the plain explanation praised in round 15 A.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-potato-eaters-a.jpg",
+        "referenceUrl": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+        "altText": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
+        "credit": "Vincent van Gogh",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "B",
+      "label": "Museum / Google Art",
+      "description": "Brighter yellow highlights on the faces and meal, with clear painted detail.",
+      "imageUrl": "image-options/assets/painting/b002-potato-eaters-b.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg",
+      "museumReferenceUrl": "https://www.vangoghmuseum.nl/en/collection/s0005V1962",
+      "credit": "Vincent van Gogh / Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation); Google Art Project, via Wikimedia Commons.",
+      "altText": "Complete 1885 Amsterdam painting of five rural workers eating potatoes and pouring a drink beneath a hanging lamp in a dark cottage.",
+      "width": 1920,
+      "height": 1361,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg/1920px-Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vincent_van_Gogh_-_The_potato_eaters_-_Google_Art_Project_%285776925%29.jpg",
+      "sourceNotes": "Exact final Amsterdam painting. File suffix (5776925) is essential: a different Commons file with an otherwise similar Google Art Project name depicts the earlier Kröller-Müller study F78, which was rejected. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "5bcd0c1b930e04565f174aebd8e15bd83a69747cbda6fdc5ecfec30e9140c3a8",
+      "sourceDimensions": [
+        3500,
+        2481
+      ],
+      "assetSha256": "5bcd0c1b930e04565f174aebd8e15bd83a69747cbda6fdc5ecfec30e9140c3a8"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "potato-eaters",
+      "imageOption": "B",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>When Van Gogh painted <em>The Potato Eaters</em> in 1885, he was living among farming families in Nuenen, a village in the Netherlands. He wanted a substantial painting of the people he had been drawing for months. The result shows five figures sharing potatoes and coffee beneath a single lamp, with the cramped room and plain meal left plainly visible.</p>\n<p>Their hands explain what mattered to him. Writing to his brother Theo, Van Gogh said that the hands reaching into the dish had also worked the soil. The meal was the result of their own labour. He made the faces rough and the fingers knotted because a polished, flattering portrait would have weakened that connection between how these people worked and how they lived.</p>\n<p>Even the colours belong to the subject. Van Gogh compared the faces to dusty, unpeeled potatoes and wanted the room to suggest smoke, cooking and the smell of food. This was a deliberate departure from a comfortable image of country life. He was trying to paint a farming household in terms its inhabitants might recognise, including the things a prosperous visitor could find unattractive.</p>\n<p>His letters make the intention unusually clear. Discussing how to paint rural life, he insisted:</p>\n<blockquote>But a peasant painting mustn’t become perfumed.</blockquote>",
+      "title": "The Potato Eaters",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "aa7562ef6f50c0e8",
+    "imageHash": "7dd4d50d2fd5fe15",
+    "appImage": "/assets/editorial/potato-eaters.jpg",
+    "appImageSha256": "5bcd0c1b930e04565f174aebd8e15bd83a69747cbda6fdc5ecfec30e9140c3a8"
+  },
+  {
+    "entry": {
+      "id": "the-gleaners",
+      "title": "The Gleaners",
+      "creator": "Jean-François Millet",
+      "dateDisplay": "1857",
+      "dateStart": 1857,
+      "dateEnd": null,
+      "body": "After a harvest, poor villagers could collect the grain that remained on the ground. This practice, called gleaning, provided food for people who did not own the crop and could not afford to let its leftovers go to waste. Millet’s three women are doing that work: bending, searching and gathering small handfuls while the main harvest is piled up behind them.\n\nThe distance between those handfuls and the loaded carts gives the painting its social meaning. This is a productive field, but its abundance belongs to someone else. The women must spend hours looking for what the harvesters have missed. Millet, who had worked on the land himself, made their repeated movements the main event rather than a small, picturesque detail in a country landscape.\n\nThat emphasis troubled some visitors to the Paris Salon, the major public art exhibition where the painting appeared in 1857. Less than a decade earlier, the Revolution of 1848 had brought working people’s demands and violent conflict into French politics. Poor people shown on this scale could seem like a political presence, even when they were doing nothing more confrontational than gathering food.\n\nThe women neither appeal to us nor stop working. Their prominence is enough to make an uncomfortable relationship clear: the countryside could produce a generous harvest while some of the people living there depended on its scraps.",
+      "meaningBrief": "Poor people depend on leftovers beside a plentiful harvest; the painting’s prominence made that relationship politically uncomfortable.",
+      "sources": [
+        {
+          "title": "Musée d’Orsay: Des glaneuses",
+          "url": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+          "role": "holding-museum catalogue and substantive interpretation",
+          "supports": "1857 painting; poorest rural labourers gleaning; repetition of bending, picking and straightening; contrast with abundant harvest and restrained dignity. Full curatorial text read."
+        },
+        {
+          "title": "Ross Finocchio, Metropolitan Museum of Art: Nineteenth-Century French Realism",
+          "url": "https://www.metmuseum.org/ru/essays/nineteenth-century-french-realism",
+          "role": "institutional art-historical essay",
+          "supports": "1848 revolution, realism’s attention to ordinary workers, 1857 Salon controversy and perceived political subversion; sculptural dignity of Millet’s figures. The article body is in English on this verified URL."
+        },
+        {
+          "title": "Smarthistory: Millet, The Gleaners",
+          "url": "https://smarthistory.org/millet-the-gleaners/",
+          "role": "corroborating art-historical interpretation",
+          "supports": "Class contrast and political reception. Indexed substantive material read; direct page access was blocked. The Orsay and Met accounts supply the main evidence."
+        },
+        {
+          "title": "Howard Oakley — The Real Country: Gleaning",
+          "url": "https://eclecticlight.co/2024/09/12/the-real-country-4-gleaning/",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: comparison of depictions of gleaning, Millet’s agricultural background and the uncomfortable emphasis on poverty.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Explained gleaning as a practical means of obtaining food, then why its portrayal unsettled the Salon audience.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-the-gleaners-a.jpg",
+        "referenceUrl": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+        "altText": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
+        "credit": "Jean-François Millet",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "Orsay / Google Art",
+      "description": "Soft grey-green tones, with clear detail in the women and distant harvest.",
+      "imageUrl": "image-options/assets/painting/b002-the-gleaners-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+      "museumReferenceUrl": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+      "credit": "Jean-François Millet / Musée d’Orsay; Google Art Project, via Wikimedia Commons.",
+      "altText": "Complete painting of three women bending and collecting leftover wheat in front of a distant, abundant harvest.",
+      "width": 1920,
+      "height": 1437,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1920px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+      "sourceNotes": "Complete Musée d’Orsay painting RF 592, published Google Art Project reproduction. Existing rendering downloaded unchanged. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "d4edfbbbb3396687ab2a1e7294e95a5ce02f971a9328add7b728e7a34804b635",
+      "sourceDimensions": [
+        5354,
+        4006
+      ],
+      "assetSha256": "d4edfbbbb3396687ab2a1e7294e95a5ce02f971a9328add7b728e7a34804b635"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "the-gleaners",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>After a harvest, poor villagers could collect the grain that remained on the ground. This practice, called gleaning, provided food for people who did not own the crop and could not afford to let its leftovers go to waste. Millet’s three women are doing that work: bending, searching and gathering small handfuls while the main harvest is piled up behind them.</p>\n<p>The distance between those handfuls and the loaded carts gives the painting its social meaning. This is a productive field, but its abundance belongs to someone else. The women must spend hours looking for what the harvesters have missed. Millet, who had worked on the land himself, made their repeated movements the main event rather than a small, picturesque detail in a country landscape.</p>\n<p>That emphasis troubled some visitors to the Paris Salon, the major public art exhibition where the painting appeared in 1857. Less than a decade earlier, the Revolution of 1848 had brought working people’s demands and violent conflict into French politics. Poor people shown on this scale could seem like a political presence, even when they were doing nothing more confrontational than gathering food.</p>\n<p>The women neither appeal to us nor stop working. Their prominence is enough to make an uncomfortable relationship clear: the countryside could produce a generous harvest while some of the people living there depended on its scraps.</p>",
+      "title": "The Gleaners",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "27dc86341f00f6d3",
+    "imageHash": "655dd855f071a6ed",
+    "appImage": "/assets/editorial/the-gleaners.jpg",
+    "appImageSha256": "d4edfbbbb3396687ab2a1e7294e95a5ce02f971a9328add7b728e7a34804b635"
+  },
+  {
+    "entry": {
+      "id": "las-meninas",
+      "title": "Las Meninas",
+      "creator": "Diego Velázquez",
+      "dateDisplay": "1656",
+      "dateStart": 1656,
+      "dateEnd": null,
+      "body": "In 1656, Diego Velázquez had spent more than thirty years working for King Philip IV of Spain. He painted royal portraits, but he also held responsibilities within the palace household. *Las Meninas* brings those two parts of his life together. The king’s young daughter, Margarita, stands among her attendants, while Velázquez appears beside a large canvas, brush in hand.\n\nThe room reveals how much work surrounded an ordinary moment in a royal child’s day. One attendant kneels to offer Margarita a small vessel; others watch over her or provide company and entertainment. The title means “the maids of honour,” referring to the young women who served her. Although the princess attracts much of the attention, the picture also records the people whose duties kept court life running.\n\nVelázquez gave himself an unusually prominent place in that company. In Spain, painting could still be regarded as manual work, a classification that complicated an artist’s claim to noble status. Here he appears as a trusted presence in the royal household, practising work that requires thought and judgment. The red cross on his chest marks the Order of Santiago, a prestigious order of knights he entered in 1659; it was added after the original painting.\n\nA small mirror on the back wall contains the king and queen, whose presence helps explain why several figures look towards the space in front of us. The exact reflection has prompted much debate, but the painting’s social argument is easier to follow. The royal family occupies a world that Velázquez both serves and creates, and he has made his own place within it impossible to overlook.",
+      "meaningBrief": "The court’s hierarchy includes the painter, whose prominent self-portrait asserts the social and intellectual standing of his work.",
+      "sources": [
+        {
+          "title": "Javier Portús, Museo del Prado: Las Meninas",
+          "url": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+          "role": "holding-museum catalogue and curatorial interpretation",
+          "supports": "1656, Margarita and her parents in the mirror; court setting; the viewer’s participation; multiple meanings including the defence of painting’s nobility. Substantial catalogue paragraphs were returned and read through the search index; direct page returned 403."
+        },
+        {
+          "title": "Marie-Bélisandre Vaulet-Lagnier, GrandPalaisRmn: Les Ménines",
+          "url": "https://panoramadelart.com/analyse/les-menines",
+          "role": "substantive museum educational interpretation",
+          "supports": "Royal sitters and viewer position; Velázquez’s court career and painting’s claim to intellectual status. Full article read. Speculative dynastic revisions and the posthumous-cross anecdote are not used."
+        },
+        {
+          "title": "Letha Ch’ien, Smarthistory: Diego Velázquez, Las Meninas",
+          "url": "https://smarthistory.org/diego-velazquez-las-meninas/",
+          "role": "art-historical interpretation",
+          "supports": "Mirror ambiguity, painter’s prominence, social status of painting and relationship between artistic representation and royal power. Substantive indexed article paragraphs were read; direct page returned 403."
+        },
+        {
+          "title": "Colin Marshall / Open Culture — Las Meninas and its interpreters",
+          "url": "https://www.openculture.com/2025/02/what-makes-diego-velazquezs-las-meninas-one-of-the-most-fascinating-paintings-in-art-history.html",
+          "role": "substantial interpretation",
+          "supports": "Full essay read: social ambition, Order of Santiago awarded in 1659, later red cross and the argument for painting’s standing. Not a claim of full access to embedded videos.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "quotationNotes": [],
+      "medium": "painting",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-002",
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "sourceBatchId": "batch-002",
+        "researchFile": "docs/editorial/batches/batch-002/paintings-research.md",
+        "basis": "New researched review candidate guided by VOICE_GUIDE v0.20 and the full user calibration record. No previous artwork approval transfers to this text.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Moved court service and the artist’s status to the centre; reduced the mirror puzzle to a brief orienting explanation and explained the later red cross.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b002-las-meninas-a.jpg",
+        "referenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+        "altText": "Complete painting of Princess Margarita and her attendants, with Velázquez beside a canvas, a dog in front, a distant doorway and the king and queen reflected in a mirror.",
+        "credit": "Diego Velázquez",
+        "license": "Historic painting in the public domain; reproduction-specific source statements recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "Prado / Google Earth",
+      "description": "Darker amber light and deep shadows around the figures.",
+      "imageUrl": "image-options/assets/painting/b002-las-meninas-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Las_Meninas_%281656%29%2C_by_Velazquez.jpg",
+      "museumReferenceUrl": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+      "credit": "Diego Velázquez / Museo Nacional del Prado; Google Earth reproduction via Wikimedia Commons.",
+      "altText": "Complete painting of Princess Margarita and her attendants, with Velázquez beside a canvas, a dog in front, a distant doorway and the king and queen reflected in a mirror.",
+      "width": 1920,
+      "height": 2210,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Wikimedia Commons marks the historic painting and faithful reproduction public domain (PD-Art / Public Domain Mark). Public app-use clearance remains separate from this source statement.",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Las_Meninas_%281656%29%2C_by_Velazquez.jpg/1920px-Las_Meninas_%281656%29%2C_by_Velazquez.jpg",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Las_Meninas_%281656%29%2C_by_Velazquez.jpg",
+      "sourceNotes": "Existing 2013 Commons rendering derived from the Prado / Google Earth image. Entire composition retained. No claim of an independent photograph from the other Prado reproduction. Downloaded unchanged; no AI recreation, local colour grading, sharpening or composition crop.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "4bcf0d1dbd544f31c1c22302a357c96542c3b71cfa21d160eae575057a24c085",
+      "sourceDimensions": [
+        3475,
+        4000
+      ],
+      "assetSha256": "4bcf0d1dbd544f31c1c22302a357c96542c3b71cfa21d160eae575057a24c085"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "las-meninas",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>In 1656, Diego Velázquez had spent more than thirty years working for King Philip IV of Spain. He painted royal portraits, but he also held responsibilities within the palace household. <em>Las Meninas</em> brings those two parts of his life together. The king’s young daughter, Margarita, stands among her attendants, while Velázquez appears beside a large canvas, brush in hand.</p>\n<p>The room reveals how much work surrounded an ordinary moment in a royal child’s day. One attendant kneels to offer Margarita a small vessel; others watch over her or provide company and entertainment. The title means “the maids of honour,” referring to the young women who served her. Although the princess attracts much of the attention, the picture also records the people whose duties kept court life running.</p>\n<p>Velázquez gave himself an unusually prominent place in that company. In Spain, painting could still be regarded as manual work, a classification that complicated an artist’s claim to noble status. Here he appears as a trusted presence in the royal household, practising work that requires thought and judgment. The red cross on his chest marks the Order of Santiago, a prestigious order of knights he entered in 1659; it was added after the original painting.</p>\n<p>A small mirror on the back wall contains the king and queen, whose presence helps explain why several figures look towards the space in front of us. The exact reflection has prompted much debate, but the painting’s social argument is easier to follow. The royal family occupies a world that Velázquez both serves and creates, and he has made his own place within it impossible to overlook.</p>",
+      "title": "Las Meninas",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "26dc0f4dec957ce4",
+    "imageHash": "0350f0b3b54087f6",
+    "appImage": "/assets/editorial/las-meninas.jpg",
+    "appImageSha256": "4bcf0d1dbd544f31c1c22302a357c96542c3b71cfa21d160eae575057a24c085"
+  },
+  {
+    "entry": {
+      "id": "arnolfini-portrait",
+      "title": "The Arnolfini Portrait",
+      "creator": "Jan van Eyck",
+      "dateDisplay": "1434",
+      "dateStart": 1434,
+      "dateEnd": null,
+      "place": "Bruges, present-day Belgium",
+      "body": "Bruges was an important trading city in fifteenth-century Europe, attracting merchants from Italy as well as buyers and goods from much farther away. The man in this portrait is probably Giovanni di Nicolao Arnolfini, one of those Italian merchants. Van Eyck shows him with a woman in a room where almost every possession helps establish the household’s standing.\n\nThe oranges near the window were expensive imports, and the great red bed was valuable furniture that could be displayed in a room used to receive visitors. The woman’s dress contains enough fabric to gather into deep folds in front of her. What can look like evidence of pregnancy also belongs to the fashion for costly, generously cut clothing. Their prosperity appears through things a visitor would recognise.\n\nYet the smallest object opens the room beyond what we first see. The round mirror on the back wall reflects the couple from behind and two people arriving through the doorway. Above it, Van Eyck wrote that he had been there. The inscription gives his presence the weight of a witness, while the mirror demonstrates how much of an encounter a painting can include.\n\nFor many years, these details supported a celebrated interpretation of the picture as a marriage ceremony witnessed by the artist. Later research challenged both the identification of the couple and that conclusion. The surviving evidence leaves the exact occasion unsettled, but the portrait remains an exceptionally intimate account of how a wealthy merchant household wished to be seen.",
+      "meaningBrief": "A trading household presents its prosperity through possessions and an unusually elaborate record of an encounter.",
+      "sources": [
+        {
+          "title": "National Gallery — The Arnolfini Portrait",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+          "role": "museum interpretation and visual evidence",
+          "supports": "Household wealth, reception room, clothes, fruit, prayer beads, mirror, inscription and uncertainty about sitter identification. Overview, analysis and audio-description transcript read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Lorne Campbell — National Gallery catalogue: The Arnolfini Portrait",
+          "url": "https://www.nationalgallery.org.uk/paintings/catalogues/campbell-1998/the-arnolfini-portrait",
+          "role": "substantial scholarly challenge",
+          "supports": "Identification and marriage-theory sections: a marriage in 1447 or later contradicts the former proposed couple for a work dated 1434. Avoid presenting Panofsky’s interpretation as fact.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Responses to the Arnolfini Portrait",
+          "url": "https://www.reddit.com/r/ArtHistory/comments/1at23b4/the_arnolfini_portrait_is_considered_a/",
+          "role": "reception check only",
+          "supports": "Viewers notice uncanny figures, optical detail, wealth and the frequently repeated wedding-certificate theory; museum scholarship resolves factual claims.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "painting",
+      "revision": 3,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [
+        {
+          "text": "Jan van Eyck was here. 1434.",
+          "kind": "English translation of painted Latin inscription",
+          "original": "Johannes de Eyck fuit hic. 1434",
+          "sourceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+          "locator": "In-depth discussion of mirror and signature",
+          "purpose": "The wording makes presence, rather than only authorship, part of the portrait."
+        }
+      ],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Additional review-only painting. Existing approvals do not apply.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Established Bruges and merchant life before explaining objects and the mirror; retained the consequential uncertainty about a wedding ceremony.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-arnolfini-portrait-a.jpg",
+        "referenceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+        "altText": "A richly dressed couple hold hands in a furnished room, with a small dog and a convex mirror behind them.",
+        "credit": "Jan van Eyck",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "National Gallery reproduction",
+      "description": "Deep green cloth, stronger contrast and crisp small details.",
+      "imageUrl": "image-options/assets/painting/b003-arnolfini-portrait-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eyck,_Jan_van_-_Arnolfini_Portrait_-_NG.jpg",
+      "museumReferenceUrl": "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait",
+      "credit": "Jan van Eyck; Web site of National Gallery, London",
+      "altText": "A richly dressed couple hold hands in a furnished room, with a small dog and a convex mirror behind them.",
+      "width": 1920,
+      "height": 2646,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Eyck%2C_Jan_van_-_Arnolfini_Portrait_-_NG.jpg/1920px-Eyck%2C_Jan_van_-_Arnolfini_Portrait_-_NG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Eyck%2C_Jan_van_-_Arnolfini_Portrait_-_NG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceNotes": "Original source dimensions: 4353 × 6000. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "41c576606480c8e3782aae72144b4fe35df32648c05c6d91ae6d036843f7015c",
+      "sourceDimensions": [
+        4353,
+        6000
+      ],
+      "assetSha256": "41c576606480c8e3782aae72144b4fe35df32648c05c6d91ae6d036843f7015c"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "arnolfini-portrait",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>Bruges was an important trading city in fifteenth-century Europe, attracting merchants from Italy as well as buyers and goods from much farther away. The man in this portrait is probably Giovanni di Nicolao Arnolfini, one of those Italian merchants. Van Eyck shows him with a woman in a room where almost every possession helps establish the household’s standing.</p>\n<p>The oranges near the window were expensive imports, and the great red bed was valuable furniture that could be displayed in a room used to receive visitors. The woman’s dress contains enough fabric to gather into deep folds in front of her. What can look like evidence of pregnancy also belongs to the fashion for costly, generously cut clothing. Their prosperity appears through things a visitor would recognise.</p>\n<p>Yet the smallest object opens the room beyond what we first see. The round mirror on the back wall reflects the couple from behind and two people arriving through the doorway. Above it, Van Eyck wrote that he had been there. The inscription gives his presence the weight of a witness, while the mirror demonstrates how much of an encounter a painting can include.</p>\n<p>For many years, these details supported a celebrated interpretation of the picture as a marriage ceremony witnessed by the artist. Later research challenged both the identification of the couple and that conclusion. The surviving evidence leaves the exact occasion unsettled, but the portrait remains an exceptionally intimate account of how a wealthy merchant household wished to be seen.</p>",
+      "title": "The Arnolfini Portrait",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "6c3c306b238ffb18",
+    "imageHash": "6916fda909611099",
+    "appImage": "/assets/editorial/arnolfini-portrait.jpg",
+    "appImageSha256": "41c576606480c8e3782aae72144b4fe35df32648c05c6d91ae6d036843f7015c"
+  },
+  {
+    "entry": {
+      "id": "school-of-athens",
+      "title": "The School of Athens",
+      "creator": "Raphael",
+      "dateDisplay": "1509–1511",
+      "dateStart": 1509,
+      "dateEnd": 1511,
+      "place": "Vatican City",
+      "body": "Pope Julius II commissioned this gathering of ancient philosophers for a room in the Vatican used as his library and private office. That setting is part of its meaning. Christian theology occupied another wall, while Raphael gave Greek philosophy an equally impressive place in the room. The Renaissance interest in ancient learning could extend into the household of the pope himself.\n\nAt the centre, Plato walks beside his former student Aristotle. Plato points upwards, expressing his concern with truths beyond the changing physical world; Aristotle holds his hand level, suggesting his closer attention to the world people can observe. Raphael makes their difference visible through a conversation. Neither needs to be defeated for both to belong in this account of knowledge.\n\nAround them, learning takes several forms. People argue, write and gather around a geometric demonstration, leaning in to follow the teacher’s compass. The scene brings together thinkers from different centuries as if they belonged to one community. Ancient philosophy becomes something active and sociable rather than a collection of names preserved in books.\n\nRaphael also gave some figures the faces of artists from his own time. The solitary man leaning on a stone block resembles Michelangelo, and Raphael himself looks out from the right-hand side. Their inclusion places painting and sculpture among the intellectual achievements celebrated in the room. For artists seeking recognition beyond skilled manual work, that was a meaningful claim to make on a pope’s wall.",
+      "meaningBrief": "Ancient philosophy and contemporary artists occupy a place of intellectual honour inside the pope’s household.",
+      "sources": [
+        {
+          "title": "Vatican Museums — The School of Athens",
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+          "role": "museum interpretation",
+          "supports": "Central philosophers, geometry group, Michelangelo likeness and Raphael self-portrait. Full account read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Vatican Museums — Room of the Segnatura",
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/stanza-della-segnatura.html",
+          "role": "setting and interpretive programme",
+          "supports": "Julius II’s library and private office, rational truth and theology, coordinated room programme. Full account read.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Columbia University — Scuola di Athene",
+          "url": "https://core100.columbia.edu/article/scuola-di-athene-school-athens",
+          "role": "sourced educational interpretation",
+          "supports": "Dates, central gestures and limits on identification; the article explicitly derives from Wikipedia, not independent scholarship.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "University of Oxford, Cabinet — Raphael, School of Athens",
+          "url": "https://www.cabinet.ox.ac.uk/raphael-school-athens-1509-1510-0",
+          "role": "academic interpretation; indexed passage",
+          "supports": "Plato’s forms, Aristotle’s empirical knowledge, and unity of philosophical truth and Christian revelation. Direct page failed; indexed passage only.",
+          "accessedOn": "2026-09-25"
+        },
+        {
+          "title": "Public discussion — Identifying the philosophers",
+          "url": "https://www.reddit.com/r/ArtHistory/comments/nd4j4n/a_couple_questions_about_the_school_of_athens/",
+          "role": "reception challenge only",
+          "supports": "Substantial discussion challenges over-neat idealist/realist divisions and confident peripheral identifications. Post and replies read.",
+          "accessedOn": "2026-09-25"
+        }
+      ],
+      "medium": "painting",
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-003",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-25",
+        "researchFile": "docs/editorial/batches/batch-003/paintings-research.md",
+        "basis": "Additional review-only painting. Existing approvals do not apply.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Explained why the Vatican setting matters, then linked the central discussion and demonstrations to the status of learning and art.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b003-school-of-athens-a.jpg",
+        "referenceUrl": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+        "altText": "Plato and Aristotle stand at the centre of groups of ancient thinkers beneath a vaulted classical roof.",
+        "credit": "Raphael",
+        "license": "Source-specific reproduction credits and licensing are recorded with each image option.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Option A is an initial preview only. All three image candidates await Julio’s choice; no writing or image approval is inferred."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "id": "A",
+      "label": "Vatican reproduction",
+      "description": "A straight-on reproduction with pale tones, showing the fresco and part of the wall below.",
+      "imageUrl": "image-options/assets/painting/b003-school-of-athens-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+      "museumReferenceUrl": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html",
+      "credit": "Raphael; Stitched together from vatican.va",
+      "altText": "Plato and Aristotle stand at the centre of groups of ancient thinkers beneath a vaulted classical roof.",
+      "width": 1920,
+      "height": 1490,
+      "rightsStatus": "review_only_pending_clearance",
+      "license": "Public domain",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1920px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "sourceNotes": "Original source dimensions: 3820 × 2964. Downloaded unchanged from the recorded source; no generated details, local recolouring or local cropping. Source licensing and editorial approval remain separate.",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_complete_image_identity",
+      "reviewedOn": "2026-09-25",
+      "sha256": "cf21c5c5726406a681022b6147ab90e65fabe81e901c8e8dc1ede10d6e29635a",
+      "sourceDimensions": [
+        3820,
+        2964
+      ],
+      "assetSha256": "cf21c5c5726406a681022b6147ab90e65fabe81e901c8e8dc1ede10d6e29635a"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "school-of-athens",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>Pope Julius II commissioned this gathering of ancient philosophers for a room in the Vatican used as his library and private office. That setting is part of its meaning. Christian theology occupied another wall, while Raphael gave Greek philosophy an equally impressive place in the room. The Renaissance interest in ancient learning could extend into the household of the pope himself.</p>\n<p>At the centre, Plato walks beside his former student Aristotle. Plato points upwards, expressing his concern with truths beyond the changing physical world; Aristotle holds his hand level, suggesting his closer attention to the world people can observe. Raphael makes their difference visible through a conversation. Neither needs to be defeated for both to belong in this account of knowledge.</p>\n<p>Around them, learning takes several forms. People argue, write and gather around a geometric demonstration, leaning in to follow the teacher’s compass. The scene brings together thinkers from different centuries as if they belonged to one community. Ancient philosophy becomes something active and sociable rather than a collection of names preserved in books.</p>\n<p>Raphael also gave some figures the faces of artists from his own time. The solitary man leaning on a stone block resembles Michelangelo, and Raphael himself looks out from the right-hand side. Their inclusion places painting and sculpture among the intellectual achievements celebrated in the room. For artists seeking recognition beyond skilled manual work, that was a meaningful claim to make on a pope’s wall.</p>",
+      "title": "The School of Athens",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "2497fccb94c4f8cb",
+    "imageHash": "1cedb4d4a1050723",
+    "appImage": "/assets/editorial/school-of-athens.jpg",
+    "appImageSha256": "cf21c5c5726406a681022b6147ab90e65fabe81e901c8e8dc1ede10d6e29635a"
+  },
+  {
+    "entry": {
+      "id": "gulf-stream",
+      "title": "The Gulf Stream",
+      "creator": "Winslow Homer",
+      "dateDisplay": "1899–1906",
+      "dateStart": 1899,
+      "dateEnd": 1906,
+      "place": "Caribbean / United States",
+      "medium": "painting",
+      "meaningBrief": "Natural danger and Atlantic history meet around a Black protagonist; a colonial reading should not be confused with a proved political intention.",
+      "body": "Winslow Homer’s boat has lost its mast, leaving the man aboard with no apparent way to steer through the rough water. Sharks circle nearby and a waterspout rises in the distance, yet the man lies across the deck without the gestures of panic we might expect. Homer lets his stillness hold our attention while the sea supplies almost all the movement.\n\nThe painting grew out of the artist’s visits to the Caribbean, where he encountered a different coastline and society from those of his better-known New England scenes. Its title names the current carrying warm water northwards through the Atlantic. That ocean also carried the trade in sugar and enslaved people that had enriched European empires and shaped Caribbean life.\n\nThe stalks of sugarcane in the boat give that history a concrete presence. The Metropolitan Museum has used them, together with the Black protagonist, to read the painting through race and colonial trade. It is a persuasive connection, although critic Morgan Falconer questions whether those allusions establish a definite political argument.\n\nA sailing ship appears far away on the horizon. It offers the possibility of rescue, but Homer leaves the distance between it and the damaged boat unresolved. What we are shown is the interval before any outcome, when the man has little control over either the sea around him or the people who might help.",
+      "sources": [
+        {
+          "title": "The Metropolitan Museum of Art — The Gulf Stream",
+          "url": "https://www.metmuseum.org/art/collection/search/11122",
+          "role": "interpretation and factual context",
+          "supports": "Object record and curatorial audio: date, Black subject, sugarcane, ocean current, slavery and US imperial context.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "The Gulf Stream — source and interpretation history",
+          "url": "https://en.wikipedia.org/wiki/The_Gulf_Stream_(painting)",
+          "role": "interpretation and factual context",
+          "supports": "Homer’s Caribbean travels, revisions, distant ship and varied interpretations.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Reader discussion of Homer’s seascape",
+          "url": "https://www.reddit.com/r/blackmen/comments/1ts3kdk/the_gulf_stream_by_winslow_homer/",
+          "role": "reception challenge",
+          "supports": "Race and empire recur alongside the human/nature reading; checked against the museum.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Morgan Falconer / Apollo — Winslow Homer: Crosscurrents",
+          "url": "https://apollo-magazine.com/winslow-homer-the-met-reviewed/",
+          "role": "substantial interpretation",
+          "supports": "Full review read: Atlantic history, sugarcane and a specific challenge to treating allusion as proof of political argument.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 4,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-004",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-004/research.md",
+        "basis": "New source-based draft. No writing or image approval inferred.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "basis": "Exact passage deletions requested by Julio; surrounding prose unchanged.",
+          "evidenceFile": "qa/painting-approval-import-2026-09-27/requested-edits.json",
+          "approval": "Revised text awaits approval."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b004-gulf-stream-a.jpg",
+        "referenceUrl": "https://www.metmuseum.org/art/collection/search/11122",
+        "altText": "A Black man on a damaged sailboat surrounded by sharks, rough waves and a distant waterspout.",
+        "credit": "Winslow Homer",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image choice and writing approval remain separate."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "entryId": "gulf-stream",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b004-gulf-stream-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Gulf_Stream_MET_DP140858.jpg",
+      "sourceTitle": "File:The Gulf Stream MET DP140858.jpg",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/The_Gulf_Stream_MET_DP140858.jpg/1920px-The_Gulf_Stream_MET_DP140858.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_Gulf_Stream_MET_DP140858.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1173,
+      "credit": "Winslow Homer; This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+      "sourceCredit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+      "license": "CC0",
+      "sha256": "75cfa999cae29dd8b7104e065ca270cd09cae66cf90f6cb809def2cbcf5e77ae",
+      "sourceDimensions": [
+        3881,
+        2372
+      ],
+      "label": "Met Open Access",
+      "description": "Warm sky and clear detail in the waves and boat.",
+      "altText": "A Black man on a damaged sailboat surrounded by sharks, rough waves and a distant waterspout.",
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-26",
+      "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+      "assetSha256": "75cfa999cae29dd8b7104e065ca270cd09cae66cf90f6cb809def2cbcf5e77ae"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "gulf-stream",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>Winslow Homer’s boat has lost its mast, leaving the man aboard with no apparent way to steer through the rough water. Sharks circle nearby and a waterspout rises in the distance, yet the man lies across the deck without the gestures of panic we might expect. Homer lets his stillness hold our attention while the sea supplies almost all the movement.</p>\n<p>The painting grew out of the artist’s visits to the Caribbean, where he encountered a different coastline and society from those of his better-known New England scenes. Its title names the current carrying warm water northwards through the Atlantic. That ocean also carried the trade in sugar and enslaved people that had enriched European empires and shaped Caribbean life.</p>\n<p>The stalks of sugarcane in the boat give that history a concrete presence. The Metropolitan Museum has used them, together with the Black protagonist, to read the painting through race and colonial trade. It is a persuasive connection, although critic Morgan Falconer questions whether those allusions establish a definite political argument.</p>\n<p>A sailing ship appears far away on the horizon. It offers the possibility of rescue, but Homer leaves the distance between it and the damaged boat unresolved. What we are shown is the interval before any outcome, when the man has little control over either the sea around him or the people who might help.</p>",
+      "title": "The Gulf Stream",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "07a4ccd30d109a8e",
+    "imageHash": "4db62f13a479643f",
+    "appImage": "/assets/editorial/gulf-stream.jpg",
+    "appImageSha256": "75cfa999cae29dd8b7104e065ca270cd09cae66cf90f6cb809def2cbcf5e77ae"
+  },
+  {
+    "entry": {
+      "id": "floor-scrapers",
+      "title": "The Floor Scrapers",
+      "creator": "Gustave Caillebotte",
+      "dateDisplay": "1875",
+      "dateStart": 1875,
+      "dateEnd": null,
+      "place": "Paris, France",
+      "medium": "painting",
+      "meaningBrief": "Caillebotte gives urban manual work sustained attention from the social position of a wealthy employer’s son.",
+      "body": "Gustave Caillebotte grew up in a wealthy family whose business supplied textiles to the French army. That position gave him both an interest in working life and the financial freedom to become a painter. In *The Floor Scrapers*, completed in 1875, he turned to a trade practised inside homes like his own: men restoring a wooden floor by scraping it by hand.\n\nThe setting is generally identified as his Paris studio. Decorative walls, a tall window and an iron balcony surround three men working on their knees, with curls of wood gathering around them. Two turn towards each other while continuing the job. The painting allows their tools, coordination and physical effort to explain an activity that a finished, polished room would normally conceal.\n\nRural workers already had a place in French painting through artists such as Millet and Courbet. Caillebotte brought comparable attention to labour within the city, without adding an accident or confrontation to make it worthy of a picture. The work itself supplied the subject.\n\nHe exhibited the painting with the Impressionists in 1876 and went on to help organise their exhibitions and buy their work. His inherited wealth made him an important supporter of artists whose paintings often struggled to sell. That history gives this scene a useful social context: its attention to manual work came from an employer’s son who could afford to spend his own time painting.",
+      "sources": [
+        {
+          "title": "Musée d’Orsay — Raboteurs de parquets",
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/raboteurs-de-parquets-105",
+          "role": "interpretation and factual context",
+          "supports": "Urban workers, academic drawing, labor and reception; no explicit revolutionary message.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Musée d’Orsay — Caillebotte Painting Men",
+          "url": "https://www.musee-orsay.fr/en/program/whats-on/exhibitions/presentation/caillebotte-painting-men",
+          "role": "interpretation and factual context",
+          "supports": "Class, representations of male labor and Caillebotte’s social position.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "National Gallery of Art — Caillebotte exhibition brochure",
+          "url": "https://www.nga.gov/sites/default/files/2025-06/caillebotte-brochure.pdf",
+          "role": "interpretation and factual context",
+          "supports": "1875 rejection, 1876 exhibition and contemporary critical objections.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Public discussion — The Floor Scrapers",
+          "url": "https://www.reddit.com/r/oilpaintings/comments/1l41rgk",
+          "role": "reception challenge",
+          "supports": "Spatial viewpoint and labor foregrounded; reception check, not independent historical authority.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-004",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-004/research.md",
+        "basis": "New source-based draft. No writing or image approval inferred.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Returned to the family and labour sequence preferred in round 2 B; removed the rejected gods-and-bodies framing and an overstated class verdict.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b004-floor-scrapers-a.jpg",
+        "referenceUrl": "https://www.musee-orsay.fr/fr/oeuvres/raboteurs-de-parquets-105",
+        "altText": "Three shirtless workers kneeling to scrape the wooden floor of a Paris apartment.",
+        "credit": "Gustave Caillebotte",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image choice and writing approval remain separate."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "entryId": "floor-scrapers",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b004-floor-scrapers-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_The_Floor_Planers_-_Google_Art_Project.jpg",
+      "sourceTitle": "File:Gustave Caillebotte - The Floor Planers - Google Art Project.jpg",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gustave_Caillebotte_-_The_Floor_Planers_-_Google_Art_Project.jpg/1920px-Gustave_Caillebotte_-_The_Floor_Planers_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gustave_Caillebotte_-_The_Floor_Planers_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1349,
+      "credit": "Gustave Caillebotte; Google Arts &amp; Culture  — 0wHXxVpb7UjLNA",
+      "sourceCredit": "Google Arts &amp; Culture  — 0wHXxVpb7UjLNA",
+      "license": "Public domain",
+      "sha256": "c31cdf618bfe100bba750450e050a118768d39a4e49bfdb2d91a5ff2c6c7b9b9",
+      "sourceDimensions": [
+        5224,
+        3670
+      ],
+      "label": "Google Art Project",
+      "description": "High-resolution reproduction with the complete composition.",
+      "altText": "Three shirtless workers kneeling to scrape the wooden floor of a Paris apartment.",
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-26",
+      "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+      "assetSha256": "c31cdf618bfe100bba750450e050a118768d39a4e49bfdb2d91a5ff2c6c7b9b9"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "floor-scrapers",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>Gustave Caillebotte grew up in a wealthy family whose business supplied textiles to the French army. That position gave him both an interest in working life and the financial freedom to become a painter. In <em>The Floor Scrapers</em>, completed in 1875, he turned to a trade practised inside homes like his own: men restoring a wooden floor by scraping it by hand.</p>\n<p>The setting is generally identified as his Paris studio. Decorative walls, a tall window and an iron balcony surround three men working on their knees, with curls of wood gathering around them. Two turn towards each other while continuing the job. The painting allows their tools, coordination and physical effort to explain an activity that a finished, polished room would normally conceal.</p>\n<p>Rural workers already had a place in French painting through artists such as Millet and Courbet. Caillebotte brought comparable attention to labour within the city, without adding an accident or confrontation to make it worthy of a picture. The work itself supplied the subject.</p>\n<p>He exhibited the painting with the Impressionists in 1876 and went on to help organise their exhibitions and buy their work. His inherited wealth made him an important supporter of artists whose paintings often struggled to sell. That history gives this scene a useful social context: its attention to manual work came from an employer’s son who could afford to spend his own time painting.</p>",
+      "title": "The Floor Scrapers",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "831e8dbffb19dfa2",
+    "imageHash": "3bdf9789568d203f",
+    "appImage": "/assets/editorial/floor-scrapers.jpg",
+    "appImageSha256": "c31cdf618bfe100bba750450e050a118768d39a4e49bfdb2d91a5ff2c6c7b9b9"
+  },
+  {
+    "entry": {
+      "id": "the-angelus",
+      "title": "The Angelus",
+      "creator": "Jean-François Millet",
+      "dateDisplay": "1857–1859",
+      "dateStart": 1857,
+      "dateEnd": 1859,
+      "place": "France",
+      "medium": "painting",
+      "meaningBrief": "A pause in agricultural labor reveals the customs and shared rhythms of rural life, giving ordinary workers a presence independent of their productivity.",
+      "body": "Two people have stopped gathering potatoes to pray. The man holds his hat, the woman joins her hands, and their tools remain where the work was interrupted. A distant church tower explains the pause: its bell has called the Angelus, a Catholic prayer recalling the announcement to Mary that she would bear Jesus.\n\nMillet connected the scene to a childhood memory. His grandmother would stop the family’s fieldwork when the bell sounded and ask them to pray. For rural communities, the church could organize the day as well as religious belief. Its sound reached people working beyond the village, giving separate households a moment in common.\n\nThe low horizon makes these modest figures stand prominently against the sky. Their faces are difficult to read, so the bowed heads and still hands carry the scene. Even the basket between them belongs to both the work they have paused and the silence they now share.\n\nMillet was not a practicing Catholic when he painted it, and the memory mattered to him beyond a declaration of faith. The picture preserves a familiar way of living in which labor, custom and remembrance were closely connected. For this brief interval, we see the workers through an activity that produces nothing for the market but still has a place in their day.",
+      "sources": [
+        {
+          "title": "Musée d’Orsay — L’Angélus",
+          "url": "https://www.musee-orsay.fr/fr/oeuvres/langelus-345",
+          "role": "museum, specialist or primary source",
+          "supports": "Potato harvest, Angelus, Millet’s 1865 recollection, non-practicing status and monumental figures; full museum interpretation read.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-008",
+      "revisionGuide": "VOICE_GUIDE v0.23; central meaning, beginner context, concrete evidence and varied sentence rhythm.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-27",
+        "researchFile": "docs/editorial/batches/batch-008/research.md",
+        "basis": "New source-checked draft for editorial review. Interpretations and source limitations are recorded in the research ledger. No approval or publication implied."
+      },
+      "reviewAvailability": "active",
+      "media": {
+        "imageUrl": "image-options/assets/painting/b008-angelus-a.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_(II)_001.jpg",
+        "altText": "Two farm workers bow their heads in prayer beside a basket of potatoes and tools, with a church in the distance.",
+        "credit": "Jean-François Millet",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image selection and writing approval remain separate."
+      }
+    },
+    "selectedImage": {
+      "entryId": "the-angelus",
+      "id": "C",
+      "imageUrl": "image-options/assets/painting/b008-angelus-c.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg",
+      "sourceTitle": "Google Arts & Culture reproduction",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Jean-Fran%C3%A7ois_Millet_-_The_Angelus_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1596,
+      "credit": "Jean-François Millet",
+      "sourceCredit": "CgHjAgexUzNOOw at Google Cultural Institute maximum zoom level",
+      "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+      "sha256": "57eaa7f6485588a4b9db23a0fd1758b3ccd6bef137d0561c078238fe8ffe13dc",
+      "sourceDimensions": [
+        1920,
+        1596
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+      "label": "Google Arts & Culture reproduction",
+      "description": "Source composition and color retained; no generated image or artificial color variation.",
+      "altText": "Two farm workers bow their heads in prayer beside a basket of potatoes and tools, with a church in the distance.",
+      "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-28",
+      "assetSha256": "57eaa7f6485588a4b9db23a0fd1758b3ccd6bef137d0561c078238fe8ffe13dc"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "the-angelus",
+      "imageOption": "C",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>Two people have stopped gathering potatoes to pray. The man holds his hat, the woman joins her hands, and their tools remain where the work was interrupted. A distant church tower explains the pause: its bell has called the Angelus, a Catholic prayer recalling the announcement to Mary that she would bear Jesus.</p>\n<p>Millet connected the scene to a childhood memory. His grandmother would stop the family’s fieldwork when the bell sounded and ask them to pray. For rural communities, the church could organize the day as well as religious belief. Its sound reached people working beyond the village, giving separate households a moment in common.</p>\n<p>The low horizon makes these modest figures stand prominently against the sky. Their faces are difficult to read, so the bowed heads and still hands carry the scene. Even the basket between them belongs to both the work they have paused and the silence they now share.</p>\n<p>Millet was not a practicing Catholic when he painted it, and the memory mattered to him beyond a declaration of faith. The picture preserves a familiar way of living in which labor, custom and remembrance were closely connected. For this brief interval, we see the workers through an activity that produces nothing for the market but still has a place in their day.</p>",
+      "title": "The Angelus",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "b322bd28f2d8bfd7",
+    "imageHash": "09dcd90e3413ca99",
+    "appImage": "/assets/editorial/the-angelus.jpg",
+    "appImageSha256": "57eaa7f6485588a4b9db23a0fd1758b3ccd6bef137d0561c078238fe8ffe13dc"
+  },
+  {
+    "entry": {
+      "id": "man-controller-of-the-universe",
+      "title": "Man, Controller of the Universe",
+      "creator": "Diego Rivera",
+      "dateDisplay": "1934",
+      "dateStart": 1934,
+      "dateEnd": null,
+      "place": "Mexico City, Mexico",
+      "medium": "painting",
+      "meaningBrief": "Rivera asks who should benefit from industrial and scientific power; the destruction of the earlier commission exposes the patron’s power over public expression.",
+      "body": "In 1933, Diego Rivera was painting a mural for Rockefeller Center in New York when his patrons objected to a portrait of Lenin, the leader of the Russian Revolution. Rivera refused to remove Lenin, work stopped, and the mural was eventually destroyed. The following year, he remade the composition in Mexico City’s Palace of Fine Arts as *Man, Controller of the Universe*.\n\nA worker occupies the center, operating machinery surrounded by views of microscopic life and distant space. Scientific knowledge has extended human power, but the scenes around him suggest that this power can serve very different societies. Wealthy people entertain themselves near images of conflict, while Lenin joins the hands of workers on the opposite side.\n\nRivera’s sympathies are clear. A committed communist, he believed industrial society should benefit workers rather than concentrate wealth among owners. Painted during the Great Depression, the mural belongs to a period when mass unemployment made the organization of the economy an urgent political question.",
+      "sources": [
+        {
+          "title": "Smarthistory — Man Controller of the Universe",
+          "url": "https://smarthistory.org/diego-rivera-man-controller-of-the-universe/",
+          "role": "museum, specialist or primary source",
+          "supports": "Harris and Zucker’s substantial indexed transcript read: public muralism, destroyed commission, scientific imagery, class division and Lenin.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Museo del Palacio de Bellas Artes — Diego Rivera: nueva vida a un mural destruido",
+          "url": "https://museopalaciodebellasartes.inba.gob.mx/wp-content/uploads/2024/09/diego_rivera_nueva_vida_a_un_mural_destruido.pdf",
+          "role": "museum, specialist or primary source",
+          "supports": "Museum’s indexed account of the destroyed Rockefeller commission and the distinct 1934 Mexico City mural; full PDF fetch unavailable.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-008",
+      "revisionGuide": "VOICE_GUIDE v0.23; central meaning, beginner context, concrete evidence and varied sentence rhythm.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-27",
+        "researchFile": "docs/editorial/batches/batch-008/research.md",
+        "basis": "New source-checked draft for editorial review. Interpretations and source limitations are recorded in the research ledger. No approval or publication implied."
+      },
+      "reviewAvailability": "active",
+      "media": {
+        "imageUrl": "image-options/assets/painting/b008-rivera-a.jpg",
+        "referenceUrl": "https://whitney.org/events/art-history-from-home-sept-24",
+        "altText": "A worker operates machinery amid views of cells and space, with contrasting political and social groups around him.",
+        "credit": "Diego Rivera",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image selection and writing approval remain separate."
+      }
+    },
+    "selectedImage": {
+      "entryId": "man-controller-of-the-universe",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b008-rivera-a.jpg",
+      "sourceUrl": "https://whitney.org/events/art-history-from-home-sept-24",
+      "sourceTitle": "Whitney Museum · full mural reproduction",
+      "remoteImageUrl": "https://whitneymedia.org/assets/image/824261/large_Rivera_Man__Controller_of_the_Universe.jpg",
+      "originalImageUrl": "https://whitneymedia.org/assets/image/824261/large_Rivera_Man__Controller_of_the_Universe.jpg",
+      "width": 2048,
+      "height": 852,
+      "credit": "Diego Rivera",
+      "sourceCredit": "Whitney Museum · full mural reproduction",
+      "license": "Copyright and reproduction permissions remain with the relevant rights holders; reference image for editorial review.",
+      "sha256": "fcd53743ce1c2f033aeb13998680fb58d07279c197491e5b90687c0c728b664e",
+      "sourceDimensions": [
+        2048,
+        852
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+      "label": "Whitney Museum · full mural reproduction",
+      "description": "Source composition and color retained; no generated image or artificial color variation.",
+      "altText": "A worker operates machinery amid views of cells and space, with contrasting political and social groups around him.",
+      "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-28",
+      "assetSha256": "fcd53743ce1c2f033aeb13998680fb58d07279c197491e5b90687c0c728b664e"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "man-controller-of-the-universe",
+      "imageOption": "A",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>In 1933, Diego Rivera was painting a mural for Rockefeller Center in New York when his patrons objected to a portrait of Lenin, the leader of the Russian Revolution. Rivera refused to remove Lenin, work stopped, and the mural was eventually destroyed. The following year, he remade the composition in Mexico City’s Palace of Fine Arts as <em>Man, Controller of the Universe</em>.</p>\n<p>A worker occupies the center, operating machinery surrounded by views of microscopic life and distant space. Scientific knowledge has extended human power, but the scenes around him suggest that this power can serve very different societies. Wealthy people entertain themselves near images of conflict, while Lenin joins the hands of workers on the opposite side.</p>\n<p>Rivera’s sympathies are clear. A committed communist, he believed industrial society should benefit workers rather than concentrate wealth among owners. Painted during the Great Depression, the mural belongs to a period when mass unemployment made the organization of the economy an urgent political question.</p>",
+      "title": "Man, Controller of the Universe",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "bd5725a77b784571",
+    "imageHash": "18858abdac8d4b65",
+    "appImage": "/assets/editorial/man-controller-of-the-universe.jpg",
+    "appImageSha256": "fcd53743ce1c2f033aeb13998680fb58d07279c197491e5b90687c0c728b664e"
+  },
+  {
+    "entry": {
+      "id": "retirantes",
+      "title": "Retirantes",
+      "creator": "Candido Portinari",
+      "dateDisplay": "1944",
+      "dateStart": 1944,
+      "dateEnd": null,
+      "place": "Petrópolis, Brazil",
+      "medium": "painting",
+      "meaningBrief": "Portinari gives displaced rural families a central place in Brazilian modern art, showing drought together with the poverty that leaves people unable to remain at home.",
+      "body": "The title *Retirantes* refers to people who leave their homes to escape drought and poverty, a migration closely associated with Brazil’s Northeast. Here, retirantes carry children and bundles through a dry landscape, but there is no house or destination in sight. Notably, the possessions they can take with them are visibly limited by what their bodies can bear.\n\nThose bodies carry much of the painting’s meaning. Thin arms, enlarged joints and bare feet make hunger and exhaustion difficult to overlook. In this dramatic composition, Portinari gives the figures an imposing presence without making their journey look heroic or promising that their circumstances will improve.\n\nMigration of this kind involved more than a shortage of rain. Families with few resources had limited protection when land could no longer support them, and Portinari’s growing political involvement drew his attention to this condition, often excluded from the country’s progressive discourse. Their hardship became a central subject of Brazilian modern art, alongside literary accounts such as Graciliano Ramos’s book named \"Vidas Secas\".",
+      "sources": [
+        {
+          "title": "MASP — Retirantes",
+          "url": "https://masp.org.br/acervo/obra/retirantes",
+          "role": "museum, specialist or primary source",
+          "supports": "1944 identity; political engagement, migration, Vidas Secas and bodily expression. Curatorial essay and conservator Erick Santos’s personal response read; his testimony not treated as artist biography.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Projeto Portinari — Retirantes, FCO 2733",
+          "url": "https://portinari.org.br/pt/acervo/obras/18087/retirantes",
+          "role": "museum, specialist or primary source",
+          "supports": "Petrópolis, date, dimensions, composition and catalogue identity; full record read.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-008",
+      "revisionGuide": "VOICE_GUIDE v0.23; central meaning, beginner context, concrete evidence and varied sentence rhythm.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-27",
+        "researchFile": "docs/editorial/batches/batch-008/research.md",
+        "basis": "New source-checked draft for editorial review. Interpretations and source limitations are recorded in the research ledger. No approval or publication implied."
+      },
+      "reviewAvailability": "active",
+      "media": {
+        "imageUrl": "image-options/assets/painting/b008-retirantes-a.jpg",
+        "referenceUrl": "https://masp.org.br/acervo/obra/retirantes",
+        "altText": "A displaced family, including children and an infant, stands on dry ground beneath dark birds.",
+        "credit": "Candido Portinari",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image selection and writing approval remain separate."
+      }
+    },
+    "selectedImage": {
+      "entryId": "retirantes",
+      "id": "C",
+      "imageUrl": "image-options/assets/painting/b008-retirantes-c.jpg",
+      "sourceUrl": "https://artsandculture.google.com/asset/northeastern-migrants/rwE_FvmjjW5QDg",
+      "sourceTitle": "MASP · Google Arts & Culture",
+      "remoteImageUrl": "https://lh3.googleusercontent.com/ci/AL18g_RdlGrYDLcIAqcUp3HKTVVUSE3cbVdAbX2tYoAEhPOSaDfbV1bAmCYK-Tr8rtnXK0qUp9rFZmM",
+      "originalImageUrl": "https://lh3.googleusercontent.com/ci/AL18g_RdlGrYDLcIAqcUp3HKTVVUSE3cbVdAbX2tYoAEhPOSaDfbV1bAmCYK-Tr8rtnXK0qUp9rFZmM",
+      "width": 483,
+      "height": 512,
+      "credit": "Candido Portinari",
+      "sourceCredit": "MASP · Google Arts & Culture",
+      "license": "Copyright and reproduction permissions remain with the relevant rights holders; reference image for editorial review.",
+      "sha256": "8360b97f7f349dd2b9d6713daa90aa154a3ec93e8c341b8af6832c234fc7ca7a",
+      "sourceDimensions": [
+        483,
+        512
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+      "label": "MASP · Google Arts & Culture",
+      "description": "Source composition and color retained; no generated image or artificial color variation.",
+      "altText": "A displaced family, including children and an infant, stands on dry ground beneath dark birds.",
+      "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-28",
+      "assetSha256": "8360b97f7f349dd2b9d6713daa90aa154a3ec93e8c341b8af6832c234fc7ca7a"
+    },
+    "reviewEvidence": {
+      "comments": [],
+      "id": "retirantes",
+      "imageOption": "C",
+      "medium": "painting",
+      "notes": "",
+      "storyHtml": "<p>The title <em>Retirantes</em> refers to people who leave their homes to escape drought and poverty, a migration closely associated with Brazil’s Northeast. Here, retirantes carry children and bundles through a dry landscape, but there is no house or destination in sight. Notably, the possessions they can take with them are visibly limited by what their bodies can bear.</p>\n<p>Those bodies carry much of the painting’s meaning. Thin arms, enlarged joints and bare feet make hunger and exhaustion difficult to overlook. In this dramatic composition, Portinari gives the figures an imposing presence without making their journey look heroic or promising that their circumstances will improve.</p>\n<p>Migration of this kind involved more than a shortage of rain. Families with few resources had limited protection when land could no longer support them, and Portinari’s growing political involvement drew his attention to this condition, often excluded from the country’s progressive discourse. Their hardship became a central subject of Brazilian modern art, alongside literary accounts such as Graciliano Ramos’s book named \"Vidas Secas\".</p>",
+      "title": "Retirantes",
+      "writingStatus": "approved"
+    },
+    "bodyHash": "42bfc50031fd264f",
+    "imageHash": "d22f8109a86f3599",
+    "appImage": "/assets/editorial/retirantes.jpg",
+    "appImageSha256": "8360b97f7f349dd2b9d6713daa90aa154a3ec93e8c341b8af6832c234fc7ca7a"
+  }
+]

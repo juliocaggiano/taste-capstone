@@ -1,5 +1,5 @@
 {
-  "updatedOn": "2026-09-27",
+  "updatedOn": "2026-09-28",
   "language": "en",
   "status": "Factual supplements requested by Julio; separate from approved story text.",
   "works": {
@@ -368,6 +368,142 @@
       "sources": [
         "https://www.metmuseum.org/art/collection/search/436105"
       ]
+    },
+    "pantheon": {
+      "medium": "Roman concrete, brick, stone and marble",
+      "details": [
+        {
+          "label": "location",
+          "value": "Rome, Italy"
+        }
+      ],
+      "sources": [
+        "https://www.turismoroma.it/en/places/pantheon"
+      ]
+    },
+    "raft-of-medusa": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Musée du Louvre, Paris"
+        }
+      ],
+      "sources": [
+        "https://collections.louvre.fr/ark:/53355/cl010059199"
+      ],
+      "dimensions": {
+        "heightCm": 491,
+        "widthCm": 716
+      }
+    },
+    "las-meninas": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Museo Nacional del Prado, Madrid"
+        }
+      ],
+      "sources": [
+        "https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f"
+      ],
+      "dimensions": {
+        "heightCm": 320.3,
+        "widthCm": 279.1
+      }
+    },
+    "arnolfini-portrait": {
+      "medium": "Oil on wood, probably oak",
+      "details": [
+        {
+          "label": "collection",
+          "value": "National Gallery, London"
+        }
+      ],
+      "sources": [
+        "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait"
+      ],
+      "dimensions": {
+        "heightCm": 82.2,
+        "widthCm": 60
+      }
+    },
+    "gulf-stream": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "The Metropolitan Museum of Art, New York"
+        }
+      ],
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/11122"
+      ],
+      "dimensions": {
+        "heightCm": 71.4,
+        "widthCm": 124.8
+      }
+    },
+    "floor-scrapers": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Musée d’Orsay, Paris"
+        }
+      ],
+      "sources": [
+        "https://www.musee-orsay.fr/fr/oeuvres/raboteurs-de-parquets-105"
+      ],
+      "dimensions": {
+        "heightCm": 102,
+        "widthCm": 147
+      }
+    },
+    "the-angelus": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Musée d’Orsay, Paris"
+        }
+      ],
+      "sources": [
+        "https://www.musee-orsay.fr/fr/oeuvres/langelus-345"
+      ],
+      "dimensions": {
+        "heightCm": 55.5,
+        "widthCm": 66
+      }
+    },
+    "man-controller-of-the-universe": {
+      "medium": "Fresco",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Museo del Palacio de Bellas Artes, Mexico City"
+        }
+      ],
+      "sources": [
+        "https://museopalaciodebellasartes.inba.gob.mx/wp-content/uploads/2024/09/diego_rivera_nueva_vida_a_un_mural_destruido.pdf"
+      ]
+    },
+    "retirantes": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Museu de Arte de São Paulo Assis Chateaubriand (MASP)"
+        }
+      ],
+      "sources": [
+        "https://masp.org.br/acervo/obra/retirantes"
+      ],
+      "dimensions": {
+        "heightCm": 190,
+        "widthCm": 180
+      }
     }
   },
   "creators": {
@@ -516,6 +652,70 @@
       "sources": [
         "https://www.sonypictures.com/movies/imstillhere",
         "https://www.sonyclassics.com/film/imstillhere"
+      ]
+    },
+    "pantheon-architect-unknown": {
+      "country": "Roman Empire",
+      "dates": "",
+      "biography": "The architect of the surviving Pantheon is unknown. The building was completed during the reign of the Roman emperor Hadrian, drawing on Roman builders’ experience with concrete vaults and large public spaces.",
+      "sources": [
+        "https://www.open.edu/openlearn/history-the-arts/hadrians-rome/content-section-2.1"
+      ]
+    },
+    "theodore-gericault": {
+      "country": "France",
+      "dates": "1791–1824",
+      "biography": "Théodore Géricault was a French painter associated with Romanticism. In The Raft of the Medusa, he gave a recent shipwreck the scale usually reserved for major historical subjects. He studied survivors and human bodies while preparing the painting, which he exhibited in Paris in 1819.",
+      "sources": [
+        "https://collections.louvre.fr/ark:/53355/cl010059199"
+      ]
+    },
+    "diego-velazquez": {
+      "country": "Spain",
+      "dates": "1599–1660",
+      "biography": "Diego Velázquez trained in Seville before becoming a painter at the court of Philip IV in Madrid. His portraits include the royal family, courtiers and people who served the palace. In Las Meninas, he also placed himself at work inside the royal household.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/diego-velazquez"
+      ]
+    },
+    "jan-van-eyck": {
+      "country": "Burgundian Netherlands",
+      "dates": "Active 1422; died 1441",
+      "biography": "Jan van Eyck painted religious works and portraits for courtiers, churchmen and merchants. He worked for Philip the Good, Duke of Burgundy, and used thin layers of oil paint to describe light and surfaces with unusual precision. His surviving signed paintings include The Arnolfini Portrait.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/jan-van-eyck"
+      ]
+    },
+    "winslow-homer": {
+      "country": "United States",
+      "dates": "1836–1910",
+      "biography": "Winslow Homer began his career as an illustrator and reported on the American Civil War through drawings. He later painted rural life and coastal communities, working in both oils and watercolors. His journeys to the Caribbean expanded the settings and subjects of his seascapes.",
+      "sources": [
+        "https://www.metmuseum.org/essays/winslow-homer-1836-1910"
+      ]
+    },
+    "gustave-caillebotte": {
+      "country": "France",
+      "dates": "1848–1894",
+      "biography": "Gustave Caillebotte painted everyday life in Paris, including its workers, streets and newly built neighborhoods. He also supported fellow Impressionists by buying their paintings. His bequest to the French state helped bring works by artists including Monet, Renoir and Degas into the national collection.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/gustave-caillebotte"
+      ]
+    },
+    "diego-rivera": {
+      "country": "Mexico",
+      "dates": "1886–1957",
+      "biography": "Diego Rivera was a Mexican painter who made large public murals about history, work and political conflict. After studying European painting, he returned to Mexico and helped develop its mural movement. His images brought workers and Indigenous histories into prominent civic spaces.",
+      "sources": [
+        "https://www.moma.org/artists/4942-diego-rivera"
+      ]
+    },
+    "candido-portinari": {
+      "country": "Brazil",
+      "dates": "1903–1962",
+      "biography": "Candido Portinari grew up near Brodowski, São Paulo, in a family of Italian immigrants who worked on a coffee plantation. He painted rural workers, migrants and childhood scenes, bringing Brazilian social life into modern painting. His public commissions include the War and Peace panels at the United Nations.",
+      "sources": [
+        "https://www.portinari.org.br/o-artista/notas-biograficas"
       ]
     }
   }

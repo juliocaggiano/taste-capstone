@@ -1,0 +1,44 @@
+{
+  "importId": "prototype-2026-09-28",
+  "capturedAt": "2026-09-28T13:14:19.911Z",
+  "reviewUrl": "http://127.0.0.1:4184/REVIEW.html#to-review",
+  "entryIds": [
+    "pantheon",
+    "stanczyk",
+    "death-of-marat",
+    "the-ambassadors",
+    "raft-of-medusa",
+    "potato-eaters",
+    "the-gleaners",
+    "las-meninas",
+    "arnolfini-portrait",
+    "school-of-athens",
+    "gulf-stream",
+    "floor-scrapers",
+    "the-angelus",
+    "man-controller-of-the-universe",
+    "retirantes"
+  ],
+  "addedIds": [
+    "pantheon",
+    "raft-of-medusa",
+    "las-meninas",
+    "arnolfini-portrait",
+    "gulf-stream",
+    "floor-scrapers",
+    "the-angelus",
+    "man-controller-of-the-universe",
+    "retirantes"
+  ],
+  "updatedIds": [
+    "stanczyk",
+    "death-of-marat",
+    "the-ambassadors",
+    "potato-eaters",
+    "the-gleaners",
+    "school-of-athens"
+  ],
+  "catalogCount": 29,
+  "publicationStatus": "awaiting_deployment",
+  "authorization": "Julio reviewed new works, left notes and explicitly authorized publication of newly approved works on 2026-09-28. Exact approvals and image choices were captured from the current review UI."
+}
