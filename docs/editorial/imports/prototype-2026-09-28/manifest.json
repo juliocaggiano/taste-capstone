@@ -39,6 +39,9 @@
     "school-of-athens"
   ],
   "catalogCount": 29,
-  "publicationStatus": "awaiting_deployment",
-  "authorization": "Julio reviewed new works, left notes and explicitly authorized publication of newly approved works on 2026-09-28. Exact approvals and image choices were captured from the current review UI."
+  "publicationStatus": "published_verified",
+  "authorization": "Julio reviewed new works, left notes and explicitly authorized publication of newly approved works on 2026-09-28. Exact approvals and image choices were captured from the current review UI.",
+  "deploymentId": "dpl_2A5jdf5EFu8M8xwrZtAkGnZrB8sG",
+  "publicUrl": "https://taste-capstone.vercel.app/",
+  "releaseCommit": "97e9bf6"
 }

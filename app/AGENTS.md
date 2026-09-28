@@ -1,5 +1,12 @@
 # Taste (V1.2) Mobile Prototype Agent Guide
 
+## Approved catalog expanded to 29 works — 2026-09-28
+
+- Published nine newly approved entries and six approved updates at `https://taste-capstone.vercel.app/`. Deployment `dpl_2A5jdf5EFu8M8xwrZtAkGnZrB8sG` is READY; public records and all 29 selected image hashes were verified. Release commit `97e9bf6` is on `codex/editorial-publication`, using Taste’s verified Minerva commit email.
+- New works: Pantheon, The Raft of the Medusa, Las Meninas, The Arnolfini Portrait, The Gulf Stream, The Floor Scrapers, The Angelus, Man, Controller of the Universe, and Retirantes. Exact approved prose, including Julio’s manual edits, is preserved. Technical facts and creator previews accompany them.
+- Review now has 93 entries, 29 Live, zero Ready to publish and 65 To review. Live and pending drafts can overlap. Ten requested text revisions remain pending; addressed comments/notes are preserved in revision history. Four image requests remain open: Borobudur, Hagia Sophia, Apollo and Daphne, and Tōdai-ji.
+- This was an isolated catalog release from the previous committed public app baseline. Main-checkout UI experiments and pending drafts were not deployed. Publishing remains manual; portfolio account/integrations untouched. Import evidence: `docs/editorial/imports/prototype-2026-09-28/`. Verification: `qa/editorial-publication-2026-09-28/verification.md`.
+
 ## Daily and review update published — 2026-09-27
 
 - Deployment `dpl_5ZawGsCjA99kqefPh2guZnBwRP6m` is READY at `https://taste-capstone.vercel.app/`, from pushed commit `18a6e46`. It includes the Daily swipe settling fix and public catalog export for the connected local editorial review.
