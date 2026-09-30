@@ -20,6 +20,10 @@
   ],
   "updatedIds": [],
   "catalogCount": 45,
-  "publicationStatus": "awaiting_deployment",
-  "authorization": "After clarification that the Ready to publish tab contains ten paintings and six works in other media, Julio explicitly selected “Publish all 16 approved works” on 2026-09-30. This import completes the sixteen-work release with two ceramics, two music entries and two books."
+  "publicationStatus": "published",
+  "authorization": "After clarification that the Ready to publish tab contains ten paintings and six works in other media, Julio explicitly selected “Publish all 16 approved works” on 2026-09-30. This import completes the sixteen-work release with two ceramics, two music entries and two books.",
+  "deploymentId": "dpl_4diAk9JNmTfYc4ccSub3VM751mV3",
+  "publicUrl": "https://taste-capstone.vercel.app/",
+  "verifiedAt": "2026-09-30T10:34:55.029Z",
+  "releaseCommit": "0dc9e90"
 }

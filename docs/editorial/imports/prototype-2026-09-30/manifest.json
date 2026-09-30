@@ -28,6 +28,10 @@
   ],
   "updatedIds": [],
   "catalogCount": 39,
-  "publicationStatus": "awaiting_deployment",
-  "authorization": "Julio explicitly requested publication of the approved paintings on 2026-09-30. The ten unpublished approved paintings were verified in the current review export and rechecked in the browser. Six other-media works remain excluded pending scope clarification."
+  "publicationStatus": "published",
+  "authorization": "Julio explicitly requested publication of the approved paintings on 2026-09-30. The ten unpublished approved paintings were verified in the current review export and rechecked in the browser. Six other-media works remain excluded pending scope clarification.",
+  "deploymentId": "dpl_4diAk9JNmTfYc4ccSub3VM751mV3",
+  "publicUrl": "https://taste-capstone.vercel.app/",
+  "verifiedAt": "2026-09-30T10:34:55.029Z",
+  "releaseCommit": "0dc9e90"
 }

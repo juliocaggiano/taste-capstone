@@ -1,3 +1,12 @@
+## Sixteen approved artworks published — 2026-09-30
+
+- Julio confirmed publication of all 16 Ready entries: 10 paintings, 2 Peruvian ceramic sculptures, 2 music recordings and 2 books. Production now contains **45 works** at https://taste-capstone.vercel.app/.
+- Deployment `dpl_4diAk9JNmTfYc4ccSub3VM751mV3` is READY. Release commit `0dc9e90` is pushed to `codex/editorial-publication`; publication remains manual.
+- Exact approved bodies and selected images are preserved, including Julio’s direct edits. Barge Haulers retains the approved photograph crop through an SVG viewBox; book covers and vinyl layouts retain their established presentation. Sourced facts and creator previews accompany each addition. Previous 29 records and images are unchanged.
+- Review: **All 108 / Live 45 / Ready to publish 0 / To review 63**. Status tabs are mutually exclusive. All 108 notes, writing decisions and image choices were checked unchanged. The Barge Haulers source revision number was aligned to the existing revision 2; its approved body was not edited.
+- Isolated catalog release from the prior published baseline; main-checkout UI experiments remain local. New local taxonomy classifications cover all 45 imported works. No portfolio settings or integrations changed.
+- Import evidence: `docs/editorial/imports/prototype-2026-09-30/` and `prototype-2026-09-30-other-media/`. Checks: `qa/editorial-publication-2026-09-30/verification.md`. Public catalog and all 45 image hashes were verified before synchronizing the Live review snapshot.
+
 # Taste (V1.2) project context
 
 ## Approved catalog expanded to 29 works — 2026-09-28

@@ -1,0 +1,208 @@
+{
+  "works": {
+    "moche-portrait-head": {
+      "classification": "moche",
+      "keywords": [
+        "Peru",
+        "ceramics",
+        "pottery",
+        "portraiture",
+        "stirrup-spout",
+        "burial practices"
+      ]
+    },
+    "nasca-hummingbirds": {
+      "classification": "nasca",
+      "keywords": [
+        "Peru",
+        "ceramics",
+        "pottery",
+        "hummingbirds",
+        "feasting",
+        "ritual"
+      ]
+    },
+    "milkmaid": {
+      "classification": "baroque",
+      "keywords": [
+        "Dutch Golden Age",
+        "domestic work",
+        "milk",
+        "bread",
+        "Delft",
+        "light"
+      ]
+    },
+    "calling-matthew": {
+      "classification": "baroque",
+      "keywords": [
+        "Christianity",
+        "Saint Matthew",
+        "tax collector",
+        "conversion",
+        "chiaroscuro",
+        "Rome"
+      ]
+    },
+    "abaporu": {
+      "classification": "modernism",
+      "keywords": [
+        "Brazil",
+        "Anthropophagy",
+        "Antropofagia",
+        "cultural identity",
+        "Oswald de Andrade"
+      ]
+    },
+    "oath-of-the-horatii": {
+      "classification": "neoclassicism",
+      "keywords": [
+        "Ancient Rome",
+        "patriotism",
+        "family",
+        "civic duty",
+        "sacrifice"
+      ]
+    },
+    "ophelia": {
+      "classification": "pre-raphaelite",
+      "keywords": [
+        "Hamlet",
+        "Shakespeare",
+        "Ophelia",
+        "flowers",
+        "Elizabeth Siddal",
+        "literature"
+      ]
+    },
+    "the-hay-wain": {
+      "classification": "romanticism",
+      "keywords": [
+        "Suffolk",
+        "landscape",
+        "rural work",
+        "River Stour",
+        "industrialization"
+      ]
+    },
+    "goya-second-of-may": {
+      "classification": "romanticism",
+      "keywords": [
+        "Spanish history",
+        "Napoleon",
+        "occupation",
+        "Madrid",
+        "uprising",
+        "Mamelukes",
+        "Peninsular War"
+      ]
+    },
+    "massacre-at-chios": {
+      "classification": "romanticism",
+      "keywords": [
+        "Chios",
+        "Greece",
+        "Ottoman Empire",
+        "civilian victims",
+        "war",
+        "enslavement"
+      ]
+    },
+    "the-slave-ship": {
+      "classification": "romanticism",
+      "keywords": [
+        "Atlantic slave trade",
+        "Zong massacre",
+        "abolition",
+        "insurance",
+        "sea",
+        "slavery"
+      ]
+    },
+    "barge-haulers-on-the-volga": {
+      "classification": "realism",
+      "keywords": [
+        "Volga",
+        "labor",
+        "workers",
+        "inequality",
+        "Russian Empire",
+        "barge"
+      ]
+    },
+    "a-change-is-gonna-come": {
+      "classification": "soul",
+      "keywords": [
+        "civil rights",
+        "racism",
+        "gospel",
+        "United States",
+        "protest song"
+      ]
+    },
+    "construcao": {
+      "classification": "mpb",
+      "keywords": [
+        "Brazil",
+        "urban labor",
+        "construction worker",
+        "inequality",
+        "dictatorship"
+      ]
+    },
+    "metamorphosis": {
+      "classification": "literary-fiction",
+      "keywords": [
+        "modernism",
+        "alienation",
+        "Gregor Samsa",
+        "family",
+        "work",
+        "dehumanization"
+      ]
+    },
+    "nineteen-eighty-four": {
+      "classification": "science-fiction",
+      "keywords": [
+        "dystopia",
+        "totalitarianism",
+        "surveillance",
+        "Big Brother",
+        "Newspeak",
+        "political control"
+      ]
+    }
+  },
+  "additionalLabels": {
+    "pre-raphaelite": {
+      "en": "Pre-Raphaelite",
+      "pt-BR": "Pré-rafaelismo",
+      "it": "Preraffaellismo",
+      "es": "Prerrafaelismo"
+    },
+    "moche": {
+      "en": "Moche",
+      "pt-BR": "Moche",
+      "it": "Moche",
+      "es": "Moche"
+    },
+    "nasca": {
+      "en": "Nasca",
+      "pt-BR": "Nasca",
+      "it": "Nasca",
+      "es": "Nasca"
+    },
+    "soul": {
+      "en": "Soul",
+      "pt-BR": "Soul",
+      "it": "Soul",
+      "es": "Soul"
+    },
+    "mpb": {
+      "en": "MPB",
+      "pt-BR": "MPB",
+      "it": "MPB",
+      "es": "MPB"
+    }
+  }
+}
