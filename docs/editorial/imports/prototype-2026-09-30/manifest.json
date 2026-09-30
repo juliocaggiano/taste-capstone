@@ -1,0 +1,33 @@
+{
+  "importId": "prototype-2026-09-30",
+  "capturedAt": "2026-09-30T10:14:42.391Z",
+  "reviewUrl": "http://127.0.0.1:4184/REVIEW.html",
+  "entryIds": [
+    "milkmaid",
+    "calling-matthew",
+    "abaporu",
+    "oath-of-the-horatii",
+    "ophelia",
+    "the-hay-wain",
+    "goya-second-of-may",
+    "massacre-at-chios",
+    "the-slave-ship",
+    "barge-haulers-on-the-volga"
+  ],
+  "addedIds": [
+    "milkmaid",
+    "calling-matthew",
+    "abaporu",
+    "oath-of-the-horatii",
+    "ophelia",
+    "the-hay-wain",
+    "goya-second-of-may",
+    "massacre-at-chios",
+    "the-slave-ship",
+    "barge-haulers-on-the-volga"
+  ],
+  "updatedIds": [],
+  "catalogCount": 39,
+  "publicationStatus": "awaiting_deployment",
+  "authorization": "Julio explicitly requested publication of the approved paintings on 2026-09-30. The ten unpublished approved paintings were verified in the current review export and rechecked in the browser. Six other-media works remain excluded pending scope clarification."
+}

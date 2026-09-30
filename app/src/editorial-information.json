@@ -1,5 +1,5 @@
 {
-  "updatedOn": "2026-09-28",
+  "updatedOn": "2026-09-30",
   "language": "en",
   "status": "Factual supplements requested by Julio; separate from approved story text.",
   "works": {
@@ -504,6 +504,269 @@
         "heightCm": 190,
         "widthCm": 180
       }
+    },
+    "milkmaid": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Rijksmuseum, Amsterdam"
+        }
+      ],
+      "sources": [
+        "https://id.rijksmuseum.nl/200108369"
+      ],
+      "dimensions": {
+        "heightCm": 45.5,
+        "widthCm": 41
+      }
+    },
+    "calling-matthew": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "location",
+          "value": "Contarelli Chapel, San Luigi dei Francesi, Rome"
+        }
+      ],
+      "sources": [
+        "https://smarthistory.org/caravaggio-calling-of-st-matthew/"
+      ]
+    },
+    "abaporu": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "MALBA, Buenos Aires"
+        }
+      ],
+      "sources": [
+        "https://coleccion.malba.org.ar/en/abaporu/"
+      ],
+      "dimensions": {
+        "heightCm": 85.3,
+        "widthCm": 73
+      }
+    },
+    "oath-of-the-horatii": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Musée du Louvre, Paris"
+        }
+      ],
+      "sources": [
+        "https://collections.louvre.fr/en/ark:/53355/cl010062239"
+      ],
+      "dimensions": {
+        "heightCm": 330,
+        "widthCm": 425
+      }
+    },
+    "ophelia": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Tate, London"
+        }
+      ],
+      "sources": [
+        "https://shop.tate.org.uk/john-everett-millais-ophelia/johmll001.html"
+      ],
+      "dimensions": {
+        "heightCm": 76.2,
+        "widthCm": 111.8
+      }
+    },
+    "the-hay-wain": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "National Gallery, London"
+        }
+      ],
+      "sources": [
+        "https://www.nationalgallery.org.uk/paintings/john-constable-the-hay-wain"
+      ],
+      "dimensions": {
+        "heightCm": 130.2,
+        "widthCm": 185.4
+      }
+    },
+    "goya-second-of-may": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Museo Nacional del Prado, Madrid"
+        }
+      ],
+      "sources": [
+        "https://www.museodelprado.es/en/the-collection/art-work/the-2nd-of-may-1808-in-madrid-or-the-fight/57dacf2e-5d10-4ded-85aa-9ff6f741f6b1"
+      ]
+    },
+    "massacre-at-chios": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Musée du Louvre, Paris"
+        }
+      ],
+      "sources": [
+        "https://collections.louvre.fr/en/ark:/53355/cl010065870"
+      ],
+      "dimensions": {
+        "heightCm": 419,
+        "widthCm": 354
+      }
+    },
+    "the-slave-ship": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "Museum of Fine Arts, Boston"
+        }
+      ],
+      "sources": [
+        "https://www.mfa.org/exhibition/turners-modern-world"
+      ]
+    },
+    "barge-haulers-on-the-volga": {
+      "medium": "Oil on canvas",
+      "details": [
+        {
+          "label": "collection",
+          "value": "State Russian Museum, Saint Petersburg"
+        }
+      ],
+      "sources": [
+        "https://virtual.rusmuseumvrm.ru/mikh_palace/collection/russkoe_iskusstvo_vtoroy_polovini_xix_veka/burlaki_na_volge/index.php?lang=en",
+        "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-russia.pdf"
+      ],
+      "dimensions": {
+        "heightCm": 131.5,
+        "widthCm": 281
+      }
+    },
+    "moche-portrait-head": {
+      "medium": "Ceramic and slip",
+      "details": [
+        {
+          "label": "collection",
+          "value": "The Metropolitan Museum of Art, New York"
+        }
+      ],
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/308528"
+      ],
+      "dimensions": {
+        "heightCm": 27.9,
+        "widthCm": 14.3
+      }
+    },
+    "nasca-hummingbirds": {
+      "medium": "Ceramic and slip",
+      "details": [
+        {
+          "label": "collection",
+          "value": "The Metropolitan Museum of Art, New York"
+        },
+        {
+          "label": "measurementNote",
+          "value": "Diameter: 12.7 cm"
+        }
+      ],
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/310543"
+      ],
+      "dimensions": {
+        "heightCm": 15.2
+      }
+    },
+    "a-change-is-gonna-come": {
+      "medium": "Soul recording",
+      "details": [
+        {
+          "label": "songwriter",
+          "value": "Sam Cooke"
+        },
+        {
+          "label": "label",
+          "value": "RCA Victor"
+        },
+        {
+          "label": "firstPublished",
+          "value": "1964, on Ain’t That Good News"
+        },
+        {
+          "label": "language",
+          "value": "English"
+        }
+      ],
+      "sources": [
+        "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/AChangeIsGonnaCome.pdf",
+        "https://www.abkco.com/news-feed/classic-sam-cooke-albums-available-in-dolby-atmos/"
+      ]
+    },
+    "construcao": {
+      "medium": "Song recording",
+      "details": [
+        {
+          "label": "songwriter",
+          "value": "Chico Buarque"
+        },
+        {
+          "label": "firstPublished",
+          "value": "1971, on Construção"
+        },
+        {
+          "label": "language",
+          "value": "Portuguese"
+        }
+      ],
+      "sources": [
+        "https://www.chicobuarque.com.br/obra/album/12",
+        "https://chicobuarque.com.br/obra/cancao/98"
+      ]
+    },
+    "metamorphosis": {
+      "medium": "Novella",
+      "details": [
+        {
+          "label": "language",
+          "value": "German"
+        },
+        {
+          "label": "firstPublished",
+          "value": "1915"
+        }
+      ],
+      "sources": [
+        "https://kafkamuseum.cz/en/timeline"
+      ]
+    },
+    "nineteen-eighty-four": {
+      "medium": "Dystopian novel",
+      "details": [
+        {
+          "label": "language",
+          "value": "English"
+        },
+        {
+          "label": "firstPublished",
+          "value": "1949, Secker & Warburg"
+        }
+      ],
+      "sources": [
+        "https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/",
+        "https://www.themorgan.org/printed-books/85571"
+      ]
     }
   },
   "creators": {
@@ -716,6 +979,106 @@
       "biography": "Candido Portinari grew up near Brodowski, São Paulo, in a family of Italian immigrants who worked on a coffee plantation. He painted rural workers, migrants and childhood scenes, bringing Brazilian social life into modern painting. His public commissions include the War and Peace panels at the United Nations.",
       "sources": [
         "https://www.portinari.org.br/o-artista/notas-biograficas"
+      ]
+    },
+    "johannes-vermeer": {
+      "country": "Netherlands",
+      "dates": "1632–1675",
+      "biography": "Johannes Vermeer lived and worked in Delft in the Dutch Republic. His paintings often show people reading, making music or working in quiet rooms. Careful attention to light and everyday objects gives these small domestic scenes much of their character. Only about 35 paintings are generally accepted as his work.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/johannes-vermeer"
+      ]
+    },
+    "caravaggio": {
+      "country": "Italy",
+      "dates": "1571–1610",
+      "biography": "Michelangelo Merisi, known as Caravaggio, built his career in Rome after training in northern Italy. He brought religious stories close to everyday life, giving saints the appearance of ordinary people. His strong contrasts of light and shadow influenced painters across Europe.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/michelangelo-merisi-da-caravaggio"
+      ]
+    },
+    "tarsila-do-amaral": {
+      "country": "Brazil",
+      "dates": "1886–1973",
+      "biography": "Tarsila do Amaral helped develop modern painting in Brazil while moving between São Paulo and Paris. She combined lessons from Cubism with Brazilian landscapes, people and popular culture. Her painting Abaporu inspired the idea that Brazilian artists could absorb foreign influences and turn them into something of their own.",
+      "sources": [
+        "https://www.moma.org/calendar/exhibitions/3871"
+      ]
+    },
+    "john-everett-millais": {
+      "country": "United Kingdom",
+      "dates": "1829–1896",
+      "biography": "John Everett Millais entered the Royal Academy Schools as a child and helped found the Pre-Raphaelite Brotherhood in 1848. His early paintings gave literary and religious subjects sharply observed detail. Later, he became a successful portrait painter and served briefly as president of the Royal Academy.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/exhibitions/past/reflections-van-eyck-and-the-pre-raphaelites/reflections-behind-the-inspiration?viewPage=3"
+      ]
+    },
+    "john-constable": {
+      "country": "United Kingdom",
+      "dates": "1776–1837",
+      "biography": "John Constable made the Suffolk countryside where he grew up a central subject of his painting. He studied changing skies and rural scenes outdoors, then developed large exhibition paintings in his studio. His landscapes became especially influential in France, where The Hay Wain won a gold medal in 1824.",
+      "sources": [
+        "https://www.nationalgallery.org.uk/artists/john-constable",
+        "https://www.nationalgallery.org.uk/paintings/john-constable-the-hay-wain"
+      ]
+    },
+    "j-m-w-turner": {
+      "country": "United Kingdom",
+      "dates": "1775–1851",
+      "biography": "J. M. W. Turner was a British painter whose landscapes and seascapes explored light, weather and human activity. His subjects ranged from ancient history to steamships, railways and the slave trade. He worked in both oil and watercolor, often allowing atmosphere to soften the outlines of objects.",
+      "sources": [
+        "https://www.metmuseum.org/exhibitions/listings/2008/j-m-w-turner?persisted=true&sc_device=default",
+        "https://www.mfa.org/exhibition/turners-modern-world"
+      ]
+    },
+    "ilya-repin": {
+      "country": "Russian Empire",
+      "dates": "1844–1930",
+      "biography": "Born in what is now Ukraine, Ilya Repin built his career in the Russian Empire. He painted workers, political events and portraits with close attention to individual people. Barge Haulers on the Volga helped establish his reputation; later, he lived and worked in Kuokkala, then part of Finland.",
+      "sources": [
+        "https://ateneum.fi/en/exhibitions/repin/"
+      ]
+    },
+    "moche-artists": {
+      "country": "Peru",
+      "dates": "",
+      "biography": "The maker of this vessel is not known by name. Moche artists on Peru’s north coast modeled ceramic vessels as people, animals and scenes of ritual life. Their portrait bottles preserve recognizable faces within a tradition that linked skilled craft with social standing and ceremonial use.",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/308528"
+      ]
+    },
+    "nasca-artists": {
+      "country": "Peru",
+      "dates": "",
+      "biography": "The maker of this bottle is not known by name. Nasca artists on Peru’s south coast made pottery with vivid painted surfaces, combining animals, plants and supernatural figures. Such vessels formed part of feasting and funerary practices as well as the region’s wider visual culture.",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/310543"
+      ]
+    },
+    "sam-cooke": {
+      "country": "United States",
+      "dates": "1931–1964",
+      "biography": "Sam Cooke began as a gospel singer before becoming a leading figure in soul music. Born in Mississippi and raised in Chicago, he brought a smooth, expressive voice to both love songs and songs about public life. A Change Is Gonna Come became closely associated with the civil rights movement.",
+      "sources": [
+        "https://blogs.loc.gov/loc/2019/03/national-recording-registry-stories-behind-some-of-the-greatest-hits/",
+        "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/AChangeIsGonnaCome.pdf"
+      ]
+    },
+    "chico-buarque": {
+      "country": "Brazil",
+      "dates": "Born 1944",
+      "biography": "Chico Buarque is a Brazilian songwriter, singer, playwright and novelist. His songs often speak through invented characters, using their daily lives to explore love, work and social inequality. During Brazil’s military dictatorship, he also wrote songs that challenged political repression.",
+      "sources": [
+        "https://www.chicobuarque.com.br/textos?Tipo=1",
+        "https://www.chicobuarque.com.br/obra/album/12"
+      ]
+    },
+    "franz-kafka": {
+      "country": "Prague, Austria-Hungary",
+      "dates": "1883–1924",
+      "biography": "Franz Kafka wrote in German while working in insurance in Prague. He published only a small part of his work during his lifetime and was deeply critical of his own writing. His friend Max Brod preserved and published many manuscripts after Kafka’s death, despite instructions to destroy them.",
+      "sources": [
+        "https://kafkamuseum.cz/en/biography"
       ]
     }
   }

@@ -1,0 +1,1889 @@
+[
+  {
+    "entry": {
+      "id": "milkmaid",
+      "title": "The Milkmaid",
+      "creator": "Johannes Vermeer",
+      "dateDisplay": "c. 1660",
+      "dateStart": 1660,
+      "dateEnd": null,
+      "place": "Delft, Netherlands",
+      "medium": "painting",
+      "meaningBrief": "Sustained attention to a servant’s ordinary work gives the scene its significance, helped by deliberate pictorial simplification.",
+      "body": "Domestic servants were familiar subjects in seventeenth-century Dutch art, but they frequently appeared in jokes about idleness or sexual availability. Vermeer’s woman is occupied and capable. Her rolled sleeves, strong arms and careful grip explain what she is doing.\n\nA Cupid on a floor tile also leaves room for a reference to love, although her expression gives us no access to a private story.\n\nThe bread and basket are painted with tiny touches of light that make their surfaces almost tangible. Around them, the room is comparatively bare. Recent examination revealed that Vermeer originally included a rack of jugs behind the servant and a large basket near the floor, then painted them out.",
+      "sources": [
+        {
+          "title": "Rijksmuseum — The Milkmaid",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/The-Milkmaid--42dd0e658c2979aec8e144d2357c55c0",
+          "role": "interpretation and factual context",
+          "supports": "Current date c. 1660, servant, concentrated pouring, monumental attention and light.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "The Metropolitan Museum of Art — Vermeer’s Masterpiece: The Milkmaid",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/vermeer/photo-gallery",
+          "role": "interpretation and factual context",
+          "supports": "Domestic work, earlier depictions of maids, Cupid tile, tactile surfaces and concentrated figure.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Rijksmuseum — Discoveries beneath The Milkmaid",
+          "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-reveals-major-discoveries-on-vermeer-s-painting-the-milkmaid",
+          "role": "interpretation and factual context",
+          "supports": "Jug rack and fire basket painted out; simplification of the room. Older dates in this article superseded by the current object record.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-005",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-005/research.md",
+        "basis": "New researched draft. Writing and image approval remain pending.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Explained the servant’s task and pictorial tradition, then made the documented revisions answer why the scene holds attention.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b005-milkmaid-a.jpg",
+        "referenceUrl": "https://www.rijksmuseum.nl/en/collection/object/The-Milkmaid--42dd0e658c2979aec8e144d2357c55c0",
+        "altText": "A servant in a yellow bodice pours milk into a bowl beside bread and a basket in a simply furnished room.",
+        "credit": "Johannes Vermeer",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image choice and writing approval remain separate."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "entryId": "milkmaid",
+      "id": "C",
+      "imageUrl": "image-options/assets/painting/b005-milkmaid-c.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vermeer_The_Milkmaid_1660_ca.jpg",
+      "sourceTitle": "File:Vermeer The Milkmaid 1660 ca.jpg",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Vermeer_The_Milkmaid_1660_ca.jpg/1920px-Vermeer_The_Milkmaid_1660_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vermeer_The_Milkmaid_1660_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 2164,
+      "credit": "Johannes Vermeer; Rijksmuseum",
+      "sourceCredit": "Rijksmuseum",
+      "license": "Public domain",
+      "sha256": "af09cc4be44779275a9b07f9c3f84734a3f8756fc2976325082b7f5325ea91fb",
+      "sourceDimensions": [
+        4226,
+        4762
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+      "label": "Rijksmuseum reproduction",
+      "description": "A slightly cooler wall and muted yellow tones.",
+      "altText": "A servant in a yellow bodice pours milk into a bowl beside bread and a basket in a simply furnished room.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-26",
+      "assetSha256": "af09cc4be44779275a9b07f9c3f84734a3f8756fc2976325082b7f5325ea91fb"
+    },
+    "reviewEvidence": {
+      "imageOption": "C",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "milkmaid",
+      "sourceBatchId": "batch-005",
+      "title": "The Milkmaid",
+      "revision": 3,
+      "feedbackRevisions": [
+        {
+          "revisionId": "painting-library-2026-09-27-milkmaid",
+          "entryId": "milkmaid",
+          "fromBodyHash": "162451370052c467",
+          "toBodyHash": "0a384963d3b70c4c",
+          "version": 2,
+          "revisedOn": "2026-09-27",
+          "summary": "Explained the servant’s task and pictorial tradition, then made the documented revisions answer why the scene holds attention.",
+          "previousBody": "A kitchen servant pours milk into a bowl, watching the stream so carefully that she seems unaware of anyone else. Bread lies beside her on the table. Vermeer gives this ordinary task the attention that painters often reserved for important people. The woman’s concentration, rather than her social position, makes her the center of the room.\n\nSeventeenth-century Dutch paintings often praised orderly households, but kitchen maids also appeared in jokes about sexual availability. Vermeer’s servant is harder to reduce to either a lesson or a stereotype. Her sturdy arms suggest physical work, while tiny touches of light make the bread’s crust and the basket’s woven surface unusually vivid. A small Cupid on a floor tile introduces a possible reference to love, without telling us what the woman is thinking.\n\nThe room’s simplicity was a deliberate choice. Scans have revealed that Vermeer first painted a rack of jugs behind her head, then covered it. He also removed a large basket used to hold a warming pot. Clearing these objects gave more space to the woman and her task. The resulting quiet depends on what Vermeer chose to leave out, as much as on the care with which he painted what remains.",
+          "notes": "",
+          "comments": []
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-milkmaid-0a384963d3b70c4c",
+          "entryId": "milkmaid",
+          "fromBodyHash": "0a384963d3b70c4c",
+          "toBodyHash": "523bfac36e384cf6",
+          "version": 3,
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "previousBody": "Despite the title, this woman is a kitchen servant rather than someone milking cows. She pours a thin stream of milk into a bowl beside a table covered with bread, watching the task closely. Vermeer gives a small moment of household work the patient attention more often associated with a portrait of an important person.\n\nDomestic servants were familiar subjects in seventeenth-century Dutch art, but they frequently appeared in jokes about idleness or sexual availability. Vermeer’s woman is occupied and capable. Her rolled sleeves, strong arms and careful grip explain what she is doing without making her performance a lesson or a joke. A Cupid on a floor tile leaves room for a reference to love, although her expression gives us no access to a private story.\n\nThe bread and basket are painted with tiny touches of light that make their surfaces almost tangible. Around them, the room is comparatively bare. Recent examination revealed that Vermeer originally included a rack of jugs behind the servant and a large basket near the floor, then painted them out. The simplicity came through revision.\n\nThose removals help explain why an uneventful scene holds attention. Fewer objects compete with the woman, so the act of pouring becomes something we can follow for longer than we would normally give it. The servant’s place in the household may have been modest, but the painting makes her work worth sustained observation.",
+          "notes": "",
+          "comments": [
+            {
+              "id": "7decd5f5-e2f0-4331-ada9-34c72e12be2c",
+              "quote": "Despite the title, this woman is a kitchen servant rather than someone milking cows. She pours a thin stream of milk into a bowl beside a table covered with bread, watching the task closely. Vermeer gives a small moment of household work the patient attention more often associated with a portrait of an important person",
+              "text": "cut"
+            },
+            {
+              "id": "333d33f5-0ac5-4f62-89ed-45343636b11c",
+              "quote": " without making her performance a lesson or a joke",
+              "text": "cut"
+            },
+            {
+              "id": "543347c3-273c-4783-95b3-30457b644306",
+              "quote": "The simplicity came through revision.",
+              "text": "cut"
+            },
+            {
+              "id": "3e0602db-0511-4fb3-8aa0-c0d4a6d91fbc",
+              "quote": "Those removals help explain why an uneventful scene holds attention. Fewer objects compete with the woman, so the act of pouring becomes something we can follow for longer than we would normally give it. The servant’s place in the household may have been modest, but the painting makes her work worth sustained observation.",
+              "text": "cut"
+            }
+          ]
+        }
+      ],
+      "revisionHistory": [
+        {
+          "revisionId": "painting-library-2026-09-27-milkmaid",
+          "fromBodyHash": "162451370052c467",
+          "toBodyHash": "0a384963d3b70c4c",
+          "revisedOn": "2026-09-27",
+          "summary": "Explained the servant’s task and pictorial tradition, then made the documented revisions answer why the scene holds attention.",
+          "notes": "",
+          "comments": []
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-milkmaid-0a384963d3b70c4c",
+          "fromBodyHash": "0a384963d3b70c4c",
+          "toBodyHash": "523bfac36e384cf6",
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "notes": "",
+          "comments": [
+            {
+              "start": 0,
+              "end": 320,
+              "quote": "Despite the title, this woman is a kitchen servant rather than someone milking cows. She pours a thin stream of milk into a bowl beside a table covered with bread, watching the task closely. Vermeer gives a small moment of household work the patient attention more often associated with a portrait of an important person",
+              "prefix": "",
+              "suffix": ".\nDomestic servants were familiar subjects in seve",
+              "bodyHash": "0a384963d3b70c4c",
+              "id": "7decd5f5-e2f0-4331-ada9-34c72e12be2c",
+              "createdAt": "2026-09-28T12:45:34.015Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:45:34.015Z"
+            },
+            {
+              "start": 589,
+              "end": 639,
+              "quote": " without making her performance a lesson or a joke",
+              "prefix": "ng arms and careful grip explain what she is doing",
+              "suffix": ". A Cupid on a floor tile leaves room for a refere",
+              "bodyHash": "0a384963d3b70c4c",
+              "id": "333d33f5-0ac5-4f62-89ed-45343636b11c",
+              "createdAt": "2026-09-28T12:45:55.472Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:45:55.472Z"
+            },
+            {
+              "start": 1065,
+              "end": 1102,
+              "quote": "The simplicity came through revision.",
+              "prefix": "rge basket near the floor, then painted them out. ",
+              "suffix": "\nThose removals help explain why an uneventful sce",
+              "bodyHash": "0a384963d3b70c4c",
+              "id": "543347c3-273c-4783-95b3-30457b644306",
+              "createdAt": "2026-09-28T12:46:25.455Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:46:25.455Z"
+            },
+            {
+              "start": 1103,
+              "end": 1426,
+              "quote": "Those removals help explain why an uneventful scene holds attention. Fewer objects compete with the woman, so the act of pouring becomes something we can follow for longer than we would normally give it. The servant’s place in the household may have been modest, but the painting makes her work worth sustained observation.",
+              "prefix": "d them out. The simplicity came through revision.\n",
+              "suffix": "",
+              "bodyHash": "0a384963d3b70c4c",
+              "id": "3e0602db-0511-4fb3-8aa0-c0d4a6d91fbc",
+              "createdAt": "2026-09-28T12:46:44.682Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:46:44.682Z"
+            }
+          ]
+        }
+      ],
+      "body": "Domestic servants were familiar subjects in seventeenth-century Dutch art, but they frequently appeared in jokes about idleness or sexual availability. Vermeer’s woman is occupied and capable. Her rolled sleeves, strong arms and careful grip explain what she is doing.\n\nA Cupid on a floor tile also leaves room for a reference to love, although her expression gives us no access to a private story.\n\nThe bread and basket are painted with tiny touches of light that make their surfaces almost tangible. Around them, the room is comparatively bare. Recent examination revealed that Vermeer originally included a rack of jugs behind the servant and a large basket near the floor, then painted them out.",
+      "published": null,
+      "bodyHash": "b839fe049e4ec34e",
+      "imageHash": "33386c490984b627",
+      "selectedImage": {
+        "entryId": "milkmaid",
+        "id": "C",
+        "imageUrl": "image-options/assets/painting/b005-milkmaid-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vermeer_The_Milkmaid_1660_ca.jpg",
+        "sourceTitle": "File:Vermeer The Milkmaid 1660 ca.jpg",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Vermeer_The_Milkmaid_1660_ca.jpg/1920px-Vermeer_The_Milkmaid_1660_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vermeer_The_Milkmaid_1660_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1920,
+        "height": 2164,
+        "credit": "Johannes Vermeer; Rijksmuseum",
+        "sourceCredit": "Rijksmuseum",
+        "license": "Public domain",
+        "sha256": "af09cc4be44779275a9b07f9c3f84734a3f8756fc2976325082b7f5325ea91fb",
+        "sourceDimensions": [
+          4226,
+          4762
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+        "label": "Rijksmuseum reproduction",
+        "description": "A slightly cooler wall and muted yellow tones.",
+        "altText": "A servant in a yellow bodice pours milk into a bowl beside bread and a basket in a simply furnished room.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-26",
+        "assetSha256": "af09cc4be44779275a9b07f9c3f84734a3f8756fc2976325082b7f5325ea91fb"
+      }
+    },
+    "bodyHash": "b839fe049e4ec34e",
+    "imageHash": "33386c490984b627",
+    "appImage": "/assets/editorial/milkmaid.jpg",
+    "appImageSha256": "af09cc4be44779275a9b07f9c3f84734a3f8756fc2976325082b7f5325ea91fb"
+  },
+  {
+    "entry": {
+      "id": "calling-matthew",
+      "title": "The Calling of Saint Matthew",
+      "creator": "Caravaggio",
+      "dateDisplay": "1599–1600",
+      "dateStart": 1599,
+      "dateEnd": 1600,
+      "place": "Rome, Italy",
+      "medium": "painting",
+      "meaningBrief": "Grace reaches someone during ordinary, distrusted work; the invitation precedes the change in his life.",
+      "body": "In the Gospel of Matthew, Jesus approaches a tax collector at work and asks him to become a follower. The story places Matthew among tax collectors and people described as sinners, whom Jesus’s critics did not consider suitable company.\n\nCaravaggio puts that encounter in a room where money is still being counted. Jesus enters from the right, partly concealed by Saint Peter, and extends his hand towards the table. A shaft of light follows the same direction. The bearded man usually identified as Matthew points towards himself, apparently surprised, while two others remain absorbed in the coins.\n\nFor people entering the chapel in Rome where the painting was installed, the clothes and surroundings would have seemed close to their own time. Caravaggio brought a biblical event into the familiar business of the city, allowing the religious meaning to emerge through an interruption to an ordinary day.\n\nThe next episode in the Gospel helps explain the choice. Jesus eats with tax collectors and sinners, prompting the Pharisees, a Jewish religious group, to question his disciples about the company he keeps. Jesus answers that healthy people do not need a doctor, but sick people do. He then quotes a teaching from the Hebrew scriptures: “I will have mercy, and not sacrifice.” His decision to call Matthew belongs to this wider argument about whom a religious teacher should welcome.",
+      "sources": [
+        {
+          "title": "Smarthistory — Caravaggio, Calling of Saint Matthew",
+          "url": "https://smarthistory.org/caravaggio-calling-of-st-matthew/",
+          "role": "interpretation and factual context",
+          "supports": "Gospel narrative, ordinary contemporary dress, grace, light and gesture, church setting and usual identification of Matthew.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Turismo Roma — Caravaggio in Rome",
+          "url": "https://turismoroma.it/sites/default/files/Monografia%20Caravaggio_ENG_WEB.pdf",
+          "role": "interpretation and factual context",
+          "supports": "Official city guide: dates, Contarelli Chapel and illumination as grace.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "The Calling of Saint Matthew — identification debate",
+          "url": "https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew",
+          "role": "interpretation and factual context",
+          "supports": "Records the alternative identification of the younger figure; body uses “usually identified” rather than claiming certainty.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Gospel of Matthew 9:9–13, King James Version",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+9%3A9-13&version=KJV",
+          "role": "primary religious text",
+          "supports": "Calling, meal with tax collectors and sinners, Pharisees’ objection, physician comparison, eight-word mercy quotation. Read 28 September 2026."
+        }
+      ],
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-005",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-005/research.md",
+        "basis": "New researched draft. Writing and image approval remain pending.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Connected occupation, invitation and different responses, explaining grace in familiar words.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b005-calling-matthew-a.jpg",
+        "referenceUrl": "https://smarthistory.org/caravaggio-calling-of-st-matthew/",
+        "altText": "Jesus points toward men seated around a table of coins as a diagonal beam of light crosses a dark room.",
+        "credit": "Caravaggio",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image choice and writing approval remain separate."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "entryId": "calling-matthew",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b005-calling-matthew-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+      "sourceTitle": "File:Caravaggio — The Calling of Saint Matthew.jpg",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/1920px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1813,
+      "credit": "Gleb Simonov; Own work",
+      "sourceCredit": "Own work",
+      "license": "CC0",
+      "sha256": "3caf6b36fe09d13bd481b0f202044bd4f3c11203a5e329116caae973982d5b7a",
+      "sourceDimensions": [
+        8792,
+        8304
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+      "label": "Photograph by Gleb Simonov",
+      "description": "Cooler, subdued tones and visible detail in the shadowed room.",
+      "altText": "Jesus points toward men seated around a table of coins as a diagonal beam of light crosses a dark room.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-26",
+      "assetSha256": "3caf6b36fe09d13bd481b0f202044bd4f3c11203a5e329116caae973982d5b7a"
+    },
+    "reviewEvidence": {
+      "imageOption": "A",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "calling-matthew",
+      "sourceBatchId": "batch-005",
+      "title": "The Calling of Saint Matthew",
+      "revision": 2,
+      "feedbackRevisions": [
+        {
+          "revisionId": "painting-library-2026-09-27-calling-matthew",
+          "entryId": "calling-matthew",
+          "fromBodyHash": "7305f30be27cc5a2",
+          "toBodyHash": "47075100536e41b0",
+          "version": 2,
+          "revisedOn": "2026-09-27",
+          "summary": "Connected occupation, invitation and different responses, explaining grace in familiar words.",
+          "previousBody": "In the Gospel of Matthew, Jesus approaches a tax collector and asks him to follow him. Tax collectors worked for the ruling authorities and were widely distrusted. Matthew’s calling therefore shows that someone with a disreputable occupation could become a follower of Christ. Caravaggio places this change of life in a room where men are still occupied with money.\n\nJesus stands at the right, partly concealed by Saint Peter. His outstretched hand directs us toward the table, along the same path as a shaft of light. The bearded man pointing toward himself is usually identified as Matthew, surprised to be chosen. Two men remain bent over the coins. Within one small group, Caravaggio shows different degrees of attention to an event that may transform a person’s life.\n\nPainted for a chapel in Rome, the scene brings the biblical story close to its first viewers. The men at the table wear clothes from Caravaggio’s own time. Holiness enters a setting that could belong to the city outside the church. In this image of conversion, the invitation comes while ordinary business is still underway. Matthew does not first appear purified, prepared or removed from society; the call reaches him where he works.",
+          "notes": "",
+          "comments": []
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-calling-matthew-109edfd77082bb50",
+          "entryId": "calling-matthew",
+          "fromBodyHash": "109edfd77082bb50",
+          "toBodyHash": "666f5e7a07a8e2b7",
+          "version": 3,
+          "revisedOn": "2026-09-28",
+          "summary": "Applied four passage cuts or rewrites and added the adjacent Gospel account of the meal with tax collectors, as requested. Julio’s other manual wording is retained.",
+          "previousBody": "In the Gospel of Matthew, Jesus approaches a tax collector at work and asks him to become a follower. Tax collectors served the ruling authorities and were widely distrusted, which makes the choice significant. The man does not have to begin as a respected or obviously holy person to receive the invitation.\n\nCaravaggio puts that encounter in a room where money is still being counted. Jesus enters from the right, partly concealed by Saint Peter, and extends his hand towards the table. A shaft of light follows the same direction. The bearded man usually identified as Matthew points towards himself, apparently surprised, while two others remain absorbed in the coins.\n\nFor people entering the chapel in Rome where the painting was installed, the clothes and surroundings would have seemed close to their own time. Caravaggio brought a biblical event into the familiar business of the city, allowing the religious meaning to emerge through an interruption to an ordinary day. Someone intent on money has been asked to give his life a different direction.\n\nThe different responses around the table keep the invitation from feeling automatic. Some people look up; others continue working. In Biblical terms, the scene concerns grace, help from God that does not have to be earned in advance. Caravaggio makes that idea understandable by showing the call arriving before the tax collector has left his job or demonstrated that he deserves it.",
+          "notes": "",
+          "comments": [
+            {
+              "id": "94e47880-df60-4595-9693-cca0ccc79494",
+              "quote": " In Biblical terms, the scene concerns grace, help from God that does not have to be earned in advance. Caravaggio makes that idea understandable by showing the call arriving before the tax collector has left his job or demonstrated that he deserves it.",
+              "text": "do you have more biblical anectoes from the calling of st matthew"
+            }
+          ]
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-calling-matthew-47075100536e41b0",
+          "entryId": "calling-matthew",
+          "fromBodyHash": "47075100536e41b0",
+          "toBodyHash": "666f5e7a07a8e2b7",
+          "version": 3,
+          "revisedOn": "2026-09-28",
+          "summary": "Applied four passage cuts or rewrites and added the adjacent Gospel account of the meal with tax collectors, as requested. Julio’s other manual wording is retained.",
+          "previousBody": "In the Gospel of Matthew, Jesus approaches a tax collector at work and asks him to become a follower. Tax collectors served the ruling authorities and were widely distrusted, which makes the choice significant. The man does not have to begin as a respected or obviously holy person to receive the invitation.\n\nCaravaggio puts that encounter in a room where money is still being counted. Jesus enters from the right, partly concealed by Saint Peter, and extends his hand towards the table. A shaft of light follows the same direction. The bearded man usually identified as Matthew points towards himself, apparently surprised, while two others remain absorbed in the coins.\n\nFor people entering the chapel in Rome where the painting was installed, the clothes and surroundings would have seemed close to their own time. Caravaggio brought a biblical event into the familiar business of the city, allowing the religious meaning to emerge through an interruption to an ordinary day. Someone intent on money has been asked to give his life a different direction.\n\nThe different responses around the table keep the invitation from feeling automatic. Some people look up; others continue working. In Christian terms, the scene concerns grace, help from God that does not have to be earned in advance. Caravaggio makes that idea understandable by showing the call arriving before the tax collector has left his job or demonstrated that he deserves it.",
+          "notes": "",
+          "comments": [
+            {
+              "id": "d3e2f5b5-86cc-4370-95f0-fe4ad7db81f2",
+              "quote": "Tax collectors served the ruling authorities and were widely distrusted, which makes the choice significant.",
+              "text": "re write"
+            },
+            {
+              "id": "aed2fd5a-865d-43b4-b34f-3270efaf27fb",
+              "quote": "The man does not have to begin as a respected or obviously holy person to receive the invitation.",
+              "text": "cut"
+            },
+            {
+              "id": "40f21add-366b-45dd-9fb5-948d2e446018",
+              "quote": "Someone intent on money has been asked to give his life a different direction.",
+              "text": "cut"
+            },
+            {
+              "id": "89365b74-a474-45ff-85d0-86d207d54730",
+              "quote": "The different responses around the table keep the invitation from feeling automatic. Some people look up; others continue working. ",
+              "text": "cut"
+            }
+          ]
+        }
+      ],
+      "revisionHistory": [
+        {
+          "revisionId": "painting-library-2026-09-27-calling-matthew",
+          "fromBodyHash": "7305f30be27cc5a2",
+          "toBodyHash": "47075100536e41b0",
+          "revisedOn": "2026-09-27",
+          "summary": "Connected occupation, invitation and different responses, explaining grace in familiar words.",
+          "notes": "",
+          "comments": []
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-calling-matthew-109edfd77082bb50",
+          "fromBodyHash": "109edfd77082bb50",
+          "toBodyHash": "666f5e7a07a8e2b7",
+          "revisedOn": "2026-09-28",
+          "summary": "Applied four passage cuts or rewrites and added the adjacent Gospel account of the meal with tax collectors, as requested. Julio’s other manual wording is retained.",
+          "notes": "",
+          "comments": [
+            {
+              "start": 1187,
+              "end": 1440,
+              "quote": " In Biblical terms, the scene concerns grace, help from God that does not have to be earned in advance. Caravaggio makes that idea understandable by showing the call arriving before the tax collector has left his job or demonstrated that he deserves it.",
+              "prefix": "tic. Some people look up; others continue working.",
+              "suffix": "",
+              "bodyHash": "109edfd77082bb50",
+              "id": "94e47880-df60-4595-9693-cca0ccc79494",
+              "createdAt": "2026-09-28T12:50:30.216Z",
+              "resolved": false,
+              "text": "do you have more biblical anectoes from the calling of st matthew",
+              "updatedAt": "2026-09-28T12:50:30.216Z"
+            }
+          ]
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-calling-matthew-47075100536e41b0",
+          "fromBodyHash": "47075100536e41b0",
+          "toBodyHash": "666f5e7a07a8e2b7",
+          "revisedOn": "2026-09-28",
+          "summary": "Applied four passage cuts or rewrites and added the adjacent Gospel account of the meal with tax collectors, as requested. Julio’s other manual wording is retained.",
+          "notes": "",
+          "comments": [
+            {
+              "start": 102,
+              "end": 210,
+              "quote": "Tax collectors served the ruling authorities and were widely distrusted, which makes the choice significant.",
+              "prefix": "lector at work and asks him to become a follower. ",
+              "suffix": " The man does not have to begin as a respected or ",
+              "bodyHash": "47075100536e41b0",
+              "id": "d3e2f5b5-86cc-4370-95f0-fe4ad7db81f2",
+              "createdAt": "2026-09-28T12:48:50.690Z",
+              "resolved": false,
+              "text": "re write",
+              "updatedAt": "2026-09-28T12:48:50.690Z"
+            },
+            {
+              "start": 211,
+              "end": 308,
+              "quote": "The man does not have to begin as a respected or obviously holy person to receive the invitation.",
+              "prefix": "y distrusted, which makes the choice significant. ",
+              "suffix": "\nCaravaggio puts that encounter in a room where mo",
+              "bodyHash": "47075100536e41b0",
+              "id": "aed2fd5a-865d-43b4-b34f-3270efaf27fb",
+              "createdAt": "2026-09-28T12:48:54.799Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:48:54.799Z"
+            },
+            {
+              "start": 978,
+              "end": 1056,
+              "quote": "Someone intent on money has been asked to give his life a different direction.",
+              "prefix": "merge through an interruption to an ordinary day. ",
+              "suffix": "\nThe different responses around the table keep the",
+              "bodyHash": "47075100536e41b0",
+              "id": "40f21add-366b-45dd-9fb5-948d2e446018",
+              "createdAt": "2026-09-28T12:49:40.741Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:49:40.741Z"
+            },
+            {
+              "start": 1057,
+              "end": 1188,
+              "quote": "The different responses around the table keep the invitation from feeling automatic. Some people look up; others continue working. ",
+              "prefix": "een asked to give his life a different direction.\n",
+              "suffix": "In Christian terms, the scene concerns grace, help",
+              "bodyHash": "47075100536e41b0",
+              "id": "89365b74-a474-45ff-85d0-86d207d54730",
+              "createdAt": "2026-09-28T12:50:02.648Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:50:02.648Z"
+            }
+          ]
+        }
+      ],
+      "body": "In the Gospel of Matthew, Jesus approaches a tax collector at work and asks him to become a follower. The story places Matthew among tax collectors and people described as sinners, whom Jesus’s critics did not consider suitable company.\n\nCaravaggio puts that encounter in a room where money is still being counted. Jesus enters from the right, partly concealed by Saint Peter, and extends his hand towards the table. A shaft of light follows the same direction. The bearded man usually identified as Matthew points towards himself, apparently surprised, while two others remain absorbed in the coins.\n\nFor people entering the chapel in Rome where the painting was installed, the clothes and surroundings would have seemed close to their own time. Caravaggio brought a biblical event into the familiar business of the city, allowing the religious meaning to emerge through an interruption to an ordinary day.\n\nThe next episode in the Gospel helps explain the choice. Jesus eats with tax collectors and sinners, prompting the Pharisees, a Jewish religious group, to question his disciples about the company he keeps. Jesus answers that healthy people do not need a doctor, but sick people do. He then quotes a teaching from the Hebrew scriptures: “I will have mercy, and not sacrifice.” His decision to call Matthew belongs to this wider argument about whom a religious teacher should welcome.",
+      "published": null,
+      "bodyHash": "666f5e7a07a8e2b7",
+      "imageHash": "e0439659b0f125ad",
+      "selectedImage": {
+        "entryId": "calling-matthew",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b005-calling-matthew-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+        "sourceTitle": "File:Caravaggio — The Calling of Saint Matthew.jpg",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/1920px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1920,
+        "height": 1813,
+        "credit": "Gleb Simonov; Own work",
+        "sourceCredit": "Own work",
+        "license": "CC0",
+        "sha256": "3caf6b36fe09d13bd481b0f202044bd4f3c11203a5e329116caae973982d5b7a",
+        "sourceDimensions": [
+          8792,
+          8304
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+        "label": "Photograph by Gleb Simonov",
+        "description": "Cooler, subdued tones and visible detail in the shadowed room.",
+        "altText": "Jesus points toward men seated around a table of coins as a diagonal beam of light crosses a dark room.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-26",
+        "assetSha256": "3caf6b36fe09d13bd481b0f202044bd4f3c11203a5e329116caae973982d5b7a"
+      }
+    },
+    "bodyHash": "666f5e7a07a8e2b7",
+    "imageHash": "e0439659b0f125ad",
+    "appImage": "/assets/editorial/calling-matthew.jpg",
+    "appImageSha256": "3caf6b36fe09d13bd481b0f202044bd4f3c11203a5e329116caae973982d5b7a"
+  },
+  {
+    "entry": {
+      "id": "abaporu",
+      "title": "Abaporu",
+      "creator": "Tarsila do Amaral",
+      "dateDisplay": "1928",
+      "dateStart": 1928,
+      "dateEnd": null,
+      "place": "São Paulo, Brazil",
+      "medium": "painting",
+      "meaningBrief": "Cultural cannibalism proposes transforming foreign influences rather than treating Europe as Brazil’s standard.",
+      "body": "Tarsila do Amaral gave *Abaporu* to her husband, the writer Oswald de Andrade, for his birthday in 1928. Its enormous foot, small head, cactus and hot yellow sun offered an unfamiliar image of a human figure. The painting helped prompt a proposal for Brazilian culture: instead of measuring itself against Europe, it could turn what it borrowed into something of its own.\n\nThe title draws on Indigenous words for a person who eats human flesh. Oswald used cannibalism as a cultural metaphor in his *Anthropophagic Manifesto*. An artist could “consume” foreign ideas, combine them with local experience and produce work that no longer belonged to the original source. The point was not to close Brazil off from the world, but to give Brazilian artists authority over what entered their culture and how it changed.\n\nThat metaphor also reversed a colonial judgment. Europeans had used accounts of cannibalism to describe Indigenous peoples as uncivilised; and the Brazilian turned that into an image of creative independence.",
+      "sources": [
+        {
+          "title": "MALBA — Abaporu",
+          "url": "https://coleccion.malba.org.ar/en/abaporu/",
+          "role": "interpretation and factual context",
+          "supports": "Regina Teixeira de Barros’s collection essay: date, birthday gift, manifesto, Paris training and national identity. Full Spanish essay retrieved from the public page.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "MoMA — Tarsila do Amaral, Abaporu",
+          "url": "https://www.moma.org/audio/playlist/48/735",
+          "role": "interpretation and factual context",
+          "supports": "Curator Luis Pérez-Oramas and artist recollection: proportions, title, birthday gift and cultural ingestion metaphor.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "MASP / UNESP — Tarsila Popular",
+          "url": "https://acervodigital.unesp.br/handle/unesp/381358",
+          "role": "interpretation and factual context",
+          "supports": "Curatorial text on European, Indigenous and Afro-Atlantic influences and the constructed, contested character of national identity.",
+          "accessedOn": "2026-09-26"
+        },
+        {
+          "title": "Viewers debate Abaporu’s proportions",
+          "url": "https://www.reddit.com/r/ballutverso/comments/1lk8f10",
+          "role": "reception challenge",
+          "supports": "Indexed discussion offers conflicting small-head/large-foot explanations. Used as a challenge to avoid presenting a speculative symbolic code as fact.",
+          "accessedOn": "2026-09-26"
+        }
+      ],
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "sourceBatchId": "batch-005",
+      "revisionGuide": "VOICE_GUIDE v0.23; independent-reference painting rewrite",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-26",
+        "researchFile": "docs/editorial/batches/batch-005/research.md",
+        "basis": "New researched draft. Writing and image approval remain pending.",
+        "latestRevision": {
+          "revisedOn": "2026-09-27",
+          "researchFile": "docs/editorial/research-2026-09-27/painting-rewrite/README.md",
+          "basis": "Explained the gift, manifesto and reversal of colonial judgment as a causal sequence, with Tarsila’s Paris training making the proposal concrete.",
+          "approval": "Fresh writing review required; previous image choice retained."
+        }
+      },
+      "media": {
+        "imageUrl": "image-options/assets/painting/b005-abaporu-a.jpg",
+        "referenceUrl": "https://coleccion.malba.org.ar/en/abaporu/",
+        "altText": "A seated figure with a huge foot and tiny head rests beside a green cactus beneath a yellow sun.",
+        "credit": "Tarsila do Amaral",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image choice and writing approval remain separate."
+      },
+      "editorialDecisionId": null,
+      "reviewAvailability": "active"
+    },
+    "selectedImage": {
+      "entryId": "abaporu",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b005-abaporu-a.jpg",
+      "sourceUrl": "https://coleccion.malba.org.ar/en/abaporu/",
+      "sourceTitle": "MALBA collection reproduction",
+      "label": "MALBA collection reproduction",
+      "remoteImageUrl": "https://coleccion.malba.org.ar/wp-content/uploads/2019/05/Do-Amaral-Abaporu-067-1.jpg",
+      "originalImageUrl": "https://coleccion.malba.org.ar/wp-content/uploads/2019/05/Do-Amaral-Abaporu-067-1.jpg",
+      "width": 750,
+      "height": 878,
+      "credit": "Tarsila do Amaral / MALBA",
+      "sourceCredit": "MALBA",
+      "license": "Copyright status requires clearance for app use.",
+      "sha256": "21df6fe08adf3ef71dd37257ba2f74f26ecafe34872b35ddcb103d79ddf0e3bc",
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+      "description": "The holding museum’s reproduction.",
+      "altText": "A seated figure with a huge foot and tiny head rests beside a green cactus beneath a yellow sun.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-26",
+      "assetSha256": "21df6fe08adf3ef71dd37257ba2f74f26ecafe34872b35ddcb103d79ddf0e3bc"
+    },
+    "reviewEvidence": {
+      "imageOption": "A",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "abaporu",
+      "sourceBatchId": "batch-005",
+      "title": "Abaporu",
+      "revision": 2,
+      "feedbackRevisions": [
+        {
+          "revisionId": "painting-library-2026-09-27-abaporu",
+          "entryId": "abaporu",
+          "fromBodyHash": "7fb7e071b59e9e72",
+          "toBodyHash": "e7021861b6b8e30b",
+          "version": 2,
+          "revisedOn": "2026-09-27",
+          "summary": "Explained the gift, manifesto and reversal of colonial judgment as a causal sequence, with Tarsila’s Paris training making the proposal concrete.",
+          "previousBody": "Tarsila do Amaral painted Abaporu in 1928 as a birthday gift for her husband, the writer Oswald de Andrade. A figure with an enormous foot and a small head sits beside a cactus under a yellow sun. Its unfamiliar proportions impressed Oswald and helped inspire a proposal for how Brazilian artists could deal with the country’s dependence on European cultural models.\n\nThe title draws on Indigenous words meaning a person who eats human flesh. Oswald developed this idea in his Anthropophagic Manifesto, using cannibalism as a cultural metaphor. Brazilian artists could absorb foreign influences, combine them with local traditions and make something of their own. Europe would supply material to transform, rather than a standard Brazil had to imitate. The metaphor reversed a colonial judgment: a practice Europeans had used to label Indigenous peoples “uncivilized” became an image of creative independence.\n\nTarsila’s own training makes this argument especially clear. She had studied modern painting in Paris, including with Fernand Léger. In Abaporu, simplified forms appear alongside the strong colors and tropical vegetation associated with Brazil. These elements do not make the painting a record of Indigenous life. They show a modern artist constructing an idea of her country from several sources, including a European education that she put to a different use.",
+          "notes": "",
+          "comments": []
+        }
+      ],
+      "revisionHistory": [
+        {
+          "revisionId": "painting-library-2026-09-27-abaporu",
+          "fromBodyHash": "7fb7e071b59e9e72",
+          "toBodyHash": "e7021861b6b8e30b",
+          "revisedOn": "2026-09-27",
+          "summary": "Explained the gift, manifesto and reversal of colonial judgment as a causal sequence, with Tarsila’s Paris training making the proposal concrete.",
+          "notes": "",
+          "comments": []
+        }
+      ],
+      "body": "Tarsila do Amaral gave *Abaporu* to her husband, the writer Oswald de Andrade, for his birthday in 1928. Its enormous foot, small head, cactus and hot yellow sun offered an unfamiliar image of a human figure. The painting helped prompt a proposal for Brazilian culture: instead of measuring itself against Europe, it could turn what it borrowed into something of its own.\n\nThe title draws on Indigenous words for a person who eats human flesh. Oswald used cannibalism as a cultural metaphor in his *Anthropophagic Manifesto*. An artist could “consume” foreign ideas, combine them with local experience and produce work that no longer belonged to the original source. The point was not to close Brazil off from the world, but to give Brazilian artists authority over what entered their culture and how it changed.\n\nThat metaphor also reversed a colonial judgment. Europeans had used accounts of cannibalism to describe Indigenous peoples as uncivilised; and the Brazilian turned that into an image of creative independence.",
+      "published": null,
+      "bodyHash": "10b03fe0d9184d26",
+      "imageHash": "ab99a623d083ec88",
+      "selectedImage": {
+        "entryId": "abaporu",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b005-abaporu-a.jpg",
+        "sourceUrl": "https://coleccion.malba.org.ar/en/abaporu/",
+        "sourceTitle": "MALBA collection reproduction",
+        "label": "MALBA collection reproduction",
+        "remoteImageUrl": "https://coleccion.malba.org.ar/wp-content/uploads/2019/05/Do-Amaral-Abaporu-067-1.jpg",
+        "originalImageUrl": "https://coleccion.malba.org.ar/wp-content/uploads/2019/05/Do-Amaral-Abaporu-067-1.jpg",
+        "width": 750,
+        "height": 878,
+        "credit": "Tarsila do Amaral / MALBA",
+        "sourceCredit": "MALBA",
+        "license": "Copyright status requires clearance for app use.",
+        "sha256": "21df6fe08adf3ef71dd37257ba2f74f26ecafe34872b35ddcb103d79ddf0e3bc",
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download; no AI generation, local recoloring or local crop.",
+        "description": "The holding museum’s reproduction.",
+        "altText": "A seated figure with a huge foot and tiny head rests beside a green cactus beneath a yellow sun.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-26",
+        "assetSha256": "21df6fe08adf3ef71dd37257ba2f74f26ecafe34872b35ddcb103d79ddf0e3bc"
+      }
+    },
+    "bodyHash": "10b03fe0d9184d26",
+    "imageHash": "ab99a623d083ec88",
+    "appImage": "/assets/editorial/abaporu.jpg",
+    "appImageSha256": "21df6fe08adf3ef71dd37257ba2f74f26ecafe34872b35ddcb103d79ddf0e3bc"
+  },
+  {
+    "entry": {
+      "id": "oath-of-the-horatii",
+      "title": "The Oath of the Horatii",
+      "creator": "Jacques-Louis David",
+      "dateDisplay": "1784–1785",
+      "dateStart": 1784,
+      "dateEnd": 1785,
+      "place": "Rome, Italy",
+      "medium": "painting",
+      "meaningBrief": "The painting presents service to the state as a supreme virtue, while the women make its cost to family life visible.",
+      "body": "According to Roman legend, Rome and the neighboring city of Alba Longa agreed to settle a conflict through combat between two sets of three brothers. David shows the Roman brothers, the Horatii, pledging themselves before their father, who holds up their swords. They are preparing to put their city’s survival ahead of their own.\n\nThe women at the right make that duty more complicated. Marriage and an engagement connect the two opposing families, so a victory for either side will bring loss to this household. While the brothers stretch their arms toward a common purpose, the women fold into one another.\n\nDavid painted this work for the French monarchy and exhibited it in 1785, four years before the Revolution. Its admiration for discipline and sacrifice therefore did not begin as a commission from revolutionaries. However, the idea that a citizen owed more to the public good than to private comfort would also appeal to people challenging royal power.\n\nThe painting makes that ideal exceptionally clear through the bodies themselves. The men stand apart from their grief and act; the women remain seated with the consequences. David gives patriotic duty the stronger, more commanding position, but he lets us see the people for whom its promised glory offers little consolation.",
+      "sources": [
+        {
+          "title": "Musée du Louvre — Le Serment des Horaces",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl010062239",
+          "role": "museum, specialist or primary source",
+          "supports": "Royal commission, Rome, execution completed in 1785 and signature dated 1784; full record read.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Smarthistory / Khan Academy — David, Oath of the Horatii",
+          "url": "https://www.khanacademy.org/arts/monarchy-enlightenment/neo-classicism/a/david-oath-of-the-horatii",
+          "role": "museum, specialist or primary source",
+          "supports": "Roman legend and family ties; indexed article excerpts consulted.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Smarthistory — The Intervention of the Sabine Women",
+          "url": "https://smarthistory.org/jacques-louis-david-the-intervention-of-the-sabine-women/",
+          "role": "museum, specialist or primary source",
+          "supports": "Harris and Zucker compare the Horatii’s gendered division of public duty and private emotion; relevant transcript excerpt read.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-008",
+      "revisionGuide": "VOICE_GUIDE v0.23; central meaning, beginner context, concrete evidence and varied sentence rhythm.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-27",
+        "researchFile": "docs/editorial/batches/batch-008/research.md",
+        "basis": "New source-checked draft for editorial review. Interpretations and source limitations are recorded in the research ledger. No approval or publication implied."
+      },
+      "reviewAvailability": "active",
+      "media": {
+        "imageUrl": "image-options/assets/painting/b008-horatii-a.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David,_Le_Serment_des_Horaces.jpg",
+        "altText": "Three brothers reach toward swords held by their father beneath stone arches, beside seated women and children.",
+        "credit": "Jacques-Louis David",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image selection and writing approval remain separate."
+      }
+    },
+    "selectedImage": {
+      "entryId": "oath-of-the-horatii",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b008-horatii-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David,_Le_Serment_des_Horaces.jpg",
+      "sourceTitle": "Louvre painting · reproduction",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2332,
+      "height": 1797,
+      "credit": "Jacques-Louis David",
+      "sourceCredit": "wartburg.edu",
+      "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+      "sha256": "b24837d5de8804ca414ecd9a5b43182b3032831d0ee397cacf9cacb2878e376e",
+      "sourceDimensions": [
+        2332,
+        1797
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+      "label": "Louvre painting · reproduction",
+      "description": "Source composition and color retained; no generated image or artificial color variation.",
+      "altText": "Three brothers reach toward swords held by their father beneath stone arches, beside seated women and children.",
+      "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-28",
+      "assetSha256": "b24837d5de8804ca414ecd9a5b43182b3032831d0ee397cacf9cacb2878e376e"
+    },
+    "reviewEvidence": {
+      "imageOption": "A",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "oath-of-the-horatii",
+      "sourceBatchId": "batch-008",
+      "title": "The Oath of the Horatii",
+      "revision": 1,
+      "feedbackRevisions": [
+        {
+          "revisionId": "editorial-notes-2026-09-28-oath-of-the-horatii-540d5bc697944948",
+          "entryId": "oath-of-the-horatii",
+          "fromBodyHash": "540d5bc697944948",
+          "toBodyHash": "ad361fe0f959513e",
+          "version": 2,
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "previousBody": "According to Roman legend, Rome and the neighboring city of Alba Longa agreed to settle a conflict through combat between two sets of three brothers. David shows the Roman brothers, the Horatii, pledging themselves before their father, who holds up their swords. They are preparing to put their city’s survival ahead of their own.\n\nThe women at the right make that duty more complicated. Marriage and an engagement connect the two opposing families, so a victory for either side will bring loss to this household. While the brothers stretch their arms toward a common purpose, the women fold into one another. Their grief shows what the public language of honor leaves the family to bear.\n\nDavid painted this work for the French monarchy and exhibited it in 1785, four years before the Revolution. Its admiration for discipline and sacrifice therefore did not begin as a commission from revolutionaries. However, the idea that a citizen owed more to the public good than to private comfort would also appeal to people challenging royal power.\n\nThe painting makes that ideal exceptionally clear through the bodies themselves. The men stand apart from their grief and act; the women remain seated with the consequences. David gives patriotic duty the stronger, more commanding position, but he lets us see the people for whom its promised glory offers little consolation.",
+          "notes": "",
+          "comments": [
+            {
+              "id": "cb6dd17b-144c-4b74-ba2a-f8410543be03",
+              "quote": "Their grief shows what the public language of honor leaves the family to bear.",
+              "text": "cut"
+            }
+          ]
+        }
+      ],
+      "revisionHistory": [
+        {
+          "revisionId": "editorial-notes-2026-09-28-oath-of-the-horatii-540d5bc697944948",
+          "fromBodyHash": "540d5bc697944948",
+          "toBodyHash": "ad361fe0f959513e",
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "notes": "",
+          "comments": [
+            {
+              "start": 609,
+              "end": 687,
+              "quote": "Their grief shows what the public language of honor leaves the family to bear.",
+              "prefix": " common purpose, the women fold into one another. ",
+              "suffix": "\nDavid painted this work for the French monarchy a",
+              "bodyHash": "540d5bc697944948",
+              "id": "cb6dd17b-144c-4b74-ba2a-f8410543be03",
+              "createdAt": "2026-09-28T12:57:21.543Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T12:57:21.543Z"
+            }
+          ]
+        }
+      ],
+      "body": "According to Roman legend, Rome and the neighboring city of Alba Longa agreed to settle a conflict through combat between two sets of three brothers. David shows the Roman brothers, the Horatii, pledging themselves before their father, who holds up their swords. They are preparing to put their city’s survival ahead of their own.\n\nThe women at the right make that duty more complicated. Marriage and an engagement connect the two opposing families, so a victory for either side will bring loss to this household. While the brothers stretch their arms toward a common purpose, the women fold into one another.\n\nDavid painted this work for the French monarchy and exhibited it in 1785, four years before the Revolution. Its admiration for discipline and sacrifice therefore did not begin as a commission from revolutionaries. However, the idea that a citizen owed more to the public good than to private comfort would also appeal to people challenging royal power.\n\nThe painting makes that ideal exceptionally clear through the bodies themselves. The men stand apart from their grief and act; the women remain seated with the consequences. David gives patriotic duty the stronger, more commanding position, but he lets us see the people for whom its promised glory offers little consolation.",
+      "published": null,
+      "bodyHash": "ad361fe0f959513e",
+      "imageHash": "a12d3fc3e84afa82",
+      "selectedImage": {
+        "entryId": "oath-of-the-horatii",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b008-horatii-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David,_Le_Serment_des_Horaces.jpg",
+        "sourceTitle": "Louvre painting · reproduction",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2332,
+        "height": 1797,
+        "credit": "Jacques-Louis David",
+        "sourceCredit": "wartburg.edu",
+        "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+        "sha256": "b24837d5de8804ca414ecd9a5b43182b3032831d0ee397cacf9cacb2878e376e",
+        "sourceDimensions": [
+          2332,
+          1797
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+        "label": "Louvre painting · reproduction",
+        "description": "Source composition and color retained; no generated image or artificial color variation.",
+        "altText": "Three brothers reach toward swords held by their father beneath stone arches, beside seated women and children.",
+        "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-28",
+        "assetSha256": "b24837d5de8804ca414ecd9a5b43182b3032831d0ee397cacf9cacb2878e376e"
+      }
+    },
+    "bodyHash": "ad361fe0f959513e",
+    "imageHash": "a12d3fc3e84afa82",
+    "appImage": "/assets/editorial/oath-of-the-horatii.jpg",
+    "appImageSha256": "b24837d5de8804ca414ecd9a5b43182b3032831d0ee397cacf9cacb2878e376e"
+  },
+  {
+    "entry": {
+      "id": "ophelia",
+      "title": "Ophelia",
+      "creator": "John Everett Millais",
+      "dateDisplay": "1851–1852",
+      "dateStart": 1851,
+      "dateEnd": 1852,
+      "place": "England",
+      "medium": "painting",
+      "meaningBrief": "Millais makes the death of Shakespeare’s Ophelia unfold within an intensely living natural world, combining her vulnerability with the Victorian appeal of the tragic heroine.",
+      "body": "In Shakespeare’s *Hamlet*, Ophelia loses her father when Hamlet kills him, and her distress deepens into a breakdown. Later, Queen Gertrude describes her falling into a stream while hanging flower garlands on a tree. Her clothes briefly keep her afloat before pulling her under. Millais chooses that suspended moment: her eyes and mouth remain open, but her hands make no effort to reach the bank.\n\nThe setting is unusually alive for a picture about dying. Plants crowd the water, small flowers remain distinct, and the branches bend above her. Millais studied the riverbank outdoors before painting the figure in his studio. He belonged to the Pre-Raphaelite Brotherhood, a group of young artists who challenged polished academic conventions by giving close attention to the natural world.\n\nThe flowers also carry meanings that many Victorian viewers would have recognized. Poppies suggest death, while violets are associated with faithfulness. Such details link the beauty of the setting to Ophelia’s story.\n\nVictorian painters repeatedly returned to Ophelia, finding a compelling subject in a young woman’s beauty and distress. Millais gives that fascination a troubling stillness. The men whose actions have shaped her fate are absent; what remains before us therefore is her body, surrounded by a world continuing to grow.",
+      "sources": [
+        {
+          "title": "Smarthistory — Sir John Everett Millais, Ophelia",
+          "url": "https://smarthistory.org/millais-ophelia/",
+          "role": "museum, specialist or primary source",
+          "supports": "Pre-Raphaelite natural observation, flowers and Victorian interest in Ophelia; indexed article and video transcript consulted.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Smarthistory — Ophelia video",
+          "url": "https://www.youtube.com/watch?v=I2M7U8eCeHA",
+          "role": "art-historian video; translated transcript",
+          "supports": "Complete available Portuguese-caption transcript read, 5:26. Paraphrases checked; no quotation from translated captions and no illness anecdote retained.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "Shakespeare — Hamlet, Act 4, scene 7",
+          "url": "https://shakespeare.mit.edu/hamlet/hamlet.4.7.html",
+          "role": "museum, specialist or primary source",
+          "supports": "Gertrude’s account of the broken branch, singing, buoyant clothes and drowning; death not labeled unequivocally as suicide.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-008",
+      "revisionGuide": "VOICE_GUIDE v0.23; central meaning, beginner context, concrete evidence and varied sentence rhythm.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-27",
+        "researchFile": "docs/editorial/batches/batch-008/research.md",
+        "basis": "New source-checked draft for editorial review. Interpretations and source limitations are recorded in the research ledger. No approval or publication implied."
+      },
+      "reviewAvailability": "active",
+      "media": {
+        "imageUrl": "image-options/assets/painting/b008-ophelia-a.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+        "altText": "Ophelia floats on her back in a stream, with open hands, flowers and a richly planted riverbank around her.",
+        "credit": "John Everett Millais",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image selection and writing approval remain separate."
+      }
+    },
+    "selectedImage": {
+      "entryId": "ophelia",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b008-ophelia-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+      "sourceTitle": "Tate · Google Arts & Culture",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1306,
+      "credit": "John Everett Millais",
+      "sourceCredit": "Google Arts & Culture — -wGU6cT4JixtPA Tate Images (http://www.tate-images.com/results.asp?image=N01506&wwwflag=3&imagepos=2)",
+      "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+      "sha256": "6c297dde432fe61cd42b1709f0758ad7e3e60f793a44fc45839f9ba7d929f311",
+      "sourceDimensions": [
+        1920,
+        1306
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+      "label": "Tate · Google Arts & Culture",
+      "description": "Source composition and color retained; no generated image or artificial color variation.",
+      "altText": "Ophelia floats on her back in a stream, with open hands, flowers and a richly planted riverbank around her.",
+      "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-28",
+      "assetSha256": "6c297dde432fe61cd42b1709f0758ad7e3e60f793a44fc45839f9ba7d929f311"
+    },
+    "reviewEvidence": {
+      "imageOption": "A",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "ophelia",
+      "sourceBatchId": "batch-008",
+      "title": "Ophelia",
+      "revision": 1,
+      "feedbackRevisions": [
+        {
+          "revisionId": "editorial-notes-2026-09-28-ophelia-6233e4a30123fa29",
+          "entryId": "ophelia",
+          "fromBodyHash": "6233e4a30123fa29",
+          "toBodyHash": "3126151194249d59",
+          "version": 2,
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "previousBody": "In Shakespeare’s *Hamlet*, Ophelia loses her father when Hamlet kills him, and her distress deepens into a breakdown. Later, Queen Gertrude describes her falling into a stream while hanging flower garlands on a tree. Her clothes briefly keep her afloat before pulling her under. Millais chooses that suspended moment: her eyes and mouth remain open, but her hands make no effort to reach the bank.\n\nThe setting is unusually alive for a picture about dying. Plants crowd the water, small flowers remain distinct, and the branches bend above her. Millais studied the riverbank outdoors before painting the figure in his studio. He belonged to the Pre-Raphaelite Brotherhood, a group of young artists who challenged polished academic conventions by giving close attention to the natural world.\n\nThe flowers also carry meanings that many Victorian viewers would have recognized. Poppies suggest death, while violets are associated with faithfulness. Such details link the beauty of the setting to Ophelia’s story, rather than merely decorating it. Her embroidered dress spreads across the surface, joining the floating plants even as its weight threatens to sink her.\n\nVictorian painters repeatedly returned to Ophelia, finding a compelling subject in a young woman’s beauty and distress. Millais gives that fascination a troubling stillness. The men whose actions have shaped her fate are absent; what remains before us therefore is her body, surrounded by a world continuing to grow.",
+          "notes": "",
+          "comments": []
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-ophelia-d84690df625596de",
+          "entryId": "ophelia",
+          "fromBodyHash": "d84690df625596de",
+          "toBodyHash": "3126151194249d59",
+          "version": 2,
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "previousBody": "In Shakespeare’s *Hamlet*, Ophelia loses her father when Hamlet kills him, and her distress deepens into a breakdown. Later, Queen Gertrude describes her falling into a stream while hanging flower garlands on a tree. Her clothes briefly keep her afloat before pulling her under. Millais chooses that suspended moment: her eyes and mouth remain open, but her hands make no effort to reach the bank.\n\nThe setting is unusually alive for a picture about dying. Plants crowd the water, small flowers remain distinct, and the branches bend above her. Millais studied the riverbank outdoors before painting the figure in his studio. He belonged to the Pre-Raphaelite Brotherhood, a group of young artists who challenged polished academic conventions by giving close attention to the natural world.\n\nThe flowers also carry meanings that many Victorian viewers would have recognized. Poppies suggest death, while violets are associated with faithfulness. Such details link the beauty of the setting to Ophelia’s story, rather than merely decorating it. Her embroidered dress spreads across the surface, joining the floating plants even as its weight threatens to sink her.\n\nVictorian painters repeatedly returned to Ophelia, finding a compelling subject in a young woman’s beauty and distress. Millais gives that fascination a troubling stillness. The men whose actions have shaped her fate are absent; what remains before us is her body, surrounded by a world continuing to grow.",
+          "notes": "",
+          "comments": [
+            {
+              "id": "8e0b7ba0-78b7-4031-a02b-6bf9f963fe5c",
+              "quote": " rather than merely decorating it",
+              "text": "cut"
+            },
+            {
+              "id": "44c03846-0cf0-4691-9a5d-13989335a9c3",
+              "quote": "Her embroidered dress spreads across the surface, joining the floating plants even as its weight threatens to sink her.",
+              "text": "cut"
+            }
+          ]
+        }
+      ],
+      "revisionHistory": [
+        {
+          "revisionId": "editorial-notes-2026-09-28-ophelia-6233e4a30123fa29",
+          "fromBodyHash": "6233e4a30123fa29",
+          "toBodyHash": "3126151194249d59",
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "notes": "",
+          "comments": []
+        },
+        {
+          "revisionId": "editorial-notes-2026-09-28-ophelia-d84690df625596de",
+          "fromBodyHash": "d84690df625596de",
+          "toBodyHash": "3126151194249d59",
+          "revisedOn": "2026-09-28",
+          "summary": "Applied the requested passage cuts; retained surrounding wording.",
+          "notes": "",
+          "comments": [
+            {
+              "start": 1005,
+              "end": 1038,
+              "quote": " rather than merely decorating it",
+              "prefix": "link the beauty of the setting to Ophelia’s story,",
+              "suffix": ". Her embroidered dress spreads across the surface",
+              "bodyHash": "d84690df625596de",
+              "id": "8e0b7ba0-78b7-4031-a02b-6bf9f963fe5c",
+              "createdAt": "2026-09-28T13:00:47.933Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T13:00:47.933Z"
+            },
+            {
+              "start": 1040,
+              "end": 1159,
+              "quote": "Her embroidered dress spreads across the surface, joining the floating plants even as its weight threatens to sink her.",
+              "prefix": "phelia’s story, rather than merely decorating it. ",
+              "suffix": "\nVictorian painters repeatedly returned to Ophelia",
+              "bodyHash": "d84690df625596de",
+              "id": "44c03846-0cf0-4691-9a5d-13989335a9c3",
+              "createdAt": "2026-09-28T13:01:04.577Z",
+              "resolved": false,
+              "text": "cut",
+              "updatedAt": "2026-09-28T13:01:04.577Z"
+            }
+          ]
+        }
+      ],
+      "body": "In Shakespeare’s *Hamlet*, Ophelia loses her father when Hamlet kills him, and her distress deepens into a breakdown. Later, Queen Gertrude describes her falling into a stream while hanging flower garlands on a tree. Her clothes briefly keep her afloat before pulling her under. Millais chooses that suspended moment: her eyes and mouth remain open, but her hands make no effort to reach the bank.\n\nThe setting is unusually alive for a picture about dying. Plants crowd the water, small flowers remain distinct, and the branches bend above her. Millais studied the riverbank outdoors before painting the figure in his studio. He belonged to the Pre-Raphaelite Brotherhood, a group of young artists who challenged polished academic conventions by giving close attention to the natural world.\n\nThe flowers also carry meanings that many Victorian viewers would have recognized. Poppies suggest death, while violets are associated with faithfulness. Such details link the beauty of the setting to Ophelia’s story.\n\nVictorian painters repeatedly returned to Ophelia, finding a compelling subject in a young woman’s beauty and distress. Millais gives that fascination a troubling stillness. The men whose actions have shaped her fate are absent; what remains before us therefore is her body, surrounded by a world continuing to grow.",
+      "published": null,
+      "bodyHash": "3126151194249d59",
+      "imageHash": "8be1ab3da48cd70a",
+      "selectedImage": {
+        "entryId": "ophelia",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b008-ophelia-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+        "sourceTitle": "Tate · Google Arts & Culture",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1920,
+        "height": 1306,
+        "credit": "John Everett Millais",
+        "sourceCredit": "Google Arts & Culture — -wGU6cT4JixtPA Tate Images (http://www.tate-images.com/results.asp?image=N01506&wwwflag=3&imagepos=2)",
+        "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+        "sha256": "6c297dde432fe61cd42b1709f0758ad7e3e60f793a44fc45839f9ba7d929f311",
+        "sourceDimensions": [
+          1920,
+          1306
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+        "label": "Tate · Google Arts & Culture",
+        "description": "Source composition and color retained; no generated image or artificial color variation.",
+        "altText": "Ophelia floats on her back in a stream, with open hands, flowers and a richly planted riverbank around her.",
+        "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-28",
+        "assetSha256": "6c297dde432fe61cd42b1709f0758ad7e3e60f793a44fc45839f9ba7d929f311"
+      }
+    },
+    "bodyHash": "3126151194249d59",
+    "imageHash": "8be1ab3da48cd70a",
+    "appImage": "/assets/editorial/ophelia.jpg",
+    "appImageSha256": "6c297dde432fe61cd42b1709f0758ad7e3e60f793a44fc45839f9ba7d929f311"
+  },
+  {
+    "entry": {
+      "id": "the-hay-wain",
+      "title": "The Hay Wain",
+      "creator": "John Constable",
+      "dateDisplay": "1821",
+      "dateStart": 1821,
+      "dateEnd": null,
+      "place": "England",
+      "medium": "painting",
+      "meaningBrief": "Constable makes familiar working countryside worthy of a major painting, while its apparent harmony reflects the selective memory of a prosperous miller’s son.",
+      "body": "A wagon crosses shallow water beside a farmhouse, while laborers gather hay in the distant field. Constable knew this part of Suffolk from childhood: his family owned the nearby mill. When he painted the scene in London in 1821, he used years of drawings and oil sketches to reconstruct a place he remembered closely.\n\nThis is a working landscape. The horses, wagon, water and fields belong to the same rural economy, even though their arrangement feels peaceful. Constable’s position within that economy also matters. As a prosperous miller’s son, he could remember the countryside with an affection that did not necessarily match the experience of the people laboring in it.\n\nHe gave this familiar place the scale and attention often reserved for grander subjects. Broken touches of white suggest light flickering on leaves and water; changing clouds keep the sky from becoming a neutral backdrop.\n\nThe painting found no buyer at its first London exhibition, but it impressed French artists when shown in Paris in 1824. Its example suggested that painters could find serious subjects in the places they knew, without borrowing the prestige of classical history. The ordinariness of this river crossing was part of what made it significant.",
+      "sources": [
+        {
+          "title": "National Gallery — The Hay Wain",
+          "url": "https://www.nationalgallery.org.uk/paintings/john-constable-the-hay-wain",
+          "role": "museum, specialist or primary source",
+          "supports": "London studio construction, family mill, labor, light, Royal Academy and Paris reception; full record and audio-description transcript read.",
+          "accessedOn": "2026-09-27"
+        },
+        {
+          "title": "National Gallery catalogue — The Hay Wain",
+          "url": "https://www.nationalgallery.org.uk/paintings/catalogues/egerton-2000/the-hay-wain",
+          "role": "museum, specialist or primary source",
+          "supports": "Historical and exhibition context; distinguishes the finished painting from its full-scale study.",
+          "accessedOn": "2026-09-27"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-008",
+      "revisionGuide": "VOICE_GUIDE v0.23; central meaning, beginner context, concrete evidence and varied sentence rhythm.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-27",
+        "researchFile": "docs/editorial/batches/batch-008/research.md",
+        "basis": "New source-checked draft for editorial review. Interpretations and source limitations are recorded in the research ledger. No approval or publication implied."
+      },
+      "reviewAvailability": "active",
+      "media": {
+        "imageUrl": "image-options/assets/painting/b008-hay-wain-a.jpg",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg",
+        "altText": "A horse-drawn wagon crosses shallow water beside a farmhouse, with haymakers working in the distant meadow.",
+        "credit": "John Constable",
+        "license": "See source-specific image options.",
+        "rightsStatus": "not_cleared_for_app_use",
+        "note": "Initial preview only; image selection and writing approval remain separate."
+      }
+    },
+    "selectedImage": {
+      "entryId": "the-hay-wain",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b008-hay-wain-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg",
+      "sourceTitle": "National Gallery · published reproduction",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1324,
+      "credit": "John Constable",
+      "sourceCredit": "National Gallery, London via gallerix.ru",
+      "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+      "sha256": "ac87efaaa4586f3f978f739d542211e21cf80f44397516a935cf3d9649e85dca",
+      "sourceDimensions": [
+        1920,
+        1324
+      ],
+      "rightsStatus": "review_only_pending_clearance",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+      "label": "National Gallery · published reproduction",
+      "description": "Source composition and color retained; no generated image or artificial color variation.",
+      "altText": "A horse-drawn wagon crosses shallow water beside a farmhouse, with haymakers working in the distant meadow.",
+      "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-28",
+      "assetSha256": "ac87efaaa4586f3f978f739d542211e21cf80f44397516a935cf3d9649e85dca"
+    },
+    "reviewEvidence": {
+      "imageOption": "A",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "the-hay-wain",
+      "sourceBatchId": "batch-008",
+      "title": "The Hay Wain",
+      "revision": 1,
+      "feedbackRevisions": [],
+      "revisionHistory": [],
+      "body": "A wagon crosses shallow water beside a farmhouse, while laborers gather hay in the distant field. Constable knew this part of Suffolk from childhood: his family owned the nearby mill. When he painted the scene in London in 1821, he used years of drawings and oil sketches to reconstruct a place he remembered closely.\n\nThis is a working landscape. The horses, wagon, water and fields belong to the same rural economy, even though their arrangement feels peaceful. Constable’s position within that economy also matters. As a prosperous miller’s son, he could remember the countryside with an affection that did not necessarily match the experience of the people laboring in it.\n\nHe gave this familiar place the scale and attention often reserved for grander subjects. Broken touches of white suggest light flickering on leaves and water; changing clouds keep the sky from becoming a neutral backdrop.\n\nThe painting found no buyer at its first London exhibition, but it impressed French artists when shown in Paris in 1824. Its example suggested that painters could find serious subjects in the places they knew, without borrowing the prestige of classical history. The ordinariness of this river crossing was part of what made it significant.",
+      "published": null,
+      "bodyHash": "9a3b5b84d8b604ad",
+      "imageHash": "3f03790f2f5079eb",
+      "selectedImage": {
+        "entryId": "the-hay-wain",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b008-hay-wain-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg",
+        "sourceTitle": "National Gallery · published reproduction",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1920,
+        "height": 1324,
+        "credit": "John Constable",
+        "sourceCredit": "National Gallery, London via gallerix.ru",
+        "license": "Public domain as recorded by Wikimedia Commons; underlying artwork rights require separate review where applicable.",
+        "sha256": "ac87efaaa4586f3f978f739d542211e21cf80f44397516a935cf3d9649e85dca",
+        "sourceDimensions": [
+          1920,
+          1324
+        ],
+        "rightsStatus": "review_only_pending_clearance",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "imageTreatment": "Unaltered source download. Music uses the established vinyl presentation in the review interface.",
+        "label": "National Gallery · published reproduction",
+        "description": "Source composition and color retained; no generated image or artificial color variation.",
+        "altText": "A horse-drawn wagon crosses shallow water beside a farmhouse, with haymakers working in the distant meadow.",
+        "fidelityNotes": "Source composition and color retained; no generated image or artificial color variation.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-28",
+        "assetSha256": "ac87efaaa4586f3f978f739d542211e21cf80f44397516a935cf3d9649e85dca"
+      }
+    },
+    "bodyHash": "9a3b5b84d8b604ad",
+    "imageHash": "3f03790f2f5079eb",
+    "appImage": "/assets/editorial/the-hay-wain.jpg",
+    "appImageSha256": "ac87efaaa4586f3f978f739d542211e21cf80f44397516a935cf3d9649e85dca"
+  },
+  {
+    "entry": {
+      "id": "goya-second-of-may",
+      "title": "The Second of May 1808",
+      "creator": "Francisco Goya",
+      "dateDisplay": "1814",
+      "dateStart": 1814,
+      "dateEnd": null,
+      "place": "Madrid, Spain",
+      "medium": "painting",
+      "meaningBrief": "Popular resistance to occupation is shown as chaotic close combat; it precedes the executions in Goya’s companion painting without making the uprising look like an orderly heroic victory.",
+      "body": "On 2 May 1808, people in Madrid rose against Napoleon’s occupying forces. Goya painted the fighting six years later, after the French had been driven from Spain. This is the companion to *The Third of May*: one shows the uprising in the streets, the other the executions that followed.\n\nAt the center, a man attacks a mounted soldier with a knife while the horse rears beneath them. The soldier belongs to the Mameluke cavalry serving the French army, a unit associated with Napoleon’s Egyptian campaign. Around them, bodies press so closely together that the battle becomes a series of individual struggles, fought almost at arm’s length.\n\nGoya gives the resistance no commanding general and no clear moment of victory. Civilians attack as well as fall, and the animals are caught in the same confusion. The painting honors opposition to occupation while making it difficult to admire the fighting as an orderly display of force.\n\nPainted in 1814, the two works also helped establish how Spain would remember the occupation. The change between the two scenes, therefore, is a crucial narrative element for Goya, separating the people who chose to fight to those who got caught before a firing squad.",
+      "sources": [
+        {
+          "title": "Museo del Prado — The 2nd of May 1808 in Madrid",
+          "url": "https://www.museodelprado.es/en/the-collection/art-work/the-2nd-of-may-1808-in-madrid-or-the-fight/57dacf2e-5d10-4ded-85aa-9ff6f741f6b1",
+          "role": "Research and interpretation",
+          "supports": "Event, Mameluke cavalry, date and companion relationship",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Substantial indexed museum text read; direct page returned 403"
+        },
+        {
+          "title": "Christine Zappella / Smarthistory — Goya, Third of May 1808",
+          "url": "https://smarthistory.org/goya-third-of-may-1808/",
+          "role": "Research and interpretation",
+          "supports": "Relationship between uprising and reprisals; treatment of violence",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Full text or substantial indexed account read"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-009",
+      "revisionGuide": "VOICE_GUIDE v0.23; selected Marat A chronological clarity and Stanczyk A central insight; varied connected sentences.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-30",
+        "researchFile": "docs/editorial/batches/batch-009/research.md",
+        "basis": "Museum records, specialist interpretation, source criticism and close looking; see work-specific research notes."
+      },
+      "reviewAvailability": "active",
+      "material": "Oil on canvas",
+      "subjectTags": [
+        "Romanticism",
+        "War",
+        "Occupation",
+        "Spanish history"
+      ],
+      "media": {
+        "imageUrl": "image-options/assets/painting/b009-second-may-a.jpg",
+        "altText": "Civilians attack mounted soldiers in a crowded Madrid street, with fallen bodies and horses in the foreground.",
+        "credit": "Francisco Goya",
+        "license": "Public domain",
+        "rightsStatus": "public_domain",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Carga_de_los_mamelucos_restaurado.jpg",
+        "note": "Initial preview only. Image selection and writing approval remain separate; no choice is preselected."
+      }
+    },
+    "selectedImage": {
+      "entryId": "goya-second-of-may",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b009-second-may-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carga_de_los_mamelucos_restaurado.jpg",
+      "sourceTitle": "Carga de los mamelucos restaurado.jpg",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Carga_de_los_mamelucos_restaurado.jpg/1920px-Carga_de_los_mamelucos_restaurado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carga_de_los_mamelucos_restaurado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 1485,
+      "credit": "Francisco Goya",
+      "sourceCredit": "http://www.elmundo.es/albumes/2008/04/11/goya/index.html",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sha256": "feaa387673fc0f0f45f294122094b30db29febfbac2db7118f08772bdaf1aaf1",
+      "sourceDimensions": [
+        1920,
+        1485
+      ],
+      "rightsStatus": "public_domain",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "label": "Restored reproduction",
+      "description": "Authentic source reproduction; original source color and composition retained.",
+      "altText": "Civilians attack mounted soldiers in a crowded Madrid street, with fallen bodies and horses in the foreground.",
+      "imageTreatment": "Unaltered source file. No generated painting or artificial color variation.",
+      "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-30",
+      "assetSha256": "feaa387673fc0f0f45f294122094b30db29febfbac2db7118f08772bdaf1aaf1"
+    },
+    "reviewEvidence": {
+      "imageOption": "A",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "goya-second-of-may",
+      "sourceBatchId": "batch-009",
+      "title": "The Second of May 1808",
+      "revision": 2,
+      "feedbackRevisions": [],
+      "revisionHistory": [],
+      "body": "On 2 May 1808, people in Madrid rose against Napoleon’s occupying forces. Goya painted the fighting six years later, after the French had been driven from Spain. This is the companion to *The Third of May*: one shows the uprising in the streets, the other the executions that followed.\n\nAt the center, a man attacks a mounted soldier with a knife while the horse rears beneath them. The soldier belongs to the Mameluke cavalry serving the French army, a unit associated with Napoleon’s Egyptian campaign. Around them, bodies press so closely together that the battle becomes a series of individual struggles, fought almost at arm’s length.\n\nGoya gives the resistance no commanding general and no clear moment of victory. Civilians attack as well as fall, and the animals are caught in the same confusion. The painting honors opposition to occupation while making it difficult to admire the fighting as an orderly display of force.\n\nPainted in 1814, the two works also helped establish how Spain would remember the occupation. The change between the two scenes, therefore, is a crucial narrative element for Goya, separating the people who chose to fight to those who got caught before a firing squad.",
+      "published": null,
+      "bodyHash": "da2ab8a798cdadfb",
+      "imageHash": "4dfca00acd6927b9",
+      "selectedImage": {
+        "entryId": "goya-second-of-may",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b009-second-may-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carga_de_los_mamelucos_restaurado.jpg",
+        "sourceTitle": "Carga de los mamelucos restaurado.jpg",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Carga_de_los_mamelucos_restaurado.jpg/1920px-Carga_de_los_mamelucos_restaurado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carga_de_los_mamelucos_restaurado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1920,
+        "height": 1485,
+        "credit": "Francisco Goya",
+        "sourceCredit": "http://www.elmundo.es/albumes/2008/04/11/goya/index.html",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sha256": "feaa387673fc0f0f45f294122094b30db29febfbac2db7118f08772bdaf1aaf1",
+        "sourceDimensions": [
+          1920,
+          1485
+        ],
+        "rightsStatus": "public_domain",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "label": "Restored reproduction",
+        "description": "Authentic source reproduction; original source color and composition retained.",
+        "altText": "Civilians attack mounted soldiers in a crowded Madrid street, with fallen bodies and horses in the foreground.",
+        "imageTreatment": "Unaltered source file. No generated painting or artificial color variation.",
+        "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-30",
+        "assetSha256": "feaa387673fc0f0f45f294122094b30db29febfbac2db7118f08772bdaf1aaf1"
+      }
+    },
+    "bodyHash": "da2ab8a798cdadfb",
+    "imageHash": "4dfca00acd6927b9",
+    "appImage": "/assets/editorial/goya-second-of-may.jpg",
+    "appImageSha256": "feaa387673fc0f0f45f294122094b30db29febfbac2db7118f08772bdaf1aaf1"
+  },
+  {
+    "entry": {
+      "id": "massacre-at-chios",
+      "title": "The Massacre at Chios",
+      "creator": "Eugène Delacroix",
+      "dateDisplay": "1824",
+      "dateStart": 1824,
+      "dateEnd": null,
+      "place": "Paris, France; subject: Chios, Greece",
+      "medium": "painting",
+      "meaningBrief": "The Greek independence struggle is presented through people facing death and enslavement, rather than a victorious leader; a French political appeal shaped by European sympathy for Greece.",
+      "body": "In 1822, during the Greek struggle for independence from the Ottoman Empire, Ottoman forces attacked the island of Chios. Thousands of inhabitants were killed or enslaved. News of the massacre spread through Europe, where supporters of Greek independence used it to argue that the war demanded a response.\n\nDelacroix painted the subject two years later, inspired by reports and accounts of the conflict, including the memoirs of a French officer who supported the Greeks. His foreground is occupied by wounded people, exhausted families and a child beside a dead woman. At the right, a mounted soldier towers over his captives. The landscape opens behind them, but it offers no visible place of safety.\n\nThere is no hero arriving to rescue the group. That absence disturbed critics accustomed to large historical paintings with a central figure whose actions explained the scene. Here, the people who command our attention cannot determine what happens next. The painting asks viewers to consider a war through those left at its victors’ disposal.",
+      "sources": [
+        {
+          "title": "Louvre — Scènes des massacres de Scio",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl010065870",
+          "role": "Holding institution",
+          "supports": "Object identity, 1824 date, title and Salon framing of death or enslavement",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Indexed collection record read"
+        },
+        {
+          "title": "Louvre — Studies for The Massacre at Chios",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl020122506",
+          "role": "Research and interpretation",
+          "supports": "1824 painting and use of newspapers and Olivier Voutier’s published memoirs",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Full text or substantial indexed account read"
+        },
+        {
+          "title": "The Massacre at Chios — source overview",
+          "url": "https://en.wikipedia.org/wiki/The_Massacre_at_Chios",
+          "role": "Research and interpretation",
+          "supports": "Composition, historical event, critical reception and absence of a rescuing hero",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Full text or substantial indexed account read"
+        },
+        {
+          "title": "The Met / Louvre — Delacroix exhibition catalogue",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Delacroix.pdf",
+          "role": "Research and interpretation",
+          "supports": "Contemporary reception, civilian subject and context of Greek independence",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Relevant indexed catalogue passages read; not the entire book"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-009",
+      "revisionGuide": "VOICE_GUIDE v0.23; selected Marat A chronological clarity and Stanczyk A central insight; varied connected sentences.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-30",
+        "researchFile": "docs/editorial/batches/batch-009/research.md",
+        "basis": "Museum records, specialist interpretation, source criticism and close looking; see work-specific research notes."
+      },
+      "reviewAvailability": "active",
+      "material": "Oil on canvas",
+      "subjectTags": [
+        "Romanticism",
+        "War",
+        "Civilian life",
+        "Greek independence"
+      ],
+      "media": {
+        "imageUrl": "image-options/assets/painting/b009-chios-a.jpg",
+        "altText": "Wounded and exhausted Greek civilians gather in front of a distant landscape while a mounted Ottoman soldier controls captives.",
+        "credit": "Eugène Delacroix",
+        "license": "Public domain",
+        "rightsStatus": "public_domain",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Sc%C3%A8ne_des_massacres_de_Scio,_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3823_;_C3.jpg",
+        "note": "Initial preview only. Image selection and writing approval remain separate; no choice is preselected."
+      }
+    },
+    "selectedImage": {
+      "entryId": "massacre-at-chios",
+      "id": "B",
+      "imageUrl": "image-options/assets/painting/b009-chios-b.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg",
+      "sourceTitle": "Eugène Delacroix - Le Massacre de Scio.jpg",
+      "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg/1920px-Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 1920,
+      "height": 2245,
+      "credit": "Eugène Delacroix",
+      "sourceCredit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"zgothic/miniatur/1351-400/03i_1350\"",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sha256": "b8b50ba8d1d7514abed2919950f930f8f70e4f62660352cd56eb6834ffa1dbe7",
+      "sourceDimensions": [
+        1920,
+        2245
+      ],
+      "rightsStatus": "public_domain",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "label": "Web Gallery of Art · larger file",
+      "description": "Authentic source reproduction; original source color and composition retained.",
+      "altText": "Wounded and exhausted Greek civilians gather in front of a distant landscape while a mounted Ottoman soldier controls captives.",
+      "imageTreatment": "Unaltered source file. No generated painting or artificial color variation.",
+      "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-30",
+      "assetSha256": "b8b50ba8d1d7514abed2919950f930f8f70e4f62660352cd56eb6834ffa1dbe7"
+    },
+    "reviewEvidence": {
+      "imageOption": "B",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "massacre-at-chios",
+      "sourceBatchId": "batch-009",
+      "title": "The Massacre at Chios",
+      "revision": 2,
+      "feedbackRevisions": [],
+      "revisionHistory": [],
+      "body": "In 1822, during the Greek struggle for independence from the Ottoman Empire, Ottoman forces attacked the island of Chios. Thousands of inhabitants were killed or enslaved. News of the massacre spread through Europe, where supporters of Greek independence used it to argue that the war demanded a response.\n\nDelacroix painted the subject two years later, inspired by reports and accounts of the conflict, including the memoirs of a French officer who supported the Greeks. His foreground is occupied by wounded people, exhausted families and a child beside a dead woman. At the right, a mounted soldier towers over his captives. The landscape opens behind them, but it offers no visible place of safety.\n\nThere is no hero arriving to rescue the group. That absence disturbed critics accustomed to large historical paintings with a central figure whose actions explained the scene. Here, the people who command our attention cannot determine what happens next. The painting asks viewers to consider a war through those left at its victors’ disposal.",
+      "published": null,
+      "bodyHash": "af7a26dca816a76c",
+      "imageHash": "3e319ef7411c4a55",
+      "selectedImage": {
+        "entryId": "massacre-at-chios",
+        "id": "B",
+        "imageUrl": "image-options/assets/painting/b009-chios-b.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg",
+        "sourceTitle": "Eugène Delacroix - Le Massacre de Scio.jpg",
+        "remoteImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg/1920px-Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Eug%C3%A8ne_Delacroix_-_Le_Massacre_de_Scio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 1920,
+        "height": 2245,
+        "credit": "Eugène Delacroix",
+        "sourceCredit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"zgothic/miniatur/1351-400/03i_1350\"",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sha256": "b8b50ba8d1d7514abed2919950f930f8f70e4f62660352cd56eb6834ffa1dbe7",
+        "sourceDimensions": [
+          1920,
+          2245
+        ],
+        "rightsStatus": "public_domain",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "label": "Web Gallery of Art · larger file",
+        "description": "Authentic source reproduction; original source color and composition retained.",
+        "altText": "Wounded and exhausted Greek civilians gather in front of a distant landscape while a mounted Ottoman soldier controls captives.",
+        "imageTreatment": "Unaltered source file. No generated painting or artificial color variation.",
+        "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-30",
+        "assetSha256": "b8b50ba8d1d7514abed2919950f930f8f70e4f62660352cd56eb6834ffa1dbe7"
+      }
+    },
+    "bodyHash": "af7a26dca816a76c",
+    "imageHash": "3e319ef7411c4a55",
+    "appImage": "/assets/editorial/massacre-at-chios.jpg",
+    "appImageSha256": "b8b50ba8d1d7514abed2919950f930f8f70e4f62660352cd56eb6834ffa1dbe7"
+  },
+  {
+    "entry": {
+      "id": "the-slave-ship",
+      "title": "The Slave Ship",
+      "creator": "J. M. W. Turner",
+      "dateDisplay": "1840",
+      "dateStart": 1840,
+      "dateEnd": null,
+      "place": "Britain; subject: the Atlantic slave trade",
+      "medium": "painting",
+      "meaningBrief": "A luminous seascape exposes the killing of enslaved people for financial reasons; the historical mechanism matters as much as the spectacle of the sea.",
+      "body": "Turner’s red sky can initially make this look like a painting about a storm. Closer to the viewer, however, hands rise from the water and a chained leg appears among feeding fish. The ship in the distance is leaving people behind. The final clue lies in the painting's title: enslaved people have been thrown overboard.\n\nThe artwork recalls the massacre aboard the British slave ship *Zong* in 1781. Its crew threw captive Africans into the sea, as the owners sought compensation from their insurers. The resulting dispute treated the deaths as a question of lost property, and understanding that historical element is central to understanding Turner’s choices.\n\nHe exhibited the painting in 1840, when slavery continued in parts of the world despite British abolition. With that in mind, Turner brings the spectacle of a seascape into contact with a disturbing truth about human history, especially when you consider the difficulty of seeing the drowning hands as part of the painting’s disturbing effect, intentionally provoked by the artist.",
+      "sources": [
+        {
+          "title": "Museum of Fine Arts Boston — Slave Ship",
+          "url": "https://collections.mfa.org/objects/31102",
+          "role": "Research and interpretation",
+          "supports": "Title, collection, event and 1840 exhibition context",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Museum account also consulted through its reproduced label and Turner exhibition materials"
+        },
+        {
+          "title": "Tamar Avishai — The Lonely Palette, Episode 18: Turner",
+          "url": "https://www.thelonelypalette.com/new-page",
+          "role": "Research and interpretation",
+          "supports": "Published transcript: shifting attention between color, sea and identifiable victims; independent interpretive account",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Complete published transcript read; audio not played"
+        },
+        {
+          "title": "The Slave Ship — source overview",
+          "url": "https://en.wikipedia.org/wiki/The_Slave_Ship",
+          "role": "Research and interpretation",
+          "supports": "Zong, insurance dispute, title and abolition context",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Full text or substantial indexed account read"
+        }
+      ],
+      "revision": 1,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-009",
+      "revisionGuide": "VOICE_GUIDE v0.23; selected Marat A chronological clarity and Stanczyk A central insight; varied connected sentences.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-30",
+        "researchFile": "docs/editorial/batches/batch-009/research.md",
+        "basis": "Museum records, specialist interpretation, source criticism and close looking; see work-specific research notes."
+      },
+      "reviewAvailability": "active",
+      "material": "Oil on canvas",
+      "subjectTags": [
+        "Romanticism",
+        "Slavery",
+        "Atlantic history",
+        "Commerce"
+      ],
+      "media": {
+        "imageUrl": "image-options/assets/painting/b009-slave-ship-a.jpg",
+        "altText": "A sailing ship recedes beneath a red sky; chained limbs and hands emerge from rough water in the foreground.",
+        "credit": "J. M. W. Turner",
+        "license": "Public domain",
+        "rightsStatus": "public_domain",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Slave-ship.jpg",
+        "note": "Initial preview only. Image selection and writing approval remain separate; no choice is preselected."
+      }
+    },
+    "selectedImage": {
+      "entryId": "the-slave-ship",
+      "id": "A",
+      "imageUrl": "image-options/assets/painting/b009-slave-ship-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slave-ship.jpg",
+      "sourceTitle": "Slave-ship.jpg",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slave-ship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slave-ship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 2152,
+      "height": 1616,
+      "credit": "J. M. W. Turner",
+      "sourceCredit": "Museum of Fine Arts, Boston",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sha256": "1d5ff66e04f1d899c764234f7633f6a299475af058012feed0a28ab3b1247de4",
+      "sourceDimensions": [
+        2152,
+        1616
+      ],
+      "rightsStatus": "public_domain",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "label": "MFA Boston reproduction",
+      "description": "Authentic source reproduction; original source color and composition retained.",
+      "altText": "A sailing ship recedes beneath a red sky; chained limbs and hands emerge from rough water in the foreground.",
+      "imageTreatment": "Unaltered source file. No generated painting or artificial color variation.",
+      "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-30",
+      "assetSha256": "1d5ff66e04f1d899c764234f7633f6a299475af058012feed0a28ab3b1247de4"
+    },
+    "reviewEvidence": {
+      "imageOption": "A",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "the-slave-ship",
+      "sourceBatchId": "batch-009",
+      "title": "The Slave Ship",
+      "revision": 2,
+      "feedbackRevisions": [],
+      "revisionHistory": [],
+      "body": "Turner’s red sky can initially make this look like a painting about a storm. Closer to the viewer, however, hands rise from the water and a chained leg appears among feeding fish. The ship in the distance is leaving people behind. The final clue lies in the painting's title: enslaved people have been thrown overboard.\n\nThe artwork recalls the massacre aboard the British slave ship *Zong* in 1781. Its crew threw captive Africans into the sea, as the owners sought compensation from their insurers. The resulting dispute treated the deaths as a question of lost property, and understanding that historical element is central to understanding Turner’s choices.\n\nHe exhibited the painting in 1840, when slavery continued in parts of the world despite British abolition. With that in mind, Turner brings the spectacle of a seascape into contact with a disturbing truth about human history, especially when you consider the difficulty of seeing the drowning hands as part of the painting’s disturbing effect, intentionally provoked by the artist.",
+      "published": null,
+      "bodyHash": "0818579992d778ac",
+      "imageHash": "b50f01996acd6850",
+      "selectedImage": {
+        "entryId": "the-slave-ship",
+        "id": "A",
+        "imageUrl": "image-options/assets/painting/b009-slave-ship-a.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slave-ship.jpg",
+        "sourceTitle": "Slave-ship.jpg",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slave-ship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Slave-ship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "width": 2152,
+        "height": 1616,
+        "credit": "J. M. W. Turner",
+        "sourceCredit": "Museum of Fine Arts, Boston",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sha256": "1d5ff66e04f1d899c764234f7633f6a299475af058012feed0a28ab3b1247de4",
+        "sourceDimensions": [
+          2152,
+          1616
+        ],
+        "rightsStatus": "public_domain",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "label": "MFA Boston reproduction",
+        "description": "Authentic source reproduction; original source color and composition retained.",
+        "altText": "A sailing ship recedes beneath a red sky; chained limbs and hands emerge from rough water in the foreground.",
+        "imageTreatment": "Unaltered source file. No generated painting or artificial color variation.",
+        "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-30",
+        "assetSha256": "1d5ff66e04f1d899c764234f7633f6a299475af058012feed0a28ab3b1247de4"
+      }
+    },
+    "bodyHash": "0818579992d778ac",
+    "imageHash": "b50f01996acd6850",
+    "appImage": "/assets/editorial/the-slave-ship.jpg",
+    "appImageSha256": "1d5ff66e04f1d899c764234f7633f6a299475af058012feed0a28ab3b1247de4"
+  },
+  {
+    "entry": {
+      "id": "barge-haulers-on-the-volga",
+      "title": "Barge Haulers on the Volga",
+      "creator": "Ilya Repin",
+      "dateDisplay": "1870–1873",
+      "dateStart": 1870,
+      "dateEnd": 1873,
+      "place": "Volga region, Russia",
+      "medium": "painting",
+      "meaningBrief": "Workers are shown as distinct individuals doing exhausting labor; modern river commerce depended on people whose bodies supplied its pulling power.",
+      "body": "Before engines took over the work, teams of men could pull a barge along a river from the bank, leaning into harnesses attached to a towrope. Repin first noticed such workers near Saint Petersburg, where their labor contrasted with the comfortable people strolling nearby. He later traveled to the Volga to meet and draw the men who became the subjects of this painting.\n\nThe eleven haulers move forward as a group, but Repin gives each a different bearing. Some lean heavily into the straps; others turn their heads or struggle to keep pace. Near the middle, a younger man straightens up and adjusts his harness.",
+      "sources": [
+        {
+          "title": "State Russian Museum — Barge Haulers on the Volga",
+          "url": "https://virtual.rusmuseumvrm.ru/mikh_palace/collection/russkoe_iskusstvo_vtoroy_polovini_xix_veka/burlaki_na_volge/index.php?lang=en",
+          "role": "Research and interpretation",
+          "supports": "Date, origin of the subject, Volga visits and individual portraits",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Full text or substantial indexed account read"
+        },
+        {
+          "title": "Barge Haulers on the Volga — source overview",
+          "url": "https://en.wikipedia.org/wiki/Barge_Haulers_on_the_Volga",
+          "role": "Research and interpretation",
+          "supports": "Individual figures, work, distant steamship and reception",
+          "accessedOn": "2026-09-30",
+          "accessNote": "Full text or substantial indexed account read"
+        }
+      ],
+      "revision": 2,
+      "editorialStatus": "pending_review",
+      "approvedBy": null,
+      "approvedAt": null,
+      "editorialDecisionId": null,
+      "sourceBatchId": "batch-009",
+      "revisionGuide": "VOICE_GUIDE v0.23; selected Marat A chronological clarity and Stanczyk A central insight; varied connected sentences.",
+      "quotationNotes": [],
+      "provenance": {
+        "draftedOn": "2026-09-30",
+        "researchFile": "docs/editorial/batches/batch-009/research.md",
+        "basis": "Museum records, specialist interpretation, source criticism and close looking; see work-specific research notes."
+      },
+      "reviewAvailability": "active",
+      "material": "Oil on canvas",
+      "subjectTags": [
+        "Realism",
+        "Labor",
+        "Russia",
+        "Industrialization"
+      ],
+      "media": {
+        "imageUrl": "image-options/assets/painting/b009-barge-haulers-a.jpg",
+        "altText": "Eleven men in harnesses haul a boat along the sandy bank of a broad river.",
+        "credit": "Ilya Repin",
+        "license": "Public domain",
+        "rightsStatus": "public_domain",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Ilya_Repin_-_Barge_Haulers_on_the_Volga_-_Google_Art_Project.jpg",
+        "note": "Initial preview only. Image selection and writing approval remain separate; no choice is preselected."
+      }
+    },
+    "selectedImage": {
+      "entryId": "barge-haulers-on-the-volga",
+      "id": "C",
+      "imageUrl": "image-options/assets/painting/b009-barge-haulers-c.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burlaks_(Repin)_01_by_shakko.jpg",
+      "sourceTitle": "Burlaks (Repin) 01 by shakko.jpg",
+      "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Burlaks_%28Repin%29_01_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalImageUrl": "image-options/assets/painting/b009-barge-haulers-c.jpg",
+      "width": 4091,
+      "height": 3009,
+      "credit": "Shakko",
+      "sourceCredit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "8d82181d5059702f35dd821d315d54b3441f8259ba94a2710cea7b91c2f05706",
+      "sourceDimensions": [
+        4091,
+        3009
+      ],
+      "rightsStatus": "licensed_with_attribution",
+      "downloadStatus": "downloaded",
+      "imageFormat": "JPEG",
+      "label": "Gallery photograph · canvas view",
+      "description": "Authentic source reproduction; original source color and composition retained.",
+      "altText": "Eleven men in harnesses haul a boat along the sandy bank of a broad river.",
+      "imageTreatment": "Presentation-only rectangular crop isolates the complete painting from its surrounding gallery wall/frame. The downloaded original is unchanged and remains available.",
+      "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+      "visualReviewStatus": "reviewed_image_identity_and_composition",
+      "reviewedOn": "2026-09-30",
+      "thumbnailWindow": {
+        "x": 0.479,
+        "y": 0.372,
+        "w": 0.3405,
+        "h": 0.218
+      },
+      "assetSha256": "8d82181d5059702f35dd821d315d54b3441f8259ba94a2710cea7b91c2f05706"
+    },
+    "reviewEvidence": {
+      "imageOption": "C",
+      "writingStatus": "approved",
+      "notes": "",
+      "comments": [],
+      "entryId": "barge-haulers-on-the-volga",
+      "sourceBatchId": "batch-009",
+      "title": "Barge Haulers on the Volga",
+      "revision": 2,
+      "feedbackRevisions": [],
+      "revisionHistory": [],
+      "body": "Before engines took over the work, teams of men could pull a barge along a river from the bank, leaning into harnesses attached to a towrope. Repin first noticed such workers near Saint Petersburg, where their labor contrasted with the comfortable people strolling nearby. He later traveled to the Volga to meet and draw the men who became the subjects of this painting.\n\nThe eleven haulers move forward as a group, but Repin gives each a different bearing. Some lean heavily into the straps; others turn their heads or struggle to keep pace. Near the middle, a younger man straightens up and adjusts his harness.",
+      "published": null,
+      "bodyHash": "9bcccf13862d47b9",
+      "imageHash": "49a199ef45e21366",
+      "selectedImage": {
+        "entryId": "barge-haulers-on-the-volga",
+        "id": "C",
+        "imageUrl": "image-options/assets/painting/b009-barge-haulers-c.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burlaks_(Repin)_01_by_shakko.jpg",
+        "sourceTitle": "Burlaks (Repin) 01 by shakko.jpg",
+        "remoteImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Burlaks_%28Repin%29_01_by_shakko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "originalImageUrl": "image-options/assets/painting/b009-barge-haulers-c.jpg",
+        "width": 4091,
+        "height": 3009,
+        "credit": "Shakko",
+        "sourceCredit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sha256": "8d82181d5059702f35dd821d315d54b3441f8259ba94a2710cea7b91c2f05706",
+        "sourceDimensions": [
+          4091,
+          3009
+        ],
+        "rightsStatus": "licensed_with_attribution",
+        "downloadStatus": "downloaded",
+        "imageFormat": "JPEG",
+        "label": "Gallery photograph · canvas view",
+        "description": "Authentic source reproduction; original source color and composition retained.",
+        "altText": "Eleven men in harnesses haul a boat along the sandy bank of a broad river.",
+        "imageTreatment": "Presentation-only rectangular crop isolates the complete painting from its surrounding gallery wall/frame. The downloaded original is unchanged and remains available.",
+        "fidelityNotes": "Different reproductions may have different color, lighting and resolution. Choices do not imply that one color rendition is definitive.",
+        "visualReviewStatus": "reviewed_image_identity_and_composition",
+        "reviewedOn": "2026-09-30",
+        "thumbnailWindow": {
+          "x": 0.479,
+          "y": 0.372,
+          "w": 0.3405,
+          "h": 0.218
+        },
+        "assetSha256": "8d82181d5059702f35dd821d315d54b3441f8259ba94a2710cea7b91c2f05706"
+      }
+    },
+    "bodyHash": "9bcccf13862d47b9",
+    "imageHash": "49a199ef45e21366",
+    "appImage": "/assets/editorial/barge-haulers-on-the-volga.svg",
+    "appImageSha256": "22e0e7d42eb8703bf77a283608045cedae9cfe557219dce592b04c3aed5b6e1f"
+  }
+]

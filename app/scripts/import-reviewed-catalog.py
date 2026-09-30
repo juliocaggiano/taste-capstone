@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import importlib.util
 import json
+from html import escape
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -20,16 +21,69 @@ def dump(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n')
 
+def validate_choice(choice, entry, review):
+    key = entry['id']
+    assert entry['medium'] in initial.FORMS and not review['onHold'], f'Held work: {key}'
+    assert choice['writingStatus'] == 'approved', f'Writing not approved: {key}'
+    assert not any(not c.get('resolved') for c in choice['comments']), f'Open comments: {key}'
+    identity = {k: entry[k] for k in ['title', 'creator', 'dateDisplay', 'medium']}
+    assert initial.ex.fingerprint({'identity': identity, 'body': entry['body']}) == review['bodyHash'], f'Stale source: {key}'
+    assert initial.ex.fingerprint({'identity': identity, 'options': review['options'],
+        'presentation': initial.ex.presentation(REVIEW, entry['medium'])}) == review['imageHash'], f'Stale image manifest: {key}'
+    if 'entryId' in choice:
+        # The review's own export contains the exact draft and its version hashes.
+        assert choice['body'] == entry['body'] and choice['bodyHash'] == review['bodyHash'], f'Stale writing approval: {key}'
+        assert choice['imageHash'] == review['imageHash'], f'Stale image approval: {key}'
+    else:
+        assert initial.visible(initial.prose(entry['body'])) == initial.visible(choice['storyHtml']), f'Stale visible text: {key}'
+    option = next(o for o in review['options'] if o['id'] == choice['imageOption'])
+    assert option.get('approvalEligible') is not False, f'Image ineligible: {key}'
+    if 'selectedImage' in choice:
+        assert choice['selectedImage'] == option, f'Selected image changed: {key}'
+    return option
+
+def render_asset(entry, option):
+    """Preserve the reviewed presentation while retaining the original source bytes."""
+    key = entry['id']
+    source = initial.ex.local_source(REVIEW, option['imageUrl'])
+    original = source.read_bytes()
+    assert initial.ex.sha(original) == option['assetSha256'], f'Image bytes changed: {key}'
+    raw, suffix, width, height = original, source.suffix.lower(), option['width'], option['height']
+    if entry['medium'] == 'music':
+        raw, suffix, width, height = initial.ex.render_vinyl(REVIEW, option, key), '.svg', 1200, 1500
+    elif entry['medium'] == 'literature':
+        raw = initial.ex.render_book(REVIEW, option, key, initial.ex.book_presentation(REVIEW))
+        suffix, width, height = '.svg', 900, 1200
+    elif option.get('thumbnailWindow'):
+        x, y, w, h = [option['thumbnailWindow'][k] for k in ['x', 'y', 'w', 'h']]
+        assert 0 <= x < 1 and 0 <= y < 1 and 0 < w <= 1-x and 0 < h <= 1-y
+        vw, vh = width * w, height * h
+        # A viewBox clips the unchanged photograph to the exact review crop.
+        raw = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{vw}" height="{vh}" '
+            f'viewBox="{width*x} {height*y} {vw} {vh}" role="img">'
+            f'<title>{escape(option["altText"])}</title><image width="{width}" height="{height}" '
+            f'href="{initial.ex.data_uri(source)}"/></svg>\n').encode()
+        suffix, width, height = '.svg', vw, vh
+    assets = {f'{key}{suffix}': raw}
+    if raw != original:
+        assets[f'{key}-source{source.suffix.lower()}'] = original
+    return assets, f'{key}{suffix}', width, height
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--capture', required=True, type=Path)
     parser.add_argument('--output', required=True, type=Path)
     parser.add_argument('--entry', required=True, action='append')
+    parser.add_argument('--display-metadata', type=Path, help='Additional verified creator/place/context mappings.')
+    parser.add_argument('--authorization', required=True, help='The actual user instruction authorizing this import.')
+    parser.add_argument('--dry-run', action='store_true')
     args = parser.parse_args()
     assert len(args.entry) == len(set(args.entry))
     assert not (args.output / 'manifest.json').exists(), 'Preserve earlier import evidence; use a new output folder.'
     capture = load(args.capture)
-    decisions = {e['id']: e for e in capture['entries']}
+    assert not capture.get('testMode'), 'Test reviews cannot authorize publication.'
+    decisions = {e.get('entryId', e.get('id')): e for e in capture['entries']}
+    assert len(decisions) == len(capture['entries']), 'Duplicate review IDs'
     manifest = {e['id']: e for e in load(REVIEW / 'review-manifest.json')['entries']}
     config = load(REVIEW / 'review-config.json')
     source_files = [REVIEW / 'batch-001.json'] + [REVIEW / b['archive'] for b in config['additionalBatches']]
@@ -50,35 +104,32 @@ def main():
         'the-angelus': ('jean-francois-millet', 'France', 'Rural life'),
         'man-controller-of-the-universe': ('diego-rivera', 'Mexico', 'Mexican muralism'),
         'retirantes': ('candido-portinari', 'Brazil', 'Migration and drought')}
+    if args.display_metadata:
+        display.update(load(args.display_metadata))
     updates = []
     # Validate every body, approval and asset before writing any app files.
     for key in args.entry:
         choice, entry, review = decisions[key], sources[key], manifest[key]
-        assert entry['medium'] in ['painting', 'architecture'] and not review['onHold']
-        assert choice['writingStatus'] == 'approved' and not any(not c.get('resolved') for c in choice['comments'])
-        assert initial.visible(initial.prose(entry['body'])) == initial.visible(choice['storyHtml'])
-        identity = {k: entry[k] for k in ['title', 'creator', 'dateDisplay', 'medium']}
-        assert initial.ex.fingerprint({'identity': identity, 'body': entry['body']}) == review['bodyHash']
-        option = next(o for o in review['options'] if o['id'] == choice['imageOption'])
-        assert option.get('approvalEligible') is not False
-        source = initial.ex.local_source(REVIEW, option['imageUrl'])
-        raw = source.read_bytes()
-        assert hashlib.sha256(raw).hexdigest() == option['assetSha256']
-        asset = f'{key}{source.suffix.lower()}'
+        option = validate_choice(choice, entry, review)
+        assets, asset, width, height = render_asset(entry, option)
         creator, country, context = display[key]
         record = {**catalog.get(key, {}), 'id': key, 'title': entry['title'], 'creator': entry['creator'],
             'creatorId': creator, 'creatorDates': catalog.get(key, {}).get('creatorDates', ''),
             'year': entry['dateDisplay'], 'dateStart': entry['dateStart'], 'dateEnd': entry['dateEnd'] or entry['dateStart'],
             'place': country, 'form': initial.FORMS[entry['medium']], 'medium': catalog.get(key, {}).get('medium', ''),
-            'image': f'/assets/editorial/{asset}', 'imageWidth': option['width'], 'imageHeight': option['height'],
+            'image': f'/assets/editorial/{asset}', 'imageWidth': width, 'imageHeight': height,
             'imageAlt': option['altText'], 'kicker': '', 'context': context, 'body': entry['body'],
             'story': entry['body'].split('\n\n'), 'favoriteCount': catalog.get(key, {}).get('favoriteCount', 0),
             'source': '; '.join(s['url'] for s in entry['sources']), 'language': 'en',
             'selectedOption': choice['imageOption'], 'bodyHash': review['bodyHash'], 'imageHash': review['imageHash'],
-            'assetSha256': option['assetSha256'], 'sourceAssetSha256': option['assetSha256']}
-        updates.append((key, record, entry, option, choice, raw, asset))
-    for key, record, entry, option, choice, raw, asset in updates:
-        (PUBLIC / asset).write_bytes(raw)
+            'assetSha256': initial.ex.sha(assets[asset]), 'sourceAssetSha256': option['assetSha256']}
+        updates.append((key, record, entry, option, choice, assets))
+    if args.dry_run:
+        print(json.dumps({'validated': args.entry, 'assetCount': sum(len(u[-1]) for u in updates)}))
+        return
+    for key, record, entry, option, choice, assets in updates:
+        for asset, raw in assets.items():
+            (PUBLIC / asset).write_bytes(raw)
         catalog[key] = record
         credits[key] = {'id': key, 'creator': entry['creator'], 'image': record['image'],
             **{k: option.get(k) for k in ['credit', 'sourceUrl', 'license', 'licenseUrl', 'rightsStatus', 'imageTreatment', 'sourceNotes']}}
@@ -87,13 +138,13 @@ def main():
     dump(args.output / 'catalog-before.json', previous)
     dump(args.output / 'entries.json', [{'entry': e, 'selectedImage': o, 'reviewEvidence': c,
         'bodyHash': r['bodyHash'], 'imageHash': r['imageHash'], 'appImage': r['image'],
-        'appImageSha256': r['assetSha256']} for _, r, e, o, c, _, _ in updates])
-    dump(args.output / 'manifest.json', {'importId': args.output.name, 'capturedAt': capture['capturedAt'],
-        'reviewUrl': capture['url'], 'entryIds': args.entry,
+        'appImageSha256': r['assetSha256']} for _, r, e, o, c, _ in updates])
+    dump(args.output / 'manifest.json', {'importId': args.output.name, 'capturedAt': capture.get('exportedAt', capture.get('capturedAt')),
+        'reviewUrl': capture.get('url', 'http://127.0.0.1:4184/REVIEW.html'), 'entryIds': args.entry,
         'addedIds': [k for k in args.entry if k not in {e['id'] for e in previous}],
         'updatedIds': [k for k in args.entry if k in {e['id'] for e in previous}],
         'catalogCount': len(result), 'publicationStatus': 'awaiting_deployment',
-        'authorization': 'Julio reviewed new works, left notes and explicitly authorized publication of newly approved works on 2026-09-28. Exact approvals and image choices were captured from the current review UI.'})
+        'authorization': args.authorization})
     dump(catalog_path, result)
     dump(PUBLIC / 'credits.json', list(credits.values()))
     adapter = ROOT / 'app/src/approved-catalog.ts'

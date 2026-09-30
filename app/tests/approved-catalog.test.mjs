@@ -6,17 +6,30 @@ import { stripTypeScriptTypes } from 'node:module';
 
 const read = path => JSON.parse(fs.readFileSync(new URL(path, import.meta.url), 'utf8'));
 const catalog = read('../src/approved-catalog.json');
-const imported = read('../../docs/editorial/imports/prototype-2026-09-25/entries.json');
-const capture = read('../../qa/approved-catalog-import-2026-09-25/current-review.json');
+// Later authorized imports supersede earlier versions of the same work.
+// The frozen first release remains evidence, not the current catalog fixture.
+const importRoot = new URL('../../docs/editorial/imports/', import.meta.url);
+const releases = fs.readdirSync(importRoot, { withFileTypes: true })
+  .filter(entry => entry.isDirectory() && fs.existsSync(new URL(`${entry.name}/manifest.json`, importRoot)))
+  .map(entry => ({ name: entry.name, ...JSON.parse(fs.readFileSync(new URL(`${entry.name}/manifest.json`, importRoot), 'utf8')) }))
+  .sort((a, b) => a.capturedAt.localeCompare(b.capturedAt));
+const latest = new Map();
+for (const release of releases) {
+  const rows = JSON.parse(fs.readFileSync(new URL(`${release.name}/entries.json`, importRoot), 'utf8'));
+  assert.deepEqual(rows.map(row => row.entry.id).sort(), [...release.entryIds].sort());
+  for (const row of rows) latest.set(row.entry.id, row);
+}
+const imported = [...latest.values()];
 const hash = bytes => createHash('sha256').update(bytes).digest('hex');
 
 test('catalog contains precisely the current approved subset, with no pending or held works', () => {
-  const ready = capture.entries.filter(e => e.status === 'Approved · writing and image reviewed');
-  assert.deepEqual(catalog.map(e => e.id).sort(), ready.map(e => e.id).sort());
+  assert.deepEqual(catalog.map(e => e.id).sort(), imported.map(e => e.entry.id).sort());
   assert.equal(new Set(catalog.map(e => e.id)).size, catalog.length);
   for (const row of imported) {
     assert.equal(row.reviewEvidence.writingStatus, 'approved');
     assert.ok(!row.reviewEvidence.commentsText || row.reviewEvidence.commentsText.includes('Passage comments · 0 open'));
+    assert.ok(!(row.reviewEvidence.comments ?? []).some(comment => !comment.resolved));
+    assert.notEqual(row.selectedImage.approvalEligible, false);
   }
 });
 
